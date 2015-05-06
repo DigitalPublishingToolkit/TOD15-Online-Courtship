@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Caiyun Wen
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -101,13 +101,13 @@ Jiayuan.com, the first advertiser on CCTV among dating sites, steered to
 new media in 2011. In contrast Zhenai.com and Baihe.com frequently
 advertise on CCTV.
 
-**Jiayuan.com: the Multi-dimensional Strategy **
+##Jiayuan.com: the Multi-dimensional Strategy
 
 In the construction of the advertising model, Jiayuan.com adopted a
 multi-dimensional strategy. These include, but are not limited to,
 Internet marketing, topics marketing, and entertainment marketing.
 
-***The Internet Media Marketing - Micro Film for the Single Youth***
+###The Internet Media Marketing - Micro Film for the Single Youth*
 
 In China, many young urban professionals are from the rural areas or
 small cities. Because of their limited circle of communication and tight
@@ -182,7 +182,7 @@ to relatives and friends. This activity combined the Internet and the
 traditional media, from online to offline, and received about 4.58
 million hits. These activities added about 45,681 new users to Jiayuan.
 
-***Topics Marketing - Hot Topics from TV Dramas***
+###Topics Marketing - Hot Topics from TV Dramas
 
 Hot topics are of human interest. If these hot topics are capitalized on
 in marketing, a very good marketing effect will be achieved.
@@ -203,7 +203,7 @@ significance of marriage in modern China where people feel baffled at
 the great social change. Jiayuan.com achieved good advertising effects
 by making use of hot issues.
 
-***Entertainment Marketing - Joining Dating Reality Shows***
+###Entertainment Marketing - Joining Dating Reality Shows
 
 The fast-paced lifestyle and pressure force people to turn to
 entertainment for relaxation. Entertainment marketing emerges as the
@@ -258,7 +258,7 @@ the previous quarter.[^9_Wen-Final_22]
 Compared with Jiayuan’s diversified marketing strategies, several other
 dating sites were unwilling to lag behind.
 
-**Baihe.com: the Model of Chinese Culture**
+##Baihe.com: the Model of Chinese Culture
 
 Baihe.com stands out with its unique name and advertising model. "Baihe"
 is the homonym of a flower, lily, symbolizing nobility and purity in
@@ -362,7 +362,7 @@ appealing nor meaningful. It kicks up a cloud of dust. Obviously, it
 ruined the consistency and the cultural connotation of Baihe.com. In a
 word, it is a meaningless advertisement.
 
-**Zhenai.com: From Romance to Consumerism**
+##Zhenai.com: From Romance to Consumerism
 
 Founded in 1998, Zhenai.com is another leader offering online dating
 services, which was named "*Best Chinese Dating Website 2010*" by China
@@ -425,7 +425,7 @@ consumerism is prevalent in China, the lack of cultural connotation and
 a standard of value accepted by Chinese consumers does not bring good
 reputation to the site. Zhenai’s transformation is not successful.
 
-**Problems and Suggestions**
+##Problems and Suggestions
 
 Although the above leading dating sites of China used different
 advertising models to build their brand image and increase the number of
@@ -507,7 +507,7 @@ through the fee, profitability of website will also be greatly improved.
 Website banner ads also will increase profits. This would be a virtuous
 cycle.
 
-**References**
+##References
 
 Chen, Xiaobo. ‘The Micro Film: A Visual Culture Transmutation of Concept
 First’, Contemporary Cinema, 10(2013): p.199.
