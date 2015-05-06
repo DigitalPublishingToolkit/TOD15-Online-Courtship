@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**“Dating” or “Escaping”? Cuban Profiles in Dating Websites**
+# “Dating” or “Escaping”? Cuban Profiles in Dating Websites
 
-Lázaro M. Bacallao Pino
+### Lázaro M. Bacallao Pino
 
-**Introduction**
+## Introduction
 
 Cuba has one of the lowest Internet access rates in Latin America.
 Despite the uncertainty in the available statistics of Internet
@@ -85,7 +85,7 @@ configuration of the profiles, to what extend that mediation plays a
 central role in the dynamics of online courtship, or its presence in the
 narratives and representations mobilized on the profiles.
 
-**Methods and Techniques of Research**
+## Methods and Techniques of Research
 
 The analysis of online dating websites sets a number of methodological
 challenges. The complexity of the issue recommends a qualitative
@@ -116,8 +116,7 @@ inclusion will allow us to have a case to compare Cuban profiles in
 dating websites with listings of contact with a more explicit sexual
 purpose, which is relevant for the analysis of the first.
 
-**Mediation of “the Cuban condition” in Profiles from Cuba in Dating
-Websites**
+## Mediation of “the Cuban condition” in Profiles from Cuba in Dating Websites
 
 Relationships between real and virtual worlds -or, better, between the
 social, cultural, economic and political context of individuals and
@@ -352,7 +351,7 @@ to advertise it-, it shows, in an extreme way, the uniqueness of the
 appropriation that Cubans do of this kind of websites and its clearly
 external orientation, as part of an inside/outside divide.
 
-**Self-representation of Cuban Profiles in Dating Websites**
+## Self-representation of Cuban Profiles in Dating Websites
 
 Self-representation is a critical issue for profiles in online dating,
 as previous studies have demonstrated.[^6_Pino_Dating_or_Escaping_32] That authors have noted, for
@@ -577,7 +576,7 @@ by those websites to some more multimedia communication, such as chat or
 Skype, before definitely passing to a face-to-face scenario-, and for
 insisting in the seriousness of the individual's purposes.
 
-**Conclusions**
+## Conclusions
 
 Self-presentation in Cuban profiles on dating websites are mediated by
 the Cuban condition, particularly its technological and socio-economical
@@ -635,7 +634,7 @@ seen, the technological dimension -articulated with the economic issue-
 becomes the core mediation in the presentation of the self by Cubans in
 dating websites, both on its content and its dynamics.
 
-**References**
+## References
 
 Aguirre, Benigno E. 'Social Control in Cuba', Latin American Politics
 and Society 44(2) (Summer, 2002): 67-98.
