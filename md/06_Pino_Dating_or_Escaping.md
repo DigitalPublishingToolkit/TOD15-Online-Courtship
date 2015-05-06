@@ -730,28 +730,28 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
 [^6_Pino_Dating_or_Escaping_1]: Michel D. Suárez Sian, ‘Cuba: Internet, acceso y sociedad del
     conocimiento’, Razón y Palabra 81 (December 2013, January 2013),
 
-    [http://www.razonypalabra.org.mx/N/N81/M81/07\_Suarez\_M81.pdf](numbering.xml)
+    <http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf>
 
 [^6_Pino_Dating_or_Escaping_2]: The World Bank, Internet users (per 100 people),
-    [http://data.worldbank.org/indicator/IT.NET.USER.P2.](styles.xml)
+    <http://data.worldbank.org/indicator/IT.NET.USER.P2.>.
 
 [^6_Pino_Dating_or_Escaping_3]: International Telecommunication Union, ‘Fixed Internet
     subscriptions’, Geneva 2011,
-    [http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions\_00-10.xls](stylesWithEffects.xml)
+     <http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls>.
 
 [^6_Pino_Dating_or_Escaping_4]: United Nations, Indicators of the Millennium Development Goals,
-    2013, [http://unstats.un.org/unsd/mdg/Data.aspx](settings.xml)
+    2013, <http://unstats.un.org/unsd/mdg/Data.aspx>
 
 [^6_Pino_Dating_or_Escaping_5]: Pedro Oliva, ‘International Internet Connectivity (IIC) -
     Individual Country and Organization Experiences’, Geneva, January
     23-24, 2012,
-    [http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4\_P3\_Oliva-sp.pdf](webSettings.xml)
+    <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>
 
 [^6_Pino_Dating_or_Escaping_6]: Maye Primera, ‘Internet cubano a precios del “imperio”’, *El
     País,* June 5, 2013,
-    [http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720\_289648.html](footnotes.xml)
+    <http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html>
 
-[^6_Pino_Dating_or_Escaping_7]: There was a really low response rate (20%). Only two users reply
+[^6_Pino_Dating_or_Escaping_7]: There was a really low response rate (20%). Only two users replied
     to messages from the author.
 
 [^6_Pino_Dating_or_Escaping_8]: Robert B. Burns, Introduction to Research Methods, London: Sage,
@@ -764,7 +764,7 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
 [^6_Pino_Dating_or_Escaping_10]: Norman K. Denzin and Yvonna S. Lincoln, Handbook of Qualitative
     Research, Thousand Oaks, CA: Sage, 1994.
 
-[^6_Pino_Dating_or_Escaping_11]: Jennifer Mason, Qualitative Researching, London: Sage, 1996.
+[^6_Pino_Dating_or_Escaping_11]: Jennifer Mason, *Qualitative Researching*, London: Sage, 1996.
 
 [^6_Pino_Dating_or_Escaping_12]: In Cuba, the word *revolico* means “confusion”, “hubbub” or
     “disorder”. It is often used to refer to a group of things that are
@@ -796,7 +796,7 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
 [^6_Pino_Dating_or_Escaping_19]: Raúl Castro Ruz, 'Speech at the Sixth Ordinary Session of the
     Seventh Legislature of the National Assembly of People's Power',
     December 18^th^, 2010,
-    [http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm](endnotes.xml).
+    <http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm>.
 
 [^6_Pino_Dating_or_Escaping_20]: Benigno E. Aguirre, 'Social Control in Cuba', Latin American
     Politics and Society 44(2) (Summer, 2002): 67-98.
@@ -805,15 +805,15 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     accounts (only to those at the domain nauta.cu) from their mobile
     phones. There is no access to the Internet from mobile phones. See
     *El País,*
-    [http://economia.elpais.com/economia/2014/03/08/agencias/1394298476\_945195.html](http://www.worldbank.org/).
+    <http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html>.
 
 [^6_Pino_Dating_or_Escaping_22]: Joshua Fogela and Elham Nehmad, 'Internet social network
     communities: Risk taking, trust, and privacy concerns', Computers in
     Human Behavior 25 (January, 2009): 153-160,
-    [http://dx.doi.org/10.1016/j.chb.2008.08.006.](http://www.itu.int/es/Pages/default.aspx)
+    10.1016/j.chb.2008.08.006
 
 [^6_Pino_Dating_or_Escaping_23]: Interview by email with Cuban woman with a profile in
-    [Connectingsingles.com](http://www.un.org/en/). Translation by the
+    <http://www.connectingsingles.com>. Translation by the
     author.
 
 [^6_Pino_Dating_or_Escaping_24]: Jeffrey T. Hancock and Catalina L. Toma, 'Putting Your Best Face
@@ -825,10 +825,10 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     Communication Association, Chicago, IL, 2004.
 
 [^6_Pino_Dating_or_Escaping_26]: Cuban woman profile from
-    [Connectingsingles.com](http://www.elpais.com/).
+    <http://www.connectingsingles.com>.
 
 [^6_Pino_Dating_or_Escaping_27]: Cuban woman profile from
-    [Connectingsingles.com](http://www.connectingsingles.com/).
+    <http://www.connectingsingles.com>.
 
 [^6_Pino_Dating_or_Escaping_28]: Virgilio Piñera, 'La Isla en peso', in Antón Arrufat (comp.)
     Virgilio Piñera. Poesía y crítica, México, Cien del Mundo, Consejo
@@ -841,7 +841,7 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     migratorio cubano'.
 
 [^6_Pino_Dating_or_Escaping_31]: Interview by email with Cuban woman with a profile in
-    [Connectingsingles.com](http://www.datehookup.com/). Translation by
+    <http://www.connectingsingles.com>. Translation by
     the author.
 
 [^6_Pino_Dating_or_Escaping_32]: Jennifer L. Gibbs, Nicole B. Ellison and Rebecca D. Heino,
@@ -868,51 +868,51 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
 [^6_Pino_Dating_or_Escaping_37]: There is no specific contact section on this website.
 
 [^6_Pino_Dating_or_Escaping_38]: Cuban man profile from
-    [Connectingsingles.com](http://www.revolico.com/).
+    <http://www.connectingsingles.com>.
 
 [^6_Pino_Dating_or_Escaping_39]: Cuban man profile from
-    [Connectingsingles.com](http://www.connectingsingles.com/).
+    <http://www.connectingsingles.com>.
 
 [^6_Pino_Dating_or_Escaping_40]: Cuban man profile from
     [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_41]: Cuban woman profile from
-    [Connectingsingles.com](http://www.revolico.com/).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_42]: Cuban man profile from
-    [Connectingsingles.com](http://www.revolico.com/).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_43]: Cuban woman profile from
-    [Connectingsingles.com](http://www.revolico.com/).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_44]: Cuban man profile from
     [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_45]: Cuban woman profile from
-    [Connectingsingles.com](http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_46]: Cuban man profile from
-    [Connectingsingles.com](http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls).
+    [Connectingsingles.com](http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm.
 
 [^6_Pino_Dating_or_Escaping_47]: Cuban man profile from
-    [Connectingsingles.com](http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_48]: Cuban man profile from
-    [Connectingsingles.com](http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_49]: Cuban woman profile from
-    [Connectingsingles.com](http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_50]: Cuban woman profile from
-    [Connectingsingles.com](http://data.worldbank.org/indicator/IT.NET.USER.P2).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_51]: Cuban woman profile from
-    [Connectingsingles.com](http://unstats.un.org/unsd/mdg/Data.aspx).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
-[^6_Pino_Dating_or_Escaping_52]: Cuban woman profile from [Connectingsingles.com](fontTable.xml).
+[^6_Pino_Dating_or_Escaping_52]: Cuban woman profile from [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_53]: Cuban woman profile from
-    [Connectingsingles.com](theme/theme1.xml).
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_54]: Cuban woman profile from
     [Connectingsingles.com](http://www.connectingsingles.com/).
