@@ -17,12 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**The Advertising and Profit Model of Leading Dating Sites in China: A
-Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising**
+#The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising
 
-**Caiyun Wen**
+###Caiyun Wen
 
-**The Prosperity and Bottlenecks of the Online Dating Market in China**
+##The Prosperity and Bottlenecks of the Online Dating Market in China
 
 In China, matchmaking is an ancient occupation, which plays a key role
 to the marriage mode in the traditional society. With the development of
@@ -655,9 +654,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_30]: These three ad names are translated by the author.
 
-[^9_Wen-Final_31]: Lisa Rofel, ‘Desiring China: Experiments in Neoliberalism,
-    Sexuality, and Public Culture’,
-    https://www.dukeupress.edu/Desiring-China.
+[^9_Wen-Final_31]: Lisa Rofel, *Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture*, Duke Univeristy Press, 2007.
 
 [^9_Wen-Final_32]: Ruoxi Lin. ‘The Dating Sites, Confused of the Fiancee’, China
     Internet Weekly, 5 April 2012, 30.
