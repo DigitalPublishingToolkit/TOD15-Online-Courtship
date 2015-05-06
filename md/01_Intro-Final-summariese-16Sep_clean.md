@@ -65,8 +65,7 @@ million Americans visited online dating sites in 2003, generating \$214
 million in revenues, making online dating the most important
 subscription-based business on the Internet.”[^11].
 
-Defining Online Courtship/Dating:
----------------------------------
+## Defining Online Courtship/Dating:
 
 *Courtship* typically refers to the stage where two people interact with
 one another in an effort to get to know each other romantically; this
@@ -356,8 +355,7 @@ social network analysis (SNA) approaches to the discussion of online
 courtship will enhance existing knowledge and broaden our understanding
 of the subject in further studies.
 
-References:
------------
+## References:
 
 Barraket, Jo, and Millsom S. Henry-Waring. ‘Getting it on (line)
 Sociological perspectives on e-dating.’ *Journal of Sociology* 44.2
@@ -453,7 +451,7 @@ Psychology Bulletin* 34.8 (2008): 1023-1036.
 S. Woolgar, (Ed.). Virtual Society?: Technology, Cyberhole, Reality.
 Oxford University Press. 2002.
 
-[*http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\_b\_2561380.html*](http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html).
+<http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html>.
 
 <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
 
@@ -568,4 +566,4 @@ Oxford University Press. 2002.
     interactional context on self-presentation through avatars.’
     Computers in Human Behavior, 25(2), (2009): 510-520.
 
-[^29]: <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
+[^29]: S. Yoder, How Online Dating Became a $2 Billion Industry, Fiscal Times, 2014. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
