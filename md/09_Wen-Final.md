@@ -517,7 +517,7 @@ in Love and Marriage’, 24 October 2012,
 <http://www.donews.com/net/201210/1683363.shtm>
 
 Golden Mouse. ‘Jiayuan.com Implanted “Romance in Car”’, 9 April 2013,
-http://huaban.com/pins/57147465/\#zoom/?&\_suid=14099977042960615623123715092
+<http://huaban.com/pins/57147465/\#zoom/?&\_suid=14099977042960615623123715092>
 
 Hudson, Valerie M. and Boer, Andrea M. Den. ‘“Bare Branches” and Danger
 in Asia’, 4 July 4 2004,
@@ -554,9 +554,9 @@ and Public Culture. <https://www.dukeupress.edu/Desiring-China>
 Wu, Xiaoying. ‘The Dating Sites: "Sweet" Industrial Predicament and
 Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
-[](http://fanyi.baidu.com/translate######)
+<http://fanyi.baidu.com/translate######>
 
-[](http://fanyi.baidu.com/translate######)[](http://fanyi.baidu.com/translate######)
+<http://fanyi.baidu.com/translate######><http://fanyi.baidu.com/translate######>
 
 [^9_Wen-Final_1]: As cited in Zexin Ma. ‘Personal Image Construction and
     Communication Effect in Dating Sites’, News World, 9 (2012): 124.
@@ -586,7 +586,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_8]: iResearch, ‘129 Million Active Users Monthly: How to Estimate the
     Value of Sina Weibo’, 15 March 2014,
-    [http://web2.iresearch.cn/weibo/20140315/228594.shtml](../customXml/item1.xml).
+    <http://web2.iresearch.cn/weibo/20140315/228594.shtml>.
 
 [^9_Wen-Final_9]: Lei Li, ‘Dating Sites Started the New User Battle’, China Business
     Journal, 12 March 2012: E02.
@@ -613,12 +613,12 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_17]: Valerie M. Hudson and Andrea M. Den Boer, ‘“Bare Branches” and
     Danger in Asia’, The Washington Post, 4 July, 2004,
-    [http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html](numbering.xml)
+    <http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html>
 
 [^9_Wen-Final_18]: National Bureau of Statistics of the People’s Republic of China,
     ‘Hubei Population Development Characteristics and Future Prospects
     in the 10th Five-Year Plan’, 24 May 2006,
-    [http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html](styles.xml)
+    <http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html>
 
 [^9_Wen-Final_19]: Taobao.com started in 2003. It is the biggest auction website and
     online transaction platform in China.
@@ -627,17 +627,17 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_21]: iResearch, ‘Jiayuan.com: “Bare Branch Revolution” Viral
     Marketing’, 28 February 2012,
-    http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm
+    <http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm>
 
-[^9_Wen-Final_22]: Golden Mouse, ‘Jiayuan.com implanted “Romance in Car”*’,* 9 April
+[^9_Wen-Final_22]: Golden Mouse, ‘Jiayuan.com implanted *Romance in Car* 9 April
     2013,
-    http://huaban.com/pins/57147465/\#zoom/?&\_suid=14099977042960615623123715092
+    <http://huaban.com/pins/57147465/\#zoom/?&\_suid=14099977042960615623123715092>
 
 [^9_Wen-Final_23]: Translated by the author.
 
 [^9_Wen-Final_24]: Donews, ‘Baihe’s Micro Film: IT Male Need the Counteroffensive
     Courage in Love and Marriage’, 24 October 2012,
-    [http://www.donews.com/net/201210/1683363.shtm](stylesWithEffects.xml)
+    <http://www.donews.com/net/201210/1683363.shtm>
 
 [^9_Wen-Final_25]: Lines in the advertisement, translated by the author.
 
