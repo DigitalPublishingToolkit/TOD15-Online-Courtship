@@ -17,11 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-#The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising
+# The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising
 
-###Caiyun Wen
+### Caiyun Wen
 
-##The Prosperity and Bottlenecks of the Online Dating Market in China
+## The Prosperity and Bottlenecks of the Online Dating Market in China
 
 In China, matchmaking is an ancient occupation, which plays a key role
 to the marriage mode in the traditional society. With the development of
@@ -101,13 +101,13 @@ Jiayuan.com, the first advertiser on CCTV among dating sites, steered to
 new media in 2011. In contrast Zhenai.com and Baihe.com frequently
 advertise on CCTV.
 
-##Jiayuan.com: the Multi-dimensional Strategy
+## Jiayuan.com: the Multi-dimensional Strategy
 
 In the construction of the advertising model, Jiayuan.com adopted a
 multi-dimensional strategy. These include, but are not limited to,
 Internet marketing, topics marketing, and entertainment marketing.
 
-###The Internet Media Marketing - Micro Film for the Single Youth*
+### The Internet Media Marketing - Micro Film for the Single Youth*
 
 In China, many young urban professionals are from the rural areas or
 small cities. Because of their limited circle of communication and tight
@@ -362,7 +362,7 @@ appealing nor meaningful. It kicks up a cloud of dust. Obviously, it
 ruined the consistency and the cultural connotation of Baihe.com. In a
 word, it is a meaningless advertisement.
 
-##Zhenai.com: From Romance to Consumerism
+## Zhenai.com: From Romance to Consumerism
 
 Founded in 1998, Zhenai.com is another leader offering online dating
 services, which was named "*Best Chinese Dating Website 2010*" by China
@@ -425,7 +425,7 @@ consumerism is prevalent in China, the lack of cultural connotation and
 a standard of value accepted by Chinese consumers does not bring good
 reputation to the site. Zhenai’s transformation is not successful.
 
-##Problems and Suggestions
+## Problems and Suggestions
 
 Although the above leading dating sites of China used different
 advertising models to build their brand image and increase the number of
@@ -507,7 +507,7 @@ through the fee, profitability of website will also be greatly improved.
 Website banner ads also will increase profits. This would be a virtuous
 cycle.
 
-##References
+## References
 
 Chen, Xiaobo. ‘The Micro Film: A Visual Culture Transmutation of Concept
 First’, Contemporary Cinema, 10(2013): p.199.
