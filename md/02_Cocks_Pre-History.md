@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: H. G Cocks
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -564,7 +564,7 @@ other side of respectability. It was only in the early 20^th^ century,
 with the dislocations of war, that a new style of “companionship”
 emerged, one that has since come to dominate digital technologies.
 
-**References**
+## References
 
 ‘Friendship Clubs’, Mass Observation Archive, University of Sussex, TC
 12 Box 16 File E.
