@@ -626,27 +626,27 @@ Sun (London)
 
 Sunday Pictorial (London)
 
-[^2_Cocks_Pre-History_1]: Lawrence Stone, The Family, Sex and Marriage in England 1500-1800,
-    London, 1977; Alan Macfarlane, Marriage and Love in England, Modes
-    of Reproduction 1300-1840, Oxford, Blackwell, 1986; Jack Goody, The
-    European Family: A Historico-Anthroplogical Essay, Oxford, Blackwell
+[^2_Cocks_Pre-History_1]: Lawrence Stone, *The Family, Sex and Marriage in England 1500-1800*,
+    London: Weidenfeld & Nicolson, 1977; Alan Macfarlane, *Marriage and Love in England, Modes
+    of Reproduction 1300-1840*, Oxford: Blackwell, 1986; Jack Goody, *The
+    European Family: A Historico-Anthroplogical Essay*, Oxford, Blackwell
     2000.
 
-[^2_Cocks_Pre-History_2]: Diana O’Hara, Courtship and Constraint: Rethinking the Making of
-    Marriage in Tudor England, Manchester, Manchester University Press,
+[^2_Cocks_Pre-History_2]: Diana O’Hara, *Courtship and Constraint: Rethinking the Making of
+    Marriage in Tudor England*, Manchester: Manchester University Press,
     2000, ch 3; quoted in Macfarlane, Marriage and Love, 259. E. A.
-    Wrigley and R. S. Schofield, The Population 1541-1871, London,
-    Edward Arnold, 1981, 257-6
+    Wrigley and R. S. Schofield, The Population 1541-1871, London:
+    Edward Arnold, 1981, pp. 257-6
 
-[^2_Cocks_Pre-History_3]: John Gillis, For Better, for Worse: British Marriages, 1600 to the
-    Present, Oxford, Oxford University Press, 1985, p.14.
+[^2_Cocks_Pre-History_3]: John Gillis, *For Better, for Worse: British Marriages, 1600 to the
+    Present*, Oxford: Oxford University Press, 1985, p.14.
 
-[^2_Cocks_Pre-History_4]: See Helen Berry, Gender, Society and Print Culture in Late-Stuart
-    England: The World of the Athenian Mercury, Aldershot, Scholar
+[^2_Cocks_Pre-History_4]: See Helen Berry, *Gender, Society and Print Culture in Late-Stuart
+    England: The World of the Athenian Mercury*, Aldershot: Scholar
     Press, 2003, p.189.
 
-[^2_Cocks_Pre-History_5]: Oxford Magazine, December 1770, in Anon., Matrimonial
-    Advertisements, Private Collection, 1740-1859, British Library.
+[^2_Cocks_Pre-History_5]: Oxford Magazine, December 1770, in Anon., *Matrimonial
+    Advertisements*, Private Collection, 1740-1859, British Library.
 
 [^2_Cocks_Pre-History_6]: Pamphlet of The Imprejudicate Nuptial Society, undated, in Anon.,
     *Matrimonial Advertisements*, Private Collection, BL.
@@ -660,41 +660,42 @@ Sunday Pictorial (London)
 [^2_Cocks_Pre-History_9]: Gazetteer, 5 August 1749, in *Matrimonial Advertisements*, Private
     Collection, BL.
 
-[^2_Cocks_Pre-History_10]: J. Curtis, An Authentic and Faithful History of the Mysterious
-    Murder of Maria Marten, London, Thomas Kelly, 1828, 92.
+[^2_Cocks_Pre-History_10]: J. Curtis, *An Authentic and Faithful History of the Mysterious
+    Murder of Maria Marten*, London: Thomas Kelly, 1828, p. 92.
 
-[^2_Cocks_Pre-History_11]: Curtis, An Authentic and Faithful History, 400.
+[^2_Cocks_Pre-History_11]: Curtis, *An Authentic and Faithful History of the Mysterious
+    Murder of Maria Marten*, 400.
 
-[^2_Cocks_Pre-History_12]: On the German press see Karl-Christian Fuhrer, ‘Contradicting
+[^2_Cocks_Pre-History_12]: On the German press see Karl-Christian Fuhrer, *Contradicting
     Nazi Propaganda: Classified Advertisements as Documents of Jewish
-    Life in Nazi Germany, 1933-1938’, Media History 18, 1 (February
-    2012): 65-76.
+    Life in Nazi Germany, 1933-1938*, Media History 18, 1 (February
+    2012): pp. 65-76.
 
 [^2_Cocks_Pre-History_13]: Twenty-two different papers are listed in the British Library
     catalogue but others are mentioned in different sources, so the
     total figure is probably higher.
 
-[^2_Cocks_Pre-History_14]: See ‘Matrimonial Adlets’, The Sun, 31 July 1893, 4.
+[^2_Cocks_Pre-History_14]: See ‘Matrimonial Adlets’, *The Sun*, 31 July 1893, p. 4.
 
-[^2_Cocks_Pre-History_15]: See ‘The Alleged Matrimonial Frauds’, (London) Times, 3 December
-    1895, 12; ‘Police’, Times, 1 January 1896, 14; Times,3, 18, 24
-    December 1895, 12; 8, 29, January; 29 February; 2 March 1896. On
+[^2_Cocks_Pre-History_15]: See ‘The Alleged Matrimonial Frauds’, *(London) Times*, 3 December
+    1895, p. 12; 
+    ‘Police’, Times, 1 January 1896, p. 14; Times,3, 18, 24 December 1895, 12; 8, 29, January; 29 February; 2 March 1896. On
     this case see Angus McLaren, The *Trials of Masculinity: Policing
     Sexual Boundaries 1870-1930* Chicago, University of Chicago Press,
     1997, ch. 2. The principals were sentenced to between three and five
     years penal servitude for fraud.
 
-[^2_Cocks_Pre-History_16]: Mona Caird, untitled essay, in Harry Quilter, (ed.), Is Marriage
-    a Failure?, London, Swan Sonnenschein 1888, 41-2. Original emphasis.
+[^2_Cocks_Pre-History_16]: Mona Caird, untitled essay, in Harry Quilter, (ed.), *Is Marriage
+    a Failure?*, London: Swan Sonnenschein 1888, pp. 41-2. Original emphasis.
 
-[^2_Cocks_Pre-History_17]: William Booth, In Darkest England and the Way out, London,
+[^2_Cocks_Pre-History_17]: William Booth, *In Darkest England and the Way out*, London:
     Salvation Army, 1890.
 
-[^2_Cocks_Pre-History_18]: ‘Lonely Soldier Correspondence’, National Archives UK, Kew, HO
+[^2_Cocks_Pre-History_18]: ‘Lonely Soldier Correspondence’, *National Archives UK*, Kew: HO
     139/32.
 
 [^2_Cocks_Pre-History_19]: ‘Who Will Marry Phyllis Monkman, A Chance for Single Men’,
-    Pearson’s Weekly, 8 July 1916, 67.
+    *Pearson’s Weekly*, 8 July 1916, p. 67.
 
 [^2_Cocks_Pre-History_20]: ‘Friendship Clubs’, Mass Observation Archive, University of
     Sussex, TC 12 Box 16 File E.
