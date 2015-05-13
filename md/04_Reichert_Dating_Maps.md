@@ -69,7 +69,7 @@ representation of social networks on the Internet. On the other hand,
 their navigation tools are advancing to a decisive tool in the medial
 formatting of the dating cultures of digital communities.
 
-**Love Organizations on Web 2.0**
+## Love Organizations on Web 2.0
 
 The new digital dating cultures are part of the E-commerce business.
 Flirting and dating exchanges on Web 2.0 are popular entertainment,
@@ -159,7 +159,7 @@ Social control, understood as monitoring, comprises a multitude of
 knowledge technologies, which combine the safety, risk, care, and
 monitoring discourses to the mapping of life conduct discourses.
 
-**Geomapping I: Street Maps and Satellite Images**
+## Geomapping I: Street Maps and Satellite Images
 
 Social software-based networks like contact exchanges, dating agencies,
 real-time chat services utilize geographical information services (GIS),
@@ -259,7 +259,7 @@ Online mapping passes on this aspect, assembling profiles as "critical
 mass" in often-frequented places, thus garnering the respective
 attention.
 
-**Geomapping II: World Map and Globe**
+## Geomapping II: World Map and Globe
 
 The knowledge representations of the street map and the satellite images
 orients at the cartographic overview presentations, and operates with
@@ -374,7 +374,7 @@ geographical-empirical space gradually are replaced by the information
 visualization of the social network maps marking the recent changes in
 the visualization culture of the social.
 
-**Ego Networks**
+## Ego Networks
 
 In the area of visualization of social networks, only a few prototypical
 developments are still found today, such as the analysis software
@@ -478,7 +478,7 @@ social relationship cloud suggests that the social localization of the
 ego is a collaborative process, and that the ego cannot escape the
 aggregate-like state of the entire system.
 
-**Conclusion**
+## Conclusion
 
 In liberal democratic societies, inspection procedures constitute a
 dominant form and practice of knowledge.[^4_Reichert_Dating_Maps_10] Inspection procedures are
@@ -559,7 +559,7 @@ codes of observatory knowledge based on ‘objectifying’ and
 kind of knowledge has inherent social and normative concepts and is
 fundamentally dependent on political and economic contexts.
 
-**References**
+## References
 
 Agamben, Giorgio. The Coming Community. Minneapolis: University of
 Minnesota Press, 1993.
