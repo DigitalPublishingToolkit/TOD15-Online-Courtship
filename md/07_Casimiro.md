@@ -21,9 +21,8 @@ Rights: CC BY-NC 4.0
 
 ### Cláudia Casimiro
 
-*Man is least himself when he talks in his own person.*
-
-*Give him a mask, and he will tell you the truth.*
+>*Man is least himself when he talks in his own person.<br>
+>Give him a mask, and he will tell you the truth.*
 
 Oscar Wilde
 
@@ -828,7 +827,7 @@ self-presentations online not only when they write their
 self-presentation messages, but also when they select the photographs
 that are going to portray them and potentially attract dating partners.
 
-##Conclusion
+## Conclusion
 
 Daters do not present themselves randomly or carelessly. On the
 contrary, there is a notable attempt to please potential partners. These
@@ -929,152 +928,151 @@ namely self-portraits, is equally important since as Walker explains:
 > *ourselves* rather than simply allowing ourselves to be described by
 > others.[^7_Casimiro_76]
 
-##Acknowledgments
+## Acknowledgments
 
 This paper presents research results of a postdoctoral investigation
 funded by a grant from the Foundation for Science and Technology - FCT
 (SFRH/BPD/64644/2009).
 
-##References
+## References
 
 Aboim, Sofia. ‘Género, família e mudança em Portugal’, in Karin Wall et
-al. (eds) A Vida Familiar no Masculino. Negociando Velhas e Novas
-Masculinidades, Lisboa: Comissão para a Igualdade no Trabalho e no
+al. (eds) *A Vida Familiar no Masculino. Negociando Velhas e Novas
+Masculinidades*, Lisboa: Comissão para a Igualdade no Trabalho e no
 Emprego, 2010, pp. 39-66.
 
-Amâncio, Lígia. Masculino e Feminino. A Construção Social da Diferença,
+Amâncio, Lígia. *Masculino e Feminino. A Construção Social da Diferença*,
 Porto: Edições Afrontamento, 1994.
 
 Bak, Peter Michael. ‘Sex Differences in the Attractiveness Halo Effect
-in the Online Dating Environment’, Journal of Business and Media
-Psychology 1 (2010): 1-7.
+in the Online Dating Environment’, *Journal of Business and Media Psychology* 1 (2010): 1-7.
 
 Baker, Andrea J. ‘Cyberdating’, in Karen Christensen and David Levinson
-(eds) Encyclopedia of Community: From the Village to the Virtual World,
+(eds) *Encyclopedia of Community: From the Village to the Virtual World*,
 Thousand Oaks, CA: Sage Publications, 2003, pp. 372-373.
 
-Bardin, Laurence. L'analyse de Contenu, Paris: Presses Universitaires de
+Bardin, Laurence. *L'analyse de Contenu*, Paris: Presses Universitaires de
 France, 2007.
 
 Bell, Philip. ‘Content Analysis of Visual Images’. In Theo Van Leeuwen
-and Carey Jewitt (eds) Handbook of Visual Analysis, Thousand Oaks, CA:
+and Carey Jewitt (eds) *Handbook of Visual Analysis*, Thousand Oaks, CA:
 Sage, 2001, pp. 10-34.
 
 Bercovici, Jeff. ‘Love On The Run: The Next Revolution in
 Online Dating’, Forbes.com
-\<<http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/>\>.
+<http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/>.
 
-Bourdieu, Pierre. La Domination Masculine, Paris: Éditions du Seuil,
+Bourdieu, Pierre. *La Domination Masculine*, Paris: Éditions du Seuil,
 1998.
 
 Cacioppo, John T. et al. ‘Marital Satisfaction and Break-ups differ
 Across On-line and Off-line Meeting Venues’, Proceedings of the National
 Academy of the United States of America, Published online before print,
 June 3 (2013),
-\<<http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf>\>.
+<http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf>.
 
 Cardoso, Gustavo. ‘Contributos Para uma Sociologia do Ciberespaço’.
 Biblioteca on-line de Ciências da Comunicação (1998),
-\<<http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html>\>.
+<http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html>.
 
-Cardoso, Gustavo. ‘‘Feel Like Going Online?’ Internet Mediated
-Communication in Portugal’, Information, Communication & Society 5.4
+Cardoso, Gustavo. ‘Feel Like Going Online?’ Internet Mediated
+Communication in Portugal’, Information, *Communication & Society* 5.4
 (2002): 529-550.
 
 Cardoso, Gustavo and Nascimento, Susana. ‘Online/Offline: Can You Tell
 the difference? Portuguese Views on Internet Mediated Communication’,
-Comunicazioni Sociali - Rivista di Media, Spettacolo e Studi Culturali
+Comunicazioni Sociali - Rivista di Media, *Spettacolo e Studi Culturali*
 XXIV.1 (2002): 41-50.
 
-Cardoso, Gustavo et al. World Wide Internet: Changing Societies,
-Economies and Cultures, China, University of Macau, 2009.
+Cardoso, Gustavo et al. *World Wide Internet: Changing Societies,
+Economies and Cultures*, China: University of Macau, 2009.
 
 Cardoso, Gustavo et al. ‘A Sociedade em Rede. A Internet em Portugal,
 2012’, OberCom - Observatório da Comunicação (2012): 1-35,
-\<<http://www.obercom.pt/client/?newsId=548&fileName=sociedadeRede2012.pdf>\>.
+<http://www.obercom.pt/client/?newsId=548&fileName=sociedadeRede2012.pdf>.
 
-Castells, Manuel. The Network Society: A Cross-cultural Perspective,
+Castells, Manuel. *The Network Society: A Cross-cultural Perspective*,
 Cheltenham, UK: Edward Elgar, 2004.
 
-Cocks, Harry G. Classified: The Secret History of the Personal Column,
+Cocks, Harry G. *Classified: The Secret History of the Personal Column*,
 UK: Random House, 2009.
 
 Degim, I. Alev. ‘Identity Construction in Facebook: A Lacanian Analysis
 of Profiles and Facebook Generated Games’, in U. Onen. Andreas Treske,
 Bestem Büyüm and I. Alev Degim (eds) Image, Time and Motion: New media
-Critique from Turkey, Institute of Network Cultures, n.7, 2011, pp.
+Critique from Turkey, *Institute of Network Cultures*, n.7, 2011, pp.
 111-124,
-\<<http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/>\>.
+<http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/>.
 
 Dutton, William H. et al. ‘The Role of the Internet in Reconfiguring
-Marriages: A Cross-national Study’, Interpersona 3.2 (2009): 3-18.
+Marriages: A Cross-national Study’, *Interpersona* 3.2 (2009): 3-18.
 
 Ellison, Nicole. ‘Managing Impressions Online: Self-Presentation
-Processes in the Online Dating Environment’, Journal of
-Computer-Mediated Communication 11.2 (2006): 415-441.
+Processes in the Online Dating Environment’, *Journal of
+Computer-Mediated Communication* 11.2 (2006): 415-441.
 
 Furnham, Adrian and Twiggy, Mak. ‘Sex-Role Stereotyping in Television
 Commercials: A Review and Comparison of Fourteen Studies Done on Five
-Continents Over 25 Years’, Sex Roles 41.5 (1999): 513-537.
+Continents Over 25 Years’, *Sex Roles* 41.5 (1999): 513-537.
 
 Fiore, Andrew T. et al. ‘Assessing Attractiveness in Online Dating
-Profiles’, Proceeding of the twenty-sixth annual SIGCHI conference on
-Human factors in computing systems, ACM Press, (2008): 797-806.
+Profiles’, *Proceeding of the twenty-sixth annual SIGCHI conference on
+Human factors in computing systems*, ACM Press, (2008): 797-806.
 
 Freitas, Simone. ‘A Bela e a Fera’, II Congresso Internacional
 Comunicación 3.0 - Libro Nuevos Medios, Nueva Comunicación, Universidad
 de Salamanca, 4 y 5 de Octobre, (2010): 1-18.
 
-Goffman, Erving. The Presentation of Self in Everyday Life, New York:
+Goffman, Erving. *The Presentation of Self in Everyday Life*, New York:
 Anchor, 1959.
 
 Gunter, Barrie. “The Study of Online Relationships and Dating”, in
-William H. Dutton (ed.) The Oxford Handbook of Internet Studies, Oxford
+William H. Dutton (ed.) *The Oxford Handbook of Internet Studies*, Oxford: Oxford
 University Press, 2013, pp. 173-193.
 
 Hahn, Jennifer and Blass, Thomas. ‘Dating Partner Preferences: A
-Function of Similarity of Love Styles’, Journal of Social Behavior &
-Personality 12.3 (1997): 595-610.
+Function of Similarity of Love Styles’, *Journal of Social Behavior &
+Personality* 12.3 (1997): 595-610.
 
 Harris, Mary B. ‘When Courtesy Fails: Gender Roles and Polite
-Behaviors’, Journal of Applied Social Psychology 22.18 (1992):
+Behaviors’, *Journal of Applied Social Psychology* 22.18 (1992):
 1399-1416.
 
 Henry-Waring, Millsom and Barraket, Jo. ‘Dating & Intimacy in the 21st
 Century: The Use of Online Dating Sites in Australia’, International
-Journal of Emerging Technologies and Society 6.1 (2008): 14-33.
+*Journal of Emerging Technologies and Society* 6.1 (2008): 14-33.
 
 Hsieh, Hsiu-Fang and Shannon, Sarah E. ‘Three Approaches to Qualitative
-Content Analysis’, Qualitative Health Research 15. 9 (2005): 1277-1288.
+Content Analysis’, *Qualitative Health Research* 15. 9 (2005): 1277-1288.
 
 Humphreys, Lee. ‘Photographs and the Presentation of Self through Online
-Dating Services’, in Paul Messaris and Lee Humphreys (eds) Digital
-Media: Transformations in Human Communication, New York: Peter Lang.
+Dating Services’, in Paul Messaris and Lee Humphreys (eds) *Digital
+Media: Transformations in Human Communication*, New York: Peter Lang.
 2006, pp. 39-49.
 
 Jagger, Elizabeth. ‘Marketing Molly and Melville: Dating in a
-Postmodern, Consumer Society’, Sociology 35.1 (2001): 39-57.
+Postmodern, Consumer Society’, *Sociology* 35.1 (2001): 39-57.
 
 Jorge, Filipa. A Apresentação do Eu em Plataformas de Comunicação
 On-line, Tese de Mestrado, Departamento de Comunicação e Arte,
 Universidade de Aveiro, 2011.
 
-Kimmel, Michael. The Gendered Society, Oxford: Oxford University Press,
+Kimmel, Michael. *The Gendered Society*, Oxford: Oxford University Press,
 2004.
 
 Kisilevich, Slava and Last Mark. ‘Exploring Gender Differences in Member
 Profiles of an Online Dating Site Across 35 Countries’, Lecture Notes in
 Computer Science 6904 (2011): 57-78,
-\<http://bib.dbvis.de/uploadedFiles/359.pdf\>.
+<http://bib.dbvis.de/uploadedFiles/359.pdf>.
 
-Kelly, Kevin. “We Are the Web”, Wired, August 2005,
-\<http://www.wired.com/wired/archive/13.08/tech.html\>.
+Kelly, Kevin. “We Are the Web”, *Wired*, August 2005,
+<http://www.wired.com/wired/archive/13.08/tech.html>.
 
 Larossa, Ralph. ‘Grounded theory methods and qualitative family
-research’, Journal of Marriage and Family 67.4 (2005): 837–857.
+research’, *Journal of Marriage and Family* 67.4 (2005): 837–857.
 
 Lievrouw, Leah A. ‘The Next Decade in Internet Time’, Information,
-Communication & Society 15.5 (2012): 616-638.
+*Communication & Society* 15.5 (2012): 616-638.
 
 Lopes, Liliana. ‘Diagnóstico e Implementação da Igualdade de Género na
 Escola Superior de Educação: Apontamentos pelos Trilhos da
@@ -1086,11 +1084,11 @@ na Gestão’, Tékhne - Revista de Estudos Politécnicos VI. 10 (2008):
 221-238.
 
 Morgan, Elizabeth et al. ‘Comparing Narratives of Personal and Preferred
-Partner Characteristics in Online Dating Advertisements’, Computers in
-Human Behavior, 26.5 (2010): 883-888.
+Partner Characteristics in Online Dating Advertisements’, *Computers in
+Human Behavior*, 26.5 (2010): 883-888.
 
-Markus, Hazel and Nurius, Paula. ‘Possible Selves’, American
-Psychologist 41.9 (1986): 954-969.
+Markus, Hazel and Nurius, Paula. ‘Possible Selves’, *American
+Psychologist* 41.9 (1986): 954-969.
 
 Miranda, Patrícia. ‘A Construção Social das Identidades de Género nas
 Crianças: um Estudo Intensivo em Viseu’, VI Congresso Português de
@@ -1100,165 +1098,165 @@ Lisboa, Faculdade de Ciências Sociais e Humanas, 25 a 28 de Junho,
 
 Nascimento, Susana. ‘Para uma compreensão sociológica das identidades na
 CMC’, Biblioteca online de Ciências da Comunicação (2001): 1-13,
-\<<http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf>\>.
+<http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf>.
 
 Neto, Félix. ‘Sex differences in Portuguese Lonely Hearts
-Advertisements’, Perceptual and Motor Skills 101.2 (2005): 393-400.
+Advertisements’, *Perceptual and Motor Skills* 101.2 (2005): 393-400.
 
 Neto, Félix and Pinto, Isabel. ‘Gender Stereotypes in Portuguese
-Television Advertisements’, Sex Roles 39.1-2 (1998): 153-164.
+Television Advertisements’, *Sex Roles* 39.1-2 (1998): 153-164.
 
-Pais, José Machado. Nos Rastos da Solidão. Deambulações Sociológicas,
+Pais, José Machado. *Nos Rastos da Solidão. Deambulações Sociológicas*,
 Porto: Âmbar, 2006.
 
-Parsons, Talcott and Bales, Robert F. Family, Socialization and the
-Interaction Process, New York: MacMillan, 1955.
+Parsons, Talcott and Bales, Robert F. Family, *Socialization and the
+Interaction Process*, New York: MacMillan, 1955.
 
 Pereira, Francisco Costa and Veríssimo, Jorge. ‘A Mulher na Publicidade
-e os Estereótipos de Género’, Observatorio 5 (2008): 281-296,
-\<<http://obs.obercom.pt/index.php/obs/article/view/120>\>.
+e os Estereótipos de Género’, *Observatorio* 5 (2008): 281-296,
+<http://obs.obercom.pt/index.php/obs/article/view/120>.
 
 Pereira, Maria do Mar. ‘Os discursos de Género: Mudança e Continuidade
 nas Narrativas sobre Diferenças, Semelhanças e (Des)igualdade entre
 Mulheres e Momens’, in Karin Wall, Sofia Aboim and Vanessa Cunha (eds)
-Vida Familiar no Masculino: Negociando Velhas e Novas Masculinidades,
+*Vida Familiar no Masculino: Negociando Velhas e Novas Masculinidades*,
 Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego,
 (2010), pp. 225-261.
 
 Prosser, Jon. ‘Researching with visual images: Some guidance notes and a
 glossary for beginners’, ESRC National Centre for Research Methods,
 Working Paper Series 6/06, 2006,
-\<<http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf>\>.
+<http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf>.
 
 Rosa, Rodrigo. Escolha do Cônjuge e Modos de Construção Social no Casal.
 Tese de Doutoramento, Instituto Superior de Ciências do Trabalho e da
 Empresa, 2008.
 
 Rosenfeld, Michael J. and Thomas, Reuben J. ‘Searching for a Mate: The
-Rise of the Internet as a Social Intermediary’, American Sociological
-Review 77.4 (2012): 523-547.
+Rise of the Internet as a Social Intermediary’, *American Sociological
+Review* 77.4 (2012): 523-547.
 
-Ryan, Gery W. et al. ‘Techniques to identify themes’, Field Methods 15.1
+Ryan, Gery W. et al. ‘Techniques to identify themes’, *Field Methods* 15.1
 (2003): 85-109.
 
-Santos, Ana Alexandra Carvalheira. Relaciones Interpersonales y
-Comportamientos Sexuales Através de Internet, Tesis Doctoral, Facultad
+Santos, Ana Alexandra Carvalheira. *Relaciones Interpersonales y
+Comportamientos Sexuales Através de Internet*, Tesis Doctoral, Facultad
 de Psicologia, Universidad de Salamanca, 2005.
 
 Skopek, Jan, et al. ‘The Gendered Dynamics of Age Preferences –
-Empirical Evidence from Online Dating’, Journal of Family Research 23.3
+Empirical Evidence from Online Dating’, *Journal of Family Research* 23.3
 (2011): 267-290.
 
 Smith, Lauren Reichart and Cooley, Skye C. ‘Presenting Me! An
 Examination of Self-Presentation in U.S. and Russian Online Social
-Networks’, Russian Journal of Communication 5.5 (2013): 176-190.
+Networks’, *Russian Journal of Communication* 5.5 (2013): 176-190.
 
 Strangelove, Michael. ‘The Internet, Electric Gaia and the Rise of the
 Uncensored Self’, Computer-Mediated Communication Magazine (1994):
-11-14, \<<http://www.ibiblio.org/cmc/mag/1994/sep/self.html>\>.
+11-14, <http://www.ibiblio.org/cmc/mag/1994/sep/self.html>.
 
 Strassberg, Donald S. and Holty, Stephen. ‘An Experimental Study of
-Women's Internet Personal Ads’, Archives of Sexual Behavior 32.3 (2003):
+Women's Internet Personal Ads’, *Archives of Sexual Behavior* 32.3 (2003):
 253–260.
 
-Strauss, Anselm C. and Corbin, Juliet. Basics of Qualitative Research:
-Techniques and Procedures for Developing Grounded Theory, London: Sage
+Strauss, Anselm C. and Corbin, Juliet. *Basics of Qualitative Research:
+Techniques and Procedures for Developing Grounded Theory*, London: Sage
 Publications, 1990.
 
 Toma, Catalina L. et al. ‘Separating Fact From Fiction: An Examination
-of Deceptive Self-Presentation in Online Dating Profiles’, Personality
-and Social Psychology Bulletin 34.8 (2008): 1023-1036.
+of Deceptive Self-Presentation in Online Dating Profiles’, *Personality
+and Social Psychology Bulletin* 34.8 (2008): 1023-1036.
 
 Torres, Anália. ‘Casamento e Gênero: Mudanças nas Famílias
 Contemporâneas a partir do Caso Português’, Interseções 3.2 (2001):
 53-70,
-\<<http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf>\>.
+<http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf>.
 
-Torres, Anália. Vida Conjugal e Trabalho, Oeiras: Celta Editora, 2004.
+Torres, Anália. *Vida Conjugal e Trabalho*, Oeiras: Celta Editora, 2004.
 
-Torres, Anália et al. Homens e Mulheres entre Família e Trabalho,
+Torres, Anália et al. *Homens e Mulheres entre Família e Trabalho*,
 Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego, 2004.
 
 Torres, Anália et al. ‘Gender, work and family: balancing central
 dimensions in individuals’ lives’, Sociologia Online - Revista da
 Associação Portuguesa de Sociologia 2 (April 2011): 11-37,
-\<<http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf>\>.
+<http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf>.
 
 Torres, Anália et al. ‘A Mysterious European Threesome: Workcare
-Regimes, Policies and Gender’, International and Multidisciplinary
-Journal of Social Sciences 1.1 (2012): 31-61.
+Regimes, Policies and Gender’, *International and Multidisciplinary
+Journal of Social Sciences* 1.1 (2012): 31-61.
 \<http://www.analiatorres.com/pdf/AMysteriousEuropeanThreesome.pdf\>.
 
 Tuna, Sandra and Freitas, Elsa. ‘Gendered adverts: an analysis of female
-and male images in contemporary perfume ads’, Comunicação & Sociedade 21
+and male images in contemporary perfume ads’, *Comunicação & Sociedade* 21
 (2012): 95-107.
 
 Walker, Jill. ‘Mirrors and Shadows: The Digital Aestheticisation of
 Oneself’, Digital Arts & Culture Conference Proceedings, Copenhagen,
 December (2005): 1-7,
-\<https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1\>.
+<https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1>.
 
-Wall, Karin and Amâncio, Lígia. Família e Género em Portugal e na
-Europa, Lisboa: Imprensa de Ciências Sociais, 2007.
+Wall, Karin and Amâncio, Lígia. *Família e Género em Portugal e na
+Europa*, Lisboa: Imprensa de Ciências Sociais, 2007.
 
 Walther, Joseph B. (2007). ‘Selective Self-Presentation in
 Computer-Mediated Communication: Hyperpersonal Dimensions of Technology,
-Language, and Cognition’, Computers in Human Behavior 23.5 (2007):
+Language, and Cognition’, *Computers in Human Behavior* 23.5 (2007):
 2538–2557.
 
 Walther, Joseph B. et al. ‘Is a Picture Worth a Thousand words?
 Photographic Images in Long-Term and Short-Term Computer-Mediated
-Communication’, Communication Research 28.1 (2001): 105-134.
+Communication’, *Communication Research* 28.1 (2001): 105-134.
 
 Whitty, Monica. ‘Revealing the ‘Real’ Me, Searching for the ‘Actual’
-You: Presentations of Self on an Internet Dating Site’, Computers in
-Human Behavior 24.4 (2008): 1707–1723.
+You: Presentations of Self on an Internet Dating Site’, *Computers in
+Human Behavior* 24.4 (2008): 1707–1723.
 
-Whitty, Monica and Joinson, Adam. Truth, Lies and Trust on the Internet,
-Routledge, 2008.
+Whitty, Monica and Joinson, Adam. *Truth, Lies and Trust on the Internet*,
+London: Routledge, 2008.
 
 Woll, Stanley B. and Young, Peter. ‘Looking for Mr. or Ms. Right:
-Self-Presentation in Videodating’, Journal of Marriage and the Family
+Self-Presentation in Videodating’, *Journal of Marriage and the Family*
 51.2 (1989): 483-488.
 
-[^7_Casimiro_1]: Kevin Kelly, *“We Are the Web”*, Wired.
+[^7_Casimiro_1]: Kevin Kelly, 'We Are the Web', *Wired*, August 2005, <http://archive.wired.com/wired/archive/13.08/tech.html>
 
-[^7_Casimiro_2]: Gustavo Cardoso et al. (eds) World Wide Internet: Changing
-    Societies, Economies and Culture. China: University of Macau, 2009,
+[^7_Casimiro_2]: Gustavo Cardoso et al. (eds) *World Wide Internet: Changing
+    Societies, Economies and Culture*. China: University of Macau, 2009,
     p. 4.
 
-[^7_Casimiro_3]: Leah A. Lievrouw, ‘The Next Decade in Internet Time’, Information,
-    Communication & Society (2012): 616.
+[^7_Casimiro_3]: Leah A. Lievrouw, ‘The Next Decade in Internet Time’, *Information,
+    Communication & Society* (2012): 616.
 
 [^7_Casimiro_4]: Millsom S. Henry-Waring and Jo Barraket, ‘Dating & Intimacy in the
     21st Century: The Use of Online Dating Sites in Australia’,
-    International Journal of Emerging Technologies and Society 6 (1):
+    *International Journal of Emerging Technologies and Society* 6 (1):
     14-33.
 
-[^7_Casimiro_5]: Manuel Castells, The Network Society: A Cross-Cultural
-    Perspective, Cheltenham, UK: Edward Elgar Pub, 2004.
+[^7_Casimiro_5]: Manuel Castells, *The Network Society: A Cross-Cultural
+    Perspective, Cheltenham*, UK: Edward Elgar Pub, 2004.
 
-[^7_Casimiro_6]: Gustavo Cardoso, ‘‘Feel Like Going Online?’ Internet Mediated
-    Communication in Portugal’, Information, Communication & Society 5.4
+[^7_Casimiro_6]: Gustavo Cardoso, ‘Feel Like Going Online?’ Internet Mediated
+    Communication in Portugal’, *Information, Communication & Society* 5.4
     (2002): 529.
 
 [^7_Casimiro_7]: Andrea J. Baker, ‘Cyberdating’, in Karen Christensen and David
-    Levinson (eds) Encyclopedia of Community: From the Village to the
-    Virtual World, Thousand Oaks, CA: Sage Publications, 2003, p. 372.
+    Levinson (eds) *Encyclopedia of Community: From the Village to the
+    Virtual World*, Thousand Oaks, CA: Sage Publications, 2003, p. 372.
 
 [^7_Casimiro_8]: For a selection of bibliography about these topics, see: Barrie
     Gunter, ‘The Study of Online Relationships and Dating’, in William
-    H. Dutton (ed.) The Oxford Handbook of Internet Studies, Oxford
+    H. Dutton (ed.) *The Oxford Handbook of Internet Studies*, Oxford: Oxford
     University Press, 2013, pp. 173-193 and Monica Whitty and Adam
-    Joinson, Truth, Lies and Trust on the Internet, Routledge, 2008.
+    Joinson, Truth, *Lies and Trust on the Internet*, London: Routledge, 2008.
 
 [^7_Casimiro_9]: Lee Humphreys, ‘Photographs and the Presentation of Self through
     Online Dating Services’, in Paul Messaris and Lee Humphreys (eds)
-    Digital Media: Transformations in Human Communication, New York:
+    *Digital Media: Transformations in Human Communication*, New York:
     Peter Lang, 2006, pp. 39-49.
 
 [^7_Casimiro_10]: William H. Dutton et al., ‘The Role of the Internet in
-    Reconfiguring Marriages: A Cross-national Study’, Interpersona 3.2
+    Reconfiguring Marriages: A Cross-national Study’, *Interpersona* 3.2
     (2009): 3-18.
 
 [^7_Casimiro_11]: Michael J. Rosenfeld and Reuben J. Thomas, ‘Searching for a Mate:
@@ -1280,13 +1278,13 @@ Self-Presentation in Videodating’, Journal of Marriage and the Family
     Self-Presentation in Videodating’, Journal of Marriage and the
     Family 51.2 (1989): 483-488.
 
-[^7_Casimiro_16]: #  Jeff Bercovici, ‘Love On The Run: The Next Revolution In Online Dating’, Forbes.com.
+[^7_Casimiro_16]: Jeff Bercovici, ‘Love On The Run: The Next Revolution In Online Dating’, <http://www.Forbes.com>.
 
 [^7_Casimiro_17]: From the famous cartoon of Steiner published on The New Yorker,
     in 1993: ‘On the Internet nobody knows you’re a dog’
-    \<[http://www.unc.edu/depts/jomc/academics/dri/idog.html](../customXml/item1.xml)\>,
+    <http://www.unc.edu/depts/jomc/academics/dri/idog.html>,
     times have changed to: “Damn webcam! Know everyone knows I’m a dog!”
-    \<[http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog](numbering.xml)\>.
+    <http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog>.
 
 [^7_Casimiro_18]: Joseph B. Walther et al. ‘Is a Picture Worth a Thousand Words?
     Photographic Images in Long-Term and Short-Term Computer-Mediated
