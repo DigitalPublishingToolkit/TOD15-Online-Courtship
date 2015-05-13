@@ -647,37 +647,37 @@ Legislature of the National Assembly of People's Power', December 18,
 2010, <http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm>.
 
 Eckstein, Susan. 'Dollarization and Its Discontents: Remittances and the
-Remaking of Cuba in the Post-Soviet', Comparative Politics 36(3) (April,
+Remaking of Cuba in the Post-Soviet', *Comparative Politics* 36(3) (April,
 2004): 313-330.
 
 Ely, Margaret, Anzul, Margot, Friedman, Teri, Garner, Diane and
-Mccormack-Steinmetz, Ann. Doing Qualitative Research: Circles within
-Circles, London: Falmer, 1991.
+Mccormack-Steinmetz, Ann. *Doing Qualitative Research: Circles within
+Circles*, London: Falmer, 1991.
 
 Fogela, Joshua and Nehmad, Elham. 'Internet social network communities:
-Risk taking, trust, and privacy concerns', Computers in Human Behavior
+Risk taking, trust, and privacy concerns', *Computers in Human Behavior*
 25 (January, 2009): 153-160.
 
 Geismar, Haidy and Mohns, William. 'Social Relationships and Digital
 Relationships: Rethinking the Database at the Vanuatu Cultural Centre',
-Journal of the Royal Anthropological Institute 17, Issue Supplement s1
+*Journal of the Royal Anthropological Institute* 17, Issue Supplement s1
 (May, 2011):133–155. DOI: 10.1111/j.1467-9655.2011.01693.x.
 
 Gibbs, Jennifer L., Ellison, Nicole B. and Heino, Rebecca D.
 'Self-Presentation in Online Personals: The Role of Anticipated Future
 Interaction, Self-Disclosure, and Perceived Success in Internet Dating',
-Communication Research 33 (2006):152-177 DOI: 10.1177/0093650205285368.
+*Communication Research* 33 (2006):152-177 DOI: 10.1177/0093650205285368.
 
-Goffman, Erving. The Presentation of Self in Everyday Life, New York:
+Goffman, Erving. *The Presentation of Self in Everyday Life*, New York:
 Anchor, 1959.
 
 Hancock, Jeffrey T. and Toma, Catalina L. 'Putting Your Best Face
-Forward: The Accuracy of Online Dating Photographs', Journal of
-Communication 59 (2009): 367–386.
+Forward: The Accuracy of Online Dating Photographs', *Journal of
+Communication* 59 (2009): 367–386.
 
 Hancock, Jeffrey T., Toma, Catalina and Ellison, Nicole. 'The Truth
-about Lying in Online Dating Profiles', CHI 2007 Proceedings Online
-Representation of Self, San Jose, CA, USA April 28-May 3, 2007: 449-452.
+about Lying in Online Dating Profiles', *CHI 2007 Proceedings Online
+Representation of Self*, San Jose, CA, USA April 28-May 3, 2007: 449-452.
 
 Humphreys, Lee. 'Photographs and the Presentation of Self through Online
 Dating Services', Paper presented at the National Communication
@@ -687,48 +687,46 @@ International Telecommunication Union, ‘Fixed Internet subscriptions’,
 Geneva 2011,
 <http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls>.
 
-Mason, Jennifer. Qualitative Researching, London: Sage, 1996.
+Mason, Jennifer. *Qualitative Researching*, London: Sage, 1996.
 
 Mesa-Lago, Carmelo and Vidal-Alejandro, Pavel. ‘The Impact of the Global
-Crisis on Cuba's Economy and Social Welfare’, Journal of Latin American
-Studies 42 (2010): 689-717. doi:10.1017/S0022216X10001331
+Crisis on Cuba's Economy and Social Welfare’, *Journal of Latin American
+Studies* 42 (2010): 689-717. doi:10.1017/S0022216X10001331
 
-Norman K. Denzin and Yvonna S. Lincoln, Handbook of Qualitative
-Research, Thousand Oaks, CA: Sage, 1994.
+Norman K. Denzin and Yvonna S. Lincoln, *Handbook of Qualitative
+Research*, Thousand Oaks, CA: Sage, 1994.
 
 Oliva, Pedro. ‘International Internet Connectivity (IIC) - Individual
 Country and Organization Experiences’, Geneva, January 23-24, 2012,
 <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>
 
 Piñera, Virgilio. 'La Isla en peso', in Antón Arrufat (comp.) Virgilio
-Piñera. Poesía y crítica, México, Cien del Mundo, Consejo Nacional para
-la Cultura y las Artes, 1980, pp. 45-57.
+Piñera. *Poesía y crítica, México, Cien del Mundo, Consejo Nacional para
+la Cultura y las Artes*, 1980, pp. 45-57.
 
 Primera, Maye. ‘Internet cubano a precios del “imperio”’, *El País,*
 June 5, 2013,
 <http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html>
 
 Suárez Sian, Michel D. ‘Cuba: Internet, acceso y sociedad del
-conocimiento’, Razón y Palabra 81 (December 2013, January 2013),
+conocimiento’, *Razón y Palabra* 81 (December 2013, January 2013),
 [http://www.razonypalabra.org.mx/N/N81/M81/07\_Suarez\_M81.pdf.](http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf)
 
 The World Bank, Internet users (per 100 people),
-[http://data.worldbank.org/indicator/IT.NET.USER.P2.](http://data.worldbank.org/indicator/IT.NET.USER.P2)
+[data.worldbank.org](http://data.worldbank.org/indicator/IT.NET.USER.P2)
 
 United Nations, Indicators of the Millennium Development Goals, 2013,
 <http://unstats.un.org/unsd/mdg/Data.aspx>.
 
 Urrutia Barroso, Lourdes de. 'Aproximación a un análisis del proceso
-migratorio cubano', Papers 52 (1997): 49-56.
+migratorio cubano', *Papers* 52 (1997): 49-56.
 
 Walther, Joseph B. 'Computer-mediated communication: Impersonal,
-interpersonal, and hyperpersonal interaction', Communication Research 23
+interpersonal, and hyperpersonal interaction', *Communication Research* 23
 (1996): 3-44.
 
 [^6_Pino_Dating_or_Escaping_1]: Michel D. Suárez Sian, ‘Cuba: Internet, acceso y sociedad del
-    conocimiento’, Razón y Palabra 81 (December 2013, January 2013),
-
-    <http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf>
+    conocimiento’, *Razón y Palabra* 81 (December 2013, January 2013),<http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf>.
 
 [^6_Pino_Dating_or_Escaping_2]: The World Bank, Internet users (per 100 people),
     <http://data.worldbank.org/indicator/IT.NET.USER.P2.>.
@@ -740,27 +738,27 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
 [^6_Pino_Dating_or_Escaping_4]: United Nations, Indicators of the Millennium Development Goals,
     2013, <http://unstats.un.org/unsd/mdg/Data.aspx>
 
-[^6_Pino_Dating_or_Escaping_5]: Pedro Oliva, ‘International Internet Connectivity (IIC) -
-    Individual Country and Organization Experiences’, Geneva, January
+[^6_Pino_Dating_or_Escaping_5]: Pedro Oliva, *‘International Internet Connectivity (IIC) -
+    Individual Country and Organization Experiences’*, Geneva, January
     23-24, 2012,
     <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>
 
 [^6_Pino_Dating_or_Escaping_6]: Maye Primera, ‘Internet cubano a precios del “imperio”’, *El
-    País,* June 5, 2013,
-    <http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html>
+    País*, June 5, 2013,
+    <http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html>.
 
 [^6_Pino_Dating_or_Escaping_7]: There was a really low response rate (20%). Only two users replied
     to messages from the author.
 
-[^6_Pino_Dating_or_Escaping_8]: Robert B. Burns, Introduction to Research Methods, London: Sage,
+[^6_Pino_Dating_or_Escaping_8]: Robert B. Burns, *Introduction to Research Methods*, London: Sage,
     2000.
 
 [^6_Pino_Dating_or_Escaping_9]: Margaret Ely, Margot Anzul, Teri Friedman, Diane Garner and Ann
-    Mccormack-Steinmetz, Doing Qualitative Research: Circles within
-    Circles, London: Falmer, 1991.
+    Mccormack-Steinmetz, *Doing Qualitative Research: Circles within
+    Circles*, London: Falmer, 1991.
 
-[^6_Pino_Dating_or_Escaping_10]: Norman K. Denzin and Yvonna S. Lincoln, Handbook of Qualitative
-    Research, Thousand Oaks, CA: Sage, 1994.
+[^6_Pino_Dating_or_Escaping_10]: Norman K. Denzin and Yvonna S. Lincoln, *Handbook of Qualitative
+    Research*, Thousand Oaks, CA: Sage, 1994.
 
 [^6_Pino_Dating_or_Escaping_11]: Jennifer Mason, *Qualitative Researching*, London: Sage, 1996.
 
@@ -768,17 +766,17 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     “disorder”. It is often used to refer to a group of things that are
     put together, but without an explicit or obvious order.
 
-[^6_Pino_Dating_or_Escaping_13]: Manuel Castells, The Rise of the Network Society, Cambridge, MA,
-    USA: Blackwell Publishers, Inc., 1996.
+[^6_Pino_Dating_or_Escaping_13]: Manuel Castells, *The Rise of the Network Society*, Cambridge, MA,
+    USA: Blackwell Publishers Inc., 1996.
 
 [^6_Pino_Dating_or_Escaping_14]: Haidy Geismar and William Mohns, 'Social Relationships and
     Digital Relationships: Rethinking the Database at the Vanuatu
-    Cultural Centre', Journal of the Royal Anthropological Institute 17,
+    Cultural Centre', *Journal of the Royal Anthropological Institute* 17,
     Issue Supplement s1 (May, 2011):133–155.
 
 [^6_Pino_Dating_or_Escaping_15]: Carmelo Mesa-Lago and Pavel Vidal-Alejandro, ‘The Impact of the
-    Global Crisis on Cuba's Economy and Social Welfare’, Journal of
-    Latin American Studies 42 (2010), p. 692.
+    Global Crisis on Cuba's Economy and Social Welfare’, *Journal of
+    Latin American Studies* 42 (2010), p. 692.
 
 [^6_Pino_Dating_or_Escaping_16]: Mesa-Lago and Vidal-Alejandro, ‘The Impact of the Global Crisis
     on Cuba's Economy and Social Welfare’.
@@ -788,16 +786,16 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     of 25 CUP for 1 CUC, which has parity with the U.S. dollar.
 
 [^6_Pino_Dating_or_Escaping_18]: Susan Eckstein, 'Dollarization and Its Discontents: Remittances
-    and the Remaking of Cuba in the Post-Soviet', Comparative Politics
+    and the Remaking of Cuba in the Post-Soviet', *Comparative Politics*
     36(3) (April, 2004): 313-330.
 
 [^6_Pino_Dating_or_Escaping_19]: Raúl Castro Ruz, 'Speech at the Sixth Ordinary Session of the
     Seventh Legislature of the National Assembly of People's Power',
-    December 18^th^, 2010,
+    18 December 2010,
     <http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm>.
 
-[^6_Pino_Dating_or_Escaping_20]: Benigno E. Aguirre, 'Social Control in Cuba', Latin American
-    Politics and Society 44(2) (Summer, 2002): 67-98.
+[^6_Pino_Dating_or_Escaping_20]: Benigno E. Aguirre, 'Social Control in Cuba', *Latin American
+    Politics and Society* 44(2) (Summer, 2002): 67-98.
 
 [^6_Pino_Dating_or_Escaping_21]: From Mach 8^th^, 2014, Cuban users can access to their email
     accounts (only to those at the domain nauta.cu) from their mobile
@@ -806,8 +804,8 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     <http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html>.
 
 [^6_Pino_Dating_or_Escaping_22]: Joshua Fogela and Elham Nehmad, 'Internet social network
-    communities: Risk taking, trust, and privacy concerns', Computers in
-    Human Behavior 25 (January, 2009): 153-160,
+    communities: Risk taking, trust, and privacy concerns', *Computers in
+    Human Behavior* 25 (January, 2009): 153-160,
     10.1016/j.chb.2008.08.006
 
 [^6_Pino_Dating_or_Escaping_23]: Interview by email with Cuban woman with a profile in
@@ -815,8 +813,8 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     author.
 
 [^6_Pino_Dating_or_Escaping_24]: Jeffrey T. Hancock and Catalina L. Toma, 'Putting Your Best Face
-    Forward: The Accuracy of Online Dating Photographs', Journal of
-    Communication 59 (2009), p. 368
+    Forward: The Accuracy of Online Dating Photographs', *Journal of
+    Communication* 59 (2009), p. 368
 
 [^6_Pino_Dating_or_Escaping_25]: Lee Humphreys, 'Photographs and the Presentation of Self through
     Online Dating Services', Paper presented at the National
@@ -829,11 +827,11 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     <http://www.connectingsingles.com>.
 
 [^6_Pino_Dating_or_Escaping_28]: Virgilio Piñera, 'La Isla en peso', in Antón Arrufat (comp.)
-    Virgilio Piñera. Poesía y crítica, México, Cien del Mundo, Consejo
-    Nacional para la Cultura y las Artes, 1980, p. 45.
+    Virgilio Piñera. *Poesía y crítica, México, Cien del Mundo, Consejo
+    Nacional para la Cultura y las Artes*, 1980, p. 45.
 
 [^6_Pino_Dating_or_Escaping_29]: Lourdes de Urrutia Barroso, 'Aproximación a un análisis del
-    proceso migratorio cubano', Papers 52 (1997): 49-56.
+    proceso migratorio cubano', *Papers* 52 (1997): 49-56.
 
 [^6_Pino_Dating_or_Escaping_30]: Urrutia Barroso, 'Aproximación a un análisis del proceso
     migratorio cubano'.
@@ -845,22 +843,22 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
 [^6_Pino_Dating_or_Escaping_32]: Jennifer L. Gibbs, Nicole B. Ellison and Rebecca D. Heino,
     'Self-Presentation in Online Personals: The Role of Anticipated
     Future Interaction, Self-Disclosure, and Perceived Success in
-    Internet Dating', Communication Research 33 (2006):152-177 DOI:
+    Internet Dating', *Communication Research* 33 (2006):152-177 DOI:
     10.1177/0093650205285368.
 
 [^6_Pino_Dating_or_Escaping_33]: Joseph B. Walther, 'Computer-mediated communication: Impersonal,
-    interpersonal, and hyperpersonal interaction', Communication
-    Research 23 (1996): 3-44.
+    interpersonal, and hyperpersonal interaction', *Communication
+    Research* 23 (1996): 3-44.
 
 [^6_Pino_Dating_or_Escaping_34]: Jeffrey T. Hancock, Catalina Toma and Nicole Ellison, 'The Truth
-    about Lying in Online Dating Profiles', CHI 2007 Proceedings Online
-    Representation of Self, San Jose, CA, USA April 28-May 3, 2007, p.
+    about Lying in Online Dating Profiles', *CHI 2007 Proceedings Online
+    Representation of Self*, San Jose, CA, USA April 28-May 3, 2007, p.
     452.
 
 [^6_Pino_Dating_or_Escaping_35]: Jeffrey T. Hancock, Catalina Toma and Nicole Ellison, 'The Truth
     about Lying in Online Dating Profiles'.
 
-[^6_Pino_Dating_or_Escaping_36]: Erving Goffman, The Presentation of Self in Everyday Life, New
+[^6_Pino_Dating_or_Escaping_36]: Erving Goffman, *The Presentation of Self in Everyday Life*, New
     York: Anchor, 1959.
 
 [^6_Pino_Dating_or_Escaping_37]: There is no specific contact section on this website.
@@ -890,7 +888,7 @@ interpersonal, and hyperpersonal interaction', Communication Research 23
     [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_46]: Cuban man profile from
-    [Connectingsingles.com](http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm.
+    [Connectingsingles.com](http://www.connectingsingles.com/).
 
 [^6_Pino_Dating_or_Escaping_47]: Cuban man profile from
     [Connectingsingles.com](http://www.connectingsingles.com/).
