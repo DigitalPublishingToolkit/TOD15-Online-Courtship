@@ -595,11 +595,11 @@ ICEC, Volume 4161, Lecture Notes in Computer Science. Ed. Richard
 Harper, Matthias Rauterberg, Marco Combetto, New York, Springer, 2006,
 pp.350-353.
 
-Reichert, Ramón. Amateure im Netz. Selbstmanagement und Wissenstechnik
-im Web 2.0, Bielefeld: transcript, 2008.
+Reichert, Ramón. *Amateure im Netz. Selbstmanagement und Wissenstechnik
+im Web 2.0*, Bielefeld: transcript, 2008.
 
 Reichert, Ramón. ‘Social Media Storytelling’, in: Bernd Kracke, Marc
-Ries (eds.): Expanded Narration, Bielefeld: transcript, 2013, pp.
+Ries (eds.): *Expanded Narration*, Bielefeld: transcript, 2013, pp.
 341-358.
 
 Strathern, Marilyn. *Audit Cultures: Anthropological Studies in
@@ -613,18 +613,18 @@ Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
     <http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/>
     2007
 
-[^4_Reichert_Dating_Maps_2]: Ramón Reichert, Amateure im Netz. Selbstmanagement und
-    Wissenstechnik im Web 2.0, Bielefeld: transcript, 2008, pp. 124-129.
+[^4_Reichert_Dating_Maps_2]: Ramón Reichert, *Amateure im Netz. Selbstmanagement und
+    Wissenstechnik im Web 2.0*, Bielefeld: transcript, 2008, pp. 124-129.
 
-[^4_Reichert_Dating_Maps_3]: Marilyn Strathern, Audit Cultures: Anthropological Studies in
-    Accountability, Ethics and the Academy, London: Routledge, 2000, p.
+[^4_Reichert_Dating_Maps_3]: Marilyn Strathern, *Audit Cultures: Anthropological Studies in
+    Accountability, Ethics and the Academy*, London: Routledge, 2000, p.
     15f.
 
-[^4_Reichert_Dating_Maps_4]: Martin Dodge and Rob Kitchin, Mapping Cyberspace, London:
+[^4_Reichert_Dating_Maps_4]: Martin Dodge and Rob Kitchin, *Mapping Cyberspace*, London:
     Routledge, 2000, p. 22.
 
 [^4_Reichert_Dating_Maps_5]: Georg Gartner, ‘Internet Cartography and Web Mapping’,
-    International Handbook Military Geography 41.7 (2006): 416-432.
+    *International Handbook Military Geography* 41.7 (2006): 416-432.
 
 [^4_Reichert_Dating_Maps_6]: Jeffrey Heer and danah boyd, ‘Vizster: Visualizing Online Social
     Networks.’ IEEE Symposium on Information Visualization. Minneapolis,
@@ -643,22 +643,22 @@ Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
     Networks.’ IEEE Symposium on Information Visualization. Minneapolis,
     Minnesota, October 23-25, 2005, p.2.
 
-[^4_Reichert_Dating_Maps_10]: Giorgio Agamben, The Coming Community, Minneapolis: University of
+[^4_Reichert_Dating_Maps_10]: Giorgio Agamben, *The Coming Community*, Minneapolis: University of
     Minnesota Press, 1993.
 
 [^4_Reichert_Dating_Maps_11]: Mark Andrejevic. ‘Surveillance and alienation in the online
-    economy’, Surveillance & Society 8/3 (2011): 278-287.
+    economy’, *Surveillance & Society* 8/3 (2011): 278-287.
 
 [^4_Reichert_Dating_Maps_12]: Christian Christensen ‘Discourses of Technology and Liberation:
-    State Aid to Net Activists in an Era of ‘Twitter Revolutions’’, The
-    Communication Review 14 (2011): 233-253.
+    State Aid to Net Activists in an Era of ‘Twitter Revolutions’, *The
+    Communication Review* 14 (2011): 233-253.
 
 [^4_Reichert_Dating_Maps_13]: Ramón Reichert, ‘Social Media Storytelling’. Expanded Narration.
     Ed. Bernd Kracke, Marc Ries, Bielefeld: transcript, 2013,
     pp.341-358.
 
-[^4_Reichert_Dating_Maps_14]: Michel Foucault*,* Dits et écrits IV, Paris: Gallimard, 1994,
+[^4_Reichert_Dating_Maps_14]: Michel Foucault,*Dits et écrits IV*, Paris: Gallimard, 1994,
     p.237.
 
-[^4_Reichert_Dating_Maps_15]: Matthew Causey, Theatre and Performance in Digital Culture: From
-    Simulation to Embeddedness, London/New York: Routledge, 2006.
+[^4_Reichert_Dating_Maps_15]: Matthew Causey, *Theatre and Performance in Digital Culture: From
+    Simulation to Embeddedness*, London/New York: Routledge, 2006.
