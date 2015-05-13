@@ -511,110 +511,107 @@ ways of social interaction between adolescents regarding matchmaking.
 
 ## References
 
-Albarello, Francisco. Leer y navegar en Internet, Buenos Aires: La
+Albarello, Francisco. *Leer y navegar en Internet*, Buenos Aires: La
 Crujía, 2011.
 
-Bauman, Zigmunt. Liquid Modernity, Cambridge: Polity, 2000.
+Bauman, Zigmunt. *Liquid Modernity*, Cambridge: Polity, 2000.
 
-Beck, Ulrich. Risk Society: Towards a New Modernity, London: Sage, 1992.
+Beck, Ulrich. *Risk Society: Towards a New Modernity*, London: Sage, 1992.
 
 Bouille, Julieta. ‘Cibercafés o la nueva esquina. Usos y apropiaciones
 de Internet en jóvenes de sectores populares’, in Urresti, M. (ed.),
-Ciberculturas juveniles, Buenos Aires: La Crujía, 2008, pp. 105-120.
+*Ciberculturas juveniles*, Buenos Aires: La Crujía, 2008, pp. 105-120.
 
-Butler, Judith. Bodies that Matter: On the Discursive Limits of “Sex”,
-Psychology Press: Cambridge, 1993.
+Butler, Judith. *Bodies that Matter: On the Discursive Limits of “Sex”*, Cambridge: Psychology Press, 1993.
 
-Castells, Manuel. Communication Power, Oxford: Oxford University Press,
+Castells, Manuel. *Communication Power*, Oxford: Oxford University Press,
 2009.
 
-Chalfen, Richard. Snapshots Versions of Life, Ohio: University Popular
+Chalfen, Richard. *Snapshots Versions of Life*, Ohio: University Popular
 Press, 1987.
 
-Goffman, Erving. The Presentation of Self in Everyday Life, New York:
+Goffman, Erving. *The Presentation of Self in Everyday Life*, New York:
 Anchor Books, 1959.
 
-Igarza, Roberto. Burbujas de Ocio, Buenos Aires: La Crujía, 2009.
+Igarza, Roberto. *Burbujas de Ocio*, Buenos Aires: La Crujía, 2009.
 
-Internet World Stats, http://www.Internetworldstats.com
+Internet World Stats, <http://www.Internetworldstats.com>
 
 Linne, Joaquín. Adolescentes y redes sociales. Usos y apropiaciones de
 Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents
-& social networking. Uses and appropiations of Facebook in low-income
-sectors of the City of Buenos Aires), Master thesis unpublished, Faculty
+& social networking. *Uses and appropiations of Facebook in low-income
+sectors of the City of Buenos Aires)*, Master thesis unpublished, Faculty
 of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.
 
-Lipovetsky, Gilles. El crepúsculo del deber, trans. Juana Bignozzi,
+Lipovetsky, Gilles. *El crepúsculo del deber, trans. Juana Bignozzi*,
 Barcelona: Anagrama, 1994.
 
 Mendelson, Andrew & Papacharissi, Zizi. ‘Look at us: Collective
 Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi,
-Z. (ed.), The Networked Self: Identity, Community and Culture on Social
-Network Sites. Illinois: Routledge, 2010.
+Z. (ed.), *The Networked Self: Identity, Community and Culture on Social
+Network Sites*. Illinois: Routledge, 2010.
 
-Morduchowicz, Roxana. La generación multimedia. Significados, consumos y
-prácticas culturales de los jóvenes, Buenos Aires: Paidós, 2008.
+Morduchowicz, Roxana. *La generación multimedia. Significados, consumos y
+prácticas culturales de los jóvenes*, Buenos Aires: Paidós, 2008.
 
-Piscitelli, Alejandro. Nativos Digitales, Buenos Aires: Santillana,
+Piscitelli, Alejandro. *Nativos Digitales*, Buenos Aires: Santillana,
 2009.
 
-Prensky, Marc, ‘Digital Natives, Digital Inmigrants’, On the Horizon,
+Prensky, Marc, ‘Digital Natives, Digital Inmigrants’, *On the Horizon*,
 9.5 (2001): 1-6.
 
 Social Bakers,
-http://[www.socialbakers.com](http://www.Checkfacebook.com/)
+[socialbakers.com](http://www.socialbakers.com/)
 
 Urresti, Marcelo. ‘Ciberculturas juveniles: vida cotidiana, subjetividad
 y pertenencia entre los jóvenes ante el impacto de las nuevas
 tecnologías de la comunicación y la información’, in Urresti, Marcelo
-(ed.), Ciberculturas juveniles (pp. 18-49). Buenos Aires: La Crujía,
+(ed.), *Ciberculturas juveniles* (pp. 18-49). Buenos Aires: La Crujía,
 2008.
 
 [^5_Basile_Linne_1]: Internet World Stats,
-    http://www.i[nternetworldstats.com](../customXml/item1.xml).
+    <http://www.internetworldstats.com>.
 
-[^5_Basile_Linne_2]: Marc Prensky, ‘Digital Natives, Digital Inmigrants’, On the
-    Horizon 9.5 (2001): 1-6.
+[^5_Basile_Linne_2]: Marc Prensky, ‘Digital Natives, Digital Inmigrants’, *On the
+    Horizon* 9.5 (2001): 1-6.
 
-[^5_Basile_Linne_3]: Richard Chalfen, Snapshots Versions of Life, Ohio: University
+[^5_Basile_Linne_3]: Richard Chalfen, *Snapshots Versions of Life*, Ohio: University
     Popular Press, 1987.
 
 [^5_Basile_Linne_4]: Meaning Playstation, a well-known brand of videogames.
 
-[^5_Basile_Linne_5]: Manuel Castells, Communication Power, Oxford: Oxford University
+[^5_Basile_Linne_5]: Manuel Castells, *Communication Power*, Oxford: Oxford University
     Press, 2009.
 
-[^5_Basile_Linne_6]: Alejandro Piscitelli, Nativos digitales, Buenos Aires: Santillana,
+[^5_Basile_Linne_6]: Alejandro Piscitelli, *Nativos digitales*, Buenos Aires: Santillana,
     2009.
 
-[^5_Basile_Linne_7]: Roxana Morduchowicz, La generación multimedia. Significados,
-    consumos y prácticas culturales de los jóvenes, Buenos Aires:
+[^5_Basile_Linne_7]: Roxana Morduchowicz, *La generación multimedia. Significados,
+    consumos y prácticas culturales de los jóvenes*, Buenos Aires:
     Paidós, 2008.
 
-[^5_Basile_Linne_8]: Francisco Albarello, Leer y navegar en Internet, Buenos Aires: La
+[^5_Basile_Linne_8]: Francisco Albarello, *Leer y navegar en Internet*, Buenos Aires: La
     Crujía, 2011.
 
-[^5_Basile_Linne_9]: Zigmunt Bauman, Liquid Modernity, Cambridge: Polity, 2000.
+[^5_Basile_Linne_9]: Zigmunt Bauman, *Liquid Modernity*, Cambridge: Polity, 2000.
 
-[^5_Basile_Linne_10]: Gilles Lipovetsky, El crepúsculo del deber, Barcelona: Anagrama,
+[^5_Basile_Linne_10]: Gilles Lipovetsky, *El crepúsculo del deber*, Barcelona: Anagrama,
     1994.
 
 [^5_Basile_Linne_11]: Joaquín Linne, Adolescentes y redes sociales. Usos y
     apropiaciones de Facebook en sectores populares de la Ciudad de
-    Buenos Aires (Adolescents & social networking. Uses and
-    appropiations of Facebook in low-income sectors of the City of
-    Buenos Aires), Master thesis unpublished, Faculty of Social
+    Buenos Aires (Adolescents & social networking. *Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)*, Master thesis unpublished, Faculty of Social
     Sciences, University of Buenos Aires, Buenos Aires, 2013.
 
-[^5_Basile_Linne_12]: Judith Butler, Bodies that Matter: On the Discursive Limits of
-    “sex”, Psychology Press: Cambridge, 1993.
+[^5_Basile_Linne_12]: Judith Butler, *Bodies that Matter: On the Discursive Limits of
+    “Sex”*, Psychology Press: Cambridge, 1993.
 
 [^5_Basile_Linne_13]: Andrew Mendelson and Zizi Papacharissi, ‘Look at Us: Collective
     Narcissism in College Student Facebook PhotoGalleries’, in
-    Papacharissi, Z. (ed.), The Networked Self: Identity, Community and
-    Culture on Social Network Sites. Illinois: Routledge, 2010.
+    Papacharissi, Z. (ed.), *The Networked Self: Identity, Community and
+    Culture on Social Network Sites*. Illinois: Routledge, 2010.
 
-[^5_Basile_Linne_14]: Erving Goffman, The Presentation of Self in Everyday Life, New
+[^5_Basile_Linne_14]: Erving Goffman, *The Presentation of Self in Everyday Life*, New
     York: Anchor Books, 1959.
 
 [^5_Basile_Linne_15]: Joaquín Linne, Adolescentes y redes sociales. Usos y
