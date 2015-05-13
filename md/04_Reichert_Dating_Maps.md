@@ -561,26 +561,26 @@ fundamentally dependent on political and economic contexts.
 
 ## References
 
-Agamben, Giorgio. The Coming Community. Minneapolis: University of
+Agamben, Giorgio. *The Coming Community*. Minneapolis: University of
 Minnesota Press, 1993.
 
 Andrejevic, Mark. ‘Surveillance and Alienation in the Online Economy’,
-Surveillance & Society, 8/3 (2011): 278-287.
+*Surveillance & Society*, 8/3 (2011): 278-287.
 
-Causey, Matthew. Theatre and Performance in Digital Culture: From
-Simulation to Embeddedness, London/New York: Routledge, 2006.
+Causey, Matthew. *Theatre and Performance in Digital Culture: From
+Simulation to Embeddedness*, London/New York: Routledge, 2006.
 
 Christensen, Christian. ‘Discourses of Technology and Liberation: State
-Aid to Net Activists in an Era of ‘Twitter Revolutions’’, The
-Communication Review 14 (2011): 233-253.
+Aid to Net Activists in an Era of ‘Twitter Revolutions’, *The
+Communication Review* 14 (2011): 233-253.
 
-Dodge, Martin and Kitchin, Rob. Mapping Cyberspace, London: Routledge,
+Dodge, Martin and Kitchin, Rob. *Mapping Cyberspace*, London: Routledge,
 2000.
 
-Foucault, Michel. Dits et écrits IV, Paris: Gallimard, 1994.
+Foucault, Michel. *Dits et écrits IV*, Paris: Gallimard, 1994.
 
-Gartner, Georg. ‘Internet Cartography and Web Mapping’. International
-Handbook Military Geography 41.7 (2006): 416-432.
+Gartner, Georg. ‘Internet Cartography and Web Mapping’. *International
+Handbook Military Geography* 41.7 (2006): 416-432.
 
 Heer, Jeffrey and boyd, danah. ‘Vizster: Visualizing Online Social
 Networks’, IEEE Symposium on Information Visualization. Minneapolis,
@@ -599,18 +599,18 @@ Reichert, Ramón. Amateure im Netz. Selbstmanagement und Wissenstechnik
 im Web 2.0, Bielefeld: transcript, 2008.
 
 Reichert, Ramón. ‘Social Media Storytelling’, in: Bernd Kracke, Marc
-Ries (eds*.):* Expanded Narration, Bielefeld: transcript, 2013, pp.
+Ries (eds.): Expanded Narration, Bielefeld: transcript, 2013, pp.
 341-358.
 
-Strathern, Marilyn. Audit Cultures: Anthropological Studies in
-Accountability, Ethics and the Academy, London: Routledge, 2000.
+Strathern, Marilyn. *Audit Cultures: Anthropological Studies in
+Accountability, Ethics and the Academy*, London: Routledge, 2000.
 
 Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
 2014.
 <http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/>
 
 [^4_Reichert_Dating_Maps_1]: Wolfgang Ernst. Jenseits des Archivs: Bit Mapping.
-    [http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/](numbering.xml)
+    <http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/>
     2007
 
 [^4_Reichert_Dating_Maps_2]: Ramón Reichert, Amateure im Netz. Selbstmanagement und
