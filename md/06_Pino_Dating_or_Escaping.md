@@ -522,12 +522,11 @@ sickness and in health”.
 
 Communicational dimension is another question included in some profiles,
 both in self-presentation and in the description of the person looking
-to meet. <span id="result_box3" class="anchor"></span>Thus, individuals
+to meet. Thus, individuals
 are described as talkative persons, wanting to “meet people that love to
 have a conversation, by email, phone or whatever”,[^6_Pino_Dating_or_Escaping_52] “someone
 friendly that enjoys communication”[^6_Pino_Dating_or_Escaping_53] or “a sincere person, easy to
-talk to, [who] takes as well as gives from a relation”.<span
-id="result_box2" class="anchor"></span>[^6_Pino_Dating_or_Escaping_54] Also men include that
+talk to, [who] takes as well as gives from a relation”.[^6_Pino_Dating_or_Escaping_54] Also men include that
 dimension on their description, considering that one of the most
 important thing in a couple “must be communication for all agreement,
 plans, preferences, and ways to go, all in all…to be as a same
@@ -635,12 +634,12 @@ dating websites, both on its content and its dynamics.
 
 ## References
 
-Aguirre, Benigno E. 'Social Control in Cuba', Latin American Politics
-and Society 44(2) (Summer, 2002): 67-98.
+Aguirre, Benigno E. 'Social Control in Cuba', *Latin American Politics
+and Society* 44(2) (Summer, 2002): 67-98.
 
-Burns, Robert B. Introduction to Research Methods, London: Sage, 2000.
+Burns, Robert B. *Introduction to Research Methods*, London: Sage, 2000.
 
-Castells, Manuel. The Rise of the Network Society, Cambridge, MA, USA:
+Castells, Manuel. *The Rise of the Network Society*, Cambridge, MA, USA:
 Blackwell Publishers, Inc., 1996.
 
 Castro Ruz, Raúl. 'Speech at the Sixth Ordinary Session of the Seventh
