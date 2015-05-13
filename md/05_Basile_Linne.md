@@ -17,12 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**The Virtual Nightclub: Adolescents from Low-Income Sectors Search for
-Their Couples through Facebook**
+# The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook
 
-Diego Basile and Joaquín Linne
+### Diego Basile and Joaquín Linne
 
-**Introduction**
+## Introduction
 
 Along with the popularization of Internet produced in the first decade
 of the century, the ways of obtaining knowledge and youth socialization
@@ -81,7 +80,7 @@ themselves with the “Play”,[^5_Basile_Linne_4] they watch audiovisual conten
 display, take and edit photos, and use social network sites. In this
 context, FB appears as their main entertainment and communication media.
 
-**Methodology**
+## Methodology
 
 Fieldwork consisted of observations and twenty in-depth interviews to
 adolescents of LIS in schools, commercial *spots* with Internet and
@@ -108,7 +107,7 @@ sociability and the strategies that adolescents display while searching
 for a couple and seducing others by publishing text and personal images
 on the network.
 
-**Adolescents, digital natives and multitasking**
+## Adolescents, digital natives and multitasking
 
 Studies about new technologies and the Internet have elaborated
 ​​categories that contributed in fighting against conservative positions
@@ -145,9 +144,9 @@ Let’s focus now on our specific topic for this research, practices and
 representations of adolescents of LIS of the City of Buenos Aires while
 searching for a date online.
 
-**Results**
+## Results
 
-***Searching for a couple on Facebook***
+### Searching for a couple on Facebook
 
 In a way FB has helped to create millions of couples but has also
 contributed to the dissolution of many others. Since the platform keeps
@@ -204,7 +203,7 @@ While adults over forty tend to search for a couple through dating sites
 and contacts (where they feel it is easier to refine the search for the
 other), youth and adolescents have FB as their main matchmaker.
 
-***Strategies***
+### Strategies
 
 In a context where social networks, communication, and entertainment
 with friends and classmates are part of daily activity, adolescents use
@@ -291,7 +290,7 @@ By multimedia, chat, private messages and posts of others and their own
 ones, they generate ingenious or romantic messages under the format of
 texts, pictures, memes, video clips and animations.
 
-***Advantages***
+### Advantages
 
 From the adolescent’s point of view, the search of a couple in FB has
 both advantages and disadvantages. When we asked the adolescents we
@@ -384,7 +383,7 @@ person in any level. For example, an adolescent of 15 years old from
 was fine and on weekends too, but later in the week he didn’t pay
 attention to me, never calls, he is an idiot.”
 
-***The Virtual Nightclub***
+### The Virtual Nightclub
 
 Considering all these aspects, we can think of the social network as a
 virtual nightclub. There is a difference between the traditional modes
@@ -475,7 +474,7 @@ but, at the same time, makes it much more difficult the rupture of the
 tension in a face to face encounter, which adolescents declare when they
 express their fear of “not knowing who the other really is”.
 
-**Conclusions**
+## Conclusions
 
 Just like before the massification of Internet, girls try to decode what
 message\
@@ -510,7 +509,7 @@ in the profiles. In conclusion, we define the social network as a
 “virtual nightclub”, to highlight the changes that have occurred in the
 ways of social interaction between adolescents regarding matchmaking.
 
-**References**
+## References
 
 Albarello, Francisco. Leer y navegar en Internet, Buenos Aires: La
 Crujía, 2011.
