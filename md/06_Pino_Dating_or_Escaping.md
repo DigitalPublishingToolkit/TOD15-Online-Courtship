@@ -52,7 +52,7 @@ prices: 4.50 USD per hour of full Internet access; 1.50 USD per hour of
 access to the national intranet network, plus international email
 access; and 0.60 USD per hour of access to the national intranet
 network. As a Cuban blogger explained to the Spanish newspaper [El
-País](http://www.elpais.com/)*,* the price of an hour of Internet access
+País](http://www.elpais.com/), the price of an hour of Internet access
 “is roughly equivalent to what I spend in a week on eating”.[^6_Pino_Dating_or_Escaping_6]
 
 In such a scenario, where Internet access is not only a real privilege
@@ -517,8 +517,7 @@ profiles, but could also generate compassion and a desire to help in
 those people reading it. In that sense, a woman describe the person she
 is looking for as “someone that enjoys a good joke as well as sharing
 the problems in life”,[^6_Pino_Dating_or_Escaping_51] in a clear reference to the well-known
-phrase of the marriage ceremony: “<span id="result_box1"
-class="anchor"></span>in good times, in bad, for richer, for poorer, in
+phrase of the marriage ceremony: “in good times, in bad, for richer, for poorer, in
 sickness and in health”.
 
 Communicational dimension is another question included in some profiles,
