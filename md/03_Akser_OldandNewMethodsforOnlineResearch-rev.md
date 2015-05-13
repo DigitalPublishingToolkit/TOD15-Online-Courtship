@@ -267,154 +267,153 @@ assumptions and give way to a better understanding of online romance.
 ## References:
 
 Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of
-Fantasy’, New Media & Society 8.4 (2006): 671-690.
+Fantasy’, *New Media & Society 8.4* (2006): 671-690.
 
 Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and
-Connecting Online’, CyberPsychology and Behavior, 3.2 (2000): 237-242.
+Connecting Online’, *CyberPsychology and Behavior*, 3.2 (2000): 237-242.
 
-Chambers, Deborah. Social Media and Personal Relationships: Online
-Intimacies and Networked Friendship, Basingstoke: Palgrave Macmillan,
+Chambers, Deborah. *Social Media and Personal Relationships: Online
+Intimacies and Networked Friendship*, Basingstoke: Palgrave Macmillan,
 2013.
 
-Closer. Mike Nichols. 2004. Film.
+*Closer*. Mike Nichols. 2004. Film.
 
 Couch, Danielle, and Liamputtong, Pranee. ‘Online Dating and Mating: The
-Use of the Internet to Meet Sexual Partners’, Qualitative Health
-Research 18.2 (2008): 268-279.
+Use of the Internet to Meet Sexual Partners’, *Qualitative Health
+Research* 18.2 (2008): 268-279.
 
 Craig, Elizabeth, and Wright, Kevin B. ‘Computer-mediated Relational
-Development and Maintenance on Facebook®’, Communication Research
-Reports 29.2 (2012): 119-129.
+Development and Maintenance on Facebook®’, *Communication Research
+Reports* 29.2 (2012): 119-129.
 
 DeAndrea, David C., et al. ‘When Do People Misrepresent Themselves to
 Others? The Effects of Social Desirability, Ground Truth, and
-Accountability on Deceptive Self‐Presentations’, Journal of
-Communication 62.3 (2012): 400-417.
+Accountability on Deceptive Self‐Presentations’, *Journal of
+Communication* 62.3 (2012): 400-417.
 
 Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. ‘Profile
 as Promise: A Framework for Conceptualizing Veracity in Online Dating
-Self-presentations’, New Media & Society 14.1 (2012): 45-62.
+Self-presentations’, *New Media & Society* 14.1 (2012): 45-62.
 
 Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing
 Impressions Online: Self‐presentation Processes in the Online Dating
-Environment’, Journal of Computer-Mediated Communication 11.2 (2006):
+Environment’, *Journal of Computer-Mediated Communication* 11.2 (2006):
 415-441.
 
 Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. ‘Dating
 Deception: Gender, Online Dating, and Exaggerated Self-presentation’,
-Computers in Human Behavior 28.2 (2012): 642-647.
+*Computers in Human Behavior* 28.2 (2012): 642-647.
 
 Hall, Jeffrey A., et al. ‘Strategic Misrepresentation in Online Dating:
-The Effects of Gender, Self-monitoring, and Personality Traits’, Journal
-of Social and Personal Relationships 27.1 (2010): 117-135.
+The Effects of Gender, Self-monitoring, and Personality Traits’, *Journal
+of Social and Personal Relationships* 27.1 (2010): 117-135.
 
 Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. ‘What Makes you Click?
-Mate Preferences in Online Dating’, Quantitative Marketing and Economics
+Mate Preferences in Online Dating’, *Quantitative Marketing and Economics*
 8.4 (2010): 393-427.
 
 Kreager, Derek A., et al. ‘“Where Have All the Good Men Gone?” Gendered
-Interactions in Online Dating’, Journal of Marriage and Family 76.2
+Interactions in Online Dating’, *Journal of Marriage and Family* 76.2
 (2014): 387-410.
 
-Orton-Johnson, K. and Prior, Nick. (eds). Digital Sociology: Critical
-Perspectives, Basingstoke: Palgrave Macmillan, 2013.
+Orton-Johnson, K. and Prior, Nick. (eds). *Digital Sociology: Critical
+Perspectives*, Basingstoke: Palgrave Macmillan, 2013.
 
 Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. ‘The
-Social Demography of Internet Dating in the United States’, Social
-Science Quarterly 91.2 (2010): 554-575.
+Social Demography of Internet Dating in the United States’, *Social
+Science Quarterly* 91.2 (2010): 554-575.
 
 Toma, Catalina L., Hancock, Jeffrey T. and Ellison, Nicole B.
 ‘Separating Fact from Fiction: An Examination of Deceptive
-Self-presentation in Online Dating Profiles’, Personality and Social
-Psychology Bulletin 34.8 (2008): 1023-1036.
+Self-presentation in Online Dating Profiles’, *Personality and Social
+Psychology Bulletin* 34.8 (2008): 1023-1036.
 
 Toma, Catalina L., and Hancock, Jeffrey T. ‘Looks and Lies: The Role of
 Physical Attractiveness in Online Dating Self-presentation and
-Deception’, Communication Research 37.3 (2010): 335-351.
+Deception’, *Communication Research* 37.3 (2010): 335-351.
 
 \_\_\_\_\_\_. ‘What Lies Beneath: The Linguistic Traces of Deception in
-Online Dating Profiles’, Journal of Communication 62.1 (2012): 78-97.
+Online Dating Profiles’, *Journal of Communication* 62.1 (2012): 78-97.
 
 Valkenburg, Patti M., and Peter, Jochen. ‘Who Visits Online Dating
-Sites? Exploring Some Characteristics of Online Daters’, CyberPsychology
-& Behavior 10.6 (2007): 849-852.
+Sites? Exploring Some Characteristics of Online Daters’, *CyberPsychology
+& Behavior* 10.6 (2007): 849-852.
 
 Whitty, Monica, and Gavin, Jeff. ‘Age/sex/location: Uncovering the
-Social Cues in the Development of Online Relationships’, CyberPsychology
-*&* Behavior 4.5 (2001): 623-630.
+Social Cues in the Development of Online Relationships’, *CyberPsychology
+& Behavior* 4.5 (2001): 623-630.
 
-Whitty, Monica T., & Carr, Adrian N. Cyberspace Romance: The Psychology
-of Online Relationships, Basingstoke: Palgrave Macmillan, 2010.
+Whitty, Monica T., & Carr, Adrian N. Cyberspace *Romance: The Psychology
+of Online Relationships*, Basingstoke: Palgrave Macmillan, 2010.
 
 Young, Dannagal Goldthwaite, and Caplan, Scott E. ‘Online Dating and
-Conjugal Bereavement’, Death Studies 34.7 (2010): 575-605.
+Conjugal Bereavement’, *Death Studies* 34.7 (2010): 575-605.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_1]: K. Orton-Johnson and Nick Prior (eds) Digital Sociology: Critical
-    Perspectives, Basingstoke: Palgrave Macmillan, 2013, p. 4.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_1]: K. Orton-Johnson and Nick Prior (eds) *Digital Sociology: Critical
+    Perspectives*, Basingstoke: Palgrave Macmillan, 2013, p. 4.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_2]: Arvidsson, Adam. ‘‘Quality Singles’: Internet Dating and the Work
-    of Fantasy’, New Media & Society 8.4 (2006): 686.
+    of Fantasy’, *New Media & Society* 8.4 (2006): 686.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_3]: Deborah Chamber, Social Media and Personal Relationships: Online
-    Intimacies and Networked Friendship, Basingstoke: Palgrave
-    Macmillan, 2013, p. 139.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_3]: Deborah Chamber, *Social Media and Personal Relationships: Online
+    Intimacies and Networked Friendship*, Basingstoke: Palgrave Macmillan, 2013, p. 139.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_4]: İbid., p. 140.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_5]: Ibid., p. 141.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_6]: Dannagal Goldthwaite Young and Scott E. Caplan, ‘Online Dating and
-    Conjugal Bereavement’, Death Studies 34.7 (2010): 575.
+    Conjugal Bereavement’, *Death Studies* 34.7 (2010): 575.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_7]: Andrea Baker, ‘Two by Two in Cyberspace: Getting Together and
-    Connecting online’, CyberPsychology and Behavior, 3.2 (2000):
+    Connecting online’, *CyberPsychology and Behavior*, 3.2 (2000):
     239-242.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_8]: Patti M. Valkenburg and Jochen Peter, ‘Who Visits Online Dating
     Sites? Exploring Some Characteristics of Online Daters’,
-    CyberPsychology & Behavior 10.6 (2007): 849.
+    *CyberPsychology & Behavior* 10.6 (2007): 849.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_9]: Ibid. p.850.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_10]: Jessica M. Sautter, Rebecca M. Tippett, and S. Philip Morgan.
     ‘The Social Demography of Internet Dating in the United States’,
-    Social Science Quarterly 91.2 (2010): 554.
+    *Social Science Quarterly* 91.2 (2010): 554.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_11]: Danielle Couch and Pranee Liamputtong, ‘Online Dating and Mating:
-    The Use of the Internet to Meet Sexual Partners’, Qualitative Health
-    Research 18.2 (2008): 268.
+    The Use of the Internet to Meet Sexual Partners’, *Qualitative Health
+    Research* 18.2 (2008): 268.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_12]: Elizabeth Craig and Kevin B. Wright, ‘Computer-mediated
-    Relational Development and Maintenance on Facebook®’, Communication
-    Research Reports 29.2 (2012): 119.
+    Relational Development and Maintenance on Facebook®’, *Communication
+    Research Reports* 29.2 (2012): 119.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_13]: Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma.
     ‘Profile as Promise: A Framework for Conceptualizing Veracity in
-    Online Dating Self-presentations’, New Media & Society 14.1 (2012):
+    Online Dating Self-presentations’, *New Media & Society* 14.1 (2012):
     45.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_14]: Ibid. p.60
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_15]: ibid
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_15]: Ibid.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_16]: Catalina L.Toma and Jeffrey T. Hancock. ‘Looks and lies: The role
     of Physical Attractiveness in Online Dating Self-presentation and
-    Deception’, Communication Research 37.3 (2010): 335.
+    Deception’, *Communication Research* 37.3 (2010): 335.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_17]: Catalina L. Toma and Jeffrey T. Hancock. ‘What Lies Beneath: The
-    Linguistic Traces of Deception in Online Dating Profiles*’,* Journal
-    of Communication 62.1 (2012): 78.
+    Linguistic Traces of Deception in Online Dating Profiles’,*Journal
+    of Communication* 62.1 (2012): 78.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_18]: David C. DeAndrea et al. ‘When Do People Misrepresent Themselves
     to Others? The Effects of Social Desirability, Ground Truth, and
-    Accountability on Deceptive Self‐Presentations’, Journal of
-    Communication 62.3 (2012): 415.
+    Accountability on Deceptive Self‐Presentations’, *Journal of
+    Communication* 62.3 (2012): 415.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_19]: Derek A. Kreager et al. ‘“Where Have All the Good Men Gone?”
-    Gendered Interactions in Online Dating’, Journal of Marriage and
-    Family 76.2 (2014): 387.
+    Gendered Interactions in Online Dating’, *Journal of Marriage and
+    Family* 76.2 (2014): 387.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_20]: Jeffrey A. Hall et al. ‘Strategic Misrepresentation in Online
     Dating: The Effects of Gender, Self-monitoring, and Personality
-    Traits’, Journal of Social and Personal Relationships 27.1 (2010):
+    Traits’, *Journal of Social and Personal Relationships* 27.1 (2010):
     117-118.
