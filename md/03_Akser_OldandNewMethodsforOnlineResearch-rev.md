@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Old and New Methods for Online Research: The Case of Online Dating**
+# Old and New Methods for Online Research: The Case of Online Dating
 
-Murat Akser
+### Murat Akser
 
 The proverbial opening of the 2004 film *Closer* shows us a passionate
 online chat message exchange between two people. Believing to be
@@ -55,7 +55,7 @@ the same in new media. She states how the alienating pressures of work
 life are countered by online dating that allows people to relive romance
 in the most traditional way.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_5]
 
-**A Humanities or a Social Science Issue?**
+## A Humanities or a Social Science Issue?
 
 The gathering and use of data related to online courtship seem to be
 within the domain of psychology since the inception of the World Wide
@@ -81,7 +81,7 @@ such researchers. The online dating of widows after the death of their
 loved ones proves to be a cure for life long misery on the bereaving
 parties.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_6]
 
-**Who Dates Online?**
+## Who Dates Online?
 
 The early studies focused on who uses online dating sites. Question of
 what happened after the online couples met dominated the late 1990s.
@@ -151,7 +151,7 @@ Facebook users supplement their Facebook communications with
 face-to-face interactions. Through these encounters, the online couples
 take care of any potential misunderstandings.
 
-**Deceptive Self-Presentation: A Psychological or A Security Issue?**
+## Deceptive Self-Presentation: A Psychological or A Security Issue?
 
 Misrepresentation has been, and it still is the most studied phenomenon
 in online dating. Ellison et al explore how users conceptualize
@@ -245,7 +245,7 @@ misrepresent personal assets, relationship goals, personal interests,
 and personal attributes, whereas women are more likely to misrepresent
 weight.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_20]
 
-**Conclusion**
+## Conclusion
 
 The research literature on online dating has mostly concentrated on two
 strands of research: on who uses these services and why-how
@@ -264,7 +264,7 @@ The online dating services are big, and the services they provide are on
 demand. The next decade of online dating research will questions today’s
 assumptions and give way to a better understanding of online romance.
 
-**References**:
+## References:
 
 Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of
 Fantasy’, New Media & Society 8.4 (2006): 671-690.
