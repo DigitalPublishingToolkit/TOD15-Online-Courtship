@@ -478,7 +478,7 @@ write itself.
 
 ## References
 
-Zygmun Bauman, Liquid Love: On the Frailty of Human Bonds, Cambridge,
+Zygmunt Bauman, Liquid Love: On the Frailty of Human Bonds, Cambridge: Polity Press,
 2003.
 
 Dominique Baqué, Paris, E-Love. Petit marketing de la rencontre, Anabet,
