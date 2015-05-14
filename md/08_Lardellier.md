@@ -478,54 +478,53 @@ write itself.
 
 ## References
 
-Zygmunt Bauman, Liquid Love: On the Frailty of Human Bonds, Cambridge: Polity Press,
+Zygmunt Bauman, *Liquid Love: On the Frailty of Human Bonds*, Cambridge: Polity Press,
 2003.
 
-Dominique Baqué, Paris, E-Love. Petit marketing de la rencontre, Anabet,
+Dominique Baqué, Paris, *E-Love. Petit marketing de la rencontre*, Anabet,
 2008.
 
 Marie Bergström, ‘La loi du Supermarché? Sites de Rencontres et
-Représentations de L'amour ‘, P.U.F. Ethnologie Française, 3. 43, (2013:
+Représentations de L'amour ‘, P.U.F. *Ethnologie Française*, 3. 43, (2013:
 )433- 442.
 
-Elisabeth Bernstein, Temporarily Yours. Intimacy, Authenticity and the
-Commerce of Sex, Chicago, University of Chicago Press., 2007.
+Elisabeth Bernstein, *Temporarily Yours. Intimacy, Authenticity and the
+Commerce of Sex*, Chicago: University of Chicago Press, 2007.
 
-Gargi Bhattacharyya Sexuality and Society. An Introduction, Routledge,
-London/New York, 2002.
+Gargi Bhattacharyya, *Sexuality and Society. An Introduction*, London/New York: Routledge, 2002.
 
-Serge Chaumier, La Déliaison Amoureuse. De la Fusion Romantique au Désir
-D’indépendance, Paris, Armand Colin, 1999.
+Serge Chaumier, *La Déliaison Amoureuse. De la Fusion Romantique au Désir
+D’indépendance*, Paris: Armand Colin, 1999.
 
 Philippe Combessie, Sibylla Mayer, ‘Une Nouvelle économie des Relations
 Sexuelles?’ Ethnologie Française, Sexualités Négociées, Presses
 Universitaires de France, 2013.
 
-John Gagnon and William Simon, Sexual Conduct. The Social Sources of
-Human Sexuality, Chicago, Aldine, 1973.
+John Gagnon and William Simon, *Sexual Conduct. The Social Sources of
+Human Sexuality*, Chicago: Aldine, 1973.
 
-Anthony Giddens, The Transformation of Intimacy : Sexuality, Love and
-Eroticism in Modern Societies, Stanford University Press, 1992, 2004.
+Anthony Giddens, *The Transformation of Intimacy : Sexuality, Love and
+Eroticism in Modern Societies*, Stanford, CA: Stanford University Press, 1992, 2004.
 
 Mark Granovetter, ‘The Strength of Weak Ties :A Network Theory
-Revisited’, Sociological Theory, 1. (1983): 201-233.
+Revisited’, *Sociological Theory* 1. (1983): 201-233.
 
-Eva Illouz, Consuming the Romantic Utopia: Love and the Cultural
-Contradictions of Capitalism, Berkeley, University of California Press,
+Eva Illouz, *Consuming the Romantic Utopia: Love and the Cultural
+Contradictions of Capitalism*, Berkeley: University of California Press,
 1997.
 
-Eva Illouz, Why Love Hurts : A Sociological Explanation, Polity, 2011.
+Eva Illouz, *Why Love Hurts : A Sociological Explanation*, Cambridge: Polity Press, 2011.
 
-Eva Illouz, ‘Réseaux Amoureux sur Internet’, Réseaux, 138. 2006:
+Eva Illouz, ‘Réseaux Amoureux sur Internet’, *Réseaux* 138. 2006:
 269-272.
 
-Eva Illouz, Cold Intimacies : The Making of Emotional Capitalism,
-London, Polity Press, 2007.
+Eva Illouz, *Cold Intimacies : The Making of Emotional Capitalism*,
+Cambridge: Polity Press, 2007.
 
-Jean-Claude Kaufmann, Sex@mour, Paris, Armand Colin, 2010.
+Jean-Claude Kaufmann, *Sex@mour*, Paris: Armand Colin, 2010.
 
 Emmanuel Kessous, ‘L’amour en Projet. Internet et les Conventions de la
-Rencontre Amoureuse’, Réseaux, 166. (2011) : 191-223.
+Rencontre Amoureuse’, *Réseaux* 166. (2011) : 191-223.
 
 Pascal Lardellier. ‘De la Consommation Sentimentale et Sexuelle de Masse
 à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), @mours
@@ -538,20 +537,18 @@ Belin, 2004.
 Pascal Lardellier, Les Réseaux du Cœur. Sexe, Amour et Séduction sur
 Internet, Paris, François Bourin, 2012.
 
-Niklas Luhmann, Love as Passion. The Codification of Intimacy,
-Cambridge, Polity Press, 1986.
+Niklas Luhmann, *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
 
 Marc Parmentier, ‘Philosophie des sites de rencontres’, Hermès.
 59.(2011) : 173-178, 2011.
 
-Martin King White, Dating, Mating, and Marriage, New York, Aldine de
-Gruyter, 1990.
+Martin King, *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
 
 [^8_Lardellier_1]: *cf*. bibliography, Lardellier
 
-[^8_Lardellier_2]: Cf. Illouz, 1997 2007, bibliography.
+[^8_Lardellier_2]: *cf*. Illouz, 1997 2007, bibliography.
 
-[^8_Lardellier_3]: It s difficult to get the exact number of profiles from the sites
+[^8_Lardellier_3]: It is difficult to get the exact number of profiles from the sites
     themselves, in so far as those numbers are « strategic », and
     jealously kept secret. However, the french market of online dating
     gather 5 ou 6 millions of singles, registred on 10 main sites.
