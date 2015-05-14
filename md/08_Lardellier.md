@@ -17,12 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Liberalism Conquering Love: Reports and Reflections on Mass Romantic
-and Sexual Consumption in the Internet Age**
+# Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age
 
-**Pascal Lardellier**
+### Pascal Lardellier
 
-**Introduction**
+## Introduction
 
 The Internet and dating websites have had a strong impact on the nature
 of seductive relationships over a short period of time. This statement,
@@ -65,7 +64,7 @@ chapter will then discuss this phenomenon in the light of more general
 sociological reflections and philosophical considerations about love and
 the digital-network-era couple.
 
-**Methodology and Surveys**
+## Methodology and Surveys
 
 This chapter is based on two surveys carried out between 2003 and 2012,
 then published in 2004 and 2012.[^8_Lardellier_1] In order to conduct these surveys,
@@ -77,7 +76,7 @@ a theme mentioned by the majority of those surveyed, despite some
 differences in wording. The analyses taken from these surveys were
 developed by the author, who has experience working in this field.
 
-**The Victory of Liberalism in Romantic Relationships**
+## The Victory of Liberalism in Romantic Relationships
 
 First of all, it should be remembered that romantic/seductive
 relationships on the Internet have notable differences from those in
@@ -197,7 +196,7 @@ insatiable urges that make them suffer. The handsome ones and those full
 of themselves easily obtain sexual fulfillment. As for the losers, they
 are left with pictures, fantasies, and masturbation as their solace.
 
-***Dating Websites: a Triple Principle of Economics***
+### Dating Websites: a Triple Principle of Economics
 
 Romantic/seductive online relationships are governed by a triple
 principle of economics: the economics of time, money, and emotions. This
@@ -248,7 +247,7 @@ with its young clientele, who master the relationship codes on social
 networks. So even if the title may seem exaggerated, we are most
 certainly living in the realm of love won over by liberalism.
 
-***The Internet, Romance, and Being Internationally Single***
+### The Internet, Romance, and Being Internationally Single
 
 Liberalism is expressed in an even more tangible manner when you think
 of online romantic/seductive encounters. The global expansion of dating
@@ -305,13 +304,13 @@ founded on economic principles. Feelings are not completely absent, but
 if they develop, it is much later on. ‘Playing the love market’ looks
 set to remain a global game.
 
-**Love on the Internet**
+## Love on the Internet
 
 This part of the chapter will expand the frame of analysis so as to
 offer more general sociological and philosophical considerations about
 the new types of couples found in the Internet era.
 
-***Singles Enduring Paradoxical Tensions***
+### Singles Enduring Paradoxical Tensions
 
 First of all, it seems that the effects of solitude felt in our society
 throughout history are still just as present in the era of commoditized
@@ -331,8 +330,7 @@ then it has never been more difficult to meet others. If proof were
 needed, we need simply to look at the millions who have already
 registered for dating sites.
 
-***The Traditional Couple Transformed by Information and Communication
-Technologies ***
+### The Traditional Couple Transformed by Information and Communication Technologies
 
 In all cases, Internet suitors conform to a procedure which, for the
 first time ever, reverses the chronology of events: they become
@@ -413,7 +411,7 @@ Internet, in a kind of stressful addiction. That is to say that you
 embark upon a quest which is not only continuous, but one in which what
 you do not always know what you are searching for.”[^8_Lardellier_10]
 
-***Romantic Relationships – Fragile but Interchangeable***
+### Romantic Relationships – Fragile but Interchangeable
 
 Nowadays, love is a fixed-term contract. But couples who have signed a
 permanent contract can also fall apart due to the arrival of information
@@ -451,7 +449,7 @@ They face so many failures, and do this all while confronting the
 fragility of connections and the difficulty of creating a strong couple
 in this society of ‘connected individualism.’
 
-***Computer-Assisted Romance***
+### Computer-Assisted Romance
 
 It is always interesting to come back to the wisdom of ancient authors
 in a period of change. From Ovid’s *The Art of Love*, a straightforward
@@ -478,7 +476,7 @@ even more abruptly break this same bond. And so we see the history of
 romantic relationships: never ending, always reinvented, continuing to
 write itself.
 
-**References**
+## References
 
 Zygmun Bauman, Liquid Love: On the Frailty of Human Bonds, Cambridge,
 2003.
