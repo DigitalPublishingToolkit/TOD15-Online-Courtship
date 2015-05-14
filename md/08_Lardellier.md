@@ -549,21 +549,21 @@ Martin King, *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter,
 [^8_Lardellier_2]: *cf*. Illouz, 1997 2007, bibliography.
 
 [^8_Lardellier_3]: It is difficult to get the exact number of profiles from the sites
-    themselves, in so far as those numbers are « strategic », and
+    themselves, in so far as those numbers are a strategic and
     jealously kept secret. However, the french market of online dating
-    gather 5 ou 6 millions of singles, registred on 10 main sites.
+    gather 5 or 6 million singles, registred on 10 main sites.
     Meetic, the most famous french site (that principally belongs to the
-    américain Match.com) has over than a million members for instance.
+    American Match.com) has over than a million members for instance.
 
 [^8_Lardellier_4]: “The Game of Love and Chance”, “Les jeux de l’amour et du hazard”
     in French, is a romantic comedy written by the French author
     Marivaux, first played in 1730.
 
-[^8_Lardellier_5]: http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&siteedition=intl&\_i\_referer=\#axzz3CJV8tuvf
+[^8_Lardellier_5]: Financial Times <http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&siteedition=intl&\_i\_referer=\#axzz3CJV8tuvf>
 
-[^8_Lardellier_6]: For a recent study of this phenomenon, “La cybermigration maritale
-    des femmes camerounaises. La quête de conjoints blancs, [Brice
-    Arsène Mankou](../customXml/item1.xml), L’Harmattan, Paris, 2014.
+[^8_Lardellier_6]: For a recent study of this phenomenon see: “La cybermigration maritale
+    des femmes camerounaises. La quête de conjoints blancs, Brice
+    Arsène Mankou, L’Harmattan, Paris, 2014.
 
 [^8_Lardellier_7]: J.- C. Kaufmann, *Sex@mour*, Albin Michel, 2010, Paris, p. 192.
 
