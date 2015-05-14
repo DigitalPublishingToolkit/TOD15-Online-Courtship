@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Remediating the Matchmaker: Arranging Marriage Online in the South
-Asian Diaspora in America**
+# Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diaspora in America
 
-Sheena Raja and Bryce J. Renninger
+### Sheena Raja and Bryce J. Renninger
 
 The topic of marriage is a major focus of conversations about the
 “modernization” of South Asian culture in the face of social processes
@@ -59,8 +58,7 @@ groups, the coeval existence of arranged and love marriages, matchmakers
 and Internet sites is standard for many across the region and its
 diaspora.
 
-**Marriage in the South Asian Diaspora: Arrangements, Assisting, and
-Love**
+## Marriage in the South Asian Diaspora: Arrangements, Assisting, and Love
 
 Within South Asia and the South Asian diaspora, marriages are popularly
 conceived in one of two genres: the arranged marriage or the love
@@ -167,7 +165,7 @@ of light-skinned mates has led to pursuits of romance that emphasized
 skin color and caste and either misreported[^10_Raja-Renninger_15] or omitted data[^10_Raja-Renninger_16]
 that would be unattractive.
 
-**Methods**
+## Methods
 
 The aim of this study was to understand the motivations and practices of
 diasporic South Asians when it came to the use of computer-mediated
@@ -244,7 +242,7 @@ Before we provide our analyses of the interviews at the center of the
 chapter, we first take a detour to a hotel and conference center in
 Edison, New Jersey.
 
-**Spectacular Matchmaking in Edison, New Jersey **
+## Spectacular Matchmaking in Edison, New Jersey 
 
 Traditionally, arranged marriages in India are brokered by matchmakers,
 or *nayans*, who serve as community scouts and neutral liaisons
@@ -289,7 +287,7 @@ session. Here we find that matrimonial sites such as Matri are
 remediations of older forms of arrangement practices that now coexist in
 complex systems of matchmaking.
 
-**Remediating the Matchmaker**
+## Remediating the Matchmaker
 
 Following the lead of actor-network theory,[^10_Raja-Renninger_25] in addition to noting
 the cultural forces of diaspora, immigration, and the transnational, we
@@ -497,7 +495,7 @@ matchmaking function played a role in our subjects’ preference for or
 thoughts on various sites. In the next section, we will look at the
 remediation of a tool – the biodata – in the pursuit of courtship.
 
-**Remediating Biodata**
+## Remediating Biodata
 
 For those who are specifically designated as a matchmaker, one crucial
 tool to maintain a repository of eligibles is the biodata. Biodata allow
@@ -597,7 +595,7 @@ post-racial American culture. In the next section, we will discuss the
 remediation of diasporic identity with regards to the sites that our
 subjects used.
 
-**Remediating Diasporic Subjectivity**
+## Remediating Diasporic Subjectivity
 
 The concepts of ethnoscapes, technoscapes, and mediascapes remind us
 that in the contemporary era, the nation-state becomes a less compelling
@@ -703,7 +701,7 @@ Asian-American was what they were using matchmaking technologies to
 find. These desires were articulated through the various technological
 and human actors surrounding these subjects.
 
-**Conclusion**
+## Conclusion
 
 In this chapter, we have explored the use of dating and matrimonial
 sites by South Asian-Americans in the New York City metro area. In so
@@ -735,7 +733,7 @@ to codify certain modes of marriage and courtship within the United
 States and other nations, it is helpful to be reminded of the many
 coexisting and varied models for these modes of relating.
 
-**Appendix**
+## Appendix
 
 Participant 1: Male/34/U.S.-born/Raised Hindu
 
@@ -757,7 +755,7 @@ Participant 9: Female/29/U.S.-born/Raised Jain
 
 Participant 10: Male/33/U.S.-born/Raised Hindu
 
-**References**
+## References
 
 Adams, Paul C. and Ghose, Rina. ‘India.com: The construction of a Space
 Between’, Progress in Human Geography 27.4 (2003) 414-37.
