@@ -1011,15 +1011,15 @@ individual’s concerns and needs.[^15_Chin_45]
 ## References
 
 Baker, Andrea. ‘What Makes an Online Relationship Successful? Clues from
-Couples Who Met in Cyberspace’, CyberPsychology & Behavior 5.4 (2002):
+Couples Who Met in Cyberspace’, *CyberPsychology & Behavior* 5.4 (2002):
 363-375.
 
 Beck, Ulrich and Beck-Gernsheim, Elisabeth. ‘Foreword: Varieties of
-Individualization’, in Mette H. Hansen and Rune Svarverud (eds) iChina:
-The Rise of the Individual in Modern Chinese Society, Copenhagen: NIAS
+Individualization’, in Mette H. Hansen and Rune Svarverud (eds) *iChina:
+The Rise of the Individual in Modern Chinese Society*, Copenhagen: NIAS
 Press, 2010, pp. xiii-xx.
 
-Ben-Ze’ev, Aaron. Love Online: Emotions on the Internet, Cambridge:
+Ben-Ze’ev, Aaron. *Love Online: Emotions on the Internet*, Cambridge:
 Cambridge University Press, 2004, p.131.
 
 Birbili, Maria. ‘Translating from One Language to Another’, Social
@@ -1030,86 +1030,86 @@ to More than \$360 Million by 2015, as the Internet Adds Nearly 200
 Million Users, 12 April 2012,
 <http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641>.
 
-Caillois, Roger. Man, Play, and Games, trans. Meyer Barash, Urbana:
+Caillois, Roger. *Man, Play, and Games, trans. Meyer Barash*, Urbana:
 University of Illinois Press, 2001.
 
-Elliott, Jane. Using Narrative in Social Research: Qualitative and
-Quantitative Approaches, London: Sage, 2005.
+Elliott, Jane. *Using Narrative in Social Research: Qualitative and
+Quantitative Approaches*, London: Sage, 2005.
 
-Farrer, James. Opening Up: Youth Sex Culture and Market Reform in
-Shanghai, Chicago: University Chicago Press, 2002.
+Farrer, James. *Opening Up: Youth Sex Culture and Market Reform in
+Shanghai*, Chicago: University Chicago Press, 2002.
 
-Giddens, Anthony. Modernity and Self-identity: Self and Society in the
-Late Modern Age, Polity Press, 1991.
+Giddens, Anthony. *Modernity and Self-identity: Self and Society in the
+Late Modern Age*, Cambridge: Polity Press, 1991.
 
-Goffman, Erving. Encounters: Two Studies in the Sociology of
-Interaction, Harmondsworth: Penguin, 1961.
+Goffman, Erving. *Encounters: Two Studies in the Sociology of
+Interaction*, Harmondsworth: Penguin, 1961.
 
-Henricks, Thomas S. Play Reconsidered: Sociological Perspectives on
-Human Expression, Urbana; Chicago: University of Illinois Press, 2006,
+Henricks, Thomas S. *Play Reconsidered: Sociological Perspectives on
+Human Expression*, Urbana; Chicago: University of Illinois Press, 2006,
 p.185.
 
 Hine, Christine. ‘Virtual Methods and the Sociology of
-Cyber-social-scientific Knowledge’, in Christine Hine (ed.) Virtual
-Methods: Issues in Social Research on the Internet, Oxford: Berg, 2005,
+Cyber-social-scientific Knowledge’, in Christine Hine (ed.) *Virtual
+Methods: Issues in Social Research on the Internet*, Oxford: Berg, 2005,
 pp.1-13.
 
-Huizinga, Johan. Homo Lundens: A Study of the Play Element in Culture,
+Huizinga, Johan. *Homo Lundens: A Study of the Play Element in Culture*,
 Boston: The Beacon Press, 1955, p.13.
 
-IAC and JWT, China Leads the US in Digital Self-expression*,* 22
+IAC and JWT, China Leads the US in Digital Self-expression, 22
 November 2007,
 <http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression>.
 
 Illouz, Eva. ‘The Lost Innocence of Love: Romance as a Postmodern
-Condition’, Theory, Culture & Society 15.3 (1998): 161-186.
+Condition’, *Theory, Culture & Society* 15.3 (1998): 161-186.
 
-Illouz, Eva. Cold Intimacies: The Making of Emotional Capitalism,
+Illouz, Eva. *Cold Intimacies: The Making of Emotional Capitalism*,
 Cambridge: Polity, 2007.
 
-Jamieson, Lynn. Intimacy: Personal Relationships in Modern Societies,
+Jamieson, Lynn. *Intimacy: Personal Relationships in Modern Societies*,
 Oxford: Polity, 1998.
 
 Jeffreys, Elaine and Sigley, Gary. ‘Governmentality, Governance and
-China’, in Elaine Jeffreys (ed.) China’s Governmentalities: Governing
-Change, Changing Government, New York: Routledge, 2009, pp. 1-23.
+China’, in Elaine Jeffreys (ed.) *China’s Governmentalities: Governing
+Change, Changing Government*, New York: Routledge, 2009, pp. 1-23.
 
-Kane, Pat. The Play Ethic: A Manifesto for a Different Way of Living,
+Kane, Pat. *The Play Ethic: A Manifesto for a Different Way of Living*,
 London: Pan, 2005.
 
-Lee, Johan A. ‘A Typology of Styles of Loving’, Personality and Social
-Psychology Bulletin 3 (1977): 173-182.
+Lee, Johan A. ‘A Typology of Styles of Loving’, *Personality and Social
+Psychology Bulletin* 3 (1977): 173-182.
 
 McKenna, Katelyn Y.A., Green, Amie S. and Gleason, Marci E.J.
 ‘Relationship Formation on the Internet: What’s the Big Attraction?’,
-Journal of Social Issues*,* 58 (2002): 9-31.
+*Journal of Social Issues* 58 (2002): 9-31.
 
 Merkle, Erich R. and Richardson, Rhonda A. ‘Digital Dating and Virtual
 Relating: Conceptualizing Computer Mediated Romantic Relationships’,
-Journal of Family Relations 49.2 (2000): 187-192.
+*Journal of Family Relations* 49.2 (2000): 187-192.
 
-Sang, Tze-Ian D. The Emerging Lesbian: Female Same-sex Desire in Modern
-China, Chicago: University of Chicago Press, 2003.
+Sang, Tze-Ian D. *The Emerging Lesbian: Female Same-sex Desire in Modern
+China*, Chicago: University of Chicago Press, 2003.
 
-Scott, James C. Domination and the Arts of Resistance: Hidden
-Transcripts, New Haven; London: Yale University Press, 1990.
+Scott, James C. *Domination and the Arts of Resistance: Hidden
+Transcripts*, New Haven; London: Yale University Press, 1990.
 
-Simmel, Georg. ‘Sociability’, in Donald N. Levine (ed.) Georg Simmel on
-Individuality and Social Forms, Chicago: University of Chicago Press,
+Simmel, Georg. ‘Sociability’, in Donald N. Levine (ed.) Georg Simmel *On
+Individuality and Social Forms*, Chicago: University of Chicago Press,
 1971, pp. 127-140.
 
-Swidler, Ann. Talk of Love: How Culture Matters, Chicago: University of
+Swidler, Ann. *Talk of Love: How Culture Matters*, Chicago: University of
 Chicago Press, 2001.
 
 Temple, Bogusia and Young, Alys. ‘Qualitative Research and Translation
-Dilemmas’, Qualitative Research 4.2 (2004): 161-178.
+Dilemmas’, *Qualitative Research* 4.2 (2004): 161-178.
 
 Twitter Blog, One Hundred Million Voices, 8 September 2011,
 <http://blog.twitter.com/2011/09/one-hundred-million-voices.html>.
 
 Waskul, Dennis D. and Vannini, Phillip, p.243, ‘Ludic and Ludic(rous)
 Relationships: Sex, Play, and the Internet’, in: Samantha Holland (ed.)
-Remote Relationships: In a Small World, New York: Peter Lang, 2008,
+*Remote Relationships: In a Small World*, New York: Peter Lang, 2008,
 pp.241-261.
 
 Wei, Xiaohong., Li, Caili., Lu, Min., and Peng, Bing. *Diaocha Cheng:
@@ -1120,17 +1120,17 @@ China Youth Online, 27 December 2007,
 <http://zqb.cyol.com/content/2007-12/27/content_2011436.htm>.
 
 Whitty, Monica T. ‘Cyber-flirting: Playing at Love on the Internet’,
-Theory & Psychology 13.3 (2003): 339-357.
+*Theory & Psychology* 13.3 (2003): 339-357.
 
-Whitty Monica T. and Carr, Adrian. Cyberspace Romance: The Psychology of
-Online Relationships, New York: Palgrave Macmillan, 2006.
+Whitty Monica T. and Carr, Adrian. *Cyberspace Romance: The Psychology of
+Online Relationships*, New York: Palgrave Macmillan, 2006.
 
 Xinhua, *Xinlang Weibo Zhuce Yonghu Tupo Sanyi, Meiri Faboliang Chaoguo
 Yiyitiao* (Sina Weibo have more 300 million registered users, more than
 100 million weibo are posted everyday), 29 February 2012,
 <http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm>.
 
-Yan, Yunxiang. The Individualization of Chinese Society, Oxford; New
+Yan, Yunxiang. *The Individualization of Chinese Society*, Oxford; New
 York: Berg, 2009.
 
 Zeng, Jianpeng. *Xuni yu Xianshi: Dui ‘Wanglian’ Xianxiang de Lilun
@@ -1139,7 +1139,7 @@ Chinese Academy of Social Science, 23 December 2004,
 <http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm>.
 
 Zhao, Yuezhi. ‘After Mobile Phones, What? Re-embedding the Social in
-China’s “Digital Revolution”’, International Journal of Communication 1
+China’s “Digital Revolution”’, *International Journal of Communication* 1
 (2007): 92-120.
 
 [^15_Chin_1]: Boston Consulting Group (BCG), Online Retail Sales in China will
