@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Gabriele de Seta and Ge Zhang
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,8 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Stranger Stranger or Lonely Lonely? Young Chinese and Dating Apps
-between the Locational, the Mobile and the Social**
+# Stranger Stranger or Lonely Lonely? Young Chinese and Dating Apps between the Locational, the Mobile and the Social
 
 Gabriele de Seta and Ge Zhang[^13_deSeta_Zhang_1]
 
