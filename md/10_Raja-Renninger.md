@@ -379,11 +379,11 @@ matrimonial sites were carefully considered by our subjects. Participant
 her case, she was more resistant to the idea of recommending in general.
 
 > I didn’t find it helpful to be on
-> [*eHarmony[.com*](http://eHarmony.com)*]* because it didn’t let you
+> [eHarmony](http://eHarmony.com) because it didn’t let you
 > search yourself. They give you options. I guess it’s like
 > computerized. You fill out a huge profile and depending on what score
 > you get they will match you with guys that would be compatible with
-> you.So you can’t necessarily go through and filter. I don’t think. I
+> you. So you can’t necessarily go through and filter. I don’t think. I
 > didn’t give myself too much time on there. I found it irritating
 > because they select guys for you. I didn’t let my mom do that. A
 > majority of the times it didn’t even make sense...like how did they
@@ -758,134 +758,132 @@ Participant 10: Male/33/U.S.-born/Raised Hindu
 ## References
 
 Adams, Paul C. and Ghose, Rina. ‘India.com: The construction of a Space
-Between’, Progress in Human Geography 27.4 (2003) 414-37.
+Between’, *Progress in Human Geography* 27.4 (2003) 414-37.
 
 Aguiar, Marian. ‘Arranged Marriage: Cultural Regeneration in
-Transnational South Asian Popular Culture’, Cultural Critique 84
+Transnational South Asian Popular Culture’, *Cultural Critique* 84
 (Spring, 2013) 181-213.
 
-Appudarai, Arjun. Modernity at Large: Cultural Dimensions of
-Globalization, Minneapolis: University of Minnesota, 1996.
+Appudarai, Arjun. *Modernity at Large: Cultural Dimensions of
+Globalization*, Minneapolis: University of Minnesota, 1996.
 
 Bellafante, Ginia, ‘Courtship Ideas of South Asians Get a U.S. Touch’,
-The New York Times. (23 August, 2005).
+*The New York Times*. (23 August, 2005).
 
-Bolter, Jay David and Grusin, Richard. Remediation: Understanding New
-Media, Cambridge, MA: MIT Press, 2000.
+Bolter, Jay David and Grusin, Richard. *Remediation: Understanding New
+Media*, Cambridge, MA: MIT Press, 2000.
 
 Chakraborty, Kabita. ‘Virtual Mate-seeking in the Urban Slums of
-Kolkata, India.’ South Asian Popular Culture 10.2 (July, 2012) 197-216.
+Kolkata, India.’ *South Asian Popular Culture* 10.2 (July, 2012) 197-216.
 
-Coontz, Stephanie. Marriage, a History, New York: Viking, 2005.
+Coontz, Stephanie. *Marriage, a History*, New York: Viking, 2005.
 
 Diminescu, Dana and Renault, Matthieu. ‘The Matrimonial Web of Migrants:
-The Economics of Profiling as a New Form of Ethnic Business’, Social
-Science Information 50 (2011) 678-704.
+The Economics of Profiling as a New Form of Ethnic Business’, *Social
+Science Information* 50 (2011) 678-704.
 
-Giddens, Anthony. The Transformation of Intimacy, Sexuality, Love, and
-Eroticism in Modern Societies, Stanford, CA: Stanford University Press,
+Giddens, Anthony. *The Transformation of Intimacy, Sexuality, Love, and
+Eroticism in Modern Societies*, Stanford, CA: Stanford University Press,
 1993.
 
 Gopalkrishnan, Narayan and Babacan, Hurriyet. ‘Ties That Bind: Marriage
 and Partner Choice in the Indian Community in Australia in a
-Transnational Context’, Identities: Global Studies in Culture and Power
+Transnational Context’, *Identities: Global Studies in Culture and Power*
 14.4 (2007) 507-26.
 
-Eva Illouz, Consuming the Romantic Utopia: Love and the Cultural
-Contradictions of Capitalism, Berkeley: University of California Press,
+Eva Illouz, *Consuming the Romantic Utopia: Love and the Cultural
+Contradictions of Capitalism*, Berkeley: University of California Press,
 1997.
 
 Jha, Sonora and Adelman, Mara. ‘Looking for Love in All the White
 Places: A Study of Skin Color Preferences on Indian Matrimonial and
-Mate-Seeking Websites.’ Studies in South Asian Film and Media 1.1 (2009)
+Mate-Seeking Websites.’ *Studies in South Asian Film and Media* 1.1 (2009)
 65-83.
 
-Latour, Bruno. Reassembling the Social: An Introduction to
-Actor-Network-Theory, Oxford: Oxford University Press, 2007.
+Latour, Bruno. *Reassembling the Social: An Introduction to
+Actor-Network-Theory*, Oxford: Oxford University Press, 2007.
 
 Raja, Sheena, ‘A Match Made in Heaven: A Study of Changing Hindu
 Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and
-Anjoom Mukadam (eds.) Gujarati Communities across the Globe: Memory,
-Identity, and Continuity, London, UK: Trentham Books, 2012.
+Anjoom Mukadam (eds.) *Gujarati Communities across the Globe: Memory,
+Identity, and Continuity*, London, UK: Trentham Books, 2012.
 
-Rao, V.V. Prakasa and Rao, V. Nandini. Marriage, the Family, and Women
-in India, Delhi: Heritage, 1982.
+Rao, V.V. Prakasa and Rao, V. Nandini. *Marriage, the Family, and Women
+in India*, Delhi: Heritage, 1982.
 
 SAALT, ‘A Demographic Snapshot of South Asians in the United States’,
 July 2012.
 
 Retrieved from
-[*http://saalt.org/wp-content/uploads/2012/09/Demographic-*](http://saalt.org/wp-content/uploads/2012/09/Demographic-)
-
-Snapshot-Asian-American-Foundation-2012.pdf.
+[*http://saalt.org/wp-content/uploads/2012/09/Demographic-*](http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf).
 
 Seth, Nainika and Patnayakuni, Ravi. ‘Online Matrimonial Sites and the
 Transformation of Arranged Marriage in India’, in Celia Romm Livermo
-(ed) Gender and Social Computing: Interactions, Differences, and
-Relationships, Hershey, PA: IGI Global, 2011, pp. 272-93.
+(ed) *Gender and Social Computing: Interactions, Differences, and
+Relationships*, Hershey, PA: IGI Global, 2011, pp. 272-93.
 
 US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved
 from
 
 [*http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf*](http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf)
 
-[^10_Raja-Renninger_1]: Arjun Appudarai, Modernity at Large: Cultural Dimensions of
-    Globalization, Minneapolis: University of Minnesota, 1996.
+[^10_Raja-Renninger_1]: Arjun Appudarai, *Modernity at Large: Cultural Dimensions of
+    Globalization*, Minneapolis: University of Minnesota, 1996.
 
 [^10_Raja-Renninger_2]: Ibid.
 
-[^10_Raja-Renninger_3]: Stephanie Coontz, Marriage, a History: How Love Conquered
-    Marriage, New York: Viking, 2005.
+[^10_Raja-Renninger_3]: Stephanie Coontz, *Marriage, a History: How Love Conquered
+    Marriage*, New York: Viking, 2005.
 
 [^10_Raja-Renninger_4]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and
     the Transformation of Arranged Marriage in India’, in Celia Romm
-    Livermo (ed) Gender and Social Computing: Interactions, Differences,
-    and Relationships, Hershey, PA: IGI Global, 2011, p. 276.
+    Livermo (ed) *Gender and Social Computing: Interactions, Differences,
+    and Relationships*, Hershey, PA: IGI Global, 2011, p. 276.
 
 [^10_Raja-Renninger_5]: Ibid.
 
 [^10_Raja-Renninger_6]: Narayan Gopalkrishnan and Hurriyet Babacan, ‘Ties That Bind:
     Marriage and Partner Choice in the Indian Community in Australia in
-    a Transnational Context’, Identities: Global Studies in Culture and
-    Power 14.4 (2007), p. 519.
+    a Transnational Context’, *Identities: Global Studies in Culture and
+    Power* 14.4 (2007), p. 519.
 
 [^10_Raja-Renninger_7]: Sheena Raja, ‘A Match Made in Heaven: A Study of Changing Hindu
     Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani
-    and Anjoom Mukadam (eds.) Gujarati Communities across the Globe:
-    Memory, Identity, and Continuity, London, UK: Trentham Books, 2012.
+    and Anjoom Mukadam (eds.) *Gujarati Communities across the Globe:
+    Memory, Identity, and Continuity*, London, UK: Trentham Books, 2012.
 
-[^10_Raja-Renninger_8]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and
-    the Transformation of Arranged Marriage in India’.
+[^10_Raja-Renninger_8]: Nainika Seth and Ravi Patnayakuni, *‘Online Matrimonial Sites and
+    the Transformation of Arranged Marriage in India’*, University of Alabama in Huntsville, USA, 2009.
 
 [^10_Raja-Renninger_9]: Ginia Bellafante, ‘Courtship Ideas of South Asians Get a U.S.
     Touch’, *The New York Times*. (23 August, 2005). Which page? A1,
     A13…quotes are from A13
 
 [^10_Raja-Renninger_10]: Marian Aguiar, ‘Arranged Marriage: Cultural Regeneration in
-    Transnational South Asian Popular Culture.’ Cultural Critique 84
+    Transnational South Asian Popular Culture.’ *Cultural Critique* 84
     (Spring, 2013), 193.
 
 [^10_Raja-Renninger_11]: Paul C. Adams and Rina Ghose, ‘India.com: The construction of a
-    Space Between’, Progress in Human Geography 27.4 (2003), p. 431.
+    Space Between’, *Progress in Human Geography* 27.4 (2003), p. 431.
 
 [^10_Raja-Renninger_12]: Kabita Chakraborty, ‘Virtual Mate-seeking in the Urban Slums of
-    Kolkata, India’, South Asian Popular Culture 10.2 (July, 2012).
+    Kolkata, India’, *South Asian Popular Culture* 10.2 (July, 2012).
 
 [^10_Raja-Renninger_13]: Dana Diminescu and Matthieu Renault, ‘The Matrimonial Web of
     Migrants: The Economics of Profiling as a New Form of Ethnic
-    Business’, Social Science Information 50 (2011).
+    Business’, *Social Science Information* 50 (2011).
 
 [^10_Raja-Renninger_14]: Paul C. Adams and Rina Ghose, ‘India.com: The construction of a
     Space Between.’
 
 [^10_Raja-Renninger_15]: Sonora Jha and Mara Adelman, ‘Looking for Love in All the White
     Places: A Study of Skin Color Preferences on Indian Matrimonial and
-    Mate-Seeking Websites’, Studies in South Asian Film and Media 1.1
+    Mate-Seeking Websites’, *Studies in South Asian Film and Media* 1.1
     (2009).
 
 [^10_Raja-Renninger_16]: Dana Diminescu and Matthieu Renault, ‘The Matrimonial Web of
     Migrants: The Economics of Profiling as a New Form of Ethnic
-    Business’, Social Science Information 50 (2011), p. 687.
+    Business’, *Social Science Information* 50 (2011), p. 687.
 
 [^10_Raja-Renninger_17]: While both authors have studied sociality within the Indian
     (diasporic) context, for this study only Raja conducted interviews
@@ -895,7 +893,7 @@ from
 
 [^10_Raja-Renninger_18]: SAALT, ‘A Demographic Snapshot of South Asians in the United
     States’, July 2012. Retrieved from
-    [*http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf*](../customXml/item1.xml)
+    <http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf>
 
 [^10_Raja-Renninger_19]: The NY Metropolitan statistical area spans across 3 states and is
     comprised of 10 counties in New York; 12 counties in northern New
@@ -903,36 +901,36 @@ from
 
 [^10_Raja-Renninger_20]: US Census Bureau, ‘The Asian Population: 2010’, March 2012.
     Retrieved from
-    [*http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf*](numbering.xml)
+    <http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf>
 
 [^10_Raja-Renninger_21]: Shaadi is the Urdu word for marriage.
 
-[^10_Raja-Renninger_22]: Jay David Bolter and Richard Grusin, Remediation: Understanding
-    New Media, Cambridge, MA: MIT Press, 2000.
+[^10_Raja-Renninger_22]: Jay David Bolter and Richard Grusin, *Remediation: Understanding
+    New Media*, Cambridge, MA: MIT Press, 2000.
 
-[^10_Raja-Renninger_23]: V.V. Prakasa Rao and V. Nandini Rao, Marriage, the Family, and
-    Women in India, Delhi: Heritage, 1982.
+[^10_Raja-Renninger_23]: V.V. Prakasa Rao and V. Nandini Rao, *Marriage, the Family, and
+    Women in India*, Delhi: Heritage, 1982.
 
-[^10_Raja-Renninger_24]: “Yashvant Patel, founder Matri, Inc. USA on Gujarati
-    Matrimony.com,” https://www.youtube.com/watch?v=dJrZBMzpRBE
+[^10_Raja-Renninger_24]: Yashvant Patel, founder Matri, Inc. USA on Gujarati
+    Matrimony.com, <https://www.youtube.com/watch?v=dJrZBMzpRBE>
 
-[^10_Raja-Renninger_25]: Bruno Latour, Reassembling the Social: An Introduction to
-    Actor-Network-Theory, Oxford: Oxford University Press, 2007.
+[^10_Raja-Renninger_25]: Bruno Latour, *Reassembling the Social: An Introduction to
+    Actor-Network-Theory*, Oxford: Oxford University Press, 2007.
 
 [^10_Raja-Renninger_26]: Manglik is an astrological designation based on the position of
     Mars.
 
 [^10_Raja-Renninger_27]: Sheena Raja, ‘A Match Made in Heaven: A Study of Changing Hindu
     Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani
-    and Anjoom Mukadam (eds.) Gujarati Communities across the Globe:
-    Memory, Identity, and Continuity, London, UK: Trentham Books, 2012,
+    and Anjoom Mukadam (eds.) *Gujarati Communities across the Globe:
+    Memory, Identity, and Continuity*, London, UK: Trentham Books, 2012,
     page 126.
 
 [^10_Raja-Renninger_28]: Participant 7 said that she would “like someone South Asian, but
     [is] open-minded to anything.”
 
-[^10_Raja-Renninger_29]: Arjun Appudarai, Modernity at Large: Cultural Dimensions of
-    Globalization.
+[^10_Raja-Renninger_29]: Arjun Appudarai, *Modernity at Large: Cultural Dimensions of
+    Globalization*.
 
 [^10_Raja-Renninger_30]: It, indeed, is rarely asked on American-targeted sites that
     facilitate heterosexual coupling. It is sometimes a field on sites
@@ -940,6 +938,6 @@ from
 
 [^10_Raja-Renninger_31]: Samajes are ethnic caste communities.
 
-[^10_Raja-Renninger_32]: Anthony Giddens, The Transformation of Intimacy, Sexuality, Love,
-    and Eroticism in Modern Societies, Stanford, CA: Stanford University
+[^10_Raja-Renninger_32]: Anthony Giddens, *The Transformation of Intimacy, Sexuality, Love,
+    and Eroticism in Modern Societies*, Stanford, CA: Stanford University
     Press, 1993.
