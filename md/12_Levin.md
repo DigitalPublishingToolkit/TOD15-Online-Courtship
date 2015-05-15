@@ -844,114 +844,111 @@ present work demonstrated this up-to-date trend of thought.
 ## References
 
 Ahuvia, Aaron C., and Mara B. Adelman. ‘Formal Intermediaries in the
-Marriage Market: A Typology and Review’, Journal of Marriage and the
-Family  54. 2 (1992): 452-463.‏
+Marriage Market: A Typology and Review’, *Journal of Marriage and the
+Family*  54. 2 (1992): 452-463.‏
 
-Almog, Oz. ‘Farewell to ‘Srulik’: Changing Values Among the Israeli
-Elite, Haifa: Zmora-Modan, 2004.‏
+Almog, Oz. *‘Farewell to ‘Srulik’: Changing Values Among the Israeli
+Elite*, Haifa: Zmora-Modan, 2004.‏
 
 Arvidsson, Adam. ‘’Quality Singles’’: Internet Dating and the Work of
-Fantasy’, New Media & Society 8.4 (2006): 671-690.‏
+Fantasy’, *New Media & Society* 8.4 (2006): 671-690.‏
 
 Azaryahu, Maoz. ‘The Golden Arches of McDonald's: On the Americanization
-of Israel’, Israel Studies 5.1 (2000): 41-64.‏
+of Israel’, *Israel Studies* 5.1 (2000): 41-64.‏
 
 Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and
-Connecting Online’, CyberPsychology and Behaviour 3.2. (2000): 237-242.‏
+Connecting Online’, *CyberPsychology and Behaviour* 3.2. (2000): 237-242.‏
 
-Baker, Andrea J. Double Click: Romance and Commitment among Online
-Couples, Hampton Press, 2005.
+Baker, Andrea J. *Double Click: Romance and Commitment among Online
+Couples*, Hampton Press, 2005.
 
 Barraket, Jo, and Henry-Waring, Millsom S. ‘Getting it on (line)
-Sociological Perspectives on E-dating’, Journal of Sociology 44.2
+Sociological Perspectives on E-dating’, *Journal of Sociology* 44.2
 (2008): 149-165.‏
 
 Bassett, Elizabeth H., and O'Riordan, Kate. ‘Ethics of Internet
-Research: Contesting the Human Subjects Research Model’, Ethics and
-Information Technology 4.3. (2002): 233-247.‏
+Research: Contesting the Human Subjects Research Model’, *Ethics and
+Information Technology* 4.3. (2002): 233-247.‏
 
-Ben-Ze'ev, Aaron. Love Online: Emotions on the Internet, Cambridge
+Ben-Ze'ev, Aaron. *Love Online: Emotions on the Internet*, Cambridge
 University Press, 2004.‏
 
-Burgin, Victor. In/different Spaces: Place and Memory in Visual Culture,
+Burgin, Victor. *In/different Spaces: Place and Memory in Visual Culture*, CA:
 University of California Press, 1996.‏
 
-Dreyfus, Hubert L. On the Internet, New York: Routledge, 2008.‏
+Dreyfus, Hubert L. *On the Internet*, New York: Routledge, 2008.‏
 
 Eysenbach, Gunther, and Till, James E. ‘Ethical Issues in Qualitative
-Research on Internet Communities.’ Bmj 323.7321 (2001): 1103-1105.‏
+Research on Internet Communities.’ *Bmj* 323.7321 (2001): 1103-1105.‏
 
-First, Anat, and Avraham, Eli. America in Jerusalem: Globalization,
-National Identity, and Israeli Advertising, Lexington Books, 2009.‏
+First, Anat, and Avraham, Eli. *America in Jerusalem: Globalization,
+National Identity, and Israeli Advertising*, Maryland: Lexington Books, 2009.‏
 
 Heino, Rebecca D., Nicole B. Ellison, and Jennifer L. Gibbs.
 ‘Relationshopping: Investigating the market metaphor in online
-dating’, Journal of Social and Personal Relationships 27.4 (2010):
+dating’, *Journal of Social and Personal Relationships* 27.4 (2010):
 427-447.‏
 
-Hymes, Dell. Foundations in Sociolinguistics: An Ethnographic Approach,
-Routledge, 2013.‏
+Hymes, Dell. *Foundations in Sociolinguistics: An Ethnographic Approach*,
+London: Routledge, 2013.‏
 
 Illouz, Eva, and Finkelman, Shoshannah. ‘An Odd and Inseparable Couple:
-Emotion and Rationality in Partner Selection’, Theory and Society 38.4
+Emotion and Rationality in Partner Selection’, *Theory and Society* 38.4
 (2009): 401-422.‏
 
-Iwabuchi, Koichi. Recentering Globalization: Popular Culture and
-Japanese Transnationalism, Duke University Press, 2002.‏
+Iwabuchi, Koichi. *Recentering Globalization: Popular Culture and
+Japanese Transnationalism*, North Carolina: Duke University Press, 2002.‏
 
-Katriel, Tamar. Milot mafte’ah: dfusei tarbut vetikshoret beisrael
-[Patterns of Culture and Communication in Israel]. Haifa: University of
+Katriel, Tamar. *Milot mafte’ah: dfusei tarbut vetikshoret beisrael
+[Patterns of Culture and Communication in Israel]*. Haifa: University of
 Haifa Press & Zmora-Bitan 1999.
 
-Melbin, Murray. Night as Frontier: Colonizing the World After Dark, New
+Melbin, Murray. *Night as Frontier: Colonizing the World After Dark*, New
 York: Free Press, 1987.‏
 
 Merkle, Erich R., and Richardson, Rhonda A. ‘Digital Dating and Virtual
 Relating: Conceptualizing Computer Mediated Romantic
-Relationships’, Family Relations 49.2 (2000): 187-192.‏
+Relationships’, *Family Relations* 49.2 (2000): 187-192.‏
 
 Parks, Malcolm R., and Kory Floyd. ‘Making Friends in
-Cyberspace’, Journal of Computer-Mediated Communication 1.4 (1996): 0-0.
+Cyberspace’, *Journal of Computer-Mediated Communication* 1.4 (1996): 0-0.
 
 Putnam, Robert D. ‘Bowling Alone: America's Declining Social
-Capital.’ Journal of Democracy 6.1 (1995): 65-78.‏
+Capital.’ *Journal of Democracy* 6.1 (1995): 65-78.‏
 
 Reinecke Leonard and Trepte, Sabine. 'Authenticity and Well-being on
 Social Network Sites: A Two-wave Longitudinal Study on the Effects of
 Online Authenticity and the Positivity Bias in SNS
-Communication', Computers in Human Behavior 30 (2014): 95-102.
+Communication', *Computers in Human Behavior* 30 (2014): 95-102.
 
-Romm-Livermore, Celia. Social Networking Communities and E-dating
-Services: Concepts and Implications, New York: Information Science
+Romm-Livermore, Celia. *Social Networking Communities and E-dating
+Services: Concepts and Implications*, New York: Information Science
 Reference, 2009.
 
-Rosental, Ruvik . Dictionary of Israeli Slang, Tel Aviv: Katar, 2005.
+Rosental, Ruvik . *Dictionary of Israeli Slang*, Tel Aviv: Katar, 2005.
 
-Rowley, Jennifer. "‘Window’shopping and Browsing Opportunities in
-Cyberspace", Journal of Consumer Behaviour 1.4 (2002): 369-378.
+Rowley, Jennifer. '‘Window’shopping and Browsing Opportunities in
+Cyberspace', *Journal of Consumer Behaviour* 1.4 (2002): 369-378.
 
-Oldenburg, Ray. The Great Good Place: Cafés, Coffee Shops, Community
+Oldenburg, Ray. *The Great Good Place: Cafés, Coffee Shops, Community
 Centers, Beauty Parlors, General Stores, Bars, Hangouts, and How They
-Get You through the Day, New York: Paragon House, 1989.‏
+Get You through the Day*, New York: Paragon House, 1989.‏
 
 Seale, Clive, et al. ‘Interviews and Internet Forums: A Comparison of
-Two Sources of Qualitative Data’,  Qualitative Health Research 20.5.
+Two Sources of Qualitative Data’,  *Qualitative Health Research* 20.5.
 (2010): 595-606.‏
 
 Walther, Josef B. 'Interpersonal Effects in Computer-mediated
-Interaction: A Relational Perspective', Communication Research, 19
+Interaction: A Relational Perspective', *Communication Research*, 19
 (1992): 52–90.
 
 Zinkhan, George M, ‘Romance and the Internet: The E-mergence of
-E-dating’, Advances in Consumer Research 31 (2004): 153-58.
+E-dating’, *Advances in Consumer Research* 31 (2004): 153-58.
 
 [^12_Levin_1]: Jo Barraket, and Millsom S. Henry-Waring. ‘Getting it on (line)
-    Sociological
+    Sociological Perspectives on E-dating.’ *Journal of Sociology* 44. 152.
 
-    Perspectives on E-dating.’ Journal of Sociology 44. 152 YEAR AND
-    PAGE NUMBER.
-
-[^12_Levin_2]: http://www.tapuz.co.il/
+[^12_Levin_2]: Tapuz. <http://www.tapuz.co.il>
 
 [^12_Levin_3]: Josef B. Walther, 'Interpersonal effects in computer-mediated
     interaction: A relational perspective'. Communication Research, 19,
