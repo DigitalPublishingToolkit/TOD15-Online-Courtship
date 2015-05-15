@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 # Keeping it Unreal - Online Dating with Chinese Characteristics
 
 
-Yann-Ling Chin
+### Yann-Ling Chin
 
 The success of *The First Intimate Contact*, a novel written by
 Taiwanese student Cai Zhiheng in 1998, created a frenzy about online
@@ -120,7 +120,7 @@ meanings of online romance in China. My study shows that there is a
 conceptual ambiguity associated with the term ‘online romance’ and this
 has resulted in confusion among Chinese Internet users.
 
-**Meanings of *Wanglian (*Online Romance) **
+## Meanings of *Wanglian* (Online Romance)
 
 Although the term *wanglian* is frequently used, its precise meaning
 varies and contains ambiguity to all Chinese. Some of my participants
@@ -223,7 +223,7 @@ fantasists’, who tend to understand online romance as a kind of
 pragmatist fantasists, we need to first examine the notion of Platonic
 emotional love as used in the context of Chinese online discourse.
 
-**Platonic Emotional Love**
+## Platonic Emotional Love
 
 ‘Platonic love’ is often used interchangeably, or sometimes together,
 with ‘emotional love’ to refer to exclusively Internet-based romantic
@@ -389,7 +389,7 @@ means to seek emotional comfort. In the following section, I will
 elucidate the practice of pragmatist fantasist through the story of one
 of my participants.
 
-**The Pragmatist Fantasist **
+## The Pragmatist Fantasist 
 
 Online romance presents pragmatic fantasists the opportunity to
 re-experience the stereotypical romantic love, or at least the fantasy
@@ -495,7 +495,7 @@ for self-immersion and exploration, reflecting the view of the
 discussed after examining the notion of ‘play’ in the Chinese discourse
 of online romance.
 
-**Play **
+## Play 
 
 It is perhaps not a surprise that many associate online romance with
 game as most users I observed online, indeed, met their lover while
@@ -647,7 +647,7 @@ maximum joy. Most would risk turning initial pleasure into compulsion,
 enjoyment into obsession, a casual and responsibility-free relationship
 into a serious love affair.
 
-**The Sceptic**
+## The Sceptic
 
 Those users not in favor of online romance are mostly sceptical about
 its feasibility and authenticity. Their apprehension is based not only
@@ -700,7 +700,7 @@ foundation of constant emotional exchange and deeper mutual
 understandings are considered to be more meaningful by this category of
 online Internet users which will be discussed next.
 
-**The Romantic Realist**
+## The Romantic Realist
 
 Romantic realists argue against the idea of ‘romancing online’ and
 understand online romance as initiated online but gradually expand
@@ -747,7 +747,7 @@ life is simply incompatible with the idealistic online romance. In the
 next section, I will discuss the similarities and differences of the
 three categories.
 
-**The Dynamic of the Three Categories **
+## The Dynamic of the Three Categories
 
 One thing in common between sceptics and pragmatic fantasists is they
 see online romance as a fairytale, too good to be true in the offline
@@ -788,7 +788,7 @@ shared her personal experience of online romance with me. Her narrative
 showed how she flexibly shifted between the three attitudes and how the
 Internet empowered her to pursue a homosexual relationship.
 
-**The Self-empowerment Story of Online Romance **
+## The Self-empowerment Story of Online Romance
 
 At the time of my study in 2010, Nakai was in a relationship with
 someone met online. She revealed to me that “my current partner is a
@@ -938,7 +938,7 @@ the obstacles. As a self-determining person, she is adept at looking for
 resources and support online, therefore has the means to empower herself
 in living her choice of same-sex love.
 
-**Conclusion**
+## Conclusion
 
 *‘Platonic* emotional love’ and ‘play’ are two key conceptual terms in
 Chinese discourse of online romance. Both are made possible by a
@@ -1008,7 +1008,7 @@ and meanings do indeed vary from individual to individual because its
 risks and opportunities are perceived differently in relation to each
 individual’s concerns and needs.[^15_Chin_45]
 
-**References**
+## References
 
 Baker, Andrea. ‘What Makes an Online Relationship Successful? Clues from
 Couples Who Met in Cyberspace’, CyberPsychology & Behavior 5.4 (2002):
