@@ -182,7 +182,7 @@ to relatives and friends. This activity combined the Internet and the
 traditional media, from online to offline, and received about 4.58
 million hits. These activities added about 45,681 new users to Jiayuan.
 
-###Topics Marketing - Hot Topics from TV Dramas
+### Topics Marketing - Hot Topics from TV Dramas
 
 Hot topics are of human interest. If these hot topics are capitalized on
 in marketing, a very good marketing effect will be achieved.
@@ -203,7 +203,7 @@ significance of marriage in modern China where people feel baffled at
 the great social change. Jiayuan.com achieved good advertising effects
 by making use of hot issues.
 
-###Entertainment Marketing - Joining Dating Reality Shows
+### Entertainment Marketing - Joining Dating Reality Shows
 
 The fast-paced lifestyle and pressure force people to turn to
 entertainment for relaxation. Entertainment marketing emerges as the
@@ -258,7 +258,7 @@ the previous quarter.[^9_Wen-Final_22]
 Compared with Jiayuan’s diversified marketing strategies, several other
 dating sites were unwilling to lag behind.
 
-##Baihe.com: the Model of Chinese Culture
+## Baihe.com: the Model of Chinese Culture
 
 Baihe.com stands out with its unique name and advertising model. "Baihe"
 is the homonym of a flower, lily, symbolizing nobility and purity in
