@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Talking To Strangers: Temporality, Identity and Politics in Live
-Webcam Sex Channels**
+# Talking To Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels
 
-Aras Ozgun
+### Aras Ozgun
 
 Immediacy has been a constitutive characteristic of electronic and
 online communications from the very beginning. E-mail, instant
@@ -84,7 +83,7 @@ of such realness, in which feminine desire falls into confrontation with
 patriarchal moralism, which leads to a productive crisis that makes
 enjoyment impossible.
 
-**“I see, therefore I am”: The Ontology of Televisuality**
+## “I see, therefore I am”: The Ontology of Televisuality
 
 The ontology of the webcam is that of television on a minor scale; it
 possesses the same ‘live-ness’ and ‘immediacy.’ ‘Live-ness’ of the
@@ -267,7 +266,7 @@ hegemonic conventions of ‘beauty’), or how much nudity they display, or
 how explicit their broadcast is and to what distances they go to satisfy
 their audience.
 
-**‘Realness’ of the Webcam Image: Benefit of the Doubt**
+## ‘Realness’ of the Webcam Image: Benefit of the Doubt
 
 Oftentimes the popularity of performers is related to their ability to
 construct ‘verisimilitude’ - an effect that I will provisionally call
@@ -466,7 +465,7 @@ the webcam is closely related with this two-fold transgression that
 stems from indiscernibility, which becomes the definitive characteristic
 of the webcam image.
 
-**Fear and Loathing on Live Webcam Sex: The “Turkish” Case**
+## Fear and Loathing on Live Webcam Sex: The “Turkish” Case
 
 The suspension of physical distances leads to a truly international
 audience in live webcam sex channels. Yet this international audience is
@@ -697,7 +696,7 @@ rendezvous houses can be seen as offering a productive tension: not only
 productive for exposing and understanding the Turkish patriarchal
 culture, but further offering a fertile confrontation with it.
 
-**References**
+## References
 
 Bakhtin, Mikhail. Rabelais and His World, Bloomington, IN: Indiana
 University Press, 1984.
