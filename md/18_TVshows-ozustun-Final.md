@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 ### Enver Ozustun
 
-**INTRODUCTION**
+## INTRODUCTION
 
 For the last 10 years, major private television networks have been
 broadcasting series of highly criticized reality shows with good
@@ -52,7 +52,7 @@ sites are among the biggest networks. The niche group that the sites
 addresses, categorize and define the users life styles and social
 status.
 
-**Understanding the TV Marriage Shows**
+## Understanding the TV Marriage Shows
 
 There are a number of reasons why these TV shows have been taking up so
 much space in our agenda. Firstly, the mass media (newspapers,
@@ -139,9 +139,9 @@ headlines listed below.
 
 -Mass Communication Devices, Media and Its Effects
 
-**1- ABOUT MICROSTRUCTURE/MACROSTRUCTURE **
+## 1- ABOUT MICROSTRUCTURE/MACROSTRUCTURE 
 
-**1.1 Neo-Liberal Order and Social Engineering**
+### 1.1 Neo-Liberal Order and Social Engineering
 
 People in Anatolia, usually dubbed as Turks, are traditional and
 sentimental. Neo-liberal policies imposed after the military coup in
@@ -221,7 +221,7 @@ However, before we move on to the contents of these shows, we should
 take a look at the institution of marriage in the typical Turkish family
 structure.
 
-**1.2 Marriage in the Structure of Turkish Society**
+### 1.2 Marriage in the Structure of Turkish Society
 
 Anatolia, home to a mixture of cultural values, has a dominant Turkish
 identity in its geopolitical structure.
@@ -344,7 +344,7 @@ As the mass media is one of these areas, looking at its attitude on this
 matter, will without a doubt give us a new perspective to comprehend the
 subject.
 
-**1.3 Mass Communication Devices, Media and Its Effects**
+### 1.3 Mass Communication Devices, Media and Its Effects
 
 Debates about mass communication devices started in the 1920s, during
 the rise of popular press along with the cinema and radio. Many
@@ -451,7 +451,7 @@ Based on the last sentence; let’s look at how marriage shows manage to
 invade so much broadcast time and our agenda even though they don’t have
 high ratings and an important presence in the advertisement revenues.
 
-**2. MARRIAGE SHOWS ON TURKISH TELEVISION**
+## 2. MARRIAGE SHOWS ON TURKISH TELEVISION
 
 Instead of democratization of producing information and its spread, with
 the commercialization of media, we see that it has become easier to
@@ -537,7 +537,7 @@ from these programs staying on air all week against all objections?
 Before we try to find an answer, we should take a look at which elements
 marriage shows are prepared with and what considerations they have.
 
-**2.1 Sociological Analysis of the Shows**
+### 2.1 Sociological Analysis of the Shows
 
 For most of us marriage shows are “a waste of time”; however, it is a
 great research opportunity for sociologists with its subject,
@@ -645,7 +645,7 @@ Now, let’s look at how marriage shows are adapted to television under
 the guidelines above. This adaptation contains the properties that make
 the show watched and debated in various parts of society.
 
-**2.2 Components of the Show and Keeping Audience Interested**
+### 2.2 Components of the Show and Keeping Audience Interested
 
 There are two main components needed to make a show. One of these is the
 subject of the show, idea-product and the other is the suitors, meaning
@@ -775,7 +775,7 @@ able to believe a frog can turn into a prince when it’s kissed.
 
 But the story doesn’t end here - it is just starting. How so?
 
-**3. CLAIMS**
+## 3. CLAIMS
 
 Readings made about television ratings, shows that women programs are
 watched around 6% mark. Whereas it has very striking figures on
@@ -839,9 +839,9 @@ inexperience.”[^18_TVshows-ozustun-Final_9]
 As this is the situation, we can say effort to maintain these program
 are not in line with their ratings and advertising revenues.
 
-**Parallels Between the TV Show and Online Dating Sites in Turkey**
+### Parallels Between the TV Show and Online Dating Sites in Turkey
 
-**4. CONCLUSION**
+## 4. CONCLUSION
 
 In the beginning of the article we proposed that it is difficult to
 understand the subject of marriage shows without examining the topics,
@@ -1100,7 +1100,7 @@ These factors in the TV shows clearly have set the stage for online
 marriage and dating sites. The expectations of the users are categorized
 according to the standards set by the marriage TV shows.
 
-<span id="h.gjdgxs" class="anchor"></span>REFERENCES
+## REFERENCES
 
 Alemdar, Korkmaz-Erdoğan, İrfan, ‘Popüler Kültür ve İletişim’, Ankara,
 Ümit Yayıncılık, 1994.
