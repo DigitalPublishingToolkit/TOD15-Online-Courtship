@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Enver Ozustun
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
@@ -17,10 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Media’s Effect on Online Dating Practices: Turkish TV Marriage
-Programs and Online Dating as a Medium**
+# Media’s Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium
 
-**Enver Ozustun**
+### Enver Ozustun
 
 **INTRODUCTION**
 
