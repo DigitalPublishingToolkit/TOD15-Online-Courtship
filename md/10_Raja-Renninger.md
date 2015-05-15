@@ -8,7 +8,7 @@ Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Sheena Raja and Bryce J. Renninger
 Author-email:   corresponding address
 Author-bio:  about the author
 Abstract:   short description of the article (100 words)
