@@ -1110,23 +1110,23 @@ Avcı, Nazmi. Toplumsal değerler ve Gençlik. Siyasal Kitabevi, 2007.
 Eagleton, Terry, İdeoloji (Ideology;An Introduction) (Trans .Muttalip
 Özcan), Ayrıntı Yayınları, 1991, p. 140.
 
-Gramsci, Antonio. Prison Notebooks. Vol. 2. Columbia University Press,
+Gramsci, Antonio. *Prison Notebooks. Vol. 2*. Columbia: Columbia University Press,
 1996.
 
-Horkheimer, Max, and Theodor W. Adorno. Dialectic of enlightenment:
-Philosophical fragments. Stanford University Press, 2002.
+Horkheimer, Max, and Theodor W. Adorno. *Dialectic of enlightenment:
+Philosophical fragments*. Stanford: Stanford University Press, 2002.
 
 Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and
-gratifications research.’ Public opinion quarterly (1973): 509-523.
+gratifications research.’ *Public Opinion Quarterly* (1973): 509-523.
 
-Postman, Neil, ‘Televizyon: Öldüren Eğlence, Gösteri Çağında Kamusal
-Söylem’, Osman Akınhay (trans.), İstanbul: Ayrıntı Yayınları, 1985, p.
+Postman, Neil, *‘Televizyon: Öldüren Eğlence, Gösteri Çağında Kamusal
+Söylem’*, Osman Akınhay (trans.), İstanbul: Ayrıntı Yayınları, 1985, p.
 34.
 
 Yusuf Akçura, A. Kemal and A. Ferit. ‘Üç tarz-ı siyaset’ (Vol. 73). Türk
 Tarih Kurumu Basımevi. 1976.
 
-http://www.oncevatan.com.tr/.
+Oncevatan. <http://www.oncevatan.com.tr/>.
 
 [^18_TVshows-ozustun-Final_1]: Alemdar, Korkmaz-Erdoğan, İrfan, ‘Popüler Kültür ve İletişim’,
     Ankara, Ümit Yayıncılık, 1994, p.149.
@@ -1153,7 +1153,7 @@ http://www.oncevatan.com.tr/.
 [^18_TVshows-ozustun-Final_8]: Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and
     gratifications research.’ Public opinion quarterly (1973): 509-523.
 
-[^18_TVshows-ozustun-Final_9]: http://www.oncevatan.com.tr/
+[^18_TVshows-ozustun-Final_9]: Oncevatan. <http://www.oncevatan.com.tr/>.
 
 [^18_TVshows-ozustun-Final_10]: Alemdar, Korkmaz-Erdoğan, İrfan, ‘Popüler Kültür ve İletişim’,
     Ankara, Ümit Yayıncılık, 1994, p. 263
