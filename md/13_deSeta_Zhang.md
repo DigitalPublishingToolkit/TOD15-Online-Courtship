@@ -19,9 +19,9 @@ Rights: CC BY-NC 4.0
 
 # Stranger Stranger or Lonely Lonely? Young Chinese and Dating Apps between the Locational, the Mobile and the Social
 
-Gabriele de Seta and Ge Zhang[^13_deSeta_Zhang_1]
+### Gabriele de Seta and Ge Zhang[^13_deSeta_Zhang_1]
 
-**Introduction: Did You Get Married?**
+## Introduction: Did You Get Married?
 
 Just around Chinese New Year in early 2014, with most Chinese families
 gathered around dining tables to celebrate the festivity, local TV
@@ -138,7 +138,7 @@ methodological note and a general discussion of our field of inquiry in
 relationship to our actual site of data collection: contemporary urban
 China.
 
-**Flirting with Methods**
+## Flirting with Methods
 
 The research presented in this chapter belongs to a tradition of
 ethnographic work on the use of media and technologies, and seeks to
@@ -219,7 +219,7 @@ with us!", smartphone screenshot by the authors, 7 February 2014.](imgs/deseta-i
 *Figure 2*. "Momo at one hundred million users, thanks to you for being
 with us!", smartphone screenshot by the authors, 7 February 2014.
 
-**Locating Mobile Sociality: Online Dating and the Chinese City**
+## Locating Mobile Sociality: Online Dating and the Chinese City
 
 The story of affective interaction through computer-mediated
 communication dates back to the early days of the medium, to the little
@@ -326,7 +326,7 @@ corporate brevity. He says,
 > realizing they don’t actually get on with their spouse, because they
 > got married for reasons other than love.[^13_deSeta_Zhang_39]
 
-**The Mobile: Self-presentation on Portable Façades**
+## The Mobile: Self-presentation on Portable Façades
 
 Since their inception on the Chinese market, online dating platforms had
 to deal with local social mores and strategies of mediated
@@ -482,7 +482,7 @@ Figure 4: Exploiting the platform. Mixed-media nicknames ('President Xi
 lead me' with Chinese flag and rocket), and multi-panel pictures split
 to fit into Momo's predetermined 8-picture profile gallery.
 
-**The Social: 'Stranger Stranger' or 'Lonely Lonely'?**
+## The Social: 'Stranger Stranger' or 'Lonely Lonely'?
 
 We have hinted at how mobility reshapes social networking platforms and
 the competing self-presentation strategies of their users. Yet, after
@@ -553,7 +553,7 @@ one user comment quips ironically, with a Chinese play on words.[^13_deSeta_Zhan
 Figure 5: Conversation versus boredom. "Personal signature: When you are
 bored (*wuliao*) do not hope I will keep you company chatting with you!"
 
-**The Locational: Less Than Dating, More Than Doing Nothing**
+## The Locational: Less Than Dating, More Than Doing Nothing
 
 During our fieldwork, one of the authors lived in an old residential
 area near a night market. He one day got in touch with N.M., a young
@@ -633,7 +633,7 @@ to give before her leaving. She was waiting there with her boyfriend, up
 only for a few minutes of dismissive chit-chat before getting back to
 work.
 
-**Conclusion: If You Are (Not) the One**
+## Conclusion: If You Are (Not) the One
 
 > This book is designed for you... if you're ready to explore the World
 > Wide Web of romance! You'll learn how to get online, and get the
@@ -723,7 +723,7 @@ the tensions of place, sex and identity with others who are quite not
 the *wuliao* world of social pressures, prescribed roles, and mediated
 images.
 
-**References**
+## References
 
 ‘Baihewang guanggao: Yinwei ai bu dengdai’, Youku,
 <http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html>
