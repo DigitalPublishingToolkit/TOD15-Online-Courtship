@@ -17,12 +17,11 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**The Role of Places and Symbols: A Cultural Interpretation of the
-On-line Dating Experience in Israel**
+# The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel
 
-**David Levin**
+### David Levin
 
-**Introduction**
+## Introduction
 
 This work sets out to address a series of questions concerning online
 dating in the second decade of the 21^st^ century in the specific case
@@ -58,9 +57,9 @@ use on a daily basis. As I shall demonstrate, such distinctions have to
 do not only with structural differences between digital places, but also
 with local imagination and mythologies.
 
-**Literature Review**
+## Literature Review
 
-***A Place vs. a Meeting Place***
+### A Place vs. a Meeting Place
 
 Over the last two decades, starting from the early 1990’s, many studies
 have been published about the Internet’s role in establishing intimate
@@ -76,7 +75,7 @@ provide demographic explanations to the choice of the internet as a
 meeting point. The present work echoes this current literature with all
 its aspects.
 
-***On Places and Places around the Internet ***
+### On Places and Places around the Internet
 
 Physical and symbolic places are mutually-distinct entities (like “home”
 as opposed to the “town square”) within a given “space” – the possible
@@ -121,10 +120,10 @@ event analyzed: *setting and scene,* which has to do with place and
 time, while *participants* pertains to the characterization of those who
 partake in the event or witness it. Five additional elements have to do
 with the interactional arrangement that institutionalizes the event:
-*ends***,** meant to be accepted by participants, the *act sequence*
-**–** which participants employ in order to attain the ends, *norms* -
+*ends* meant to be accepted by participants, the *act sequence*
+which participants employ in order to attain the ends, *norms* -
 which determine the relations between participants and can project on
-the *key and instrumentalities* **-** associated with the atmosphere in
+the *key and instrumentalities* associated with the atmosphere in
 which they partake.
 
 *The eighth element* - i.e., the genre that the event is categorized by;
@@ -173,8 +172,7 @@ on instances from the American society. Combining the Jewish Israeli
 historic background lends them, as I shall demonstrate here, a unique
 cultural undertone.
 
-**From the Town Matchmaker to Dating Websites; from Diasporic to
-American**
+## From the Town Matchmaker to Dating Websites; from Diasporic to American
 
 In the 150 years passed since its inception, the Jewish Israeli society
 has undergone two major cultural upheavals, pertinent to the following
@@ -282,7 +280,7 @@ form of Facebook dating applications, yet there are no proven numerical
 statistics regarding their success or indeed the success enjoyed by the
 Israeli e-dating industry as a whole.
 
-**Methodology and Procedure**
+## Methodology and Procedure
 
 The present study is based on the collection and analysis of posts in
 several Internet forums activated by the Israeli portal of "Tapuz" under
@@ -330,7 +328,7 @@ their common thread (the act sequence and norms, for example, are in
 close proximity) led me to opt for a presentation in two sections of
 analysis: structural and interactional features.
 
-**Findings**
+## Findings
 
 I shall now examine the website users’ statements, based on the criteria
 suggested by Hymes for speech events’ analysis. I shall make a
@@ -340,7 +338,7 @@ and instrumentalities. The genre component, which actually corresponds
 with the symbols that come with every place, shall be addressed during
 discussion, referring to both these aspects.
 
-***Structural Aspects** *
+### Structural Aspects
 
 Users, who referred to the “place” component when alluding to the
 Cyberspace as a place where new relationships were formed, almost
@@ -539,7 +537,7 @@ the general appearance of these places. The dark side of the global
 cosmos was inhabited by almost non-human residents, while its bright
 side veered towards the “us” or “I”, in their various senses.
 
-**Interaction Aspects and Process**
+## Interaction Aspects and Process
 
 The five fundamental components in the dynamic and interactional element
 of the speech event as viewed by Hymes are ends, norms, act sequence and
@@ -742,7 +740,7 @@ conversations were marked by sentiment, openness and dialogue.[^12_Levin_32] The
 served as an alternative to the daytime official discussions, with their
 precise ends and formal key.
 
-**Discussion**
+## Discussion
 
 This study’s data decide unequivocally in favor of those who believe
 Cyberspace to be more than just a “single place”. The analysis, based on
@@ -843,7 +841,7 @@ who looked for romantic partners online, with the internet viewed as a
 “place”, nowadays a more local socio-cultural view is required. The
 present work demonstrated this up-to-date trend of thought.
 
-**References**
+## References
 
 Ahuvia, Aaron C., and Mara B. Adelman. ‘Formal Intermediaries in the
 Marriage Market: A Typology and Review’, Journal of Marriage and the
