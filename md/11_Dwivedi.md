@@ -671,7 +671,7 @@ Rinehart, Robin. 'Hearing and Remembering: Oral and Written Texts in
 Hinduism', in Contemporary Hinduism: Ritual, Culture, and Practice, by
 Robin Rinehart, California: ABC-CLIO, Inc., 2004, p. 92.
 
-Shaadi.com. 2014, www.shaddi.com.
+Shaadi.com. 2014, <http://www.shaddi.com>.
 
 Wagner, Lyndsey. Disharmony and Matchless:Interpersonal Deception Theory
 in Online Dating. MA Thesis, Lynchburg: School of Communication Studies,
