@@ -645,7 +645,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_27]: *China Internet Weekly* was founded in Beijing in 1998,
     accompanied by China Internet industry. It is one of the China
-    Internet and IT industry's most successful leading business magazine
+    Internet and IT industry's most successful leading business magazines
     at present.
 
 [^9_Wen-Final_28]: Translated by the author.
@@ -656,7 +656,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_31]: Lisa Rofel, *Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture*, Duke Univeristy Press, 2007.
 
-[^9_Wen-Final_32]: Ruoxi Lin. ‘The Dating Sites, Confused of the Fiancee’, China
+[^9_Wen-Final_32]: Ruoxi Lin, ‘The Dating Sites, Confused of the Fiancee’, China
     Internet Weekly, 5 April 2012, 30.
 
-[^9_Wen-Final_33]: Ruoxi Li. ‘The Dating Sites, Confused of the Fiancee’.
+[^9_Wen-Final_33]:  Lin, ‘The Dating Sites, Confused of the Fiancee’.
