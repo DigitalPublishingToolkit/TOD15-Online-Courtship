@@ -728,17 +728,17 @@ images.
 ‘Baihewang guanggao: Yinwei ai bu dengdai’, Youku,
 <http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html>
 
-Ben-Ze'ev, Aaron. Love Online: Emotions on the Internet, Cambridge:
+Ben-Ze'ev, Aaron. *Love Online: Emotions on the Internet*, Cambridge:
 Cambridge University Press, 2004.
 
-Bourdieu, Pierre. The Bachelor’s Ball, Cambridge: Polity Press, 2008.
+Bourdieu, Pierre. *The Bachelor’s Ball*, Cambridge: Polity Press, 2008.
 
-Burger, Richard. Behind the Red Door: Sex in China, Hong Kong: Earnshaw
+Burger, Richard. *Behind the Red Door: Sex in China*, Hong Kong: Earnshaw
 Books, 2012.
 
 Choi, Jaz Hee-jong. ‘The City, Self and Connections’, in Stephanie
 Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.),
-Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010, p.
+*Youth, Society and Mobile Media in Asia*, Abingdon: Routledge, 2010, p.
 88-107.
 
 CNNIC. The 32nd Statistical Report on Internet Development in China,
@@ -746,25 +746,25 @@ Beijing: China Internet Network Information Center, 2013.
 
 Donald, Stephanie Hemelryk. ‘Introduction: Why Mobility Matters: Young
 People and Media Competency in the Asia-Pacific’, in Stephanie Hemelryk
-Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth,
-Society and Mobile Media in Asia, Abingdon: Routledge, 2010, pp. 3-12.
+Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), *Youth,
+Society and Mobile Media in Asia*, Abingdon: Routledge, 2010, pp. 3-12.
 
-Goffman, Erving. The Presentation of Self in Everyday Life, Carden City:
+Goffman, Erving. *The Presentation of Self in Everyday Life*, Carden City:
 Doubleday Anchor Books, 1959.
 
-\_\_\_\_\_\_. Relations in Public: Micro Studies of the Public Order,
+\_\_\_\_\_\_. *Relations in Public: Micro Studies of the Public Order*,
 New York: Harper & Row, 1972.
 
-Hemment, Drew. 'Locative Arts', Leonardo 39(4), 2006, 349-355.
+Hemment, Drew. 'Locative Arts', *Leonardo* 39(4), 2006, 349-355.
 
-Hine, Christine. The Internet: Understanding Qualitative Research, New
+Hine, Christine. *The Internet: Understanding Qualitative Research*, New
 York: Oxford University Press, 2013.
 
-Jacobs, Katrien. People’s Pornography: Sex and Surveillance on the
-Chinese Internet, Bristol: Intellect, 2012.
+Jacobs, Katrien. *People’s Pornography: Sex and Surveillance on the
+Chinese Internet*, Bristol: Intellect, 2012.
 
 Jensen, Ole B. ‘Erving Goffman and Everyday Life Mobility’, in Michael
-Hviid Jacobsen (ed.), The Contemporary Goffman, New York, NY: Routledge,
+Hviid Jacobsen (ed.), *The Contemporary Goffman*, New York, NY: Routledge,
 2010, p.333-351.
 
 Joe. ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’,
@@ -773,70 +773,70 @@ China Smack (9 February 2014),
 
 Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m
 Users’, Shanghaiist (14 November 2013),
-http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php
+<http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>
 
-Kaufmann, Jean-Claude. Love Online, trans. David Macey, Cambridge:
+Kaufmann, Jean-Claude. *Love Online*, trans. David Macey, Cambridge:
 Polity Press, 2012.
 
 Moore, Robert L. ‘Love and Limerence with Chinese Characteristics:
-Student Romance in the PRC’, in Victor C. Munck (ed.), Romantic Love and
-Sexual Behavior: Perspectives from the Social Sciences, Westport:
+Student Romance in the PRC’, in Victor C. Munck (ed.), *Romantic Love and
+Sexual Behavior: Perspectives from the Social Sciences*, Westport:
 Praeger, 1998, p. 251-284.
 
-Morozov, Evgeny. The Net Delusion: The Dark Side of Internet Freedom,
+Morozov, Evgeny. *The Net Delusion: The Dark Side of Internet Freedom*,
 New York: Public Affairs, 2011.
 
-Orr, Andrea. Meeting, Mating, and Cheating: Sex, Love, and the New World
-of Online Dating, Upper Saddle River: Reuters, 2004.
+Orr, Andrea. *Meeting, Mating, and Cheating: Sex, Love, and the New World
+of Online Dating*, Upper Saddle River: Reuters, 2004.
 
-Pirone, Jon, Mayo, Don, & Berkemeyer, Kathy. Internet in an Hour:
-Romance & Relationships, New York: DDC Publishing, 1999.
+Pirone, Jon, Mayo, Don, & Berkemeyer, Kathy. *Internet in an Hour:
+Romance & Relationships*, New York: DDC Publishing, 1999.
 
 Qiu, Jack Linchuan. ‘The Internet in China: Technologies of Freedom in a
-Statist Society’, in Manuel Castells (ed.), The Network Society: A
-Cross-Cultural Perspective, Cheltenham: Edward Elgar Publishing Limited,
+Statist Society’, in Manuel Castells (ed.), *The Network Society: A
+Cross-Cultural Perspective*, Cheltenham: Edward Elgar Publishing Limited,
 2004, p. 99-124.
 
-Rheingold, Howard. The Virtual Community: Homesteading on the Electronic
-Frontier, Cambridge: MIT Press, 2000.
+Rheingold, Howard. *The Virtual Community: Homesteading on the Electronic
+Frontier*, Cambridge: MIT Press, 2000.
 
-Rofel, Lisa. Desiring China: Experiments in Neoliberalism, Sexuality,
-and Public Culture, Durham: Duke University Press, 2007.
+Rofel, Lisa. *Desiring China: Experiments in Neoliberalism, Sexuality,
+and Public Culture*, Durham: Duke University Press, 2007.
 
 Rosenman, Olivia. ‘China's Sexual Revolution: “One-night Stand” app Momo
 Boasts 80 Million Users’, South China Morning Post (13 November 2013),
-http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users
+<http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>
 
 Sheller, Mimi, & Urry, John. 2006, "The New Mobilities Paradigm",
-Environment and Planning A 38(2), 207-226.
+*Environment and Planning* A 38(2), 207-226.
 
 Synnott, Anthony. ‘Truth and Goodness, Mirrors and Masks: A Sociology of
-Beauty and the Face’, in Ray B. Browne & Pat Browne (eds.), Digging into
+Beauty and the Face’, in Ray B. Browne & Pat Browne (eds.), *Digging into
 Popular Culture: Theories and Methodologies in Archeology, Anthropology,
-and Other Fields, Bowling Green: Popular Press, 1991.
+and Other Fields*, Bowling Green: Popular Press, 1991.
 
 Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai
 Mom zuo shenme?’, Zhihu, <http://www.zhihu.com/question/22680523>
 
 Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, New
 York Times (24 July 2013),
-*http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&*
+<http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
 
-Terranova, Tiziana. Network Culture: Politics for the Information Age,
+Terranova, Tiziana. *Network Culture: Politics for the Information Age*,
 London: Pluto Press, 2004.
 
-Turkle, Sherry. Alone Together: Why We Expect More From Technology and
-Less From Each Other, New York: Basic Books, 2012.
+Turkle, Sherry. A*lone Together: Why We Expect More From Technology and
+Less From Each Other*, New York: Basic Books, 2012.
 
-Urry, John. Mobilities, Cambridge: Polity Press, 2000.
+Urry, John. *Mobilities*, Cambridge: Polity Press, 2000.
 
 Wallis, Cara. ‘The Technological Meets the Traditional: Mobile
 Navigations of Desire and Intimacy’, in Stephanie Hemelryk Donald,
-Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society and
-Mobile Media in Asia, Abingdon: Routledge, 2010, pp. 57-69.
+Theresa Dirndorfer Anderson and Damien Spry (eds.), *Youth, Society and
+Mobile Media in Asia*, Abingdon: Routledge, 2010, pp. 57-69.
 
 Whitty, Monica T. & Carr, Adrian. ‘Introduction’, in Monica T. Whitty,
-Andrea J. Baker, James A. Inman (eds.), Online M@tchmaking, Houndmills:
+Andrea J. Baker, James A. Inman (eds.), *Online M@tchmaking*, Houndmills:
 Palgrave MacMillan, 2007.
 
 [^13_deSeta_Zhang_1]: Disclaimer: as a consequence of the double authorship, this
