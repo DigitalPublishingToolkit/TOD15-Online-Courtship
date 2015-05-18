@@ -75,6 +75,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/NumList &gt; Paragraph" Name="NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -120,18 +135,18 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Media’s Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Enver Ozustun</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>INTRODUCTION</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -150,8 +165,8 @@
     <Content>Just because a topic is being discussed a lot in daily life, it does not always have a big impact on the society. Despite this, we still talk, discuss and criticize these shows in media and other outlets that are being broadcasted on a variety of channels. These shows are far from being a reference to a similar occurrence in daily life, yet they still find a way to be relevant. Online dating practices also are an important issue of daily experience; alternative dating sites such as Solcuolsun.com (users are primarily left leaning) or religious marriage sites are among the biggest networks. The niche group that the sites addresses, categorize and define the users life styles and social status.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Understanding the TV Marriage Shows</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -242,13 +257,13 @@
     <Content>-Mass Communication Devices, Media and Its Effects</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>1- ABOUT MICROSTRUCTURE/MACROSTRUCTURE </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>1- ABOUT MICROSTRUCTURE/MACROSTRUCTURE</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>1.1 Neo-Liberal Order and Social Engineering</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -318,8 +333,8 @@
     <Content>“Marriage Shows” are another product of this lower quality circle. However, before we move on to the contents of these shows, we should take a look at the institution of marriage in the typical Turkish family structure.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>1.2 Marriage in the Structure of Turkish Society</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -571,8 +586,8 @@
     <Content>As the mass media is one of these areas, looking at its attitude on this matter, will without a doubt give us a new perspective to comprehend the subject.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>1.3 Mass Communication Devices, Media and Its Effects</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -729,8 +744,8 @@
     <Content>Based on the last sentence; let’s look at how marriage shows manage to invade so much broadcast time and our agenda even though they don’t have high ratings and an important presence in the advertisement revenues.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>2. MARRIAGE SHOWS ON TURKISH TELEVISION</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -958,8 +973,8 @@
     <Content>Before we try to find an answer, we should take a look at which elements marriage shows are prepared with and what considerations they have.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>2.1 Sociological Analysis of the Shows</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1058,8 +1073,8 @@
     <Content>Now, let’s look at how marriage shows are adapted to television under the guidelines above. This adaptation contains the properties that make the show watched and debated in various parts of society.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>2.2 Components of the Show and Keeping Audience Interested</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1148,8 +1163,8 @@
     <Content>But the story doesn’t end here - it is just starting. How so?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>3. CLAIMS</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1229,7 +1244,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>http://www.oncevatan.com.tr/</Content>
+          <Content>Oncevatan. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.oncevatan.com.tr/</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1240,13 +1263,13 @@
     <Content>As this is the situation, we can say effort to maintain these program are not in line with their ratings and advertising revenues.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Parallels Between the TV Show and Online Dating Sites in Turkey</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>4. CONCLUSION</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2135,7 +2158,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>It is clear as day that people who watch these shows won’t set their future accordingly and take what is happening there as a reference and the media tycoons are aware of that. Yet the sociological implication the TV shows set for the type of atmosphere has also seeped into the online dating and marriage websites. The marriage websites are designed exactly like the programs; </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.evlilikmerkezi.com</Content>
     </CharacterStyleRange>
@@ -2154,7 +2177,7 @@
     <Content>These factors in the TV shows clearly have set the stage for online marriage and dating sites. The expectations of the users are categorized according to the standards set by the marriage TV shows.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>REFERENCES</Content>
   </CharacterStyleRange><Br />
@@ -2176,22 +2199,46 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gramsci, Antonio. Prison Notebooks. Vol. 2. Columbia University Press, 1996.</Content>
+    <Content>Gramsci, Antonio. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Prison Notebooks. Vol. 2</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Columbia: Columbia University Press, 1996.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Horkheimer, Max, and Theodor W. Adorno. Dialectic of enlightenment: Philosophical fragments. Stanford University Press, 2002.</Content>
+    <Content>Horkheimer, Max, and Theodor W. Adorno. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dialectic of enlightenment: Philosophical fragments</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Stanford: Stanford University Press, 2002.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and gratifications research.’ Public opinion quarterly (1973): 509-523.</Content>
+    <Content>Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and gratifications research.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Public Opinion Quarterly</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (1973): 509-523.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Postman, Neil, ‘Televizyon: Öldüren Eğlence, Gösteri Çağında Kamusal Söylem’, Osman Akınhay (trans.), İstanbul: Ayrıntı Yayınları, 1985, p. 34.</Content>
+    <Content>Postman, Neil, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>‘Televizyon: Öldüren Eğlence, Gösteri Çağında Kamusal Söylem’</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Osman Akınhay (trans.), İstanbul: Ayrıntı Yayınları, 1985, p. 34.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2201,16 +2248,38 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>http://www.oncevatan.com.tr/.</Content>
+    <Content>Oncevatan. </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.oncevatan.com.tr/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.oncevatan.com.tr/" Name="link" DestinationURL="http://www.oncevatan.com.tr/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.oncevatan.com.tr/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.oncevatan.com.tr/</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.evlilikmerkezi.com" Name="link" DestinationURL="http://www.evlilikmerkezi.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="http://www.evlilikmerkezi.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="http://www.evlilikmerkezi.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.evlilikmerkezi.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.oncevatan.com.tr/" Name="link" DestinationURL="http://www.oncevatan.com.tr/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.oncevatan.com.tr/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.oncevatan.com.tr/</Destination>
     </Properties>
   </Hyperlink>
 </Document>

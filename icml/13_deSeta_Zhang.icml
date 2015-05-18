@@ -9,11 +9,6 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -49,6 +44,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -69,12 +79,12 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Stranger Stranger or Lonely Lonely? Young Chinese and Dating Apps between the Locational, the Mobile and the Social</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Gabriele de Seta and Ge Zhang</Content>
   </CharacterStyleRange>
@@ -96,8 +106,8 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Introduction: Did You Get Married?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -398,8 +408,8 @@
     <Content> – and seek to question and re-evaluate these terms in light of our findings. These three sections, providing insights into creative usage of locative media, sociality with strangers, and mobile self-presentation, are preceded by a methodological note and a general discussion of our field of inquiry in relationship to our actual site of data collection: contemporary urban China.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Flirting with Methods</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -729,8 +739,8 @@
     <Content>. &quot;Momo at one hundred million users, thanks to you for being with us!&quot;, smartphone screenshot by the authors, 7 February 2014.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Locating Mobile Sociality: Online Dating and the Chinese City</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1147,8 +1157,8 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Mobile: Self-presentation on Portable Façades</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1509,8 +1519,8 @@
     <Content>Figure 4: Exploiting the platform. Mixed-media nicknames ('President Xi lead me' with Chinese flag and rocket), and multi-panel pictures split to fit into Momo's predetermined 8-picture profile gallery.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Social: 'Stranger Stranger' or 'Lonely Lonely'?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1718,8 +1728,8 @@
     <Content>) do not hope I will keep you company chatting with you!&quot;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Locational: Less Than Dating, More Than Doing Nothing</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1893,8 +1903,8 @@
     <Content> to the local community of the district or neighborhood. As in the case of flirting, the locational sociality enabled by Momo remains suspended in the ambiguity between a network of emphatic friends sharing hours of chill and boredom in a range of a few hundred meters, and the rarely crossed line between leisurely chatting and getting to meet each other in person. When a group member suggested doing a meet-up in a nearby KTV, only two people showed up, and the organizer himself backed off in hesitation. When, after more than one month of acquaintance, NM agreed to meet the author to get some books he promised to give before her leaving. She was waiting there with her boyfriend, up only for a few minutes of dismissive chit-chat before getting back to work.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusion: If You Are (Not) the One</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2134,8 +2144,8 @@
     <Content> world of social pressures, prescribed roles, and mediated images.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2151,22 +2161,46 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ben-Ze'ev, Aaron. Love Online: Emotions on the Internet, Cambridge: Cambridge University Press, 2004.</Content>
+    <Content>Ben-Ze'ev, Aaron. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Love Online: Emotions on the Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Cambridge University Press, 2004.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bourdieu, Pierre. The Bachelor’s Ball, Cambridge: Polity Press, 2008.</Content>
+    <Content>Bourdieu, Pierre. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Bachelor’s Ball</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity Press, 2008.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Burger, Richard. Behind the Red Door: Sex in China, Hong Kong: Earnshaw Books, 2012.</Content>
+    <Content>Burger, Richard. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Behind the Red Door: Sex in China</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Hong Kong: Earnshaw Books, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Choi, Jaz Hee-jong. ‘The City, Self and Connections’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010, p. 88-107.</Content>
+    <Content>Choi, Jaz Hee-jong. ‘The City, Self and Connections’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Youth, Society and Mobile Media in Asia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Abingdon: Routledge, 2010, p. 88-107.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2176,37 +2210,79 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Donald, Stephanie Hemelryk. ‘Introduction: Why Mobility Matters: Young People and Media Competency in the Asia-Pacific’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010, pp. 3-12.</Content>
+    <Content>Donald, Stephanie Hemelryk. ‘Introduction: Why Mobility Matters: Young People and Media Competency in the Asia-Pacific’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Youth, Society and Mobile Media in Asia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Abingdon: Routledge, 2010, pp. 3-12.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Goffman, Erving. The Presentation of Self in Everyday Life, Carden City: Doubleday Anchor Books, 1959.</Content>
+    <Content>Goffman, Erving. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Presentation of Self in Everyday Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Carden City: Doubleday Anchor Books, 1959.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>______. Relations in Public: Micro Studies of the Public Order, New York: Harper &amp; Row, 1972.</Content>
+    <Content>______. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Relations in Public: Micro Studies of the Public Order</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Harper &amp; Row, 1972.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hemment, Drew. 'Locative Arts', Leonardo 39(4), 2006, 349-355.</Content>
+    <Content>Hemment, Drew. 'Locative Arts', </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Leonardo</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 39(4), 2006, 349-355.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hine, Christine. The Internet: Understanding Qualitative Research, New York: Oxford University Press, 2013.</Content>
+    <Content>Hine, Christine. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Internet: Understanding Qualitative Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Oxford University Press, 2013.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jacobs, Katrien. People’s Pornography: Sex and Surveillance on the Chinese Internet, Bristol: Intellect, 2012.</Content>
+    <Content>Jacobs, Katrien. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>People’s Pornography: Sex and Surveillance on the Chinese Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Bristol: Intellect, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jensen, Ole B. ‘Erving Goffman and Everyday Life Mobility’, in Michael Hviid Jacobsen (ed.), The Contemporary Goffman, New York, NY: Routledge, 2010, p.333-351.</Content>
+    <Content>Jensen, Ole B. ‘Erving Goffman and Everyday Life Mobility’, in Michael Hviid Jacobsen (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Contemporary Goffman</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York, NY: Routledge, 2010, p.333-351.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2221,69 +2297,139 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, Shanghaiist (14 November 2013), http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php</Content>
+    <Content>Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, Shanghaiist (14 November 2013), </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kaufmann, Jean-Claude. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Love Online</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, trans. David Macey, Cambridge: Polity Press, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kaufmann, Jean-Claude. Love Online, trans. David Macey, Cambridge: Polity Press, 2012.</Content>
+    <Content>Moore, Robert L. ‘Love and Limerence with Chinese Characteristics: Student Romance in the PRC’, in Victor C. Munck (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Romantic Love and Sexual Behavior: Perspectives from the Social Sciences</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Westport: Praeger, 1998, p. 251-284.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Moore, Robert L. ‘Love and Limerence with Chinese Characteristics: Student Romance in the PRC’, in Victor C. Munck (ed.), Romantic Love and Sexual Behavior: Perspectives from the Social Sciences, Westport: Praeger, 1998, p. 251-284.</Content>
+    <Content>Morozov, Evgeny. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Net Delusion: The Dark Side of Internet Freedom</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Public Affairs, 2011.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Morozov, Evgeny. The Net Delusion: The Dark Side of Internet Freedom, New York: Public Affairs, 2011.</Content>
+    <Content>Orr, Andrea. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Upper Saddle River: Reuters, 2004.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Orr, Andrea. Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating, Upper Saddle River: Reuters, 2004.</Content>
+    <Content>Pirone, Jon, Mayo, Don, &amp; Berkemeyer, Kathy. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Internet in an Hour: Romance &amp; Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: DDC Publishing, 1999.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Pirone, Jon, Mayo, Don, &amp; Berkemeyer, Kathy. Internet in an Hour: Romance &amp; Relationships, New York: DDC Publishing, 1999.</Content>
+    <Content>Qiu, Jack Linchuan. ‘The Internet in China: Technologies of Freedom in a Statist Society’, in Manuel Castells (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Network Society: A Cross-Cultural Perspective</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cheltenham: Edward Elgar Publishing Limited, 2004, p. 99-124.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Qiu, Jack Linchuan. ‘The Internet in China: Technologies of Freedom in a Statist Society’, in Manuel Castells (ed.), The Network Society: A Cross-Cultural Perspective, Cheltenham: Edward Elgar Publishing Limited, 2004, p. 99-124.</Content>
+    <Content>Rheingold, Howard. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Virtual Community: Homesteading on the Electronic Frontier</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: MIT Press, 2000.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rheingold, Howard. The Virtual Community: Homesteading on the Electronic Frontier, Cambridge: MIT Press, 2000.</Content>
+    <Content>Rofel, Lisa. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Durham: Duke University Press, 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rofel, Lisa. Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture, Durham: Duke University Press, 2007.</Content>
+    <Content>Rosenman, Olivia. ‘China's Sexual Revolution: “One-night Stand” app Momo Boasts 80 Million Users’, South China Morning Post (13 November 2013), </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sheller, Mimi, &amp; Urry, John. 2006, &quot;The New Mobilities Paradigm&quot;, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Environment and Planning</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> A 38(2), 207-226.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rosenman, Olivia. ‘China's Sexual Revolution: “One-night Stand” app Momo Boasts 80 Million Users’, South China Morning Post (13 November 2013), http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+    <Content>Synnott, Anthony. ‘Truth and Goodness, Mirrors and Masks: A Sociology of Beauty and the Face’, in Ray B. Browne &amp; Pat Browne (eds.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Digging into Popular Culture: Theories and Methodologies in Archeology, Anthropology, and Other Fields</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Sheller, Mimi, &amp; Urry, John. 2006, &quot;The New Mobilities Paradigm&quot;, Environment and Planning A 38(2), 207-226.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Synnott, Anthony. ‘Truth and Goodness, Mirrors and Masks: A Sociology of Beauty and the Face’, in Ray B. Browne &amp; Pat Browne (eds.), Digging into Popular Culture: Theories and Methodologies in Archeology, Anthropology, and Other Fields, Bowling Green: Popular Press, 1991.</Content>
+    <Content>, Bowling Green: Popular Press, 1991.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai Mom zuo shenme?’, Zhihu, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.zhihu.com/question/22680523</Content>
     </CharacterStyleRange>
@@ -2293,42 +2439,95 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, New York Times (24 July 2013), </Content>
   </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Terranova, Tiziana. </Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?_r=1&amp;</Content>
+    <Content>Network Culture: Politics for the Information Age</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Pluto Press, 2004.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Terranova, Tiziana. Network Culture: Politics for the Information Age, London: Pluto Press, 2004.</Content>
+    <Content>Turkle, Sherry. A</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>lone Together: Why We Expect More From Technology and Less From Each Other</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Basic Books, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Turkle, Sherry. Alone Together: Why We Expect More From Technology and Less From Each Other, New York: Basic Books, 2012.</Content>
+    <Content>Urry, John. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mobilities</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity Press, 2000.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Urry, John. Mobilities, Cambridge: Polity Press, 2000.</Content>
+    <Content>Wallis, Cara. ‘The Technological Meets the Traditional: Mobile Navigations of Desire and Intimacy’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Youth, Society and Mobile Media in Asia</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Abingdon: Routledge, 2010, pp. 57-69.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wallis, Cara. ‘The Technological Meets the Traditional: Mobile Navigations of Desire and Intimacy’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010, pp. 57-69.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+    <Content>Whitty, Monica T. &amp; Carr, Adrian. ‘Introduction’, in Monica T. Whitty, Andrea J. Baker, James A. Inman (eds.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Online M@tchmaking</Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica T. &amp; Carr, Adrian. ‘Introduction’, in Monica T. Whitty, Andrea J. Baker, James A. Inman (eds.), Online M@tchmaking, Houndmills: Palgrave MacMillan, 2007.</Content>
+    <Content>, Houndmills: Palgrave MacMillan, 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;" Name="link" DestinationURL="http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.zhihu.com/question/22680523" Name="link" DestinationURL="http://www.zhihu.com/question/22680523" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.zhihu.com/question/22680523" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.zhihu.com/question/22680523" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.zhihu.com/question/22680523</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users" Name="link" DestinationURL="http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php" Name="link" DestinationURL="http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html" Name="link" DestinationURL="http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html" DestinationUniqueKey="1" />

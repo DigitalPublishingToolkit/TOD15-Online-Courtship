@@ -4,17 +4,17 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic Link" Name="Italic Link" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -44,6 +44,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -64,12 +79,12 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diaspora in America</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Sheena Raja and Bryce J. Renninger</Content>
   </CharacterStyleRange><Br />
@@ -90,7 +105,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Arjun Appudarai, Modernity at Large: Cultural Dimensions of Globalization, Minneapolis: University of Minnesota, 1996.</Content>
+          <Content>Arjun Appudarai, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Modernity at Large: Cultural Dimensions of Globalization</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Minneapolis: University of Minnesota, 1996.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -126,8 +147,8 @@
     <Content>This chapter distinguishes itself among other studies of contemporary arranged marriage amongst South Asians by focusing on the practices of U.S. diasporic South Asians and by acknowledging the many actors – human and non-human – that factor into the arranged marriage process amongst this social group. In what follows, we use the term “South Asian diaspora,” even though the subjects in the study are of Indian descent. Though there are small regional differences in marriage practices between villages, cities, nations, regions, and religious and ethnic groups, the coeval existence of arranged and love marriages, matchmakers and Internet sites is standard for many across the region and its diaspora.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Marriage in the South Asian Diaspora: Arrangements, Assisting, and Love</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -147,7 +168,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Stephanie Coontz, Marriage, a History: How Love Conquered Marriage, New York: Viking, 2005.</Content>
+          <Content>Stephanie Coontz, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Marriage, a History: How Love Conquered Marriage</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Viking, 2005.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -172,7 +199,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) Gender and Social Computing: Interactions, Differences, and Relationships, Hershey, PA: IGI Global, 2011, p. 276.</Content>
+          <Content>Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Gender and Social Computing: Interactions, Differences, and Relationships</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Hershey, PA: IGI Global, 2011, p. 276.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -226,7 +259,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Narayan Gopalkrishnan and Hurriyet Babacan, ‘Ties That Bind: Marriage and Partner Choice in the Indian Community in Australia in a Transnational Context’, Identities: Global Studies in Culture and Power 14.4 (2007), p. 519.</Content>
+          <Content>Narayan Gopalkrishnan and Hurriyet Babacan, ‘Ties That Bind: Marriage and Partner Choice in the Indian Community in Australia in a Transnational Context’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Identities: Global Studies in Culture and Power</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 14.4 (2007), p. 519.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -248,7 +287,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Sheena Raja, ‘A Match Made in Heaven: A Study of Changing Hindu Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and Anjoom Mukadam (eds.) Gujarati Communities across the Globe: Memory, Identity, and Continuity, London, UK: Trentham Books, 2012.</Content>
+          <Content>Sheena Raja, ‘A Match Made in Heaven: A Study of Changing Hindu Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and Anjoom Mukadam (eds.) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Gujarati Communities across the Globe: Memory, Identity, and Continuity</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London, UK: Trentham Books, 2012.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -268,7 +313,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’.</Content>
+          <Content>Nainika Seth and Ravi Patnayakuni, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, University of Alabama in Huntsville, USA, 2009.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -321,7 +372,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Marian Aguiar, ‘Arranged Marriage: Cultural Regeneration in Transnational South Asian Popular Culture.’ Cultural Critique 84 (Spring, 2013), 193.</Content>
+          <Content>Marian Aguiar, ‘Arranged Marriage: Cultural Regeneration in Transnational South Asian Popular Culture.’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Cultural Critique</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 84 (Spring, 2013), 193.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -348,7 +405,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Paul C. Adams and Rina Ghose, ‘India.com: The construction of a Space Between’, Progress in Human Geography 27.4 (2003), p. 431.</Content>
+          <Content>Paul C. Adams and Rina Ghose, ‘India.com: The construction of a Space Between’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Progress in Human Geography</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 27.4 (2003), p. 431.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -368,7 +431,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Kabita Chakraborty, ‘Virtual Mate-seeking in the Urban Slums of Kolkata, India’, South Asian Popular Culture 10.2 (July, 2012).</Content>
+          <Content>Kabita Chakraborty, ‘Virtual Mate-seeking in the Urban Slums of Kolkata, India’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>South Asian Popular Culture</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 10.2 (July, 2012).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -388,7 +457,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Dana Diminescu and Matthieu Renault, ‘The Matrimonial Web of Migrants: The Economics of Profiling as a New Form of Ethnic Business’, Social Science Information 50 (2011).</Content>
+          <Content>Dana Diminescu and Matthieu Renault, ‘The Matrimonial Web of Migrants: The Economics of Profiling as a New Form of Ethnic Business’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Social Science Information</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 50 (2011).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -433,7 +508,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Sonora Jha and Mara Adelman, ‘Looking for Love in All the White Places: A Study of Skin Color Preferences on Indian Matrimonial and Mate-Seeking Websites’, Studies in South Asian Film and Media 1.1 (2009).</Content>
+          <Content>Sonora Jha and Mara Adelman, ‘Looking for Love in All the White Places: A Study of Skin Color Preferences on Indian Matrimonial and Mate-Seeking Websites’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Studies in South Asian Film and Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 1.1 (2009).</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -453,7 +534,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Dana Diminescu and Matthieu Renault, ‘The Matrimonial Web of Migrants: The Economics of Profiling as a New Form of Ethnic Business’, Social Science Information 50 (2011), p. 687.</Content>
+          <Content>Dana Diminescu and Matthieu Renault, ‘The Matrimonial Web of Migrants: The Economics of Profiling as a New Form of Ethnic Business’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Social Science Information</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 50 (2011), p. 687.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -462,8 +549,8 @@
     <Content> that would be unattractive.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Methods</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -506,7 +593,7 @@
           <Content>SAALT, ‘A Demographic Snapshot of South Asians in the United States’, July 2012. Retrieved from </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource><Br />
@@ -551,7 +638,7 @@
           <Content>US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved from </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
-          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource><Br />
@@ -613,7 +700,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jay David Bolter and Richard Grusin, Remediation: Understanding New Media, Cambridge, MA: MIT Press, 2000.</Content>
+          <Content>Jay David Bolter and Richard Grusin, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Remediation: Understanding New Media</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge, MA: MIT Press, 2000.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -627,9 +720,9 @@
     <Content>Before we provide our analyses of the interviews at the center of the chapter, we first take a detour to a hotel and conference center in Edison, New Jersey.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Spectacular Matchmaking in Edison, New Jersey </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Spectacular Matchmaking in Edison, New Jersey</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -654,7 +747,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>V.V. Prakasa Rao and V. Nandini Rao, Marriage, the Family, and Women in India, Delhi: Heritage, 1982.</Content>
+          <Content>V.V. Prakasa Rao and V. Nandini Rao, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Marriage, the Family, and Women in India</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Delhi: Heritage, 1982.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -684,8 +783,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>“Yashvant Patel, founder Matri, Inc. USA on Gujarati Matrimony.com,” https://www.youtube.com/watch?v=dJrZBMzpRBE</Content>
-        </CharacterStyleRange><Br />
+          <Content>Yashvant Patel, founder Matri, Inc. USA on Gujarati Matrimony.com, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>https://www.youtube.com/watch?v=dJrZBMzpRBE</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -693,8 +797,8 @@
     <Content> Not only has this organization drawn a sponsor facilitating entrance into the digital space, but the annual events have also been revamped to include a “speed dating” session. Here we find that matrimonial sites such as Matri are remediations of older forms of arrangement practices that now coexist in complex systems of matchmaking.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Remediating the Matchmaker</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -714,7 +818,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Bruno Latour, Reassembling the Social: An Introduction to Actor-Network-Theory, Oxford: Oxford University Press, 2007.</Content>
+          <Content>Bruno Latour, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Reassembling the Social: An Introduction to Actor-Network-Theory</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Oxford University Press, 2007.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -795,18 +905,15 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>I didn’t find it helpful to be on [</Content>
+    <Content>I didn’t find it helpful to be on </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>eHarmony</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
-      <Content>.com*</Content>
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>eHarmony</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>]* because it didn’t let you search yourself. They give you options. I guess it’s like computerized. You fill out a huge profile and depending on what score you get they will match you with guys that would be compatible with you.So you can’t necessarily go through and filter. I don’t think. I didn’t give myself too much time on there. I found it irritating because they select guys for you. I didn’t let my mom do that. A majority of the times it didn’t even make sense...like how did they come up with this? Why would they think I would be compatible with this guy? [Emphasis added.]</Content>
+    <Content> because it didn’t let you search yourself. They give you options. I guess it’s like computerized. You fill out a huge profile and depending on what score you get they will match you with guys that would be compatible with you. So you can’t necessarily go through and filter. I don’t think. I didn’t give myself too much time on there. I found it irritating because they select guys for you. I didn’t let my mom do that. A majority of the times it didn’t even make sense...like how did they come up with this? Why would they think I would be compatible with this guy? [Emphasis added.]</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -879,8 +986,8 @@
     <Content>In this section, we have noted the ways in which the remediation of certain social and non-social actors that could be seen as providing a matchmaking function played a role in our subjects’ preference for or thoughts on various sites. In the next section, we will look at the remediation of a tool – the biodata – in the pursuit of courtship.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Remediating Biodata</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -905,7 +1012,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Sheena Raja, ‘A Match Made in Heaven: A Study of Changing Hindu Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and Anjoom Mukadam (eds.) Gujarati Communities across the Globe: Memory, Identity, and Continuity, London, UK: Trentham Books, 2012, page 126.</Content>
+          <Content>Sheena Raja, ‘A Match Made in Heaven: A Study of Changing Hindu Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and Anjoom Mukadam (eds.) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Gujarati Communities across the Globe: Memory, Identity, and Continuity</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London, UK: Trentham Books, 2012, page 126.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -986,8 +1099,8 @@
     <Content>Here, the structure of the online sites’ structures were seen as comparable but favorable to biodata. This last comment brings up directly the idea of different uses of the site for diasporic subjects as compared to the use of sites by Indian nationals. No matter how much skin tone might become a part of mate selection in the American context, articulating this is seen to go against the social practices of a post-racial American culture. In the next section, we will discuss the remediation of diasporic identity with regards to the sites that our subjects used.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Remediating Diasporic Subjectivity</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1013,7 +1126,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Arjun Appudarai, Modernity at Large: Cultural Dimensions of Globalization.</Content>
+          <Content>Arjun Appudarai, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Modernity at Large: Cultural Dimensions of Globalization</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1126,8 +1245,8 @@
     <Content>In this regard, Participant 8 echoed a sentiment expressed or assumed by many of our subjects: for a number of reasons, another South Asian-American was what they were using matchmaking technologies to find. These desires were articulated through the various technological and human actors surrounding these subjects.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1152,7 +1271,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Anthony Giddens, The Transformation of Intimacy, Sexuality, Love, and Eroticism in Modern Societies, Stanford, CA: Stanford University Press, 1993.</Content>
+          <Content>Anthony Giddens, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Transformation of Intimacy, Sexuality, Love, and Eroticism in Modern Societies</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Stanford, CA: Stanford University Press, 1993.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1161,8 +1286,8 @@
     <Content> Or, alternatively, we limit our definition of “love.” Instances of mediated matchmaking lay bare the technologized and mediated pursuit of courtship and its complicity in models of arrangement, assisted marriages, and, in fact, love. Diasporic subjectivity, as described in this essay, is a particularly interesting boundary object that points out the ways that various modes of relating are coeval in a contemporary globalized world. In considering the experiences of diasporic South Asians’ use of dating and matrimonial sites to pursue relationships, we are reminded of the various courses and pathways enabled by transnational ethno-, techno-, and mediascapes. As courts, legislatures, social scientists, and culture at large attempt to codify certain modes of marriage and courtship within the United States and other nations, it is helpful to be reminded of the many coexisting and varied models for these modes of relating.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Appendix</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1216,84 +1341,174 @@
     <Content>Participant 10: Male/33/U.S.-born/Raised Hindu</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Adams, Paul C. and Ghose, Rina. ‘India.com: The construction of a Space Between’, Progress in Human Geography 27.4 (2003) 414-37.</Content>
+    <Content>Adams, Paul C. and Ghose, Rina. ‘India.com: The construction of a Space Between’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Progress in Human Geography</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 27.4 (2003) 414-37.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Aguiar, Marian. ‘Arranged Marriage: Cultural Regeneration in Transnational South Asian Popular Culture’, Cultural Critique 84 (Spring, 2013) 181-213.</Content>
+    <Content>Aguiar, Marian. ‘Arranged Marriage: Cultural Regeneration in Transnational South Asian Popular Culture’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cultural Critique</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 84 (Spring, 2013) 181-213.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Appudarai, Arjun. Modernity at Large: Cultural Dimensions of Globalization, Minneapolis: University of Minnesota, 1996.</Content>
+    <Content>Appudarai, Arjun. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Modernity at Large: Cultural Dimensions of Globalization</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Minneapolis: University of Minnesota, 1996.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bellafante, Ginia, ‘Courtship Ideas of South Asians Get a U.S. Touch’, The New York Times. (23 August, 2005).</Content>
+    <Content>Bellafante, Ginia, ‘Courtship Ideas of South Asians Get a U.S. Touch’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The New York Times</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. (23 August, 2005).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bolter, Jay David and Grusin, Richard. Remediation: Understanding New Media, Cambridge, MA: MIT Press, 2000.</Content>
+    <Content>Bolter, Jay David and Grusin, Richard. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Remediation: Understanding New Media</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge, MA: MIT Press, 2000.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Chakraborty, Kabita. ‘Virtual Mate-seeking in the Urban Slums of Kolkata, India.’ South Asian Popular Culture 10.2 (July, 2012) 197-216.</Content>
+    <Content>Chakraborty, Kabita. ‘Virtual Mate-seeking in the Urban Slums of Kolkata, India.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>South Asian Popular Culture</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 10.2 (July, 2012) 197-216.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Coontz, Stephanie. Marriage, a History, New York: Viking, 2005.</Content>
+    <Content>Coontz, Stephanie. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Marriage, a History</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Viking, 2005.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Diminescu, Dana and Renault, Matthieu. ‘The Matrimonial Web of Migrants: The Economics of Profiling as a New Form of Ethnic Business’, Social Science Information 50 (2011) 678-704.</Content>
+    <Content>Diminescu, Dana and Renault, Matthieu. ‘The Matrimonial Web of Migrants: The Economics of Profiling as a New Form of Ethnic Business’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Social Science Information</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 50 (2011) 678-704.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Giddens, Anthony. The Transformation of Intimacy, Sexuality, Love, and Eroticism in Modern Societies, Stanford, CA: Stanford University Press, 1993.</Content>
+    <Content>Giddens, Anthony. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Transformation of Intimacy, Sexuality, Love, and Eroticism in Modern Societies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Stanford, CA: Stanford University Press, 1993.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gopalkrishnan, Narayan and Babacan, Hurriyet. ‘Ties That Bind: Marriage and Partner Choice in the Indian Community in Australia in a Transnational Context’, Identities: Global Studies in Culture and Power 14.4 (2007) 507-26.</Content>
+    <Content>Gopalkrishnan, Narayan and Babacan, Hurriyet. ‘Ties That Bind: Marriage and Partner Choice in the Indian Community in Australia in a Transnational Context’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Identities: Global Studies in Culture and Power</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 14.4 (2007) 507-26.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Eva Illouz, Consuming the Romantic Utopia: Love and the Cultural Contradictions of Capitalism, Berkeley: University of California Press, 1997.</Content>
+    <Content>Eva Illouz, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Consuming the Romantic Utopia: Love and the Cultural Contradictions of Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Berkeley: University of California Press, 1997.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jha, Sonora and Adelman, Mara. ‘Looking for Love in All the White Places: A Study of Skin Color Preferences on Indian Matrimonial and Mate-Seeking Websites.’ Studies in South Asian Film and Media 1.1 (2009) 65-83.</Content>
+    <Content>Jha, Sonora and Adelman, Mara. ‘Looking for Love in All the White Places: A Study of Skin Color Preferences on Indian Matrimonial and Mate-Seeking Websites.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Studies in South Asian Film and Media</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1.1 (2009) 65-83.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Latour, Bruno. Reassembling the Social: An Introduction to Actor-Network-Theory, Oxford: Oxford University Press, 2007.</Content>
+    <Content>Latour, Bruno. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Reassembling the Social: An Introduction to Actor-Network-Theory</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oxford: Oxford University Press, 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Raja, Sheena, ‘A Match Made in Heaven: A Study of Changing Hindu Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and Anjoom Mukadam (eds.) Gujarati Communities across the Globe: Memory, Identity, and Continuity, London, UK: Trentham Books, 2012.</Content>
+    <Content>Raja, Sheena, ‘A Match Made in Heaven: A Study of Changing Hindu Marriage Practices amongst Gujarati Eligibles’ in Sharmina Mawani and Anjoom Mukadam (eds.) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Gujarati Communities across the Globe: Memory, Identity, and Continuity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London, UK: Trentham Books, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rao, V.V. Prakasa and Rao, V. Nandini. Marriage, the Family, and Women in India, Delhi: Heritage, 1982.</Content>
+    <Content>Rao, V.V. Prakasa and Rao, V. Nandini. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Marriage, the Family, and Women in India</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Delhi: Heritage, 1982.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1305,20 +1520,24 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Retrieved from </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
       <Content>http://saalt.org/wp-content/uploads/2012/09/Demographic-</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Snapshot-Asian-American-Foundation-2012.pdf.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Seth, Nainika and Patnayakuni, Ravi. ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) Gender and Social Computing: Interactions, Differences, and Relationships, Hershey, PA: IGI Global, 2011, pp. 272-93.</Content>
+    <Content>Seth, Nainika and Patnayakuni, Ravi. ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Gender and Social Computing: Interactions, Differences, and Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Hershey, PA: IGI Global, 2011, pp. 272-93.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1327,7 +1546,7 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
       <Content>http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Content>
     </CharacterStyleRange>
@@ -1336,38 +1555,45 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Name="link" DestinationURL="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://saalt.org/wp-content/uploads/2012/09/Demographic-" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://eHarmony.com" Name="link" DestinationURL="http://eHarmony.com" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="http://eHarmony.com" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-4" Name="http://eHarmony.com" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://eHarmony.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/numbering.xml" Name="link" DestinationURL="numbering.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="numbering.xml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.youtube.com/watch?v=dJrZBMzpRBE" Name="link" DestinationURL="https://www.youtube.com/watch?v=dJrZBMzpRBE" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.youtube.com/watch?v=dJrZBMzpRBE" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/numbering.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/https://www.youtube.com/watch?v=dJrZBMzpRBE</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/../customXml/item1.xml" Name="link" DestinationURL="../customXml/item1.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="../customXml/item1.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Name="link" DestinationURL="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/../customXml/item1.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Destination>
     </Properties>
   </Hyperlink>
 </Document>

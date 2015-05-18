@@ -4,16 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -75,6 +65,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -95,18 +100,18 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Diego Basile and Joaquín Linne</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Introduction</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -131,11 +136,11 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Internet World Stats, http://www.i</Content>
+          <Content>Internet World Stats, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>nternetworldstats.com</Content>
+            <Content>http://www.internetworldstats.com</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -159,7 +164,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Marc Prensky, ‘Digital Natives, Digital Inmigrants’, On the Horizon 9.5 (2001): 1-6.</Content>
+          <Content>Marc Prensky, ‘Digital Natives, Digital Inmigrants’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>On the Horizon</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 9.5 (2001): 1-6.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -179,7 +190,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Richard Chalfen, Snapshots Versions of Life, Ohio: University Popular Press, 1987.</Content>
+          <Content>Richard Chalfen, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Snapshots Versions of Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Ohio: University Popular Press, 1987.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -218,8 +235,8 @@
     <Content> they watch audiovisual content online, display, take and edit photos, and use social network sites. In this context, FB appears as their main entertainment and communication media.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Methodology</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -268,8 +285,8 @@
     <Content>Finally, using the “snowball” method implemented by our key informants of the community center, we created an ad hoc profile on FB that currently has more than 2,500 contacts (mostly adolescents of the LIS of City of Buenos Aires). These virtual observations that we develop during two years (2012-2013), allowed us to investigate the practices of sociability and the strategies that adolescents display while searching for a couple and seducing others by publishing text and personal images on the network.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Adolescents, digital natives and multitasking</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -294,7 +311,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Manuel Castells, Communication Power, Oxford: Oxford University Press, 2009.</Content>
+          <Content>Manuel Castells, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Communication Power</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Oxford University Press, 2009.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -314,7 +337,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Alejandro Piscitelli, Nativos digitales, Buenos Aires: Santillana, 2009.</Content>
+          <Content>Alejandro Piscitelli, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Nativos digitales</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Buenos Aires: Santillana, 2009.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -334,7 +363,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Roxana Morduchowicz, La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes, Buenos Aires: Paidós, 2008.</Content>
+          <Content>Roxana Morduchowicz, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Buenos Aires: Paidós, 2008.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -361,7 +396,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Francisco Albarello, Leer y navegar en Internet, Buenos Aires: La Crujía, 2011.</Content>
+          <Content>Francisco Albarello, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Leer y navegar en Internet</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Buenos Aires: La Crujía, 2011.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -372,13 +413,13 @@
     <Content>These categories of digital natives are starting to lose their explanatory potential, but we still find them useful to frame some characteristics shared by the contemporary generation of adolescents. Let’s focus now on our specific topic for this research, practices and representations of adolescents of LIS of the City of Buenos Aires while searching for a date online.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Results</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Searching for a couple on Facebook</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -398,7 +439,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Zigmunt Bauman, Liquid Modernity, Cambridge: Polity, 2000.</Content>
+          <Content>Zigmunt Bauman, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Liquid Modernity</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge: Polity, 2000.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -423,7 +470,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Gilles Lipovetsky, El crepúsculo del deber, Barcelona: Anagrama, 1994.</Content>
+          <Content>Gilles Lipovetsky, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>El crepúsculo del deber</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Barcelona: Anagrama, 1994.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -455,7 +508,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Joaquín Linne, Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires), Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
+          <Content>Joaquín Linne, Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -466,8 +525,8 @@
     <Content>Adolescents perform all these activities as they check all the time their profile on the social network. This combined use of networks, sociability and everyday life, for example in an educational environment, is often more “natural” for teens than for adults. They are who prefer FB as a platform for convergence of communication and entertainment, while adults prefer –even when they use Internet– to separate their places of recreation and erotic-emotional sociality. While adults over forty tend to search for a couple through dating sites and contacts (where they feel it is easier to refine the search for the other), youth and adolescents have FB as their main matchmaker.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Strategies</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -492,7 +551,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Judith Butler, Bodies that Matter: On the Discursive Limits of “sex”, Psychology Press: Cambridge, 1993.</Content>
+          <Content>Judith Butler, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Bodies that Matter: On the Discursive Limits of “Sex”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Psychology Press: Cambridge, 1993.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -522,7 +587,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Andrew Mendelson and Zizi Papacharissi, ‘Look at Us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), The Networked Self: Identity, Community and Culture on Social Network Sites. Illinois: Routledge, 2010.</Content>
+          <Content>Andrew Mendelson and Zizi Papacharissi, ‘Look at Us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Networked Self: Identity, Community and Culture on Social Network Sites</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Illinois: Routledge, 2010.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -542,7 +613,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Erving Goffman, The Presentation of Self in Everyday Life, New York: Anchor Books, 1959.</Content>
+          <Content>Erving Goffman, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Presentation of Self in Everyday Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Anchor Books, 1959.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -567,8 +644,8 @@
     <Content>At the same time, boys concentrate in the search and seduction of feminine contacts with whom to explore their sexuality, but also aspire in having a stable couple, a girl that is “faithful, loving, romantic and a family person”. Even though this also forms part of a personal marketing, it also has an honest message and an expression of desire. These messages are inserted inside an environment where their main idea is to seduce others by showing what they consider is their best image. By multimedia, chat, private messages and posts of others and their own ones, they generate ingenious or romantic messages under the format of texts, pictures, memes, video clips and animations.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Advantages</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -647,8 +724,8 @@
     <Content> told us about her relationship: “when we were online everything was fine and on weekends too, but later in the week he didn’t pay attention to me, never calls, he is an idiot.”</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Virtual Nightclub</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -692,8 +769,8 @@
     <Content>The step towards a face-to-face encounter: this step usually implicates a high risk. When they meet face to face, it’s much more difficult to conceal nerves, anxiety, desires and fear of rejection. Besides the fear of deception through false identities and the possibility of concrete danger by thefts and physical assaults, adolescents also fear that the person won’t fulfill their expectancy generated online. In this sense, a great performance capacity is possible thanks to the network, ability that adolescents value and exploit to the maximum, comes with an important setback: the possibility of deception when they meet face to face. In other words, FB facilitates enormously the “first approach” but, at the same time, makes it much more difficult the rupture of the tension in a face to face encounter, which adolescents declare when they express their fear of “not knowing who the other really is”.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusions</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -718,120 +795,228 @@
     <Content>Finally, we have described the main advantages and disadvantages mentioned by LIS adolescents about meeting a couple in FB. We note here the importance of knowledge of their tastes and preferences as well as how to anticipate a first approach. We also identify the fear of meeting face to face and the lack of trust regarding what is presented as “true” in the profiles. In conclusion, we define the social network as a “virtual nightclub”, to highlight the changes that have occurred in the ways of social interaction between adolescents regarding matchmaking.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Albarello, Francisco. Leer y navegar en Internet, Buenos Aires: La Crujía, 2011.</Content>
+    <Content>Albarello, Francisco. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Leer y navegar en Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: La Crujía, 2011.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bauman, Zigmunt. Liquid Modernity, Cambridge: Polity, 2000.</Content>
+    <Content>Bauman, Zigmunt. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Liquid Modernity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity, 2000.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Beck, Ulrich. Risk Society: Towards a New Modernity, London: Sage, 1992.</Content>
+    <Content>Beck, Ulrich. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Risk Society: Towards a New Modernity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Sage, 1992.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bouille, Julieta. ‘Cibercafés o la nueva esquina. Usos y apropiaciones de Internet en jóvenes de sectores populares’, in Urresti, M. (ed.), Ciberculturas juveniles, Buenos Aires: La Crujía, 2008, pp. 105-120.</Content>
+    <Content>Bouille, Julieta. ‘Cibercafés o la nueva esquina. Usos y apropiaciones de Internet en jóvenes de sectores populares’, in Urresti, M. (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ciberculturas juveniles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: La Crujía, 2008, pp. 105-120.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Butler, Judith. Bodies that Matter: On the Discursive Limits of “Sex”, Psychology Press: Cambridge, 1993.</Content>
+    <Content>Butler, Judith. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Bodies that Matter: On the Discursive Limits of “Sex”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Psychology Press, 1993.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Castells, Manuel. Communication Power, Oxford: Oxford University Press, 2009.</Content>
+    <Content>Castells, Manuel. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Power</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oxford: Oxford University Press, 2009.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Chalfen, Richard. Snapshots Versions of Life, Ohio: University Popular Press, 1987.</Content>
+    <Content>Chalfen, Richard. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Snapshots Versions of Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Ohio: University Popular Press, 1987.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Goffman, Erving. The Presentation of Self in Everyday Life, New York: Anchor Books, 1959.</Content>
+    <Content>Goffman, Erving. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Presentation of Self in Everyday Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Anchor Books, 1959.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Igarza, Roberto. Burbujas de Ocio, Buenos Aires: La Crujía, 2009.</Content>
+    <Content>Igarza, Roberto. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Burbujas de Ocio</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: La Crujía, 2009.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Internet World Stats, http://www.Internetworldstats.com</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Linne, Joaquín. Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires), Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lipovetsky, Gilles. El crepúsculo del deber, trans. Juana Bignozzi, Barcelona: Anagrama, 1994.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Mendelson, Andrew &amp; Papacharissi, Zizi. ‘Look at us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), The Networked Self: Identity, Community and Culture on Social Network Sites. Illinois: Routledge, 2010.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Morduchowicz, Roxana. La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes, Buenos Aires: Paidós, 2008.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Piscitelli, Alejandro. Nativos Digitales, Buenos Aires: Santillana, 2009.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Prensky, Marc, ‘Digital Natives, Digital Inmigrants’, On the Horizon, 9.5 (2001): 1-6.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Social Bakers, http://</Content>
+    <Content>Internet World Stats, </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>www.socialbakers.com</Content>
+      <Content>http://www.Internetworldstats.com</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Urresti, Marcelo. ‘Ciberculturas juveniles: vida cotidiana, subjetividad y pertenencia entre los jóvenes ante el impacto de las nuevas tecnologías de la comunicación y la información’, in Urresti, Marcelo (ed.), Ciberculturas juveniles (pp. 18-49). Buenos Aires: La Crujía, 2008.</Content>
+    <Content>Linne, Joaquín. Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lipovetsky, Gilles. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>El crepúsculo del deber, trans. Juana Bignozzi</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Barcelona: Anagrama, 1994.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mendelson, Andrew &amp; Papacharissi, Zizi. ‘Look at us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Networked Self: Identity, Community and Culture on Social Network Sites</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Illinois: Routledge, 2010.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Morduchowicz, Roxana. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: Paidós, 2008.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Piscitelli, Alejandro. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Nativos Digitales</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: Santillana, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Prensky, Marc, ‘Digital Natives, Digital Inmigrants’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>On the Horizon</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 9.5 (2001): 1-6.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Social Bakers, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>socialbakers.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Urresti, Marcelo. ‘Ciberculturas juveniles: vida cotidiana, subjetividad y pertenencia entre los jóvenes ante el impacto de las nuevas tecnologías de la comunicación y la información’, in Urresti, Marcelo (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ciberculturas juveniles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (pp. 18-49). Buenos Aires: La Crujía, 2008.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Checkfacebook.com/" Name="link" DestinationURL="http://www.Checkfacebook.com/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://www.Checkfacebook.com/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.socialbakers.com/" Name="link" DestinationURL="http://www.socialbakers.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.socialbakers.com/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.Checkfacebook.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.socialbakers.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/../customXml/item1.xml" Name="link" DestinationURL="../customXml/item1.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="../customXml/item1.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Internetworldstats.com" Name="link" DestinationURL="http://www.Internetworldstats.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.Internetworldstats.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/../customXml/item1.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.Internetworldstats.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.internetworldstats.com" Name="link" DestinationURL="http://www.internetworldstats.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.internetworldstats.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.internetworldstats.com</Destination>
     </Properties>
   </Hyperlink>
 </Document>

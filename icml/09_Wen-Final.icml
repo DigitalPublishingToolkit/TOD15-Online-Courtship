@@ -4,16 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -70,6 +60,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -90,18 +95,18 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Caiyun Wen</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Prosperity and Bottlenecks of the Online Dating Market in China</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -411,9 +416,9 @@
     <Content>Although the leading dating sites all spend money on advertising, their advertising aims, advertising media and the campaigns are different. Baihe.com used television advertising to enhance brand awareness. Jiayuan.com, the first advertiser on CCTV among dating sites, steered to new media in 2011. In contrast Zhenai.com and Baihe.com frequently advertise on CCTV.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Jiayuan.com: the Multi-dimensional Strategy </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Jiayuan.com: the Multi-dimensional Strategy</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -421,9 +426,9 @@
     <Content>In the construction of the advertising model, Jiayuan.com adopted a multi-dimensional strategy. These include, but are not limited to, Internet marketing, topics marketing, and entertainment marketing.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
-    <Content>The Internet Media Marketing - Micro Film for the Single Youth</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Internet Media Marketing - Micro Film for the Single Youth*</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -575,8 +580,8 @@
     <Content>&quot; themed activities on the Internet, encouraging users to create a postcard about the wonderful moments in life and post it to the most beloved person. Users created, downloaded and printed postcards, with a Jiayuan’s stamp, then sent them to relatives and friends. This activity combined the Internet and the traditional media, from online to offline, and received about 4.58 million hits. These activities added about 45,681 new users to Jiayuan.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Topics Marketing - Hot Topics from TV Dramas</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -608,8 +613,8 @@
     <Content>. Although it took the conventional way of advertising, such as music videos (MV), banners, clients, product placement, many young people responded. Nearly 300,000 people participated in 21 days, promoting registration and the awareness of Jiayuan’s brand. This activity facilitated the exploration of the significance of marriage in modern China where people feel baffled at the great social change. Jiayuan.com achieved good advertising effects by making use of hot issues.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Entertainment Marketing - Joining Dating Reality Shows</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -669,7 +674,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html</Content>
+            <Content>http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
@@ -741,8 +746,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>iResearch, ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28 February 2012, http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Content>
-        </CharacterStyleRange><Br />
+          <Content>iResearch, ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28 February 2012, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
@@ -775,14 +785,19 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Golden Mouse, ‘Jiayuan.com implanted “Romance in Car”</Content>
+          <Content>Golden Mouse, ‘Jiayuan.com implanted </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>’,</Content>
+          <Content>Romance in Car</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 9 April 2013, http://huaban.com/pins/57147465/#zoom/?&amp;_suid=14099977042960615623123715092</Content>
-        </CharacterStyleRange><Br />
+          <Content> 9 April 2013, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
@@ -792,8 +807,8 @@
     <Content>Compared with Jiayuan’s diversified marketing strategies, several other dating sites were unwilling to lag behind.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Baihe.com: the Model of Chinese Culture</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -892,7 +907,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Donews, ‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage in Love and Marriage’, 24 October 2012, </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.donews.com/net/201210/1683363.shtm</Content>
           </CharacterStyleRange>
@@ -1003,8 +1018,8 @@
     <Content>, a single female college student walked alone in a dark corridor. Then a ghost who covered her face with long hairs is here and there behind her back with horror music on. When the girl went to the washroom, the ghost came. When the ghost traced the hair covering the face, the audience saw that the ghost was a girl without a comb. This advertisement is neither appealing nor meaningful. It kicks up a cloud of dust. Obviously, it ruined the consistency and the cultural connotation of Baihe.com. In a word, it is a meaningless advertisement.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Zhenai.com: From Romance to Consumerism</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1033,7 +1048,7 @@
           <Content>China Internet Weekly</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> was founded in Beijing in 1998, accompanied by China Internet industry. It is one of the China Internet and IT industry's most successful leading business magazine at present.</Content>
+          <Content> was founded in Beijing in 1998, accompanied by China Internet industry. It is one of the China Internet and IT industry's most successful leading business magazines at present.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1149,8 +1164,8 @@
     <Content>In this series of campaigns, the unabashed money worship, advocating of one’s physical appearance and the so-called romance contribute to a Zhenai that only values materialism, at least to some users. Although consumerism is prevalent in China, the lack of cultural connotation and a standard of value accepted by Chinese consumers does not bring good reputation to the site. Zhenai’s transformation is not successful.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Problems and Suggestions</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1180,7 +1195,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Lisa Rofel, ‘Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture’, https://www.dukeupress.edu/Desiring-China.</Content>
+          <Content>Lisa Rofel, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Duke Univeristy Press, 2007.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1215,7 +1236,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ruoxi Lin. ‘The Dating Sites, Confused of the Fiancee’, China Internet Weekly, 5 April 2012, 30.</Content>
+          <Content>Ruoxi Lin, ‘The Dating Sites, Confused of the Fiancee’, China Internet Weekly, 5 April 2012, 30.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1245,7 +1266,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ruoxi Li. ‘The Dating Sites, Confused of the Fiancee’.</Content>
+          <Content>Lin, ‘The Dating Sites, Confused of the Fiancee’.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1254,8 +1275,8 @@
     <Content> Therefore, the advertisers on the banner ads on a dating website will consider the long-term effects of advertising and may not want to advertise. Once the customer viscosity increases and membership information needs are met through the fee, profitability of website will also be greatly improved. Website banner ads also will increase profits. This would be a virtuous cycle.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1268,7 +1289,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Donews. ‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage in Love and Marriage’, 24 October 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.donews.com/net/201210/1683363.shtm</Content>
     </CharacterStyleRange>
@@ -1276,14 +1297,19 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Golden Mouse. ‘Jiayuan.com Implanted “Romance in Car”’, 9 April 2013, http://huaban.com/pins/57147465/#zoom/?&amp;_suid=14099977042960615623123715092</Content>
-  </CharacterStyleRange><Br />
+    <Content>Golden Mouse. ‘Jiayuan.com Implanted “Romance in Car”’, 9 April 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Hudson, Valerie M. and Boer, Andrea M. Den. ‘“Bare Branches” and Danger in Asia’, 4 July 4 2004, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html</Content>
     </CharacterStyleRange>
@@ -1293,7 +1319,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>iResearch. ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28 February 2012, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Content>
     </CharacterStyleRange>
@@ -1328,7 +1354,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>National Bureau of Statistics of the People’s Republic of China, ‘Hubei Population Development Characteristics and Future Prospects in the 10th Five-Year Plan’, 24 May 2006, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html</Content>
     </CharacterStyleRange>
@@ -1338,7 +1364,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Rofel, Lisa. Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.dukeupress.edu/Desiring-China</Content>
     </CharacterStyleRange>
@@ -1350,99 +1376,129 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://fanyi.baidu.com/translate######</Content>
+    </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://fanyi.baidu.com/translate######</Content>
+    </CharacterStyleRange>
   </HyperlinkTextSource>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://fanyi.baidu.com/translate######</Content>
+    </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fanyi.baidu.com/translate######" Name="link" DestinationURL="http://fanyi.baidu.com/translate######" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://fanyi.baidu.com/translate######" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="http://fanyi.baidu.com/translate######" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://fanyi.baidu.com/translate######</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fanyi.baidu.com/translate######" Name="link" DestinationURL="http://fanyi.baidu.com/translate######" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://fanyi.baidu.com/translate######" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="http://fanyi.baidu.com/translate######" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://fanyi.baidu.com/translate######</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://fanyi.baidu.com/translate######" Name="link" DestinationURL="http://fanyi.baidu.com/translate######" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://fanyi.baidu.com/translate######" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="http://fanyi.baidu.com/translate######" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://fanyi.baidu.com/translate######</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.dukeupress.edu/Desiring-China" Name="link" DestinationURL="https://www.dukeupress.edu/Desiring-China" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="https://www.dukeupress.edu/Desiring-China" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="https://www.dukeupress.edu/Desiring-China" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https://www.dukeupress.edu/Desiring-China</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html" Name="link" DestinationURL="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Name="link" DestinationURL="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Name="link" DestinationURL="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" Name="link" DestinationURL="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.donews.com/net/201210/1683363.shtm" Name="link" DestinationURL="http://www.donews.com/net/201210/1683363.shtm" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://www.donews.com/net/201210/1683363.shtm" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="http://www.donews.com/net/201210/1683363.shtm" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.donews.com/net/201210/1683363.shtm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/stylesWithEffects.xml" Name="link" DestinationURL="stylesWithEffects.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="stylesWithEffects.xml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.donews.com/net/201210/1683363.shtm" Name="link" DestinationURL="http://www.donews.com/net/201210/1683363.shtm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.donews.com/net/201210/1683363.shtm" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/stylesWithEffects.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.donews.com/net/201210/1683363.shtm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/styles.xml" Name="link" DestinationURL="styles.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="styles.xml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" Name="link" DestinationURL="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/styles.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/numbering.xml" Name="link" DestinationURL="numbering.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="numbering.xml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Name="link" DestinationURL="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/numbering.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/../customXml/item1.xml" Name="link" DestinationURL="../customXml/item1.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="../customXml/item1.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html" Name="link" DestinationURL="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/../customXml/item1.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Name="link" DestinationURL="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://web2.iresearch.cn/weibo/20140315/228594.shtml" Name="link" DestinationURL="http://web2.iresearch.cn/weibo/20140315/228594.shtml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://web2.iresearch.cn/weibo/20140315/228594.shtml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://web2.iresearch.cn/weibo/20140315/228594.shtml</Destination>
     </Properties>
   </Hyperlink>
 </Document>

@@ -99,14 +99,15 @@
     <Content>Cláudia Casimiro</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Man is least himself when he talks in his own person.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Give him a mask, and he will tell you the truth.</Content>
+    <Content>&lt;br&gt;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content> Give him a mask, and he will tell you the truth.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -141,14 +142,19 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Kevin Kelly, </Content>
+          <Content>Kevin Kelly, 'We Are the Web', </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>“We Are the Web”</Content>
+          <Content>Wired</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Wired.</Content>
-        </CharacterStyleRange><Br />
+          <Content>, August 2005, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://archive.wired.com/wired/archive/13.08/tech.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -167,7 +173,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Gustavo Cardoso et al. (eds) World Wide Internet: Changing Societies, Economies and Culture. China: University of Macau, 2009, p. 4.</Content>
+          <Content>Gustavo Cardoso et al. (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>World Wide Internet: Changing Societies, Economies and Culture</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. China: University of Macau, 2009, p. 4.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -193,7 +205,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Leah A. Lievrouw, ‘The Next Decade in Internet Time’, Information, Communication &amp; Society (2012): 616.</Content>
+          <Content>Leah A. Lievrouw, ‘The Next Decade in Internet Time’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Information, Communication &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> (2012): 616.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -213,7 +231,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Millsom S. Henry-Waring and Jo Barraket, ‘Dating &amp; Intimacy in the 21st Century: The Use of Online Dating Sites in Australia’, International Journal of Emerging Technologies and Society 6 (1): 14-33.</Content>
+          <Content>Millsom S. Henry-Waring and Jo Barraket, ‘Dating &amp; Intimacy in the 21st Century: The Use of Online Dating Sites in Australia’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>International Journal of Emerging Technologies and Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 6 (1): 14-33.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -241,7 +265,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Manuel Castells, The Network Society: A Cross-Cultural Perspective, Cheltenham, UK: Edward Elgar Pub, 2004.</Content>
+          <Content>Manuel Castells, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Network Society: A Cross-Cultural Perspective, Cheltenham</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, UK: Edward Elgar Pub, 2004.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -261,7 +291,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Gustavo Cardoso, ‘‘Feel Like Going Online?’ Internet Mediated Communication in Portugal’, Information, Communication &amp; Society 5.4 (2002): 529.</Content>
+          <Content>Gustavo Cardoso, ‘Feel Like Going Online?’ Internet Mediated Communication in Portugal’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Information, Communication &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 5.4 (2002): 529.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -286,7 +322,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Andrea J. Baker, ‘Cyberdating’, in Karen Christensen and David Levinson (eds) Encyclopedia of Community: From the Village to the Virtual World, Thousand Oaks, CA: Sage Publications, 2003, p. 372.</Content>
+          <Content>Andrea J. Baker, ‘Cyberdating’, in Karen Christensen and David Levinson (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Encyclopedia of Community: From the Village to the Virtual World</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Thousand Oaks, CA: Sage Publications, 2003, p. 372.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -306,7 +348,19 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>For a selection of bibliography about these topics, see: Barrie Gunter, ‘The Study of Online Relationships and Dating’, in William H. Dutton (ed.) The Oxford Handbook of Internet Studies, Oxford University Press, 2013, pp. 173-193 and Monica Whitty and Adam Joinson, Truth, Lies and Trust on the Internet, Routledge, 2008.</Content>
+          <Content>For a selection of bibliography about these topics, see: Barrie Gunter, ‘The Study of Online Relationships and Dating’, in William H. Dutton (ed.) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Oxford Handbook of Internet Studies</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Oxford University Press, 2013, pp. 173-193 and Monica Whitty and Adam Joinson, Truth, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Lies and Trust on the Internet</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Routledge, 2008.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -326,7 +380,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Lee Humphreys, ‘Photographs and the Presentation of Self through Online Dating Services’, in Paul Messaris and Lee Humphreys (eds) Digital Media: Transformations in Human Communication, New York: Peter Lang, 2006, pp. 39-49.</Content>
+          <Content>Lee Humphreys, ‘Photographs and the Presentation of Self through Online Dating Services’, in Paul Messaris and Lee Humphreys (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital Media: Transformations in Human Communication</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Peter Lang, 2006, pp. 39-49.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -358,7 +418,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>William H. Dutton et al., ‘The Role of the Internet in Reconfiguring Marriages: A Cross-national Study’, Interpersona 3.2 (2009): 3-18.</Content>
+          <Content>William H. Dutton et al., ‘The Role of the Internet in Reconfiguring Marriages: A Cross-national Study’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Interpersona</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 3.2 (2009): 3-18.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -508,7 +574,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content># Jeff Bercovici, ‘Love On The Run: The Next Revolution In Online Dating’, Forbes.com.</Content>
+          <Content>Jeff Bercovici, ‘Love On The Run: The Next Revolution In Online Dating’, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.Forbes.com</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -540,23 +614,23 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>From the famous cartoon of Steiner published on The New Yorker, in 1993: ‘On the Internet nobody knows you’re a dog’ &lt;</Content>
+          <Content>From the famous cartoon of Steiner published on The New Yorker, in 1993: ‘On the Internet nobody knows you’re a dog’ </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.unc.edu/depts/jomc/academics/dri/idog.html</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>&gt;, times have changed to: “Damn webcam! Know everyone knows I’m a dog!” &lt;</Content>
+          <Content>, times have changed to: “Damn webcam! Know everyone knows I’m a dog!” </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>&gt;.</Content>
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -2280,147 +2354,249 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Aboim, Sofia. ‘Género, família e mudança em Portugal’, in Karin Wall et al. (eds) A Vida Familiar no Masculino. Negociando Velhas e Novas Masculinidades, Lisboa: Comissão para a Igualdade no Trabalho e no Emprego, 2010, pp. 39-66.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Amâncio, Lígia. Masculino e Feminino. A Construção Social da Diferença, Porto: Edições Afrontamento, 1994.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bak, Peter Michael. ‘Sex Differences in the Attractiveness Halo Effect in the Online Dating Environment’, Journal of Business and Media Psychology 1 (2010): 1-7.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Baker, Andrea J. ‘Cyberdating’, in Karen Christensen and David Levinson (eds) Encyclopedia of Community: From the Village to the Virtual World, Thousand Oaks, CA: Sage Publications, 2003, pp. 372-373.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bardin, Laurence. L'analyse de Contenu, Paris: Presses Universitaires de France, 2007.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bell, Philip. ‘Content Analysis of Visual Images’. In Theo Van Leeuwen and Carey Jewitt (eds) Handbook of Visual Analysis, Thousand Oaks, CA: Sage, 2001, pp. 10-34.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bercovici, Jeff. ‘Love On The Run: The Next Revolution in Online Dating’, Forbes.com &lt;</Content>
+    <Content>Aboim, Sofia. ‘Género, família e mudança em Portugal’, in Karin Wall et al. (eds) </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>A Vida Familiar no Masculino. Negociando Velhas e Novas Masculinidades</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Lisboa: Comissão para a Igualdade no Trabalho e no Emprego, 2010, pp. 39-66.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Amâncio, Lígia. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Masculino e Feminino. A Construção Social da Diferença</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Porto: Edições Afrontamento, 1994.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bak, Peter Michael. ‘Sex Differences in the Attractiveness Halo Effect in the Online Dating Environment’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Business and Media Psychology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1 (2010): 1-7.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Baker, Andrea J. ‘Cyberdating’, in Karen Christensen and David Levinson (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Encyclopedia of Community: From the Village to the Virtual World</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Thousand Oaks, CA: Sage Publications, 2003, pp. 372-373.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bardin, Laurence. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>L'analyse de Contenu</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Paris: Presses Universitaires de France, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bell, Philip. ‘Content Analysis of Visual Images’. In Theo Van Leeuwen and Carey Jewitt (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Handbook of Visual Analysis</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Thousand Oaks, CA: Sage, 2001, pp. 10-34.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bercovici, Jeff. ‘Love On The Run: The Next Revolution in Online Dating’, Forbes.com </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bourdieu, Pierre. La Domination Masculine, Paris: Éditions du Seuil, 1998.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cacioppo, John T. et al. ‘Marital Satisfaction and Break-ups differ Across On-line and Off-line Meeting Venues’, Proceedings of the National Academy of the United States of America, Published online before print, June 3 (2013), &lt;</Content>
+    <Content>Bourdieu, Pierre. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>La Domination Masculine</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Paris: Éditions du Seuil, 1998.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cacioppo, John T. et al. ‘Marital Satisfaction and Break-ups differ Across On-line and Off-line Meeting Venues’, Proceedings of the National Academy of the United States of America, Published online before print, June 3 (2013), </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cardoso, Gustavo. ‘Contributos Para uma Sociologia do Ciberespaço’. Biblioteca on-line de Ciências da Comunicação (1998), &lt;</Content>
+    <Content>Cardoso, Gustavo. ‘Contributos Para uma Sociologia do Ciberespaço’. Biblioteca on-line de Ciências da Comunicação (1998), </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cardoso, Gustavo. ‘‘Feel Like Going Online?’ Internet Mediated Communication in Portugal’, Information, Communication &amp; Society 5.4 (2002): 529-550.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cardoso, Gustavo and Nascimento, Susana. ‘Online/Offline: Can You Tell the difference? Portuguese Views on Internet Mediated Communication’, Comunicazioni Sociali - Rivista di Media, Spettacolo e Studi Culturali XXIV.1 (2002): 41-50.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cardoso, Gustavo et al. World Wide Internet: Changing Societies, Economies and Cultures, China, University of Macau, 2009.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cardoso, Gustavo et al. ‘A Sociedade em Rede. A Internet em Portugal, 2012’, OberCom - Observatório da Comunicação (2012): 1-35, &lt;</Content>
+    <Content>Cardoso, Gustavo. ‘Feel Like Going Online?’ Internet Mediated Communication in Portugal’, Information, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication &amp; Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 5.4 (2002): 529-550.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cardoso, Gustavo and Nascimento, Susana. ‘Online/Offline: Can You Tell the difference? Portuguese Views on Internet Mediated Communication’, Comunicazioni Sociali - Rivista di Media, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Spettacolo e Studi Culturali</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> XXIV.1 (2002): 41-50.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cardoso, Gustavo et al. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>World Wide Internet: Changing Societies, Economies and Cultures</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, China: University of Macau, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cardoso, Gustavo et al. ‘A Sociedade em Rede. A Internet em Portugal, 2012’, OberCom - Observatório da Comunicação (2012): 1-35, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Castells, Manuel. The Network Society: A Cross-cultural Perspective, Cheltenham, UK: Edward Elgar, 2004.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cocks, Harry G. Classified: The Secret History of the Personal Column, UK: Random House, 2009.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Degim, I. Alev. ‘Identity Construction in Facebook: A Lacanian Analysis of Profiles and Facebook Generated Games’, in U. Onen. Andreas Treske, Bestem Büyüm and I. Alev Degim (eds) Image, Time and Motion: New media Critique from Turkey, Institute of Network Cultures, n.7, 2011, pp. 111-124, &lt;</Content>
+    <Content>Castells, Manuel. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Network Society: A Cross-cultural Perspective</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cheltenham, UK: Edward Elgar, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Cocks, Harry G. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Classified: The Secret History of the Personal Column</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, UK: Random House, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Degim, I. Alev. ‘Identity Construction in Facebook: A Lacanian Analysis of Profiles and Facebook Generated Games’, in U. Onen. Andreas Treske, Bestem Büyüm and I. Alev Degim (eds) Image, Time and Motion: New media Critique from Turkey, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Institute of Network Cultures</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, n.7, 2011, pp. 111-124, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Dutton, William H. et al. ‘The Role of the Internet in Reconfiguring Marriages: A Cross-national Study’, Interpersona 3.2 (2009): 3-18.</Content>
+    <Content>Dutton, William H. et al. ‘The Role of the Internet in Reconfiguring Marriages: A Cross-national Study’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Interpersona</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 3.2 (2009): 3-18.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ellison, Nicole. ‘Managing Impressions Online: Self-Presentation Processes in the Online Dating Environment’, Journal of Computer-Mediated Communication 11.2 (2006): 415-441.</Content>
+    <Content>Ellison, Nicole. ‘Managing Impressions Online: Self-Presentation Processes in the Online Dating Environment’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Computer-Mediated Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 11.2 (2006): 415-441.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Furnham, Adrian and Twiggy, Mak. ‘Sex-Role Stereotyping in Television Commercials: A Review and Comparison of Fourteen Studies Done on Five Continents Over 25 Years’, Sex Roles 41.5 (1999): 513-537.</Content>
+    <Content>Furnham, Adrian and Twiggy, Mak. ‘Sex-Role Stereotyping in Television Commercials: A Review and Comparison of Fourteen Studies Done on Five Continents Over 25 Years’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sex Roles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 41.5 (1999): 513-537.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Fiore, Andrew T. et al. ‘Assessing Attractiveness in Online Dating Profiles’, Proceeding of the twenty-sixth annual SIGCHI conference on Human factors in computing systems, ACM Press, (2008): 797-806.</Content>
+    <Content>Fiore, Andrew T. et al. ‘Assessing Attractiveness in Online Dating Profiles’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Proceeding of the twenty-sixth annual SIGCHI conference on Human factors in computing systems</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, ACM Press, (2008): 797-806.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2430,42 +2606,90 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Goffman, Erving. The Presentation of Self in Everyday Life, New York: Anchor, 1959.</Content>
+    <Content>Goffman, Erving. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Presentation of Self in Everyday Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Anchor, 1959.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gunter, Barrie. “The Study of Online Relationships and Dating”, in William H. Dutton (ed.) The Oxford Handbook of Internet Studies, Oxford University Press, 2013, pp. 173-193.</Content>
+    <Content>Gunter, Barrie. “The Study of Online Relationships and Dating”, in William H. Dutton (ed.) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Oxford Handbook of Internet Studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oxford: Oxford University Press, 2013, pp. 173-193.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hahn, Jennifer and Blass, Thomas. ‘Dating Partner Preferences: A Function of Similarity of Love Styles’, Journal of Social Behavior &amp; Personality 12.3 (1997): 595-610.</Content>
+    <Content>Hahn, Jennifer and Blass, Thomas. ‘Dating Partner Preferences: A Function of Similarity of Love Styles’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Social Behavior &amp; Personality</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 12.3 (1997): 595-610.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Harris, Mary B. ‘When Courtesy Fails: Gender Roles and Polite Behaviors’, Journal of Applied Social Psychology 22.18 (1992): 1399-1416.</Content>
+    <Content>Harris, Mary B. ‘When Courtesy Fails: Gender Roles and Polite Behaviors’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Applied Social Psychology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 22.18 (1992): 1399-1416.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Henry-Waring, Millsom and Barraket, Jo. ‘Dating &amp; Intimacy in the 21st Century: The Use of Online Dating Sites in Australia’, International Journal of Emerging Technologies and Society 6.1 (2008): 14-33.</Content>
+    <Content>Henry-Waring, Millsom and Barraket, Jo. ‘Dating &amp; Intimacy in the 21st Century: The Use of Online Dating Sites in Australia’, International </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Emerging Technologies and Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6.1 (2008): 14-33.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hsieh, Hsiu-Fang and Shannon, Sarah E. ‘Three Approaches to Qualitative Content Analysis’, Qualitative Health Research 15. 9 (2005): 1277-1288.</Content>
+    <Content>Hsieh, Hsiu-Fang and Shannon, Sarah E. ‘Three Approaches to Qualitative Content Analysis’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Qualitative Health Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15. 9 (2005): 1277-1288.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Humphreys, Lee. ‘Photographs and the Presentation of Self through Online Dating Services’, in Paul Messaris and Lee Humphreys (eds) Digital Media: Transformations in Human Communication, New York: Peter Lang. 2006, pp. 39-49.</Content>
+    <Content>Humphreys, Lee. ‘Photographs and the Presentation of Self through Online Dating Services’, in Paul Messaris and Lee Humphreys (eds) </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Digital Media: Transformations in Human Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Peter Lang. 2006, pp. 39-49.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jagger, Elizabeth. ‘Marketing Molly and Melville: Dating in a Postmodern, Consumer Society’, Sociology 35.1 (2001): 39-57.</Content>
+    <Content>Jagger, Elizabeth. ‘Marketing Molly and Melville: Dating in a Postmodern, Consumer Society’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sociology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 35.1 (2001): 39-57.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2475,27 +2699,67 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kimmel, Michael. The Gendered Society, Oxford: Oxford University Press, 2004.</Content>
+    <Content>Kimmel, Michael. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Gendered Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oxford: Oxford University Press, 2004.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kisilevich, Slava and Last Mark. ‘Exploring Gender Differences in Member Profiles of an Online Dating Site Across 35 Countries’, Lecture Notes in Computer Science 6904 (2011): 57-78, &lt;http://bib.dbvis.de/uploadedFiles/359.pdf&gt;.</Content>
+    <Content>Kisilevich, Slava and Last Mark. ‘Exploring Gender Differences in Member Profiles of an Online Dating Site Across 35 Countries’, Lecture Notes in Computer Science 6904 (2011): 57-78, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://bib.dbvis.de/uploadedFiles/359.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kelly, Kevin. “We Are the Web”, Wired, August 2005, &lt;http://www.wired.com/wired/archive/13.08/tech.html&gt;.</Content>
+    <Content>Kelly, Kevin. “We Are the Web”, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Wired</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, August 2005, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.wired.com/wired/archive/13.08/tech.html</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Larossa, Ralph. ‘Grounded theory methods and qualitative family research’, Journal of Marriage and Family 67.4 (2005): 837–857.</Content>
+    <Content>Larossa, Ralph. ‘Grounded theory methods and qualitative family research’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Marriage and Family</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 67.4 (2005): 837–857.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lievrouw, Leah A. ‘The Next Decade in Internet Time’, Information, Communication &amp; Society 15.5 (2012): 616-638.</Content>
+    <Content>Lievrouw, Leah A. ‘The Next Decade in Internet Time’, Information, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication &amp; Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15.5 (2012): 616-638.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2510,12 +2774,24 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Morgan, Elizabeth et al. ‘Comparing Narratives of Personal and Preferred Partner Characteristics in Online Dating Advertisements’, Computers in Human Behavior, 26.5 (2010): 883-888.</Content>
+    <Content>Morgan, Elizabeth et al. ‘Comparing Narratives of Personal and Preferred Partner Characteristics in Online Dating Advertisements’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Computers in Human Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 26.5 (2010): 883-888.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Markus, Hazel and Nurius, Paula. ‘Possible Selves’, American Psychologist 41.9 (1986): 954-969.</Content>
+    <Content>Markus, Hazel and Nurius, Paula. ‘Possible Selves’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>American Psychologist</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 41.9 (1986): 954-969.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2525,66 +2801,102 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Nascimento, Susana. ‘Para uma compreensão sociológica das identidades na CMC’, Biblioteca online de Ciências da Comunicação (2001): 1-13, &lt;</Content>
+    <Content>Nascimento, Susana. ‘Para uma compreensão sociológica das identidades na CMC’, Biblioteca online de Ciências da Comunicação (2001): 1-13, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Neto, Félix. ‘Sex differences in Portuguese Lonely Hearts Advertisements’, Perceptual and Motor Skills 101.2 (2005): 393-400.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Neto, Félix and Pinto, Isabel. ‘Gender Stereotypes in Portuguese Television Advertisements’, Sex Roles 39.1-2 (1998): 153-164.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Pais, José Machado. Nos Rastos da Solidão. Deambulações Sociológicas, Porto: Âmbar, 2006.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Parsons, Talcott and Bales, Robert F. Family, Socialization and the Interaction Process, New York: MacMillan, 1955.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Pereira, Francisco Costa and Veríssimo, Jorge. ‘A Mulher na Publicidade e os Estereótipos de Género’, Observatorio 5 (2008): 281-296, &lt;</Content>
+    <Content>Neto, Félix. ‘Sex differences in Portuguese Lonely Hearts Advertisements’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Perceptual and Motor Skills</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 101.2 (2005): 393-400.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Neto, Félix and Pinto, Isabel. ‘Gender Stereotypes in Portuguese Television Advertisements’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sex Roles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 39.1-2 (1998): 153-164.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pais, José Machado. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Nos Rastos da Solidão. Deambulações Sociológicas</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Porto: Âmbar, 2006.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Parsons, Talcott and Bales, Robert F. Family, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Socialization and the Interaction Process</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: MacMillan, 1955.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pereira, Francisco Costa and Veríssimo, Jorge. ‘A Mulher na Publicidade e os Estereótipos de Género’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Observatorio</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 5 (2008): 281-296, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://obs.obercom.pt/index.php/obs/article/view/120</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Pereira, Maria do Mar. ‘Os discursos de Género: Mudança e Continuidade nas Narrativas sobre Diferenças, Semelhanças e (Des)igualdade entre Mulheres e Momens’, in Karin Wall, Sofia Aboim and Vanessa Cunha (eds) Vida Familiar no Masculino: Negociando Velhas e Novas Masculinidades, Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego, (2010), pp. 225-261.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Prosser, Jon. ‘Researching with visual images: Some guidance notes and a glossary for beginners’, ESRC National Centre for Research Methods, Working Paper Series 6/06, 2006, &lt;</Content>
+    <Content>Pereira, Maria do Mar. ‘Os discursos de Género: Mudança e Continuidade nas Narrativas sobre Diferenças, Semelhanças e (Des)igualdade entre Mulheres e Momens’, in Karin Wall, Sofia Aboim and Vanessa Cunha (eds) </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Vida Familiar no Masculino: Negociando Velhas e Novas Masculinidades</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego, (2010), pp. 225-261.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Prosser, Jon. ‘Researching with visual images: Some guidance notes and a glossary for beginners’, ESRC National Centre for Research Methods, Working Paper Series 6/06, 2006, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2594,229 +2906,380 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rosenfeld, Michael J. and Thomas, Reuben J. ‘Searching for a Mate: The Rise of the Internet as a Social Intermediary’, American Sociological Review 77.4 (2012): 523-547.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ryan, Gery W. et al. ‘Techniques to identify themes’, Field Methods 15.1 (2003): 85-109.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Santos, Ana Alexandra Carvalheira. Relaciones Interpersonales y Comportamientos Sexuales Através de Internet, Tesis Doctoral, Facultad de Psicologia, Universidad de Salamanca, 2005.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Skopek, Jan, et al. ‘The Gendered Dynamics of Age Preferences – Empirical Evidence from Online Dating’, Journal of Family Research 23.3 (2011): 267-290.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Smith, Lauren Reichart and Cooley, Skye C. ‘Presenting Me! An Examination of Self-Presentation in U.S. and Russian Online Social Networks’, Russian Journal of Communication 5.5 (2013): 176-190.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Strangelove, Michael. ‘The Internet, Electric Gaia and the Rise of the Uncensored Self’, Computer-Mediated Communication Magazine (1994): 11-14, &lt;</Content>
+    <Content>Rosenfeld, Michael J. and Thomas, Reuben J. ‘Searching for a Mate: The Rise of the Internet as a Social Intermediary’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>American Sociological Review</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 77.4 (2012): 523-547.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ryan, Gery W. et al. ‘Techniques to identify themes’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Field Methods</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15.1 (2003): 85-109.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Santos, Ana Alexandra Carvalheira. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Relaciones Interpersonales y Comportamientos Sexuales Através de Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Tesis Doctoral, Facultad de Psicologia, Universidad de Salamanca, 2005.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Skopek, Jan, et al. ‘The Gendered Dynamics of Age Preferences – Empirical Evidence from Online Dating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Family Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 23.3 (2011): 267-290.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Smith, Lauren Reichart and Cooley, Skye C. ‘Presenting Me! An Examination of Self-Presentation in U.S. and Russian Online Social Networks’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Russian Journal of Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 5.5 (2013): 176-190.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Strangelove, Michael. ‘The Internet, Electric Gaia and the Rise of the Uncensored Self’, Computer-Mediated Communication Magazine (1994): 11-14, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.ibiblio.org/cmc/mag/1994/sep/self.html</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Strassberg, Donald S. and Holty, Stephen. ‘An Experimental Study of Women's Internet Personal Ads’, Archives of Sexual Behavior 32.3 (2003): 253–260.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Strauss, Anselm C. and Corbin, Juliet. Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory, London: Sage Publications, 1990.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma, Catalina L. et al. ‘Separating Fact From Fiction: An Examination of Deceptive Self-Presentation in Online Dating Profiles’, Personality and Social Psychology Bulletin 34.8 (2008): 1023-1036.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Torres, Anália. ‘Casamento e Gênero: Mudanças nas Famílias Contemporâneas a partir do Caso Português’, Interseções 3.2 (2001): 53-70, &lt;</Content>
+    <Content>Strassberg, Donald S. and Holty, Stephen. ‘An Experimental Study of Women's Internet Personal Ads’, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Archives of Sexual Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 32.3 (2003): 253–260.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Strauss, Anselm C. and Corbin, Juliet. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Sage Publications, 1990.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Toma, Catalina L. et al. ‘Separating Fact From Fiction: An Examination of Deceptive Self-Presentation in Online Dating Profiles’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Personality and Social Psychology Bulletin</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 34.8 (2008): 1023-1036.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Torres, Anália. ‘Casamento e Gênero: Mudanças nas Famílias Contemporâneas a partir do Caso Português’, Interseções 3.2 (2001): 53-70, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Torres, Anália. Vida Conjugal e Trabalho, Oeiras: Celta Editora, 2004.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Torres, Anália et al. Homens e Mulheres entre Família e Trabalho, Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego, 2004.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Torres, Anália et al. ‘Gender, work and family: balancing central dimensions in individuals’ lives’, Sociologia Online - Revista da Associação Portuguesa de Sociologia 2 (April 2011): 11-37, &lt;</Content>
+    <Content>Torres, Anália. </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Vida Conjugal e Trabalho</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oeiras: Celta Editora, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Torres, Anália et al. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Homens e Mulheres entre Família e Trabalho</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Torres, Anália et al. ‘Gender, work and family: balancing central dimensions in individuals’ lives’, Sociologia Online - Revista da Associação Portuguesa de Sociologia 2 (April 2011): 11-37, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Torres, Anália et al. ‘A Mysterious European Threesome: Workcare Regimes, Policies and Gender’, International and Multidisciplinary Journal of Social Sciences 1.1 (2012): 31-61. &lt;http://www.analiatorres.com/pdf/AMysteriousEuropeanThreesome.pdf&gt;.</Content>
+    <Content>Torres, Anália et al. ‘A Mysterious European Threesome: Workcare Regimes, Policies and Gender’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>International and Multidisciplinary Journal of Social Sciences</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1.1 (2012): 31-61. &lt;http://www.analiatorres.com/pdf/AMysteriousEuropeanThreesome.pdf&gt;.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Tuna, Sandra and Freitas, Elsa. ‘Gendered adverts: an analysis of female and male images in contemporary perfume ads’, Comunicação &amp; Sociedade 21 (2012): 95-107.</Content>
+    <Content>Tuna, Sandra and Freitas, Elsa. ‘Gendered adverts: an analysis of female and male images in contemporary perfume ads’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Comunicação &amp; Sociedade</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 21 (2012): 95-107.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Walker, Jill. ‘Mirrors and Shadows: The Digital Aestheticisation of Oneself’, Digital Arts &amp; Culture Conference Proceedings, Copenhagen, December (2005): 1-7, &lt;https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1&gt;.</Content>
+    <Content>Walker, Jill. ‘Mirrors and Shadows: The Digital Aestheticisation of Oneself’, Digital Arts &amp; Culture Conference Proceedings, Copenhagen, December (2005): 1-7, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wall, Karin and Amâncio, Lígia. Família e Género em Portugal e na Europa, Lisboa: Imprensa de Ciências Sociais, 2007.</Content>
+    <Content>Wall, Karin and Amâncio, Lígia. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Família e Género em Portugal e na Europa</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Lisboa: Imprensa de Ciências Sociais, 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Walther, Joseph B. (2007). ‘Selective Self-Presentation in Computer-Mediated Communication: Hyperpersonal Dimensions of Technology, Language, and Cognition’, Computers in Human Behavior 23.5 (2007): 2538–2557.</Content>
+    <Content>Walther, Joseph B. (2007). ‘Selective Self-Presentation in Computer-Mediated Communication: Hyperpersonal Dimensions of Technology, Language, and Cognition’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Computers in Human Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 23.5 (2007): 2538–2557.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Walther, Joseph B. et al. ‘Is a Picture Worth a Thousand words? Photographic Images in Long-Term and Short-Term Computer-Mediated Communication’, Communication Research 28.1 (2001): 105-134.</Content>
+    <Content>Walther, Joseph B. et al. ‘Is a Picture Worth a Thousand words? Photographic Images in Long-Term and Short-Term Computer-Mediated Communication’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 28.1 (2001): 105-134.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica. ‘Revealing the ‘Real’ Me, Searching for the ‘Actual’ You: Presentations of Self on an Internet Dating Site’, Computers in Human Behavior 24.4 (2008): 1707–1723.</Content>
+    <Content>Whitty, Monica. ‘Revealing the ‘Real’ Me, Searching for the ‘Actual’ You: Presentations of Self on an Internet Dating Site’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Computers in Human Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 24.4 (2008): 1707–1723.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica and Joinson, Adam. Truth, Lies and Trust on the Internet, Routledge, 2008.</Content>
+    <Content>Whitty, Monica and Joinson, Adam. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Truth, Lies and Trust on the Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Routledge, 2008.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Woll, Stanley B. and Young, Peter. ‘Looking for Mr. or Ms. Right: Self-Presentation in Videodating’, Journal of Marriage and the Family 51.2 (1989): 483-488.</Content>
+    <Content>Woll, Stanley B. and Young, Peter. ‘Looking for Mr. or Ms. Right: Self-Presentation in Videodating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Marriage and the Family</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 51.2 (1989): 483-488.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" Name="link" DestinationURL="https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" Name="link" DestinationURL="http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-13" Name="http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-17" Name="http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" Name="link" DestinationURL="http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-16" Name="http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ibiblio.org/cmc/mag/1994/sep/self.html" Name="link" DestinationURL="http://www.ibiblio.org/cmc/mag/1994/sep/self.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="http://www.ibiblio.org/cmc/mag/1994/sep/self.html" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="http://www.ibiblio.org/cmc/mag/1994/sep/self.html" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.ibiblio.org/cmc/mag/1994/sep/self.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" Name="link" DestinationURL="http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-14" Name="http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://obs.obercom.pt/index.php/obs/article/view/120" Name="link" DestinationURL="http://obs.obercom.pt/index.php/obs/article/view/120" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://obs.obercom.pt/index.php/obs/article/view/120" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="http://obs.obercom.pt/index.php/obs/article/view/120" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://obs.obercom.pt/index.php/obs/article/view/120</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" Name="link" DestinationURL="http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/wired/archive/13.08/tech.html" Name="link" DestinationURL="http://www.wired.com/wired/archive/13.08/tech.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://www.wired.com/wired/archive/13.08/tech.html" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/wired/archive/13.08/tech.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bib.dbvis.de/uploadedFiles/359.pdf" Name="link" DestinationURL="http://bib.dbvis.de/uploadedFiles/359.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://bib.dbvis.de/uploadedFiles/359.pdf" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://bib.dbvis.de/uploadedFiles/359.pdf</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" Name="link" DestinationURL="http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" Name="link" DestinationURL="http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" Name="link" DestinationURL="http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" Name="link" DestinationURL="http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-5" Name="http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/numbering.xml" Name="link" DestinationURL="numbering.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="numbering.xml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" Name="link" DestinationURL="http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/numbering.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/../customXml/item1.xml" Name="link" DestinationURL="../customXml/item1.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="../customXml/item1.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.unc.edu/depts/jomc/academics/dri/idog.html" Name="link" DestinationURL="http://www.unc.edu/depts/jomc/academics/dri/idog.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.unc.edu/depts/jomc/academics/dri/idog.html" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/../customXml/item1.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.unc.edu/depts/jomc/academics/dri/idog.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Forbes.com" Name="link" DestinationURL="http://www.Forbes.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.Forbes.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.Forbes.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://archive.wired.com/wired/archive/13.08/tech.html" Name="link" DestinationURL="http://archive.wired.com/wired/archive/13.08/tech.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://archive.wired.com/wired/archive/13.08/tech.html" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://archive.wired.com/wired/archive/13.08/tech.html</Destination>
     </Properties>
   </Hyperlink>
 </Document>

@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -39,6 +34,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -59,12 +69,12 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Old and New Methods for Online Research: The Case of Online Dating</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Murat Akser</Content>
   </CharacterStyleRange><Br />
@@ -91,7 +101,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>K. Orton-Johnson and Nick Prior (eds) Digital Sociology: Critical Perspectives, Basingstoke: Palgrave Macmillan, 2013, p. 4.</Content>
+          <Content>K. Orton-Johnson and Nick Prior (eds) </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Digital Sociology: Critical Perspectives</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Basingstoke: Palgrave Macmillan, 2013, p. 4.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -113,7 +129,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Arvidsson, Adam. ‘‘Quality Singles’: Internet Dating and the Work of Fantasy’, New Media &amp; Society 8.4 (2006): 686.</Content>
+          <Content>Arvidsson, Adam. ‘‘Quality Singles’: Internet Dating and the Work of Fantasy’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>New Media &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 8.4 (2006): 686.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -133,7 +155,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Deborah Chamber, Social Media and Personal Relationships: Online Intimacies and Networked Friendship, Basingstoke: Palgrave Macmillan, 2013, p. 139.</Content>
+          <Content>Deborah Chamber, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Social Media and Personal Relationships: Online Intimacies and Networked Friendship</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Basingstoke: Palgrave Macmillan, 2013, p. 139.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -181,8 +209,8 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>A Humanities or a Social Science Issue?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -207,14 +235,20 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Dannagal Goldthwaite Young and Scott E. Caplan, ‘Online Dating and Conjugal Bereavement’, Death Studies 34.7 (2010): 575.</Content>
+          <Content>Dannagal Goldthwaite Young and Scott E. Caplan, ‘Online Dating and Conjugal Bereavement’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Death Studies</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 34.7 (2010): 575.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Who Dates Online?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -234,7 +268,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Andrea Baker, ‘Two by Two in Cyberspace: Getting Together and Connecting online’, CyberPsychology and Behavior, 3.2 (2000): 239-242.</Content>
+          <Content>Andrea Baker, ‘Two by Two in Cyberspace: Getting Together and Connecting online’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>CyberPsychology and Behavior</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 3.2 (2000): 239-242.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -256,7 +296,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Patti M. Valkenburg and Jochen Peter, ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, CyberPsychology &amp; Behavior 10.6 (2007): 849.</Content>
+          <Content>Patti M. Valkenburg and Jochen Peter, ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>CyberPsychology &amp; Behavior</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 10.6 (2007): 849.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -298,7 +344,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jessica M. Sautter, Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, Social Science Quarterly 91.2 (2010): 554.</Content>
+          <Content>Jessica M. Sautter, Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Social Science Quarterly</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 91.2 (2010): 554.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -320,7 +372,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Danielle Couch and Pranee Liamputtong, ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, Qualitative Health Research 18.2 (2008): 268.</Content>
+          <Content>Danielle Couch and Pranee Liamputtong, ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Qualitative Health Research</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 18.2 (2008): 268.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -342,7 +400,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Elizabeth Craig and Kevin B. Wright, ‘Computer-mediated Relational Development and Maintenance on Facebook®’, Communication Research Reports 29.2 (2012): 119.</Content>
+          <Content>Elizabeth Craig and Kevin B. Wright, ‘Computer-mediated Relational Development and Maintenance on Facebook®’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Communication Research Reports</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 29.2 (2012): 119.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -351,8 +415,8 @@
     <Content> Perceptions of similarity and attraction are found to be influencing two relational maintenance strategies (positivity and openness). They also found out that many Facebook users supplement their Facebook communications with face-to-face interactions. Through these encounters, the online couples take care of any potential misunderstandings.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Deceptive Self-Presentation: A Psychological or A Security Issue?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -372,7 +436,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, New Media &amp; Society 14.1 (2012): 45.</Content>
+          <Content>Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>New Media &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 14.1 (2012): 45.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -425,7 +495,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>ibid</Content>
+          <Content>Ibid.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -447,7 +517,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Catalina L.Toma and Jeffrey T. Hancock. ‘Looks and lies: The role of Physical Attractiveness in Online Dating Self-presentation and Deception’, Communication Research 37.3 (2010): 335.</Content>
+          <Content>Catalina L.Toma and Jeffrey T. Hancock. ‘Looks and lies: The role of Physical Attractiveness in Online Dating Self-presentation and Deception’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Communication Research</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 37.3 (2010): 335.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -469,13 +545,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Catalina L. Toma and Jeffrey T. Hancock. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles</Content>
+          <Content>Catalina L. Toma and Jeffrey T. Hancock. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>’,</Content>
+          <Content>Journal of Communication</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Journal of Communication 62.1 (2012): 78.</Content>
+          <Content> 62.1 (2012): 78.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -502,7 +578,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>David C. DeAndrea et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, Journal of Communication 62.3 (2012): 415.</Content>
+          <Content>David C. DeAndrea et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Communication</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 62.3 (2012): 415.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -524,7 +606,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Derek A. Kreager et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, Journal of Marriage and Family 76.2 (2014): 387.</Content>
+          <Content>Derek A. Kreager et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Marriage and Family</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 76.2 (2014): 387.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -544,14 +632,20 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jeffrey A. Hall et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, Journal of Social and Personal Relationships 27.1 (2010): 117-118.</Content>
+          <Content>Jeffrey A. Hall et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Social and Personal Relationships</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 27.1 (2010): 117-118.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -560,128 +654,248 @@
     <Content>The research literature on online dating has mostly concentrated on two strands of research: on who uses these services and why-how misrepresentation of self happens. The early assumptions of who were the shy people used online dating to their advantage. Yet further studies revealed that more aggressive, and less shy people overly use these services. As for the misrepresentation each study conflicted with another. The physical qualities were thought to be determining misrepresentation. Yet money and status were mist lied about by men. The variety of research methods used such as questionnaire and online surveys seem to be more reliable that computerized aggregate analyses. The future of online dating studies is yet to be determined by a new factor, the use of social networks. Such networks can change the assumptions and the actual uses of these sites in unpredictable ways. The online dating services are big, and the services they provide are on demand. The next decade of online dating research will questions today’s assumptions and give way to a better understanding of online romance.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>References</Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>:</Content>
+    <Content>References:</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of Fantasy’, New Media &amp; Society 8.4 (2006): 671-690.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, CyberPsychology and Behavior, 3.2 (2000): 237-242.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Chambers, Deborah. Social Media and Personal Relationships: Online Intimacies and Networked Friendship, Basingstoke: Palgrave Macmillan, 2013.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Closer. Mike Nichols. 2004. Film.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Couch, Danielle, and Liamputtong, Pranee. ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, Qualitative Health Research 18.2 (2008): 268-279.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Craig, Elizabeth, and Wright, Kevin B. ‘Computer-mediated Relational Development and Maintenance on Facebook®’, Communication Research Reports 29.2 (2012): 119-129.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>DeAndrea, David C., et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, Journal of Communication 62.3 (2012): 400-417.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, New Media &amp; Society 14.1 (2012): 45-62.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing Impressions Online: Self‐presentation Processes in the Online Dating Environment’, Journal of Computer-Mediated Communication 11.2 (2006): 415-441.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. ‘Dating Deception: Gender, Online Dating, and Exaggerated Self-presentation’, Computers in Human Behavior 28.2 (2012): 642-647.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hall, Jeffrey A., et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, Journal of Social and Personal Relationships 27.1 (2010): 117-135.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. ‘What Makes you Click? Mate Preferences in Online Dating’, Quantitative Marketing and Economics 8.4 (2010): 393-427.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kreager, Derek A., et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, Journal of Marriage and Family 76.2 (2014): 387-410.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Orton-Johnson, K. and Prior, Nick. (eds). Digital Sociology: Critical Perspectives, Basingstoke: Palgrave Macmillan, 2013.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, Social Science Quarterly 91.2 (2010): 554-575.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma, Catalina L., Hancock, Jeffrey T. and Ellison, Nicole B. ‘Separating Fact from Fiction: An Examination of Deceptive Self-presentation in Online Dating Profiles’, Personality and Social Psychology Bulletin 34.8 (2008): 1023-1036.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma, Catalina L., and Hancock, Jeffrey T. ‘Looks and Lies: The Role of Physical Attractiveness in Online Dating Self-presentation and Deception’, Communication Research 37.3 (2010): 335-351.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>______. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’, Journal of Communication 62.1 (2012): 78-97.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Valkenburg, Patti M., and Peter, Jochen. ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, CyberPsychology &amp; Behavior 10.6 (2007): 849-852.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica, and Gavin, Jeff. ‘Age/sex/location: Uncovering the Social Cues in the Development of Online Relationships’, CyberPsychology </Content>
+    <Content>Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of Fantasy’, </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>&amp;</Content>
+    <Content>New Media &amp; Society 8.4</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Behavior 4.5 (2001): 623-630.</Content>
+    <Content> (2006): 671-690.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica T., &amp; Carr, Adrian N. Cyberspace Romance: The Psychology of Online Relationships, Basingstoke: Palgrave Macmillan, 2010.</Content>
+    <Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>CyberPsychology and Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 3.2 (2000): 237-242.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Young, Dannagal Goldthwaite, and Caplan, Scott E. ‘Online Dating and Conjugal Bereavement’, Death Studies 34.7 (2010): 575-605.</Content>
+    <Content>Chambers, Deborah. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Social Media and Personal Relationships: Online Intimacies and Networked Friendship</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Basingstoke: Palgrave Macmillan, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Closer</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Mike Nichols. 2004. Film.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Couch, Danielle, and Liamputtong, Pranee. ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Qualitative Health Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 18.2 (2008): 268-279.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Craig, Elizabeth, and Wright, Kevin B. ‘Computer-mediated Relational Development and Maintenance on Facebook®’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Research Reports</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 29.2 (2012): 119-129.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>DeAndrea, David C., et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 62.3 (2012): 400-417.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>New Media &amp; Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 14.1 (2012): 45-62.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing Impressions Online: Self‐presentation Processes in the Online Dating Environment’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Computer-Mediated Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 11.2 (2006): 415-441.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. ‘Dating Deception: Gender, Online Dating, and Exaggerated Self-presentation’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Computers in Human Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 28.2 (2012): 642-647.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Hall, Jeffrey A., et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Social and Personal Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 27.1 (2010): 117-135.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. ‘What Makes you Click? Mate Preferences in Online Dating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Quantitative Marketing and Economics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 8.4 (2010): 393-427.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Kreager, Derek A., et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Marriage and Family</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 76.2 (2014): 387-410.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Orton-Johnson, K. and Prior, Nick. (eds). </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Digital Sociology: Critical Perspectives</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Basingstoke: Palgrave Macmillan, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Social Science Quarterly</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 91.2 (2010): 554-575.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Toma, Catalina L., Hancock, Jeffrey T. and Ellison, Nicole B. ‘Separating Fact from Fiction: An Examination of Deceptive Self-presentation in Online Dating Profiles’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Personality and Social Psychology Bulletin</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 34.8 (2008): 1023-1036.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Toma, Catalina L., and Hancock, Jeffrey T. ‘Looks and Lies: The Role of Physical Attractiveness in Online Dating Self-presentation and Deception’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 37.3 (2010): 335-351.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>______. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 62.1 (2012): 78-97.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Valkenburg, Patti M., and Peter, Jochen. ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>CyberPsychology &amp; Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 10.6 (2007): 849-852.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Whitty, Monica, and Gavin, Jeff. ‘Age/sex/location: Uncovering the Social Cues in the Development of Online Relationships’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>CyberPsychology &amp; Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 4.5 (2001): 623-630.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Whitty, Monica T., &amp; Carr, Adrian N. Cyberspace </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Romance: The Psychology of Online Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Basingstoke: Palgrave Macmillan, 2010.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Young, Dannagal Goldthwaite, and Caplan, Scott E. ‘Online Dating and Conjugal Bereavement’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Death Studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 34.7 (2010): 575-605.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 

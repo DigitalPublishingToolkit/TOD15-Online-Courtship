@@ -4,16 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -45,6 +35,21 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -89,24 +94,24 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>What Are the </Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Shengnv</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women’s Personal Profiles on Jiayuan.com</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Tao Fu</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Introduction</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -404,11 +409,11 @@
     <Content> – presented themselves on a dating site, Jiayuan.com, in pursuit of a heterosexual relationship. It also explores the social implications of the self-presentation and mate-selection criteria in personal profiles as to how it challenges the stereotypical gender-roles of Chinese women.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Shengnv</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> and Marriage Traditions in China</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1054,14 +1059,14 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Theoretical Framework</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
-    <Content>Self-presentation </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Self-presentation</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1333,8 +1338,8 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Mate-selection Factors</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1869,14 +1874,14 @@
     <Content> look for?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Method</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
-    <Content>Dating Site Selection </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dating Site Selection</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1952,8 +1957,8 @@
     <Content> But in the personal statement part, it was clearly stated that the registration was for academic study, not partner or relation-seeking. Thus the status was set as “I have found my partner.”</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Sample Selection</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2221,8 +2226,8 @@
     <Content> = 200). Each user’s personal profile was used as the unit of analysis.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Coding Categories</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2428,13 +2433,13 @@
     <Content> was reached for seeking attractiveness (Cronbach’s α = .93), offering attractiveness (Cronbach’s α = .89), seeking financial security (Cronbach’s α = .86), offering financial security (Cronbach’s α = .95), seeking sincerity (Cronbach’s α = .89) and offering sincerity (Cronbach’s α = .86). All coding results were entered into Statistical Package for the Social Sciences (SPSS) for analysis.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Findings</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Demographic Information</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2931,8 +2936,8 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>RQ1: How do heterosexual never-married shengnv self-present themselves in online dating profiles?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -3836,8 +3841,8 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>RQ2: What kind of prospective partners do heterosexual never-married shengnv look for?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -4171,9 +4176,9 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Discussion </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Discussion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4534,8 +4539,8 @@
     <Content> In the present study, the percentage was even higher.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -4561,14 +4566,20 @@
     <Content> accounts for only a small percentage of all Chinese women. Media coverage, especially by Western press, has drawn more attention to this social group. However, Chinese women who have migrated to urban areas to make a living should be studied as well. Their rigid and long work schedules, limited social capital in cities and less-competent digital literacy make the courtship of migrant women merit further research.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Alavi, Masoumeh, Alahdad, Rezvan and Shafeq, Syed Mohamed. ‘Mate Selection Criteria among Postgraduate Students in Malaysia’, Procedia - Social and Behavioral Sciences 116 ( 2014 ): 5075 – 5080.</Content>
+    <Content>Alavi, Masoumeh, Alahdad, Rezvan and Shafeq, Syed Mohamed. ‘Mate Selection Criteria among Postgraduate Students in Malaysia’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Procedia - Social and Behavioral Sciences</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 116 ( 2014 ): 5075 – 5080.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4584,27 +4595,57 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Blau, Peter Michael. Exchange and Power in Social Life, New York: Wiley, 1964.</Content>
+    <Content>Blau, Peter Michael. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Exchange and Power in Social Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Wiley, 1964.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Brook, Mark. ‘How Has Internet Dating Changed Society? An Insider’s Look’, IDEA, January 2011, 1-33.</Content>
+    <Content>Brook, Mark. ‘How Has Internet Dating Changed Society? An Insider’s Look’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>IDEA</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, January 2011, 1-33.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Buss, David M. ‘Sex Differences in Human Mate Preferences: Evolutionary Hypotheses Tested in 37 Cultures’, Behavioral and Brain Sciences 12.1 (1989): 1-49.</Content>
+    <Content>Buss, David M. ‘Sex Differences in Human Mate Preferences: Evolutionary Hypotheses Tested in 37 Cultures’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Behavioral and Brain Sciences</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 12.1 (1989): 1-49.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Buss, David M. and Shackelford, Todd K. ‘Attractive Women Want It All: Good Genes, Economic Investment, Parenting Proclivities, and Emotional Commitment’, Evolutionary Psychology 6.1 (2008): 134-146.</Content>
+    <Content>Buss, David M. and Shackelford, Todd K. ‘Attractive Women Want It All: Good Genes, Economic Investment, Parenting Proclivities, and Emotional Commitment’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Evolutionary Psychology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6.1 (2008): 134-146.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Buunk, Bram P., Dijkstra, Pieternel, Fetchenhauer, Detlef and Kenrick, Douglas T. ‘Age and Gender Differences in Mate Selection Criteria for Various Involvement Levels’, Personal Relationships 9.3 (2002): 271-278.</Content>
+    <Content>Buunk, Bram P., Dijkstra, Pieternel, Fetchenhauer, Detlef and Kenrick, Douglas T. ‘Age and Gender Differences in Mate Selection Criteria for Various Involvement Levels’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Personal Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 9.3 (2002): 271-278.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4620,87 +4661,199 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Cheng, Yuan, Han, Xuehui and Dagsvik, John K. ‘Marriage Pattern in the City of Shanghai: Behavioral Two-sex Model and Multistage Marriage Life Table Approach’, Chinese Sociology and Anthropology 43.4 (Summer 2011): 74-95.</Content>
+    <Content>Cheng, Yuan, Han, Xuehui and Dagsvik, John K. ‘Marriage Pattern in the City of Shanghai: Behavioral Two-sex Model and Multistage Marriage Life Table Approach’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Chinese Sociology and Anthropology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 43.4 (Summer 2011): 74-95.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Deaux, Kay and Hanna, Randel. ‘Courtship in the Persona Column: The Influence of Gender and Sexual Orientation’, Sex Roles, 11. 5/6 (1984): 363-375.</Content>
+    <Content>Deaux, Kay and Hanna, Randel. ‘Courtship in the Persona Column: The Influence of Gender and Sexual Orientation’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sex Roles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 11. 5/6 (1984): 363-375.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Dominick, Joseph R. ‘Who Do You Think You Are? Personal Home Pages and Self-Presentation on the World Wide Web’, Journalism &amp; Mass Communication Quarterly 76.4 (1999): 646-658, p. 647.</Content>
+    <Content>Dominick, Joseph R. ‘Who Do You Think You Are? Personal Home Pages and Self-Presentation on the World Wide Web’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journalism &amp; Mass Communication Quarterly</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 76.4 (1999): 646-658, p. 647.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>eChinacities.com, ‘Love and Marriage in Modern China: Survey Reveals Latest Trend’, 30 December 2012, http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Content>
+    <Content>eChinacities.com, ‘Love and Marriage in Modern China: Survey Reveals Latest Trend’, 30 December 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing Impressions Online: Self-Presentation Processes in the Online Dating Environment’, Journal of Computer-Mediated Communication 11.2 (2006): 415-441. doi:10.1111/j.1083-6101.2006.00020.x</Content>
+    <Content>Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing Impressions Online: Self-Presentation Processes in the Online Dating Environment’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Computer-Mediated Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 11.2 (2006): 415-441. doi:10.1111/j.1083-6101.2006.00020.x</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Emerson, Richard M. ‘Social Exchange Theory’, Annual Review of Sociology 2 (1976): 335-362, http://www.communicationcache.com/uploads/1/0/8/8/10887248/social_exchange_theory_-_1976.pdf</Content>
+    <Content>Emerson, Richard M. ‘Social Exchange Theory’, Annual Review of Sociology 2 (1976): 335-362, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Farrer, James. ‘Good Stories: Chinese Women’s International Love Stories as Cosmopolitan Sexual Politics’, Sexualities 16.1/2 (2012): 12-29.</Content>
+    <Content>Farrer, James. ‘Good Stories: Chinese Women’s International Love Stories as Cosmopolitan Sexual Politics’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sexualities</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 16.1/2 (2012): 12-29.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Finkel, Eli J., Eastwick, Paul W., Karney, Benjamin R., Reis, Harry T. and Sprecher, Susan. ‘Online Dating: A Critical Analysis from the Perspective of Psychological Science’, Psychological Science in the Public Interest 13.1 (January, 2012): 3-66, http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Content>
+    <Content>Finkel, Eli J., Eastwick, Paul W., Karney, Benjamin R., Reis, Harry T. and Sprecher, Susan. ‘Online Dating: A Critical Analysis from the Perspective of Psychological Science’, Psychological Science in the Public Interest 13.1 (January, 2012): 3-66, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Giddens, Antony. The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies, Stanford, CA: Stanford University Press, 1992, p.53.</Content>
+    <Content>Giddens, Antony. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Stanford, CA: Stanford University Press, 1992, p.53.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Goffman, Ervin. The Presentation of Self in Everyday Life, New York: Anchor, 1959, p.67.</Content>
+    <Content>Goffman, Ervin. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Presentation of Self in Everyday Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Anchor, 1959, p.67.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gonzales, Marti Hope and Meyers, Sarah A. ‘&quot;Your Mother Would Like Me&quot;: Self-Presentation in the Personals Ads of Heterosexual and Homosexual Men and Women’, Personality and Social Psychology Bulletin 19.2 (April 1993): 131-142.</Content>
+    <Content>Gonzales, Marti Hope and Meyers, Sarah A. ‘&quot;Your Mother Would Like Me&quot;: Self-Presentation in the Personals Ads of Heterosexual and Homosexual Men and Women’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Personality and Social Psychology Bulletin</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 19.2 (April 1993): 131-142.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ha, Thao, van den Berg, Judith E. M., Engels, Rutger C. M. E. and Lichtwarck-Aschoff, Anna. ‘Effects of Attractiveness and Status in Dating Desire in Homosexual and Heterosexual Men and Women’, Archives of Sexual Behavior 41.3 (June 2012): 673-682.</Content>
+    <Content>Ha, Thao, van den Berg, Judith E. M., Engels, Rutger C. M. E. and Lichtwarck-Aschoff, Anna. ‘Effects of Attractiveness and Status in Dating Desire in Homosexual and Heterosexual Men and Women’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Archives of Sexual Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 41.3 (June 2012): 673-682.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hancock, Jeffrey T., Toma, Catalina and Ellison, Nicole. ‘The Truth about Lying in Online Dating Profiles’, CHI 2007 Proceedings • Online Representation of Self 28 April - 3 May 2007, San Jose, CA, USA, https://www.msu.edu/~nellison/hancock_et_al_2007.pdf</Content>
+    <Content>Hancock, Jeffrey T., Toma, Catalina and Ellison, Nicole. ‘The Truth about Lying in Online Dating Profiles’, CHI 2007 Proceedings • Online Representation of Self 28 April - 3 May 2007, San Jose, CA, USA, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Harrison, Albert A. and Saeed, Laila. ‘Let's Make a Deal: An Analysis of Revelations and Stipulations in Lonely Hearts Advertisements’, Journal of Personality and Social Psychology 35.4 (1997): 257-264.</Content>
+    <Content>Harrison, Albert A. and Saeed, Laila. ‘Let's Make a Deal: An Analysis of Revelations and Stipulations in Lonely Hearts Advertisements’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Personality and Social Psychology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 35.4 (1997): 257-264.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Henry, Jermaine, Helm Jr., Herbert W. and Cruz, Natasha. ‘Mate Selection: Gender and Generational Differences’, North American Journal of Psychology 15.1 (2013): 63-70.</Content>
+    <Content>Henry, Jermaine, Helm Jr., Herbert W. and Cruz, Natasha. ‘Mate Selection: Gender and Generational Differences’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>North American Journal of Psychology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 15.1 (2013): 63-70.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hill Jr., Reuben Lorenzo. ‘Campus Values in Mate Selection’, Journal of Home Economics, 37.9 (1945): 554–558.</Content>
+    <Content>Hill Jr., Reuben Lorenzo. ‘Campus Values in Mate Selection’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Home Economics</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 37.9 (1945): 554–558.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hunt, Katie. ‘Glut of Women at Shanghai’s Marriage Market’, 3 November 2013, http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Content>
+    <Content>Hunt, Katie. ‘Glut of Women at Shanghai’s Marriage Market’, 3 November 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4711,7 +4864,15 @@
     <Content>Zhongguo Wangluo Hunlian Hangye Baogao: 2013-2014</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (China Online Personals Industry Report: 2013-2014’, http://report.iresearch.cn/2106.html</Content>
+    <Content> (China Online Personals Industry Report: 2013-2014’, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://report.iresearch.cn/2106.html</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4728,32 +4889,74 @@
     <Content>Shengnv</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>)’, 8 March 2012, http://dl.jiayuan.com/doc/marriage_views/2012Q13SConfession.pdf</Content>
+    <Content>)’, 8 March 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Koestner, Richard and Wheeler, Ladd. ‘Self-Presentation in Personal Advertisements: The Influence of Implicit Notions of Attraction and Role Expectations’, Journal of Social and Personal Relationships 5 (1998): 149-160.</Content>
+    <Content>Koestner, Richard and Wheeler, Ladd. ‘Self-Presentation in Personal Advertisements: The Influence of Implicit Notions of Attraction and Role Expectations’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Social and Personal Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 5 (1998): 149-160.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lake, Roseann. ‘All the Shengnu Ladies’, 11 March 2012, http://www.salon.com/2012/03/12/all_the_shengnu_ladies/</Content>
+    <Content>Lake, Roseann. ‘All the Shengnu Ladies’, 11 March 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lance, Larry. ‘Gender Differences in Heterosexual Dating: A Content Analysis of Personal Ads’, Journal of Men’s Studies 6.3 (Spring 1998): 297-305.</Content>
+    <Content>Lance, Larry. ‘Gender Differences in Heterosexual Dating: A Content Analysis of Personal Ads’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Men’s Studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6.3 (Spring 1998): 297-305.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Larson, Christian ‘China’s ‘Leftover Ladies’ Are Anything But’, Bloomberg Businessweek, 23 August 2012, http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but.</Content>
+    <Content>Larson, Christian ‘China’s ‘Leftover Ladies’ Are Anything But’, Bloomberg Businessweek, 23 August 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Li, Meng. ‘Estrangement: A Possible Lens through Which to Understand the Femininity of Contemporary Chinese Intellectual Women’, Front. Lit. Stud. China 7.1 (2013): 87-116.</Content>
+    <Content>Li, Meng. ‘Estrangement: A Possible Lens through Which to Understand the Femininity of Contemporary Chinese Intellectual Women’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Front. Lit. Stud. China</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 7.1 (2013): 87-116.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4764,12 +4967,28 @@
     <Content>Zhongguoren De Xing’ai Yu Hunyin</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>), Zhengzhou: Henan People’s Publishing House, 1996, http://v.book.ifeng.com/book/ts/32678/2605023.htm</Content>
+    <Content>), Zhengzhou: Henan People’s Publishing House, 1996, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://v.book.ifeng.com/book/ts/32678/2605023.htm</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lin, Xu. ‘Top 10 Provinces with the Highest Quality in 2013’, 13 March 2014, http://www.china.org.cn/top10/2014-03/13/content_31769827_10.htm</Content>
+    <Content>Lin, Xu. ‘Top 10 Provinces with the Highest Quality in 2013’, 13 March 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4780,7 +4999,15 @@
     <Content>Shengnu</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, or 'Leftover Women,' Face Intense Pressure to Marry’, 13 July 2013, http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Content>
+    <Content>, or 'Leftover Women,' Face Intense Pressure to Marry’, 13 July 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4791,19 +5018,33 @@
     <Content>Laowai</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>’, Shanghai Daily, 30 May 2013, http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Content>
+    <Content>’, Shanghai Daily, 30 May 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Nakonezny, Paul A. and Denton, Wayne H. ‘Marital Relationships: A Social Exchange Theory Perspective’, The American Journal of Family Therapy 36 (2008): 402–412.</Content>
+    <Content>Nakonezny, Paul A. and Denton, Wayne H. ‘Marital Relationships: A Social Exchange Theory Perspective’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The American Journal of Family Therapy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 36 (2008): 402–412.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>National Bureau of Statistics of China. ‘Communiqué of the National Bureau of Statistics of the People's Republic of China on Major Figures of the 2010 Population Census (No. 2)’, 29 April 2011, </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html</Content>
     </CharacterStyleRange>
@@ -4811,68 +5052,140 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>______. ‘Communiqué of the National Bureau of Statistics of the People's Republic of China on Shanghai City of the 2010 Population Census’, 28 February 2012, http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228_30403.html</Content>
+    <Content>______. ‘Communiqué of the National Bureau of Statistics of the People's Republic of China on Shanghai City of the 2010 Population Census’, 28 February 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Neuendorf, Kimberly A. The Content Analysis Guidebook, Thousand Oaks, CA: Sage, 2002.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Osnos, Evan. ‘The Love Business’, The New Yorker, 14 May 2012, 88.13, http://www.newyorker.com/reporting/2012/05/14/120514fa_fact_osnos</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Schwarz, Sascha and Hassebrauck, Manfred. ‘Sex and Age Differences in Mate-Selection Preferences’, Human Nature 23.4 (2012): 447-466.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Sebag-Montefiore, Clarissa. ‘Romance with Chinese Characteristics’, 21 August 2012, http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?_php=true&amp;_type=blogs&amp;_r=0</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Tian, Qian. ‘A study of Chinese Women’s Mate Selection Trends: An Interpretation Based on Evolutionary Psychology (</Content>
+    <Content>Neuendorf, Kimberly A. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Zhongguo nvxing zeou qingxiang yanjiu: jiyu jinhua xinlixue de jieshi</Content>
+    <Content>The Content Analysis Guidebook, Thousand Oaks</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>)’, 2012, Ph.D. dissertation.</Content>
+    <Content>, CA: Sage, 2002.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>To, Sandy. ‘Understanding Sheng Nu (‘‘Leftover Women’’): The Phenomenon of Late Marriage among Chinese Professional Women’, Symbolic Interaction 36.1 (2013): 1-20.</Content>
+    <Content>Osnos, Evan. ‘The Love Business’, The New Yorker, 14 May 2012, 88.13, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Van Straaten, Ischa, Engels, Rutger C. M. E., Finkenauer, Catrin and Holland, Rob W. ‘Sex Differences in Short-term Mate Preferences and Behavioral Mimicry: A Semi-Naturalistic Experiment’, Archives of Sexual Behavior 37.6 (2008): 902-911.</Content>
+    <Content>Schwarz, Sascha and Hassebrauck, Manfred. ‘Sex and Age Differences in Mate-Selection Preferences’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Human Nature</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 23.4 (2012): 447-466.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Walther, Joseph B. ‘Computer-Mediated Communication: Impersonal, Interpersonal, and Hyperpersonal Interaction’, Communication Research 23.1 (February 1996): 3-43.</Content>
+    <Content>Sebag-Montefiore, Clarissa. ‘Romance with Chinese Characteristics’, 21 August 2012, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wang, Xin. ‘Desperately Seeking Status: Political, Social and Cultural Attributes of China’s Rising Middle Class’, Modern China Studies 20.1 (2013): 1-44.</Content>
+    <Content>Tian, Qian. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>A study of Chinese Women’s Mate Selection Trends: An Interpretation Based on Evolutionary Psychology (Zhongguo nvxing zeou qingxiang yanjiu: jiyu jinhua xinlixue de jieshi)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>,Ph.D. diss., 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wei, Yan; Jiang, Quanbao and Basten, Stuart. ‘Observing the Transformation of China’s First Marriage Pattern through Net Nuptiality Tables: 1982-2010’, Finnish Yearbook of Population Research XLVIII 2013, 65-75.</Content>
+    <Content>To, Sandy. ‘Understanding Sheng Nu (‘‘Leftover Women’’): The Phenomenon of Late Marriage among Chinese Professional Women’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Symbolic Interaction</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 36.1 (2013): 1-20.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica T. and Carr, Adrian. Cyberspace Romance: The Psychology of Online Relationships, New York, NY: Palgrave Macmillan, 2006.</Content>
+    <Content>Van Straaten, Ischa, Engels, Rutger C. M. E., Finkenauer, Catrin and Holland, Rob W. ‘Sex Differences in Short-term Mate Preferences and Behavioral Mimicry: A Semi-Naturalistic Experiment’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Archives of Sexual Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 37.6 (2008): 902-911.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Walther, Joseph B. ‘Computer-Mediated Communication: Impersonal, Interpersonal, and Hyperpersonal Interaction’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 23.1 (February 1996): 3-43.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wang, Xin. ‘Desperately Seeking Status: Political, Social and Cultural Attributes of China’s Rising Middle Class’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Modern China Studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 20.1 (2013): 1-44.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wei, Yan; Jiang, Quanbao and Basten, Stuart. ‘Observing the Transformation of China’s First Marriage Pattern through Net Nuptiality Tables: 1982-2010’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Finnish Yearbook of Population Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> XLVIII 2013, 65-75.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Whitty, Monica T. and Carr, Adrian. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cyberspace Romance: The Psychology of Online Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York, NY: Palgrave Macmillan, 2006.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4883,7 +5196,15 @@
     <Content>Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang Baodao</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (Reading and Understanding Chinese People’s Love and Marriage Report 2010)’, 15 December 2010, http://news.xinhuanet.com/society/2010-12/15/c_13650287_2.htm</Content>
+    <Content> (Reading and Understanding Chinese People’s Love and Marriage Report 2010)’, 15 December 2010, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4894,21 +5215,161 @@
     <Content>Beishangguangshen De Hunlian Gushi: Waidiren Renwei Lianai Jiu Wei Jiehun</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (Marriage and Love Stories in Beijing, Shanghai, Canton and Shenzhen: Immigrants Believe Dating is just for Marriage)’, 23 January 2013, http://news.xinhuanet.com/fortune/2013-01/23/c_124269355.htm.</Content>
+    <Content> (Marriage and Love Stories in Beijing, Shanghai, Canton and Shenzhen: Immigrants Believe Dating is just for Marriage)’, 23 January 2013, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Yang, Renxin. ‘Between Traditionalism and Modernity: Changing Values on Dating Behavior and Mate Selection Criteria’, International Review of Modern Sociology 37.2 (2011): 265-287.</Content>
+    <Content>Yang, Renxin. ‘Between Traditionalism and Modernity: Changing Values on Dating Behavior and Mate Selection Criteria’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>International Review of Modern Sociology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 37.2 (2011): 265-287.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Name="link" DestinationURL="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-20" Name="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Source="htss-20" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Name="link" DestinationURL="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-19" Name="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Source="htss-19" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Name="link" DestinationURL="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-18" Name="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Source="htss-18" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Name="link" DestinationURL="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-17" Name="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Source="htss-17" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-16" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Source="htss-16" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-15" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Name="link" DestinationURL="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-14" Name="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Source="htss-14" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Name="link" DestinationURL="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-13" Name="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Source="htss-13" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Name="link" DestinationURL="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-12" Name="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://v.book.ifeng.com/book/ts/32678/2605023.htm" Name="link" DestinationURL="http://v.book.ifeng.com/book/ts/32678/2605023.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-11" Name="http://v.book.ifeng.com/book/ts/32678/2605023.htm" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://v.book.ifeng.com/book/ts/32678/2605023.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Name="link" DestinationURL="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-10" Name="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Name="link" DestinationURL="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-9" Name="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Name="link" DestinationURL="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://report.iresearch.cn/2106.html" Name="link" DestinationURL="http://report.iresearch.cn/2106.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://report.iresearch.cn/2106.html" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://report.iresearch.cn/2106.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Name="link" DestinationURL="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Name="link" DestinationURL="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-5" Name="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Name="link" DestinationURL="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Name="link" DestinationURL="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Name="link" DestinationURL="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/../customXml/item1.xml" Name="link" DestinationURL="../customXml/item1.xml" DestinationUniqueKey="1" />

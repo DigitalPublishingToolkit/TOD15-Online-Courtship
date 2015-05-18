@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -40,6 +35,11 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -105,7 +105,25 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Lawrence Stone, The Family, Sex and Marriage in England 1500-1800, London, 1977; Alan Macfarlane, Marriage and Love in England, Modes of Reproduction 1300-1840, Oxford, Blackwell, 1986; Jack Goody, The European Family: A Historico-Anthroplogical Essay, Oxford, Blackwell 2000.</Content>
+          <Content>Lawrence Stone, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Family, Sex and Marriage in England 1500-1800</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Weidenfeld &amp; Nicolson, 1977; Alan Macfarlane, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Marriage and Love in England, Modes of Reproduction 1300-1840</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Blackwell, 1986; Jack Goody, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The European Family: A Historico-Anthroplogical Essay</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford, Blackwell 2000.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -127,7 +145,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Diana O’Hara, Courtship and Constraint: Rethinking the Making of Marriage in Tudor England, Manchester, Manchester University Press, 2000, ch 3; quoted in Macfarlane, Marriage and Love, 259. E. A. Wrigley and R. S. Schofield, The Population 1541-1871, London, Edward Arnold, 1981, 257-6</Content>
+          <Content>Diana O’Hara, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Courtship and Constraint: Rethinking the Making of Marriage in Tudor England</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Manchester: Manchester University Press, 2000, ch 3; quoted in Macfarlane, Marriage and Love, 259. E. A. Wrigley and R. S. Schofield, The Population 1541-1871, London: Edward Arnold, 1981, pp. 257-6</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -152,7 +176,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>John Gillis, For Better, for Worse: British Marriages, 1600 to the Present, Oxford, Oxford University Press, 1985, p.14.</Content>
+          <Content>John Gillis, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>For Better, for Worse: British Marriages, 1600 to the Present</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Oxford University Press, 1985, p.14.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -183,7 +213,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See Helen Berry, Gender, Society and Print Culture in Late-Stuart England: The World of the Athenian Mercury, Aldershot, Scholar Press, 2003, p.189.</Content>
+          <Content>See Helen Berry, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Gender, Society and Print Culture in Late-Stuart England: The World of the Athenian Mercury</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Aldershot: Scholar Press, 2003, p.189.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -220,7 +256,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Oxford Magazine, December 1770, in Anon., Matrimonial Advertisements, Private Collection, 1740-1859, British Library.</Content>
+          <Content>Oxford Magazine, December 1770, in Anon., </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Matrimonial Advertisements</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Private Collection, 1740-1859, British Library.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -376,7 +418,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>J. Curtis, An Authentic and Faithful History of the Mysterious Murder of Maria Marten, London, Thomas Kelly, 1828, 92.</Content>
+          <Content>J. Curtis, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>An Authentic and Faithful History of the Mysterious Murder of Maria Marten</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Thomas Kelly, 1828, p. 92.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -401,7 +449,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Curtis, An Authentic and Faithful History, 400.</Content>
+          <Content>Curtis, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>An Authentic and Faithful History of the Mysterious Murder of Maria Marten</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 400.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -447,7 +501,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>On the German press see Karl-Christian Fuhrer, ‘Contradicting Nazi Propaganda: Classified Advertisements as Documents of Jewish Life in Nazi Germany, 1933-1938’, Media History 18, 1 (February 2012): 65-76.</Content>
+          <Content>On the German press see Karl-Christian Fuhrer, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Contradicting Nazi Propaganda: Classified Advertisements as Documents of Jewish Life in Nazi Germany, 1933-1938</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Media History 18, 1 (February 2012): pp. 65-76.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -545,7 +605,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See ‘Matrimonial Adlets’, The Sun, 31 July 1893, 4.</Content>
+          <Content>See ‘Matrimonial Adlets’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Sun</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 31 July 1893, p. 4.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -573,7 +639,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>See ‘The Alleged Matrimonial Frauds’, (London) Times, 3 December 1895, 12; ‘Police’, Times, 1 January 1896, 14; Times,3, 18, 24 December 1895, 12; 8, 29, January; 29 February; 2 March 1896. On this case see Angus McLaren, The </Content>
+          <Content>See ‘The Alleged Matrimonial Frauds’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>(London) Times</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 3 December 1895, p. 12; ‘Police’, Times, 1 January 1896, p. 14; Times,3, 18, 24 December 1895, 12; 8, 29, January; 29 February; 2 March 1896. On this case see Angus McLaren, The </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Trials of Masculinity: Policing Sexual Boundaries 1870-1930</Content>
@@ -624,7 +696,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Mona Caird, untitled essay, in Harry Quilter, (ed.), Is Marriage a Failure?, London, Swan Sonnenschein 1888, 41-2. Original emphasis.</Content>
+          <Content>Mona Caird, untitled essay, in Harry Quilter, (ed.), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Is Marriage a Failure?</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Swan Sonnenschein 1888, pp. 41-2. Original emphasis.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -644,7 +722,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>William Booth, In Darkest England and the Way out, London, Salvation Army, 1890.</Content>
+          <Content>William Booth, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>In Darkest England and the Way out</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Salvation Army, 1890.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -707,7 +791,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘Lonely Soldier Correspondence’, National Archives UK, Kew, HO 139/32.</Content>
+          <Content>‘Lonely Soldier Correspondence’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>National Archives UK</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Kew: HO 139/32.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -733,7 +823,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>‘Who Will Marry Phyllis Monkman, A Chance for Single Men’, Pearson’s Weekly, 8 July 1916, 67.</Content>
+          <Content>‘Who Will Marry Phyllis Monkman, A Chance for Single Men’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Pearson’s Weekly</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, 8 July 1916, p. 67.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -997,8 +1093,8 @@
     <Content> century, with the dislocations of war, that a new style of “companionship” emerged, one that has since come to dominate digital technologies.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>

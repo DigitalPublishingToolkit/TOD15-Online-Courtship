@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -105,8 +100,8 @@
     <Content>The spatial mapping technologies for data recording of network workers operate less as the access to uninteresting knowledge, but primarily as device in the competition for economic advantages and power as part of effective dating management. From a historical standpoint, the dating maps of the social media in Web 2.0 also actively influenced the manner in which cartography of the digital knowledge spaces of the Internet generates the collective memory of date cultures and love organizations. In that respect, they visually organize space pursuant to varying criteria, in which the time and culture association of the perception are tied to the discussions on: 1. Information (i.e. the availability of finding, assessing, and managing information), 2. Identity (i.e. the availability of presenting aspects of oneself on the Internet), and 3. Relationships (i.e. the availability of establishing contact, nurture contact, and form new combinations). Thus, dating maps can be understood as Internet-based applications, supporting the management of information, identity, and relations in specific public domains of hyper- textual and social networks. When comprehended as historicizable cultural techniques, the technologies, discussions, and practices of dating maps also communicate certain spatial concepts, realization and media cultures, iconic qualities, and political theories of the representation. On one hand, cartographic visualizations by the dating communities attempts to meet the growing needs of the computer-aided representation of social networks on the Internet. On the other hand, their navigation tools are advancing to a decisive tool in the medial formatting of the dating cultures of digital communities.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Love Organizations on Web 2.0</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -130,7 +125,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/</Content>
+            <Content>http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -180,7 +175,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ramón Reichert, Amateure im Netz. Selbstmanagement und Wissenstechnik im Web 2.0, Bielefeld: transcript, 2008, pp. 124-129.</Content>
+          <Content>Ramón Reichert, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Amateure im Netz. Selbstmanagement und Wissenstechnik im Web 2.0</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Bielefeld: transcript, 2008, pp. 124-129.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -200,7 +201,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Marilyn Strathern, Audit Cultures: Anthropological Studies in Accountability, Ethics and the Academy, London: Routledge, 2000, p. 15f.</Content>
+          <Content>Marilyn Strathern, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Audit Cultures: Anthropological Studies in Accountability, Ethics and the Academy</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Routledge, 2000, p. 15f.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -231,8 +238,8 @@
     <Content>, based on its discourses. Monitoring is a collective term for all types of systematic recording, observing and monitoring of a process with the aid of technical devices or other monitoring systems. Social control, understood as monitoring, comprises a multitude of knowledge technologies, which combine the safety, risk, care, and monitoring discourses to the mapping of life conduct discourses.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Geomapping I: Street Maps and Satellite Images</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -252,7 +259,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Martin Dodge and Rob Kitchin, Mapping Cyberspace, London: Routledge, 2000, p. 22.</Content>
+          <Content>Martin Dodge and Rob Kitchin, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Mapping Cyberspace</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London: Routledge, 2000, p. 22.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -351,7 +364,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Georg Gartner, ‘Internet Cartography and Web Mapping’, International Handbook Military Geography 41.7 (2006): 416-432.</Content>
+          <Content>Georg Gartner, ‘Internet Cartography and Web Mapping’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>International Handbook Military Geography</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 41.7 (2006): 416-432.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -380,8 +399,8 @@
     <Content>, maps always had been used for military strategic planning, social monitoring, economic control, theoretical analysis and structuring, the conquest of new territories, and the judicial legalization of property. Therefore, it is not surprising that the commercial providers on the net present their own community as knowledge object, capable of testing, recording for planning purposes, and mutually checking themselves. With the interactive maps, the relationship networks themselves turn into location questions. Even in the so-called real life, cities more and more turn into competing enterprises, rivals for the investments from the high tech sector. Online mapping passes on this aspect, assembling profiles as &quot;critical mass&quot; in often-frequented places, thus garnering the respective attention.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Geomapping II: World Map and Globe</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -495,8 +514,8 @@
     <Content>. The two-dimensional maps show a direct view, and utilize a uniform reduction of the scale. The spatialization process started where a map-like structure is applied to data collections is intended to visualize extensive databanks of abstract information in generalized and simplified images that reduce the research time and show relations otherwise going unnoted. Today, these continuations of the geographical-empirical space gradually are replaced by the information visualization of the social network maps marking the recent changes in the visualization culture of the social.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ego Networks</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -658,8 +677,8 @@
     <Content>This free-floating item of the relationship cloud shows that the ego floats in the center of connections, but no longer is able to stabilize the social order. Thus, the ego primarily appears as secondary observer of social networks letting the structural position of the ego seem permanently changeable and fluid. The computer-aided medialization of a permanent fluid and volatile social presence radically breaks away from the classical forms of social legitimization conditions, for example the ancestry tree or the family portrait. In that sense, the ego no longer acts as the statistic nucleus itself, but is subject to the aggregate state of the network structure. Concomitant, the ego loses the aura of the confirmed, universal, and important. The graphic design of the social relationship cloud suggests that the social localization of the ego is a collaborative process, and that the ego cannot escape the aggregate-like state of the entire system.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -679,7 +698,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Giorgio Agamben, The Coming Community, Minneapolis: University of Minnesota Press, 1993.</Content>
+          <Content>Giorgio Agamben, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Coming Community</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Minneapolis: University of Minnesota Press, 1993.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -699,7 +724,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Mark Andrejevic. ‘Surveillance and alienation in the online economy’, Surveillance &amp; Society 8/3 (2011): 278-287.</Content>
+          <Content>Mark Andrejevic. ‘Surveillance and alienation in the online economy’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Surveillance &amp; Society</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 8/3 (2011): 278-287.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -724,7 +755,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Christian Christensen ‘Discourses of Technology and Liberation: State Aid to Net Activists in an Era of ‘Twitter Revolutions’’, The Communication Review 14 (2011): 233-253.</Content>
+          <Content>Christian Christensen ‘Discourses of Technology and Liberation: State Aid to Net Activists in an Era of ‘Twitter Revolutions’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Communication Review</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 14 (2011): 233-253.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -764,13 +801,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Michel Foucault</Content>
+          <Content>Michel Foucault,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>,</Content>
+          <Content>Dits et écrits IV</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Dits et écrits IV, Paris: Gallimard, 1994, p.237.</Content>
+          <Content>, Paris: Gallimard, 1994, p.237.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -795,7 +832,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Matthew Causey, Theatre and Performance in Digital Culture: From Simulation to Embeddedness, London/New York: Routledge, 2006.</Content>
+          <Content>Matthew Causey, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Theatre and Performance in Digital Culture: From Simulation to Embeddedness</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, London/New York: Routledge, 2006.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -809,44 +852,86 @@
     <Content>Accordingly, a new kind of dynamic of informatisation of self-practices begins to emerge against the backdrop of global distribution of web-based applications and of administrative institutions strategically opening up towards systems of open knowledge. Not unlike scientific evaluation, everyday evaluation presupposes the option of changing and controlling the behaviour of the subjects involved. Response systems and feedback loops suggest that the subjects be shaped to a certain extent in order to become socially effective. Their technological scheme aims to assert knowledge on the level of everyday practices. Response systems will turn ‘general everyday perception’ into ‘structural monitoring’ used to systematically observe, score, judge and successfully change a certain kind of behaviour. Feedback systems can substantially help activate practices of evaluative self-observation. However, manifold codes of observatory knowledge based on ‘objectifying’ and ‘neutralising’ knowledge technologies cannot belie the fact that every kind of knowledge has inherent social and normative concepts and is fundamentally dependent on political and economic contexts.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Agamben, Giorgio. The Coming Community. Minneapolis: University of Minnesota Press, 1993.</Content>
+    <Content>Agamben, Giorgio. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Coming Community</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Minneapolis: University of Minnesota Press, 1993.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Andrejevic, Mark. ‘Surveillance and Alienation in the Online Economy’, Surveillance &amp; Society, 8/3 (2011): 278-287.</Content>
+    <Content>Andrejevic, Mark. ‘Surveillance and Alienation in the Online Economy’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Surveillance &amp; Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 8/3 (2011): 278-287.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Causey, Matthew. Theatre and Performance in Digital Culture: From Simulation to Embeddedness, London/New York: Routledge, 2006.</Content>
+    <Content>Causey, Matthew. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Theatre and Performance in Digital Culture: From Simulation to Embeddedness</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London/New York: Routledge, 2006.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Christensen, Christian. ‘Discourses of Technology and Liberation: State Aid to Net Activists in an Era of ‘Twitter Revolutions’’, The Communication Review 14 (2011): 233-253.</Content>
+    <Content>Christensen, Christian. ‘Discourses of Technology and Liberation: State Aid to Net Activists in an Era of ‘Twitter Revolutions’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Communication Review</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 14 (2011): 233-253.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Dodge, Martin and Kitchin, Rob. Mapping Cyberspace, London: Routledge, 2000.</Content>
+    <Content>Dodge, Martin and Kitchin, Rob. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mapping Cyberspace</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Routledge, 2000.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Foucault, Michel. Dits et écrits IV, Paris: Gallimard, 1994.</Content>
+    <Content>Foucault, Michel. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dits et écrits IV</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Paris: Gallimard, 1994.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gartner, Georg. ‘Internet Cartography and Web Mapping’. International Handbook Military Geography 41.7 (2006): 416-432.</Content>
+    <Content>Gartner, Georg. ‘Internet Cartography and Web Mapping’. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>International Handbook Military Geography</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 41.7 (2006): 416-432.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -866,23 +951,35 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Reichert, Ramón. Amateure im Netz. Selbstmanagement und Wissenstechnik im Web 2.0, Bielefeld: transcript, 2008.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Reichert, Ramón. ‘Social Media Storytelling’, in: Bernd Kracke, Marc Ries (eds</Content>
+    <Content>Reichert, Ramón. </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>.):</Content>
+    <Content>Amateure im Netz. Selbstmanagement und Wissenstechnik im Web 2.0</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Expanded Narration, Bielefeld: transcript, 2013, pp. 341-358.</Content>
+    <Content>, Bielefeld: transcript, 2008.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Strathern, Marilyn. Audit Cultures: Anthropological Studies in Accountability, Ethics and the Academy, London: Routledge, 2000.</Content>
+    <Content>Reichert, Ramón. ‘Social Media Storytelling’, in: Bernd Kracke, Marc Ries (eds.): </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Expanded Narration</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Bielefeld: transcript, 2013, pp. 341-358.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Strathern, Marilyn. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Audit Cultures: Anthropological Studies in Accountability, Ethics and the Academy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Routledge, 2000.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -911,11 +1008,11 @@
       <Destination type="object">HyperlinkURLDestination/http://www.xcult.org/texte/tietjen/#sdfootnote3sym</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/numbering.xml" Name="link" DestinationURL="numbering.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="numbering.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" Name="link" DestinationURL="http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/numbering.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/</Destination>
     </Properties>
   </Hyperlink>
 </Document>

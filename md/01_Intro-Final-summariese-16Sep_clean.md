@@ -3,7 +3,7 @@
 ### I. Alev Degim and James Johnson
 
 
-*“Matchmaking and introductory intermediaries, particularly for the
+>*“Matchmaking and introductory intermediaries, particularly for the
 purpose of facilitating marriage, have been a component of the
 marriage-courtship market long before the emergence of online dating. In
 addition, computers have been used for romantic matching, both
@@ -361,17 +361,17 @@ Barraket, Jo, and Millsom S. Henry-Waring. ‘Getting it on (line)
 Sociological perspectives on e-dating.’ *Journal of Sociology* 44.2
 (2008): 149-165.
 
-J. A. Bargh and K. Y. McKenna, ‘The Internet and social life.’ Annu.
-Rev. Psychol., 55, (2004): 573-590.
+J. A. Bargh and K. Y. McKenna, ‘The Internet and social life.’ *Annu.
+Rev. Psychol.*, 55, (2004): 573-590.
 
 Bauman, Z. 'Liquid Modernity, Cambridge (Reino Unido), Polity Press,
 2000; Liquid Love: On the Frailty of Human Bonds, Cambridge (Reino
 Unido), Polity Press, 2003, por Jesus M. de Miguel y Jara D. Sanchez.'
-Revista Espanola De Investiagiones Sociologicas – Spanish Edition.
+*Revista Espanola De Investiagiones Sociologicas – Spanish Edition*.
 (110), (2005): 239-256.
 
 A. Beaulieu, ‘Mediating ethnography: objectivity and the making of
-ethnographies of the internet.’ Social Epistemology, 18(2-3), (2004):
+ethnographies of the internet.’ *Social Epistemology*, 18(2-3), (2004):
 139-163.
 
 Ellison, Nicole B. ‘Social network sites: Definition, history, and
@@ -385,18 +385,18 @@ environment.’ *Journal of Computer‐Mediated Communication* 11.2 (2006):
 
 E. J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S. Sprecher,
 ‘Online Dating A Critical Analysis From the Perspective of Psychological
-Science.’ Psychological Science in the Public Interest, 13(1), (2012):
+Science.’ *Psychological Science in the Public Interest*, 13(1), (2012):
 3-66.
 
 Fiore, Andrew T., and Judith S. Donath. ‘Homophily in online dating:
 when do you like someone like yourself?.’ *CHI'05 Extended Abstracts on
 Human Factors in Computing Systems*. ACM, 2005.
 
-Lovink, Geert, and Sabine Niederer. Video vortex reader: Responses to
-YouTube. Amsterdam: Institute of Network Cultures, 2008.
+Lovink, Geert, and Sabine Niederer. *Video vortex reader: Responses to
+YouTube*. Amsterdam: Institute of Network Cultures, 2008.
 
 Lovink, Geert, and Miriam Rasch. Unlike us reader: social media
-monopolies and their alternatives. No. 8. Institute of Network Cultures,
+monopolies and their alternatives. No. 8. *Institute of Network Cultures*,
 2013.
 
 J. A. Hall, N. Park, H. Song and M. J. Cody, ‘Strategic
@@ -404,7 +404,7 @@ misrepresentation in online dating: The effects of gender,
 self-monitoring, and personality traits.’ Journal of Social and Personal
 Relationships, 27(1), (2010): 117-135.J. T. Hancock and C. L. Toma,
 ‘Putting your best face forward: The accuracy of online dating
-photographs.’ Journal of Communication, 59(2), (2009): 367-386.
+photographs.’ *Journal of Communication*, 59(2), (2009): 367-386.
 
 Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. ‘The truth about
 lying in online dating profiles.’ *Proceedings of the SIGCHI conference
@@ -412,14 +412,14 @@ on Human factors in computing systems*. ACM, 2007.
 
 G. J. Hitsch, A. Hortaçsu and D. Ariely, ‘What makes you click: An
 empirical analysis of online dating.’ 2005 Meeting Papers (Vol. 207).
-Society for Economic Dynamics. (2005).
+*Society for Economic Dynamics*. (2005).
 
 Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. ‘Matching and sorting
 in online dating.’ *The American Economic Review* (2010): 130-163.
 
 C. L. Hsu, and J. C. C. Lin, ‘Acceptance of blog usage: The roles of
 technology acceptance, social influence and knowledge sharing
-motivation.’ Information & Management, 45(1), (2008): 65-74.
+motivation.’ *Information & Management*, 45(1), (2008): 65-74.
 
 Irizarry, Robert. ‘Self-efficacy and motivation effects on online
 psychology student retention.’ *Usdla Journal* 16.12 (2002): 55-64.
@@ -430,17 +430,17 @@ grounds?—Bullying experiences in cyberspace.’ *Journal of School health*
 
 L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, ‘The impact of
 emotionality and self-disclosure on online dating versus traditional
-dating.’ Computers in Human Behavior, 24(5), (2008): 2124-2157.
+dating.’ *Computers in Human Behavior*, 24(5), (2008): 2124-2157.
 
 Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. ‘The Social
-Demography of Internet Dating in the United States.’ Social Science
-Quarterly 91.2 (2010): 554-575.
+Demography of Internet Dating in the United States.’ *Social Science
+Quarterly* 91.2 (2010): 554-575.
 
 A. Vasalou and A. N. Joinson, ‘Me, myself and I: The role of
-interactional context on self-presentation through avatars.’ Computers
-in Human Behavior, 25(2), (2009): 510-520.
+interactional context on self-presentation through avatars.’ *Computers
+in Human Behavior*, 25(2), (2009): 510-520.
 
-Treske, Andreas. The inner life of video sphere. Institute of Network
+Treske, Andreas. *The inner life of video sphere*. Amsterdam: Institute of Network
 Cultures. 2013.
 
 Toma, Catalina L., Jeffrey T. Hancock, and Nicole B. Ellison.
@@ -448,53 +448,53 @@ Toma, Catalina L., Jeffrey T. Hancock, and Nicole B. Ellison.
 self-presentation in online dating profiles.’ *Personality and Social
 Psychology Bulletin* 34.8 (2008): 1023-1036.
 
-S. Woolgar, (Ed.). Virtual Society?: Technology, Cyberhole, Reality.
-Oxford University Press. 2002.
+S. Woolgar, (Ed.). *Virtual Society?: Technology, Cyberhole, Reality*.
+Oxford: Oxford University Press. 2002.
 
-<http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html>.
+Huffington Post. <http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html>.
 
-<http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
+The Independent. <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
 
-<http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
+The Fiscal Times. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
 
-<http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>.
+The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>.
 
 [^1]: E. J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S.
     Sprecher, ‘Online Dating A Critical Analysis From the Perspective of
-    Psychological Science.’ Psychological Science in the Public
-    Interest, 13(1), (2012): 3-66.
+    Psychological Science.’ *Psychological Science in the Public
+    Interest*, 13(1), (2012): 3-66.
 
 [^2]: J. A. Bargh and K. Y. McKenna, ‘The Internet and social life.’
-    Annu. Rev. Psychol., 55, (2004): 573-590.
+    *Annu. Rev. Psychol.*, 55, (2004): 573-590.
 
 [^3]: C. L. Hsu, and J. C. C. Lin, ‘Acceptance of blog usage: The roles
     of technology acceptance, social influence and knowledge sharing
-    motivation.’ Information & Management, 45(1), (2008): 65-74.
+    motivation.’ *Information & Management*, 45(1), (2008): 65-74.
 
 [^4]: S. Woolgar, (Ed.). Virtual Society?: Technology, Cyberhole,
-    Reality. Oxford University Press. 2002.
+    Reality. *Oxford University Press*. 2002.
 
 [^5]: A. Beaulieu, ‘Mediating ethnography: objectivity and the making of
-    ethnographies of the internet.’ Social Epistemology, 18(2-3),
+    ethnographies of the internet.’ *Social Epistemology*, 18(2-3),
     (2004): 139-163.
 
 [^6]: Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. ‘The
-    Social Demography of Internet Dating in the United States.’ Social
-    Science Quarterly 91.2 (2010): 554-575.
+    Social Demography of Internet Dating in the United States.’ *Social
+    Science Quarterly* 91.2 (2010): 554-575.
 
-[^7]: [http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html](http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\_b\_2561380.html).
+[^7]: Huffington Post. [http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html](http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\_b\_2561380.html).
 
-[^8]: <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>
+[^8]: The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>
 
 [^9]: N. B. Ellison, ‘Social network sites: Definition, history, and
-    scholarship.’ Journal of Computer Mediated Communication, 13(1),
+    scholarship.’ *Journal of Computer Mediated Communication*, 13(1),
     (2007): 210-230.
 
-[^10]: <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
+[^10]: The Independent. <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
 
 [^11]: G. J. Hitsch, A. Hortaçsu and D. Ariely, ‘What makes you click:
     An empirical analysis of online dating.’ 2005 Meeting Papers (Vol.
-    207). Society for Economic Dynamics. (2005).
+    207). *Society for Economic Dynamics*. (2005).
 
 [^12]: It is defined functionally as “a purposeful form of meeting new
     people through specifically designed Internet sites,” Barraket, Jo,
@@ -504,21 +504,21 @@ Oxford University Press. 2002.
 
 [^13]: Juvonen, Jaana, and Elisheva F. Gross. ‘Extending the school
     grounds?—Bullying experiences in cyberspace.’ *Journal of School
-    health* 78.9 (2008): 496-505.
+    Health* 78.9 (2008): 496-505.
 
 [^14]: Irizarry, Robert. ‘Self-efficacy and motivation effects on online
     psychology student retention.’ *Usdla Journal* 16.12 (2002): 55-64.
 
-[^15]: Lovink, Geert, and Sabine Niederer. Video vortex reader:
-    Responses to YouTube. Amsterdam: Institute of Network Cultures,
+[^15]: Lovink, Geert, and Sabine Niederer. *Video vortex reader:
+    Responses to YouTube*. Amsterdam: Institute of Network Cultures,
     2008.
 
-[^16]: Treske, Andreas. The inner life of video sphere. Institute of
-    Network Cultures. 2013.
+[^16]: Treske, Andreas. The inner life of video sphere. *Institute of
+    Network Cultures*. 2013.
 
 [^17]: Lovink, Geert, and Miriam Rasch. Unlike us reader: social media
-    monopolies and their alternatives. No. 8. Institute of Network
-    Cultures, 2013.
+    monopolies and their alternatives. No. 8. *Institute of Network
+    Cultures*, 2013.
 
 [^18]: Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing
     impressions online: Self‐presentation processes in the online dating
@@ -548,22 +548,22 @@ Oxford University Press. 2002.
 
 [^24]: L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, ‘The impact
     of emotionality and self-disclosure on online dating versus
-    traditional dating.’ Computers in Human Behavior, 24(5), (2008):
+    traditional dating.’ *Computers in Human Behavior*, 24(5), (2008):
     2124-2157.
 
 [^25]: Ibid. p. 2124-2157.
 
 [^26]: J. T. Hancock and C. L. Toma, ‘Putting your best face forward:
-    The accuracy of online dating photographs.’ Journal of
-    Communication, 59(2), (2009): 367-386.
+    The accuracy of online dating photographs.’ *Journal of
+    Communication*, 59(2), (2009): 367-386.
 
 [^27]: J. A. Hall, N. Park, H. Song and M. J. Cody, ‘Strategic
     misrepresentation in online dating: The effects of gender,
-    self-monitoring, and personality traits.’ Journal of Social and
-    Personal Relationships, 27(1), (2010): 117-135.
+    self-monitoring, and personality traits.’ *Journal of Social and
+    Personal Relationships*, 27(1), (2010): 117-135.
 
 [^28]: A. Vasalou and A. N. Joinson, ‘Me, myself and I: The role of
     interactional context on self-presentation through avatars.’
-    Computers in Human Behavior, 25(2), (2009): 510-520.
+    *Computers in Human Behavior*, 25(2), (2009): 510-520.
 
 [^29]: S. Yoder, How Online Dating Became a $2 Billion Industry, Fiscal Times, 2014. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.

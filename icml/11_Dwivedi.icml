@@ -9,12 +9,12 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -35,6 +35,21 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -74,18 +89,18 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>From Arranged to Online: A Study of Courtship Culture in India</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Amitabh Vikram Dwivedi</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Introduction</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -240,8 +255,8 @@
     <Content>This chapter actively admits that though online searching environment complements the traditional offline markets, it seeks to explore how the change and difference related to the online activities in the marriages is carried out, and recounts how the knowledge of the technology and social action go together. The remainder of the chapter is organized under the following headings: “Arranged Marriages” describes the historical background of marriages in India, “Online Searchers” specifies participants of this study, under the “Theoretical Foundation” a brief account of previous studies conducted is presented and the impact of technology on searching partners is discussed, the next section “How Matrimonial Sites Work” provides an overview of the matrimonial sites, “Facilities on Matrimonial Sites” enumerates the technical reasons for the success of these sites in India, “Methodology” discusses various methods used for the study, the heading “Analysis” indicates the behavior of the users and abusers on these sites, and the heading “Conclusion” concludes the paper, finally the “Limitations” enumerates a few limitations of this research.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Arranged Marriages</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -498,8 +513,8 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Online Searchers</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -595,8 +610,8 @@
     <Content> These users are also the type of people who prefer to move in a relationship from the virtual to the real world. In this process, they enhance and invest their feelings by a gradual progress of self-disclosure.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Theoretical Foundation</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -758,20 +773,14 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>How Matrimonial Sites Work?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The online matrimonial sites generally work on the selective dissemination of the information (SDI)</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> An individual becomes an information seeker and provider in the process of partner search. Seth and Ravi suggest that “the use of matrimonial web sites have implications for family disintermediation, cultural convergence, continuous information flows, and ease of disengagement, virtual dating and reduced stigma in arranged marriages in India.”</Content>
+    <Content>The online matrimonial sites generally work on the selective dissemination of the information (SDI). An individual becomes an information seeker and provider in the process of partner search. Seth and Ravi suggest that “the use of matrimonial web sites have implications for family disintermediation, cultural convergence, continuous information flows, and ease of disengagement, virtual dating and reduced stigma in arranged marriages in India.”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -819,8 +828,8 @@
     <Content>The difference between a free registration and a paid membership lies in the services and information the website provides. The significant contacts and matches are always in the paid packages, and the customer care executives give care and attention to any paid customer. It is always advised and directed to the users to provide the correct and complete information to attract better matches. The user provides his/her basic information appertaining to age, sex, place and country of birth, marital status, permanent and contact address, landline and mobile phone numbers, email, etc. and the information related to complexion, height, weight, and disorder if any. The user next fills the information about job, education, life-style, and food preferences - vegetarian or non-vegetarian.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Facilities on Matrimonial Sites</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1183,8 +1192,8 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Methodology</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1243,13 +1252,13 @@
     <Content>The success stories on websites are testimonials. They not only promote the websites but also provide additional information such as the role of family members, and the context of their selection of the website. The investigation focused on the formation of profiles, the development of the relationship during the courtship period, and the roles of relatives and parents.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Analysis: Users and Abusers</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Users</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1455,8 +1464,8 @@
     <Content>Perceptions are changing in the Indian patriarchal society. Earlier annulled, divorced, awaiting divorce, widowed, and single middle-aged women were only taking an initiative to open an account and search for a partner. Now young single women are also going online for a partner of a specific profession, qualification, and location. Inter-state migration and living away from the family have brought changes in their perception. However, men’s profiles are largely created and posted by them. They generally prefer beautiful, fair-complexioned and educated wife, but in some cases they want a working wife to support the family.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Abusers</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1485,8 +1494,8 @@
     <Content> They register an account for neither love nor for marriage but only for abusing other users.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Blackmailers, Frauds, and Maniacs</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1531,8 +1540,8 @@
     <Content> They create an account to seduce the genuine online users. They get pleasure by talking, chatting, engaging and involving with someone without any serious engagement. They abuse the technology and person for months and then they shift to a different target.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Conclusion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1934,8 +1943,8 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Limitations</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1954,8 +1963,8 @@
     <Content>The data could not include the feedback from the users in term of: how can the matrimonial sites make this overall experience more interactive and beneficial? Similarly, it could not incorporate the feedback and experiences of the respondents who had got a partner offline.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2026,7 +2035,15 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Shaadi.com. 2014, www.shaddi.com.</Content>
+    <Content>Shaadi.com. 2014, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.shaddi.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2039,8 +2056,8 @@
     <Content>Whitty, Monica T. &quot;Revealing the ‘Real’ Me, Searching for the ‘Actual’ You: Presentations of Self on an Internet Dating Site', Computers in Human Behavior (2007): 1-17.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -2226,5 +2243,11 @@
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shaddi.com" Name="link" DestinationURL="http://www.shaddi.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.shaddi.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.shaddi.com</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>

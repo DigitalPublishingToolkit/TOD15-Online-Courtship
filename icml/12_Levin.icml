@@ -9,11 +9,6 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold Italic" Name="Bold Italic" FontStyle="Bold Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -45,6 +40,21 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -89,18 +99,18 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>David Levin</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Introduction</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -131,15 +141,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jo Barraket, and Millsom S. Henry-Waring. ‘Getting it on (line) Sociological</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
+          <Content>Jo Barraket, and Millsom S. Henry-Waring. ‘Getting it on (line) Sociological Perspectives on E-dating.’ </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Journal of Sociology</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Perspectives on E-dating.’ Journal of Sociology 44. 152 YEAR AND PAGE NUMBER.</Content>
+          <Content> 44. 152.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -170,8 +178,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>http://www.tapuz.co.il/</Content>
-        </CharacterStyleRange><Br />
+          <Content>Tapuz. </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.tapuz.co.il</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -191,13 +204,13 @@
     <Content> as an inappropriate place to start a new relationship and prefer the forum – the on-line discussion site they use on a daily basis. As I shall demonstrate, such distinctions have to do not only with structural differences between digital places, but also with local imagination and mythologies.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Literature Review</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>A Place vs. a Meeting Place</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -254,9 +267,9 @@
     <Content> into intimate relationships that start online, with the intention of being pursued offline as well. Researchers who opted for this line of study set themselves two objectives: 1) to make a distinction between different digital places, based on differences in the relational dynamics woven within and 2) provide demographic explanations to the choice of the internet as a meeting point. The present work echoes this current literature with all its aspects.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
-    <Content>On Places and Places around the Internet </Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On Places and Places around the Internet</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -445,20 +458,11 @@
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>ends</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>,</Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> meant to be accepted by participants, the </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>act sequence</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>–</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> which participants employ in order to attain the ends, </Content>
@@ -471,12 +475,6 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>key and instrumentalities</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>-</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> associated with the atmosphere in which they partake.</Content>
@@ -689,8 +687,8 @@
     <Content>, yet they rely on instances from the American society. Combining the Jewish Israeli historic background lends them, as I shall demonstrate here, a unique cultural undertone.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>From the Town Matchmaker to Dating Websites; from Diasporic to American</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -845,7 +843,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.mako.co.il/news-money/tech/Article-5570ef490c27031004.htm</Content>
           </CharacterStyleRange>
@@ -857,8 +855,8 @@
     <Content> Over the years, and similarly to the USA, there have been attempts to combine dating websites in Israel with Facebook, in the form of Facebook dating applications, yet there are no proven numerical statistics regarding their success or indeed the success enjoyed by the Israeli e-dating industry as a whole.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Methodology and Procedure</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -935,8 +933,8 @@
     <Content>First of all, I coded statements made in posts based on Hymes’ analysis parameters, using the ATLAS software. The proximity of features and their common thread (the act sequence and norms, for example, are in close proximity) led me to opt for a presentation in two sections of analysis: structural and interactional features.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Findings</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -945,12 +943,9 @@
     <Content>I shall now examine the website users’ statements, based on the criteria suggested by Hymes for speech events’ analysis. I shall make a distinction between the structural aspects-place, time and type of participants-and the interactional ones: ends, act sequence, norms, key and instrumentalities. The genre component, which actually corresponds with the symbols that come with every place, shall be addressed during discussion, referring to both these aspects.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Italic">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Structural Aspects</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content> </Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1210,8 +1205,8 @@
     <Content>The three “places” are therefore mutually-distinct, not just in the structural sense, but also through metaphors and metonyms laden with cultural significances. In the symbols broader sense, they constitute a collective imagination map of the world out there. This world holds a place for a set collective nostalgic past, a past not necessarily fulfilled offline (the orchard), as well as for a cruel urban world that is not from here, that is, the “supermarket”, and the personal picture album-where new people are hard to introduce. The users’ image completed the general appearance of these places. The dark side of the global cosmos was inhabited by almost non-human residents, while its bright side veered towards the “us” or “I”, in their various senses.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Interaction Aspects and Process</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1477,8 +1472,8 @@
     <Content> They served as an alternative to the daytime official discussions, with their precise ends and formal key.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Discussion</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1837,168 +1832,355 @@
     <Content>Thus, while during the Internet’s early days it was appropriate to engage mainly with the psychological view of the “universal individual” who looked for romantic partners online, with the internet viewed as a “place”, nowadays a more local socio-cultural view is required. The present work demonstrated this up-to-date trend of thought.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ahuvia, Aaron C., and Mara B. Adelman. ‘Formal Intermediaries in the Marriage Market: A Typology and Review’, Journal of Marriage and the Family  54. 2 (1992): 452-463.‏</Content>
+    <Content>Ahuvia, Aaron C., and Mara B. Adelman. ‘Formal Intermediaries in the Marriage Market: A Typology and Review’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Marriage and the Family</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>  54. 2 (1992): 452-463.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Almog, Oz. ‘Farewell to ‘Srulik’: Changing Values Among the Israeli Elite, Haifa: Zmora-Modan, 2004.‏</Content>
+    <Content>Almog, Oz. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>‘Farewell to ‘Srulik’: Changing Values Among the Israeli Elite</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Haifa: Zmora-Modan, 2004.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Arvidsson, Adam. ‘’Quality Singles’’: Internet Dating and the Work of Fantasy’, New Media &amp; Society 8.4 (2006): 671-690.‏</Content>
+    <Content>Arvidsson, Adam. ‘’Quality Singles’’: Internet Dating and the Work of Fantasy’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>New Media &amp; Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 8.4 (2006): 671-690.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Azaryahu, Maoz. ‘The Golden Arches of McDonald's: On the Americanization of Israel’, Israel Studies 5.1 (2000): 41-64.‏</Content>
+    <Content>Azaryahu, Maoz. ‘The Golden Arches of McDonald's: On the Americanization of Israel’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Israel Studies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 5.1 (2000): 41-64.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, CyberPsychology and Behaviour 3.2. (2000): 237-242.‏</Content>
+    <Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>CyberPsychology and Behaviour</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 3.2. (2000): 237-242.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Baker, Andrea J. Double Click: Romance and Commitment among Online Couples, Hampton Press, 2005.</Content>
+    <Content>Baker, Andrea J. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Double Click: Romance and Commitment among Online Couples</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Hampton Press, 2005.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Barraket, Jo, and Henry-Waring, Millsom S. ‘Getting it on (line) Sociological Perspectives on E-dating’, Journal of Sociology 44.2 (2008): 149-165.‏</Content>
+    <Content>Barraket, Jo, and Henry-Waring, Millsom S. ‘Getting it on (line) Sociological Perspectives on E-dating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Sociology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 44.2 (2008): 149-165.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Bassett, Elizabeth H., and O'Riordan, Kate. ‘Ethics of Internet Research: Contesting the Human Subjects Research Model’, Ethics and Information Technology 4.3. (2002): 233-247.‏</Content>
+    <Content>Bassett, Elizabeth H., and O'Riordan, Kate. ‘Ethics of Internet Research: Contesting the Human Subjects Research Model’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ethics and Information Technology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 4.3. (2002): 233-247.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ben-Ze'ev, Aaron. Love Online: Emotions on the Internet, Cambridge University Press, 2004.‏</Content>
+    <Content>Ben-Ze'ev, Aaron. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Love Online: Emotions on the Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge University Press, 2004.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Burgin, Victor. In/different Spaces: Place and Memory in Visual Culture, University of California Press, 1996.‏</Content>
+    <Content>Burgin, Victor. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>In/different Spaces: Place and Memory in Visual Culture</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, CA: University of California Press, 1996.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Dreyfus, Hubert L. On the Internet, New York: Routledge, 2008.‏</Content>
+    <Content>Dreyfus, Hubert L. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>On the Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Routledge, 2008.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Eysenbach, Gunther, and Till, James E. ‘Ethical Issues in Qualitative Research on Internet Communities.’ Bmj 323.7321 (2001): 1103-1105.‏</Content>
+    <Content>Eysenbach, Gunther, and Till, James E. ‘Ethical Issues in Qualitative Research on Internet Communities.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Bmj</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 323.7321 (2001): 1103-1105.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>First, Anat, and Avraham, Eli. America in Jerusalem: Globalization, National Identity, and Israeli Advertising, Lexington Books, 2009.‏</Content>
+    <Content>First, Anat, and Avraham, Eli. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>America in Jerusalem: Globalization, National Identity, and Israeli Advertising</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Maryland: Lexington Books, 2009.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Heino, Rebecca D., Nicole B. Ellison, and Jennifer L. Gibbs. ‘Relationshopping: Investigating the market metaphor in online dating’, Journal of Social and Personal Relationships 27.4 (2010): 427-447.‏</Content>
+    <Content>Heino, Rebecca D., Nicole B. Ellison, and Jennifer L. Gibbs. ‘Relationshopping: Investigating the market metaphor in online dating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Social and Personal Relationships</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 27.4 (2010): 427-447.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hymes, Dell. Foundations in Sociolinguistics: An Ethnographic Approach, Routledge, 2013.‏</Content>
+    <Content>Hymes, Dell. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Foundations in Sociolinguistics: An Ethnographic Approach</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Routledge, 2013.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Illouz, Eva, and Finkelman, Shoshannah. ‘An Odd and Inseparable Couple: Emotion and Rationality in Partner Selection’, Theory and Society 38.4 (2009): 401-422.‏</Content>
+    <Content>Illouz, Eva, and Finkelman, Shoshannah. ‘An Odd and Inseparable Couple: Emotion and Rationality in Partner Selection’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Theory and Society</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 38.4 (2009): 401-422.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Iwabuchi, Koichi. Recentering Globalization: Popular Culture and Japanese Transnationalism, Duke University Press, 2002.‏</Content>
+    <Content>Iwabuchi, Koichi. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Recentering Globalization: Popular Culture and Japanese Transnationalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, North Carolina: Duke University Press, 2002.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Katriel, Tamar. Milot mafte’ah: dfusei tarbut vetikshoret beisrael [Patterns of Culture and Communication in Israel]. Haifa: University of Haifa Press &amp; Zmora-Bitan 1999.</Content>
+    <Content>Katriel, Tamar. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Milot mafte’ah: dfusei tarbut vetikshoret beisrael [Patterns of Culture and Communication in Israel]</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Haifa: University of Haifa Press &amp; Zmora-Bitan 1999.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Melbin, Murray. Night as Frontier: Colonizing the World After Dark, New York: Free Press, 1987.‏</Content>
+    <Content>Melbin, Murray. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Night as Frontier: Colonizing the World After Dark</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Free Press, 1987.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Merkle, Erich R., and Richardson, Rhonda A. ‘Digital Dating and Virtual Relating: Conceptualizing Computer Mediated Romantic Relationships’, Family Relations 49.2 (2000): 187-192.‏</Content>
+    <Content>Merkle, Erich R., and Richardson, Rhonda A. ‘Digital Dating and Virtual Relating: Conceptualizing Computer Mediated Romantic Relationships’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Family Relations</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 49.2 (2000): 187-192.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Parks, Malcolm R., and Kory Floyd. ‘Making Friends in Cyberspace’, Journal of Computer-Mediated Communication 1.4 (1996): 0-0.</Content>
+    <Content>Parks, Malcolm R., and Kory Floyd. ‘Making Friends in Cyberspace’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Computer-Mediated Communication</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1.4 (1996): 0-0.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Putnam, Robert D. ‘Bowling Alone: America's Declining Social Capital.’ Journal of Democracy 6.1 (1995): 65-78.‏</Content>
+    <Content>Putnam, Robert D. ‘Bowling Alone: America's Declining Social Capital.’ </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Democracy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 6.1 (1995): 65-78.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Reinecke Leonard and Trepte, Sabine. 'Authenticity and Well-being on Social Network Sites: A Two-wave Longitudinal Study on the Effects of Online Authenticity and the Positivity Bias in SNS Communication', Computers in Human Behavior 30 (2014): 95-102.</Content>
+    <Content>Reinecke Leonard and Trepte, Sabine. 'Authenticity and Well-being on Social Network Sites: A Two-wave Longitudinal Study on the Effects of Online Authenticity and the Positivity Bias in SNS Communication', </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Computers in Human Behavior</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 30 (2014): 95-102.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Romm-Livermore, Celia. Social Networking Communities and E-dating Services: Concepts and Implications, New York: Information Science Reference, 2009.</Content>
+    <Content>Romm-Livermore, Celia. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Social Networking Communities and E-dating Services: Concepts and Implications</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Information Science Reference, 2009.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rosental, Ruvik . Dictionary of Israeli Slang, Tel Aviv: Katar, 2005.</Content>
+    <Content>Rosental, Ruvik . </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Dictionary of Israeli Slang</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Tel Aviv: Katar, 2005.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Rowley, Jennifer. &quot;‘Window’shopping and Browsing Opportunities in Cyberspace&quot;, Journal of Consumer Behaviour 1.4 (2002): 369-378.</Content>
+    <Content>Rowley, Jennifer. '‘Window’shopping and Browsing Opportunities in Cyberspace', </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Journal of Consumer Behaviour</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1.4 (2002): 369-378.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Oldenburg, Ray. The Great Good Place: Cafés, Coffee Shops, Community Centers, Beauty Parlors, General Stores, Bars, Hangouts, and How They Get You through the Day, New York: Paragon House, 1989.‏</Content>
+    <Content>Oldenburg, Ray. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Great Good Place: Cafés, Coffee Shops, Community Centers, Beauty Parlors, General Stores, Bars, Hangouts, and How They Get You through the Day</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Paragon House, 1989.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Seale, Clive, et al. ‘Interviews and Internet Forums: A Comparison of Two Sources of Qualitative Data’,  Qualitative Health Research 20.5. (2010): 595-606.‏</Content>
+    <Content>Seale, Clive, et al. ‘Interviews and Internet Forums: A Comparison of Two Sources of Qualitative Data’,  </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Qualitative Health Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 20.5. (2010): 595-606.‏</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Walther, Josef B. 'Interpersonal Effects in Computer-mediated Interaction: A Relational Perspective', Communication Research, 19 (1992): 52–90.</Content>
+    <Content>Walther, Josef B. 'Interpersonal Effects in Computer-mediated Interaction: A Relational Perspective', </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 19 (1992): 52–90.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Zinkhan, George M, ‘Romance and the Internet: The E-mergence of E-dating’, Advances in Consumer Research 31 (2004): 153-58.</Content>
+    <Content>Zinkhan, George M, ‘Romance and the Internet: The E-mergence of E-dating’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Advances in Consumer Research</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 31 (2004): 153-58.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/numbering.xml" Name="link" DestinationURL="numbering.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="numbering.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="numbering.xml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/numbering.xml</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.tapuz.co.il" Name="link" DestinationURL="http://www.tapuz.co.il" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.tapuz.co.il" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.tapuz.co.il</Destination>
     </Properties>
   </Hyperlink>
 </Document>

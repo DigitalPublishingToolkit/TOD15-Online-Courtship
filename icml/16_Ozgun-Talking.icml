@@ -4,11 +4,6 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -39,6 +34,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -59,12 +69,12 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Talking To Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Aras Ozgun</Content>
   </CharacterStyleRange><Br />
@@ -99,8 +109,8 @@
     <Content>This development has an obvious practical impact primarily on face-to-face communications: Skyping, using Facetime, and video chatting increasingly substitute or supplement face-to-face communications in general. However, the potential of webcam for one-to-many communications, as a ‘broadcasting’ device, is still neglected or unfulfilled, and this is largely due to the economic logic of media industries rather than technological limitations. ‘Televisuality’—that is, the immediate and live transmission of events, which has been the definitive power of TV - still remains under the monopoly of television networks. The emergence of the webcam as a technological form only marginally challenges the monopoly of television in defining social time and collective temporality. ‘Real-time,’ as a term that refers to a computer’s capacity to render image streams continuously while they are being displayed on the monitor (or, any other process in which the tangible results/effects of the process is simultaneously displayed), emerged with the introduction of digital media technologies to distinguish this new form of temporal immediacy from the latency of print cultures. Yet, the ‘real-time’ of social life in general ironically remained associated with television. Television networks sustained their monopoly over the information regarding what is happening at that very moment. So far, except substituting face-to-face communications, the Internet has provided a vast archive of past ‘moments’ of collectively experienced ‘real-time,’ in the form of digital video recordings, shared and made available online on YouTube, Vimeo or other social media networks. The instant availability of such a wide video archive had been a fascination in new media studies during the second decade of online communications. Before us now is another potential; a new, truly decentralized technological form of television (that does not require the massive organizational structure of corporate television networks) available to individuals. This creates new temporal depths apart from the hegemonic time regimes constructed and sustained by television networks. What I am going to discuss in this article, live webcam sex channels, is one of these marginal instances in which online video challenges television in its own realm, and claims the rights over ‘live-ness.’ I will argue that the ‘live-ness’ of the webcam constitutes a new type of reality effect, which I will provisionally call ‘realness.’ In the last part of the article, I will analyze a particular interaction that occurs in Turkish live webcam sex channels as a result of such realness, in which feminine desire falls into confrontation with patriarchal moralism, which leads to a productive crisis that makes enjoyment impossible.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“I see, therefore I am”: The Ontology of Televisuality</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -265,8 +275,8 @@
     <Content>We can see this at work when we look at the most popular performers’ channels. Contrary to the common wisdom, the rankings that are apparent in the listings show that the popularity of the performers does not directly correlate with their physical attractiveness or attributes (in other words, the conformity of their physical appearance with the hegemonic conventions of ‘beauty’), or how much nudity they display, or how explicit their broadcast is and to what distances they go to satisfy their audience.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>‘Realness’ of the Webcam Image: Benefit of the Doubt</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -436,8 +446,8 @@
     <Content>, the proper suburban girl breaking moral restraints through immediately shared affective intensities. The seductive power of the webcam is closely related with this two-fold transgression that stems from indiscernibility, which becomes the definitive characteristic of the webcam image.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Fear and Loathing on Live Webcam Sex: The “Turkish” Case</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -531,8 +541,8 @@
     <Content>Under these circumstances, the crisis in these seedy, dimly lit internet rendezvous houses can be seen as offering a productive tension: not only productive for exposing and understanding the Turkish patriarchal culture, but further offering a fertile confrontation with it.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>References</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
