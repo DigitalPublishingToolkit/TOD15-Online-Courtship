@@ -748,11 +748,16 @@ statements of users who were sorted according to Hymes’ SPEAKING model
 parameters, offers a number of differences summarized in the following
 table:
 
-Service Domain | Foo | Bar
---- | --- | ---
-asd | asd | asd
-asd | asd | asf
-asd | asd | asd
+Facebook | Forum | Dating Websites |  
+--- | --- | --- | ---
+“I” | “Old Israel" | “America” | Place
+Friends and acquaintances | Faceless, nameless friends | Unfriendly strangers | Participants
+Searching and confirming information | Talks and Discussions - option for a relationship | Meeting potential partners  | Ends
+A stage in the process of getting to know one another | No clear stage system | Several stages, some dictated by the website, while others by personal choice | Act sequence
+A component of the “hard work” of investigating about the potential partner | Anonymity, feelings | “Hard work” | Norms
+Everyday | Warm, accepting | Purposeful, blatant | Key and instrumentalities
+Home, picture album | The great good place "Orchard" | Workplace, Supermarket | Genre (Metaphors and metonyms)
+
 
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
