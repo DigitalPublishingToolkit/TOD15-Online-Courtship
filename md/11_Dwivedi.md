@@ -181,11 +181,7 @@ divorced, single, widowed, awaiting divorce, and annulled.
 
 **Figure 1** Online partner searchers
 
-Type-1 Type-2
-
-Type-3 Type-4
-
-Type-5 Type-6
+![Figure 1](imgs/Dwivedi-marriagetypes-01.jpg)
 
 The online matrimonial sites work as a bridge in their search to place
 them from a stage without a partner to where they have a partner. The
