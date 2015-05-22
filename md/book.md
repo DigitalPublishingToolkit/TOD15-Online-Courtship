@@ -7517,25 +7517,6 @@ Chances of understanding each other before marriage | Less | More
 Participation | Less | More
 
 
-  **Characteristics**                                      **Offline Generation**       **Online Generation**
-  -------------------------------------------------------- ---------------------------- --------------------------------------
-  Perception of marriage                                   Made in heaven               Arranged online/solemnized on earth
-  Orientation/Beliefs                                      Love follows marriage        Marriage follows love
-  Major initiators                                         Parents and relatives        Self
-  Objective of marriage for man                            To find a house-wife         A loveable partner
-  Objective of marriage for woman                          To gain economic stability   To gain equality in the relationship
-  Process of searching                                     Slow                         Fast
-  Direction                                                Linear                       Multi-directional
-  Process control (in terms of progress in relationship)   On man’s side                Both can control
-  Options available                                        Few                          Many
-  Expenditure on searching                                 More                         Less
-  Decision-making                                          Parents or elders            Self
-  Method                                                   Face-to-face                 Online
-  Role of outside consultant                               Major                        Minor
-  Ties (Caste and Religion)                                Rigid                        Flexible
-  Chances of understanding each other before marriage      Less                         More
-  Participation                                            Less                         More
-
 ## Limitations
 
 The research collected data from the states of northern India where

@@ -1,0 +1,225 @@
+@font-face{
+    font-family: 'Lato-Regular';
+    font-weight: normal;
+    font-style: normal;
+    src:url(fonts/Lato-Regular.otf) format('opentype');
+}
+
+@font-face{
+    font-family: 'Lato-Light';
+    font-weight: normal;
+    font-style: normal;
+    src:url(fonts/Lato-Light.otf) format('opentype');
+}
+
+@font-face{
+    font-family: 'Lato-Light-Italic';
+    font-weight: normal;
+    font-style: italic;
+    src:url(fonts/Lato-LightItalic.otf) format('opentype');
+}
+
+@font-face{
+    font-family: 'Lato-Bold';
+    font-weight: bold;
+    font-style: normal;
+    src:url(fonts/Lato-Bold.otf) format('opentype');
+}
+
+@font-face{
+    font-family: 'Lato-Bold-Italic';
+    font-weight: bold;
+    font-style: italic;
+    src:url(fonts/Lato-BoldItalic.otf) format('opentype');
+}
+
+
+
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	border-width:0;
+
+}
+
+
+
+body { 
+    font-family: 'Lato-Light', serif;
+    font-size: 10pt;
+}
+
+
+
+h1 { 
+    font-family: 'Lato-Bold', sans-serif;
+    font-size:2.7em;
+    line-height:1.0em;
+    padding-bottom: 0.5em;
+    font-weight: normal;
+}
+
+h2{
+    font-family: 'Lato-Bold', sans-serif;
+    font-size:1.5em;
+    line-height:0m;
+    padding-bottom: 0.1em;
+    font-weight: normal;
+}
+
+
+h3{
+    font-family: 'Lato-Regular', sans-serif;
+    font-size:1.2em;
+    line-height:0m;
+    padding-bottom: 0.1em;
+    font-weight: normal;
+}
+
+
+
+
+p {
+    font-family: 'Lato-Light', serif;
+    font-size: 1em;
+    line-height:1.5em;
+    padding-bottom:2em;
+    text-indent: 0;
+    widows: 2;
+    orphans: 2; /*  minimum number of lines in a block container that must be left at the bottom of the page */
+}
+
+blockquote{
+    padding-bottom:1.3em;
+    padding-left:2em;
+}
+
+p.quote-author{
+    font-family: 'Lato-Light', sans-serif;
+    font-weight: normal;
+    margin-top: -10px;
+}
+
+figcaption{
+    font-family: 'Lato-Light', sans-serif;
+    font-weight: normal;
+    font-size: 0.85em;
+    line-height: 1.5em;
+}
+
+
+ul.toc{
+ list-style-type: none;
+ list-style: none; 
+ padding-left:0;
+ line-height: 1.7em;
+}
+
+li{
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+span.list-level1{
+    font-family: 'Lato-Light', sans-serif;
+    font-weight: normal;
+    font-size: 1.3em;
+}
+
+
+span.list-level2{
+    font-family: 'Lato-Light', sans-serif;
+    font-weight: normal;
+    font-size: 1.0em;
+}
+
+
+a {
+    color: red;    
+}
+
+a:visited {
+    color: red;    
+}
+
+figure{
+    margin-left:0px;
+}
+
+
+div.halftitle, div.title, div.publications {
+    text-align:center;
+}
+
+
+img.halftitle, img.title,  img.publications {
+    max-width: 98%;
+    max-height: 98%;
+    width: auto;
+    height: auto;
+}
+
+
+
+div.fig{
+    width:75%;
+}
+
+
+img.fig {
+    width:100%;
+}
+
+
+
+/* dedication */
+
+div#bottom_dedication {
+    position: absolute;
+    top: 30%;
+    margin-right: 20%;
+}
+
+
+p#swartz{
+    line-height:3.0em;
+}
+
+/*colophon, series, contents, backcover -  files with img background */
+body.contents, body.network-notebook-series, body.colophon, body.backcover{
+    background-image: url("../images/background1-2.png");
+} 
+
+
+span.list-level1, span.list-level2, span.list-title, span.colophon, span.series{
+    background-color: #ffffff;
+    padding-left:0px;
+    padding-top:5px;
+    padding-bottom:2px;
+    padding-right:0px;
+    line-height: 1.2em;
+}
+
+
+div.backcover{
+   background-color: #ffffff;
+    padding-left:0px;
+    padding-top:5px;
+    padding-bottom:2px;
+    padding-right:0px;
+    line-height: 1.5em;
+}
+
+p.backcover{
+    font-size: 1.2em;
+    line-height:1.2em;
+    padding-bottom:2em;
+    widows: 2;
+    orphans: 2; /*  minimum number of lines in a block container that must be left at the bottom of the page */
+}
+
+/* footnotes */
+
+section.footnotes{
+    font-size:0.85em;
+}
