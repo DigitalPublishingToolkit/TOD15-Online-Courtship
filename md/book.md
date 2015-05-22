@@ -7497,6 +7497,26 @@ practices.
 **Table 2** Comparing offline generation to online generation in partner
 search
 
+Characteristics | Offline Generation | Online Generation
+--- | --- | --- 
+Perception of marriage | Made in heaven | Arranged online/solemnized on earth
+Orientation/Beliefs | Love follows marriage | Marriage follows love 
+Major initiators | Parents and relatives | Self 
+Objective of marriage for man | To find a house-wife | A loveable partner 
+Objective of marriage for woman | To gain economic stability | To gain equality 
+Process of searching | Slow | Fast 
+Direction | Linear | Multi-directional
+Process control (in terms of progress in relationship) | On man’s side | Both can control
+Options available | Few | Many
+Expenditure on searching | More | Less
+Decision-making | Parents or elders | Self
+Method | Face-to-face | Online
+Role of outside consultant | Major | Minor
+Ties (Caste and Religion) | Rigid | Flexible
+Chances of understanding each other before marriage | Less | More
+Participation | Less | More
+
+
   **Characteristics**                                      **Offline Generation**       **Online Generation**
   -------------------------------------------------------- ---------------------------- --------------------------------------
   Perception of marriage                                   Made in heaven               Arranged online/solemnized on earth
@@ -8510,6 +8530,18 @@ Cyberspace to be more than just a “single place”. The analysis, based on
 statements of users who were sorted according to Hymes’ SPEAKING model
 parameters, offers a number of differences summarized in the following
 table:
+
+Facebook | Forum | Dating Websites |  
+--- | --- | --- | ---
+“I” | “Old Israel" | “America” | Place
+Friends and acquaintances | Faceless, nameless friends | Unfriendly strangers | Participants
+Searching and confirming information | Talks and Discussions - option for a relationship | Meeting potential partners  | Ends
+A stage in the process of getting to know one another | No clear stage system | Several stages, some dictated by the website, while others by personal choice | Act sequence
+A component of the “hard work” of investigating about the potential partner | Anonymity, feelings | “Hard work” | Norms
+Everyday | Warm, accepting | Purposeful, blatant | Key and instrumentalities
+Home, picture album | The great good place "Orchard" | Workplace, Supermarket | Genre (Metaphors and metonyms)
+
+
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                    Dating Websites                                                                 Forum                        Facebook
@@ -14392,3 +14424,15 @@ Oncevatan. <http://www.oncevatan.com.tr/>.
 [^18_TVshows-ozustun-Final_11]: Eagleton, Terry, İdeoloji (Ideology; An Introduction) (Trans
     .Muttalip Özcan), Ayrıntı Yayınları, 1991, p. 140
 
+
+
+
+# Header One
+
+### Author
+
+## Introduction
+
+hello | table | header | bye
+--- | --- | --- | ---
+span one column | span two ||

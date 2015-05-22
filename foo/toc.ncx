@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:isbn:NNN-NN-NN-NN-n" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_png" />
+  </head>
+  <docTitle>
+    <text>TOD15 ONLINE COURTSHIP</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>The Pre-History of Print and Online Dating, c. 1690-1990</text>
+      </navLabel>
+      <content src="ch001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Old and New Methods for Online Research: The Case of Online Dating</text>
+      </navLabel>
+      <content src="ch002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Dating Maps. Mapping Love in Online Dating Communities</text>
+      </navLabel>
+      <content src="ch003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</text>
+      </navLabel>
+      <content src="ch004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>“Dating” or “Escaping”? Cuban Profiles in Dating Websites</text>
+      </navLabel>
+      <content src="ch005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?</text>
+      </navLabel>
+      <content src="ch006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age</text>
+      </navLabel>
+      <content src="ch007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising</text>
+      </navLabel>
+      <content src="ch008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diaspora in America</text>
+      </navLabel>
+      <content src="ch009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>From Arranged to Online: A Study of Courtship Culture in India</text>
+      </navLabel>
+      <content src="ch010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</text>
+      </navLabel>
+      <content src="ch011.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>Stranger Stranger or Lonely Lonely? Young Chinese and Dating Apps between the Locational, the Mobile and the Social</text>
+      </navLabel>
+      <content src="ch012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>What Are the Shengnv Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women’s Personal Profiles on Jiayuan.com</text>
+      </navLabel>
+      <content src="ch013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>Keeping it Unreal - Online Dating with Chinese Characteristics</text>
+      </navLabel>
+      <content src="ch014.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>Talking To Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels</text>
+      </navLabel>
+      <content src="ch015.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>Media’s Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium</text>
+      </navLabel>
+      <content src="ch016.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
