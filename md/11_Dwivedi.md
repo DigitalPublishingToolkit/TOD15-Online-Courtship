@@ -341,12 +341,7 @@ penetrates in the complex social structures.
 
 **Table 1 Popularity of Matrimonial Sites in India**[^11_Dwivedi_28]
 
-  **Matrimony sites**   **Traffic ranking**   **Traffic from countries (%)**   **Daily pages views per user**   **Time on sites (in minutes)**
-  --------------------- --------------------- -------------------------------- -------------------------------- -------------------------------- ------------ ------- ------
-                        **India**             **Global**                       **India**                        **USA**
-  Shaadi.com            52                    546                              90.7                             6.0
-  BharatMatrimony.com   13, 261               1, 092                           92.7                             4.0
-  Jeevansathi.com       3, 552                319                              91.5                             4.5
+![Figure 2](imgs/Dwivedi-matrimonysite-table-2.jpg)
 
 ## Methodology
 
