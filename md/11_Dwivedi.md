@@ -341,7 +341,7 @@ penetrates in the complex social structures.
 
 **Table 1 Popularity of Matrimonial Sites in India**[^11_Dwivedi_28]
 
-![Figure 2](imgs/Dwivedi-matrimonysite-table-2.jpg)
+![Figure 2](imgs/Dwivedi-matrimonysite-table-02.jpg)
 
 ## Methodology
 
