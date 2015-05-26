@@ -84,13 +84,12 @@ A typical definition for online dating would only encompass the online
 dating sites and exclude all other online platforms[^12]. This type of
 definition leads to a problem as it is only focusing on the websites
 tailored for the purpose of online dating and excluding a vast majority
-of online courtship. The previous definitions fail to acknowledge these
-other online venues and limit the boundaries of the field for research.
+of online courtship. The previous definitions fail to acknowledge other online venues and limit the boundaries of the field for research.
 Hence a broader definition is needed along with identifying the
 boundaries of the specific study to insure a better perspective on
 online courtship.
 
-As we are becoming evermore connected to the online world, social
+As we are becoming increasingly connected to the online world, social
 interactions of any kind also comes into the realm with us. Online
 studies in general have focused thus far on a variety of different
 issues and subjects such as online bullying[^13], self-efficacy and
@@ -124,7 +123,7 @@ societies, online courtship can take on the meaning of finding a partner
 in marriage (China, Turkey and India are good examples of this, see
 Vikram, Ozgun and Fu) whereas in other cultures it can become a place to
 seek one-night stands or webcam sex or to seek company to pass time.
-These different examples show the liquidated nature of the experience of
+These different examples show the fluid nature of the experience of
 online “courtship” or “dating” within the globalizing world, as the
 local and global definitions amalgamate in virtual environments.
 
