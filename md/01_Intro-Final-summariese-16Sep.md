@@ -56,7 +56,7 @@ articulate a list of other users with whom they share a connection, and
 (3) view and traverse their list of connections and those made by others
 within the system.“) [^9] are becoming an eminent part of our daily
 lives, since they provide an online social experience that is not
-“dangerous”. The increase in this and other online social
+“dangerous”. The increase in these and other online social
 experiences[^10] began to change the nature of daily interpersonal
 interactions. This change has allowed the users to seek intimate
 relationships online more often. “According to a recent estimate based
@@ -127,7 +127,7 @@ These different examples show the fluid nature of the experience of
 online “courtship” or “dating” within the globalizing world, as the
 local and global definitions amalgamate in virtual environments.
 
-Digital intimacy has becomes a normative mode of social interactions
+Digital intimacy has become a normative mode of social interaction
 within other mediums online, such as SNS and mobile applications. Rosen
 et al. gives examples of studies that have found the increase in such
 online environments: an early study shows that 75% of online-formed
@@ -209,9 +209,9 @@ reap millions in this gold mine. Caiyun Wen’s case study of three
 leading Chinese dating websites – Baihe, Jiayuan and Zhenai – brought us
 to see their “secrets” of profit making with a Chinese touch. Yann L.
 Chin examined how *wanglian*, or online romance, is conceptualized by
-Chinese Internet users based on two key constructs – ‘Platonic emotional
+Chinese Internet users based on two key constructs: ‘Platonic emotional
 love’ and ‘play’. Her categorization of online daters as pragmatist
-fantasists, sceptics and romantic realists is more than a fun of
+fantasists, skeptics and romantic realists is more than a fun of
 oxymoron’s but an in-depth analysis of the dichotomous and
 interconnected reality and virtuality and a modern Chinese society where
 materialistic prosperity and spiritual emptiness co-exist. Sheena Raja
@@ -277,8 +277,7 @@ Researchers examine adolescent impression management strategies when
 romantically pursuing relationships via Facebook. Virtual Nightclub
 references this social network as a venue for adolescent matchmaking.
 Pino’s study explores the social implications of poor Internet access
-and online dating in Cuba. Cuba’s Internet access is one of the lowest
-in Latin America, inhibiting private use of the World Wide Web.
+and online dating in Cuba.
 Discourse analysis is conducted on online dating profiles, in
 conjunction with interviews, analyzing the dating practices of singles
 seeking singles in Cuba and Cuban singles seeking intimacy outside of
@@ -287,10 +286,10 @@ outside of Cuba. The corollary of this study correlates politics,
 technological and financial reasons to the current formation of Cuban
 online dating practices.
 
-The Internet has become a social tool for many Internet users. This
+The Internet has become a social tool for many online users. This
 chapter examines the influence that gender has on self-presentation
 practices in Portuguese online dating profiles. Data is analyzed via
-content analysis and grounded theory. This research highlights modern
+content analysis and grounded theory. This research highlights how modern
 gender roles influence self-presentation constructions within the
 Portuguese dating context.
 
@@ -332,7 +331,7 @@ environment of OkCupid and Match.com websites. Attracting an audience,
 building an image for a specific target audience and expectations from
 other parties compose the major framework of her analysis.
 
-The industry behind the online dating phenomenon is a large one. Online
+The industry behind the online dating phenomenon is a large one. The online
 dating market has become a \$2 billion industry [^29]. Pascal Lardellier
 explores the political economy of dating sites in France and analyzes
 the underlying structures that are at play. The commodification of love
@@ -340,12 +339,12 @@ now assisted by the computerized technology also takes away from the
 intimate experience, monetizing the relationship. Also Reichert’s
 analysis examines the cartographic visualizations and the underlying
 structures within this system. The changing role of digital intimacy
-within the market is also changing the way we perceive relationships,
+within the market is affecting the way we perceive relationships,
 especially considering that Google, Facebook and Twitter form the
 largest shares in the market.
 
 This book attempts to shed light on the online dating phenomenon through
-varies methodologies with an eclectic approach. If we think about the
+various methodologies with an eclectic approach. If we think about the
 data and analysis of the use of these websites and other platforms
 employed for online dating purposes, it is easy to see that online
 courtship will become an increasingly embedded social norm for
