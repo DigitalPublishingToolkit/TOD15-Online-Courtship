@@ -197,9 +197,9 @@
 				<AppliedFont type="string">Lato</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" KeyboardShortcut="0 0" LeftIndent="10">
+		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" KeyboardShortcut="0 0" LeftIndent="11.338582677165356">
 			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</ParagraphStyle>
@@ -1452,13 +1452,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Delhi: Heritage, 1982.</Content>
 				<Br />
-				<Content>SAALT, ‘A Demographic Snapshot of South Asians in the United States’, July 2012.</Content>
-				<Br />
-				<Content>Retrieved from </Content>
+				<Content>SAALT, ‘A Demographic Snapshot of South Asians in the United States’, July 2012. Retrieved from </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
 				<HyperlinkTextSource Self="uf62" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
-					<Content>http://saalt.org/wp-content/uploads/2012/09/Demographic-</Content>
+					<Content>http://saalt.org/wp-content/uploads/2012/09/Demographic</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1472,14 +1470,12 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Hershey, PA: IGI Global, 2011, pp. 272-93.</Content>
 				<Br />
-				<Content>US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved from</Content>
-				<Br />
+				<Content>US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved from </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
 				<HyperlinkTextSource Self="uf63" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Content>
 				</HyperlinkTextSource>
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
