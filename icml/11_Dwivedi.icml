@@ -4,6 +4,11 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Bold" Name="Bold" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -64,12 +69,12 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/TablePar &gt; LeftAlign" Name="TablePar &gt; LeftAlign" LeftIndent="0" Justification="LeftAlign">
+      <ParagraphStyle Self="ParagraphStyle/TablePar" Name="TablePar" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign" Name="TablePar &gt; TableHeader &gt; LeftAlign" LeftIndent="0" FontStyle="Bold" Justification="LeftAlign">
+      <ParagraphStyle Self="ParagraphStyle/TablePar &gt; TableHeader" Name="TablePar &gt; TableHeader" LeftIndent="0" FontStyle="Bold">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -561,17 +566,29 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Type-1 Type-2</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Type-3 Type-4</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Type-5 Type-6</Content>
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/Dwivedi-marriagetypes-01.jpg" />
+      </Image>
+    </Rectangle>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -979,218 +996,32 @@
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="4" ColumnCount="8">
-  <Column Name="0" />
-  <Column Name="1" />
-  <Column Name="2" />
-  <Column Name="3" />
-  <Column Name="4" />
-  <Column Name="5" />
-  <Column Name="6" />
-  <Column Name="7" />
-  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Matrimony sites</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Traffic ranking</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Traffic from countries (%)</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="3:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Daily pages views per user</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="4:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Time on sites (in minutes)</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="5:0" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="6:0" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="7:0" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>India</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Global</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="3:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>India</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="4:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>USA</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="5:1" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="6:1" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="7:1" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="0:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Shaadi.com</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>52</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>546</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="3:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>90.7</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="4:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>6.0</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="5:2" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="6:2" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="7:2" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="0:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>BharatMatrimony.com</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>13, 261</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>1, 092</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="3:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>92.7</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="4:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>4.0</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="5:3" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="6:3" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="7:3" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="0:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Jeevansathi.com</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>3, 552</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>319</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="3:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>91.5</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="4:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>4.5</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="5:4" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="6:4" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="7:4" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-</Table>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
-  <Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="imgs/Dwivedi-matrimonysite-table-02.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1583,357 +1414,357 @@
   <Column Name="1" />
   <Column Name="2" />
   <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Characteristics</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Offline Generation</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Online Generation</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Perception of marriage</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Made in heaven</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Arranged online/solemnized on earth</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Orientation/Beliefs</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Love follows marriage</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:2" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Marriage follows love</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Major initiators</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Parents and relatives</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:3" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Self</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Objective of marriage for man</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>To find a house-wife</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:4" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>A loveable partner</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:5" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Objective of marriage for woman</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:5" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>To gain economic stability</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:5" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>To gain equality in the relationship</Content>
+        <Content>To gain equality</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:6" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Process of searching</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:6" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Slow</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:6" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Fast</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:7" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Direction</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:7" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Linear</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:7" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Multi-directional</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:8" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Process control (in terms of progress in relationship)</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:8" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>On man’s side</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:8" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Both can control</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:9" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Options available</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:9" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Few</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:9" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Many</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:10" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Expenditure on searching</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:10" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>More</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:10" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Less</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:11" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Decision-making</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:11" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Parents or elders</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:11" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Self</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:12" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Method</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:12" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Face-to-face</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:12" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Online</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:13" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Role of outside consultant</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:13" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Major</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:13" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Minor</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:14" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Ties (Caste and Religion)</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:14" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Rigid</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:14" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Flexible</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:15" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Chances of understanding each other before marriage</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:15" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Less</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:15" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>More</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:16" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Participation</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:16" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Less</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:16" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>More</Content>
       </CharacterStyleRange><Br />
