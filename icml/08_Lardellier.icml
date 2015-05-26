@@ -847,7 +847,13 @@
 				<Br />
 				<Content>Pascal Lardellier, Le coeur Net. Célibat et @mours sur le Web, Paris, Belin, 2004.</Content>
 				<Br />
-				<Content>Pascal Lardellier, Les Réseaux du Cœur. Sexe, Amour et Séduction sur Internet, Paris, François Bourin, 2012.</Content>
+				<Content>Pascal Lardellier, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Les Réseaux du Cœur. Sexe, Amour et Séduction sur Internet</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Paris: François Bourin, 2012.</Content>
 				<Br />
 				<Content>Niklas Luhmann, </Content>
 			</CharacterStyleRange>
@@ -857,7 +863,13 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Cambridge: Polity Press, 1986.</Content>
 				<Br />
-				<Content>Marc Parmentier, ‘Philosophie des sites de rencontres’, Hermès. 59.(2011) : 173-178, 2011.</Content>
+				<Content>Marc Parmentier, ‘Philosophie des sites de rencontres’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Hermès</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. 59.(2011) : 173-178, 2011.</Content>
 				<Br />
 				<Content>Martin King, </Content>
 			</CharacterStyleRange>
