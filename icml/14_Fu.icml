@@ -103,6 +103,12 @@
 	<FontFamily Self="di10e7" Name="$ID/Symbol">
 		<Font Self="di10e7FontnSymbol Regular" FontFamily="Symbol" Name="$ID/Symbol Regular" PostScriptName="Symbol" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="6.1d7e3" />
 	</FontFamily>
+	<FontFamily Self="di1244" Name="Times">
+		<Font Self="di1244FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e1" />
+		<Font Self="di1244FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e1" />
+		<Font Self="di1244FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e1" />
+		<Font Self="di1244FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e1" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -2258,15 +2264,13 @@
 				<Content>Attractiveness</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>: petite, cute, slender, attractive, shapely, classy, sophisticated</Content>
-				<Br />
+				<Content>: petite, cute, slender, attractive, shapely, classy, sophisticated </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Financial security</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>: accomplished, well-established, professional, generous, prosperous, successful</Content>
-				<Br />
+				<Content>: accomplished, well-established, professional, generous, prosperous, successful </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Sincerity</Content>
@@ -2294,7 +2298,16 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> was reached for seeking attractiveness (Cronbach’s α = .93), offering attractiveness (Cronbach’s α = .89), seeking financial security (Cronbach’s α = .86), offering financial security (Cronbach’s α = .95), seeking sincerity (Cronbach’s α = .89) and offering sincerity (Cronbach’s α = .86). All coding results were entered into Statistical Package for the Social Sciences (SPSS) for analysis.</Content>
+				<Content> was reached for seeking attractiveness (Cronbach’s α = .93), offering attractiveness (Cronbach’s</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Times</AppliedFont>
+				</Properties>
+				<Content> α</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> = .89), seeking financial security (Cronbach’s α = .86), offering financial security (Cronbach’s α = .95), seeking sincerity (Cronbach’s α = .89) and offering sincerity (Cronbach’s α = .86). All coding results were entered into Statistical Package for the Social Sciences (SPSS) for analysis.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
