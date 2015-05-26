@@ -669,13 +669,7 @@
 							<Content>Bhrama vivah</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> (arranged marriages) are presently found in Indian society. See </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Atharvavedh</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> for more detail.</Content>
+							<Content> (arranged marriages) are presently found in Indian society. See Atharvavedh for more detail.</Content>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
@@ -850,8 +844,6 @@
 				</Properties>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Rectangle Self="uf37" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
@@ -2310,8 +2302,6 @@ vde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//2Q==]]></GraphicProxy>
 				<Content> Online partner searchers </Content>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The online matrimonial sites work as a bridge in their search to place them from a stage without a partner to where they have a partner. The term divorced in Type 1, widowed in Type 2, annulled in Type 5, and awaiting divorce in Type 6 are people who have experienced failure in their previous marriages which was either love or arranged, offline or online. The single in Type 3, generally refers to individuals who are never married in their lives, and married in Type 4 consists of a mixed group; they are either unhappy couples, couples living in distant places, or boring couples interested in extra-marital relationships or in a physical relationship. All six types are in search of love and companionship which they have been lacking in their lives and relationships.</Content>
 				<Br />
