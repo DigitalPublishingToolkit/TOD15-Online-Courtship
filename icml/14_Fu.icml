@@ -100,14 +100,14 @@
 		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
 	</FontFamily>
-	<FontFamily Self="di10e7" Name="$ID/Symbol">
-		<Font Self="di10e7FontnSymbol Regular" FontFamily="Symbol" Name="$ID/Symbol Regular" PostScriptName="Symbol" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="6.1d7e3" />
-	</FontFamily>
 	<FontFamily Self="di1244" Name="Times">
 		<Font Self="di1244FontnTimes Regular" FontFamily="Times" Name="Times Regular" PostScriptName="Times-Roman" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Times Roman" FullNameNative="Times Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1e1" />
 		<Font Self="di1244FontnTimes Italic" FontFamily="Times" Name="Times Italic" PostScriptName="Times-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Times Italic" FullNameNative="Times Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="10.0d1e1" />
 		<Font Self="di1244FontnTimes Bold" FontFamily="Times" Name="Times Bold" PostScriptName="Times-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Times Bold" FullNameNative="Times Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1e1" />
 		<Font Self="di1244FontnTimes Bold Italic" FontFamily="Times" Name="Times Bold Italic" PostScriptName="Times-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Times Bold Italic" FullNameNative="Times Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="10.0d1e1" />
+	</FontFamily>
+	<FontFamily Self="di1245" Name="$ID/Symbol">
+		<Font Self="di1245FontnSymbol Regular" FontFamily="Symbol" Name="$ID/Symbol Regular" PostScriptName="Symbol" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="6.1d7e3" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -2298,7 +2298,16 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> was reached for seeking attractiveness (Cronbach’s α = .93), offering attractiveness (Cronbach’s</Content>
+				<Content> was reached for seeking attractiveness (Cronbach’s </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+				<Content>α</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> = .93), offering attractiveness (Cronbach’s</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
 				<Properties>
@@ -2307,7 +2316,43 @@
 				<Content> α</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> = .89), seeking financial security (Cronbach’s α = .86), offering financial security (Cronbach’s α = .95), seeking sincerity (Cronbach’s α = .89) and offering sincerity (Cronbach’s α = .86). All coding results were entered into Statistical Package for the Social Sciences (SPSS) for analysis.</Content>
+				<Content> = .89), seeking financial security (Cronbach’s </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+				<Content>α</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> = .86), offering financial security (Cronbach’s </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+				<Content>α</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> = .95), seeking sincerity (Cronbach’s </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+				<Content>α</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> = .89) and offering sincerity (Cronbach’s </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Minion Pro</AppliedFont>
+				</Properties>
+				<Content>α</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> = .86). All coding results were entered into Statistical Package for the Social Sciences (SPSS) for analysis.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2400,7 +2445,16 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Based on the then exchange rate of US$1 ≈RMB￥ 6.25.</Content>
+							<Content>	Based on the then exchange rate of US$1 ≈RMB</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+							<Properties>
+								<AppliedFont type="string">Minion Pro</AppliedFont>
+							</Properties>
+							<Content>￥</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 6.25.</Content>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
@@ -2628,7 +2682,16 @@
 					<Cell Self="uf14ifc6i19" Name="1:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-								<Content>Monthly Income (RMB￥)</Content>
+								<Content>Monthly Income (RMB</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+								<Properties>
+									<AppliedFont type="string">Minion Pro</AppliedFont>
+								</Properties>
+								<Content>￥</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+								<Content>)</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -4485,7 +4548,25 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	A Chinese term for love and marriage 姻缘, rhyming with Jiayuan 佳缘, the name of the dating website.</Content>
+							<Content>	A Chinese term for love and marriage </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+							<Properties>
+								<AppliedFont type="string">Minion Pro</AppliedFont>
+							</Properties>
+							<Content>姻缘</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, rhyming with Jiayuan </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+							<Properties>
+								<AppliedFont type="string">Minion Pro</AppliedFont>
+							</Properties>
+							<Content>佳缘</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, the name of the dating website.</Content>
 							<Br />
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
