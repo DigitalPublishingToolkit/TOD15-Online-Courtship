@@ -1145,19 +1145,19 @@ China’s “Digital Revolution”’, *International Journal of Communication* 
 [^15_Chin_1]: Boston Consulting Group (BCG), Online Retail Sales in China will
     Triple to More than \$360 Million by 2015, as the Internet Adds
     Nearly 200 Million Users, 12 April 2012,
-    [http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641](../customXml/item1.xml).
+    <http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641>.
 
 [^15_Chin_2]: Xinhua, *Xinlang Weibo Zhuce Yonghu Tupo Sanyi, Meiri Faboliang
     Chaoguo Yiyitiao* (Sina Weibo has More 300 Million Registered Users,
     More than 100 Million Weibo are Posted Everyday), 29 February 2012,
-    [http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm](styles.xml).
+    <http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm>.
 
 [^15_Chin_3]: Twitter Blog, One Hundred Million Voices, 8 September 2011,
-    [http://blog.twitter.com/2011/09/one-hundred-million-voices.html](stylesWithEffects.xml).
+    <http://blog.twitter.com/2011/09/one-hundred-million-voices.html>.
 
     ^4^ IAC and JWT, China Leads the US in Digital Self-expression*,* 22
     November 2007,
-    [http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression](settings.xml).
+    <http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression>.
 
 [^15_Chin_4]: 
 
@@ -1178,19 +1178,19 @@ China’s “Digital Revolution”’, *International Journal of Communication* 
 
 [^15_Chin_8]: Maria Birbili, ‘Translating from One Language to Another’, Social
     Research Update 31 (2000),
-    [http://sru.soc.surrey.ac.uk/SRU31.html](webSettings.xml).
+    <http://sru.soc.surrey.ac.uk/SRU31.html>.
 
 [^15_Chin_9]: Jianpeng Zeng, *Xuni Yu Xianshi: Dui ‘Wanglian’ Xianxiang de Lilun
     Fenxi* (Virtuality and Reality: A Theoretical Analysis of Online
     Romance), Chinese Academy of Social Science, 23 December 2004,
-    [http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223\_4103.htm](footnotes.xml).
+    <http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm>.
 
 [^15_Chin_10]: Xiaohong Wei, Caili Li, Min Lu, and Bing Peng, *Diaocha Cheng:
     87% de Shoufang Daxuesheng Renwei Wanglian Shi Manzu Qinggan Xuyao
     de Yizhong Fangshi* (Survey showed that 87% of the university
     students interviewed think online romance is a means to satisfy
     emotional needs). China Youth Online, 27 December 2007,
-    [http://zqb.cyol.com/content/2007-12/27/content\_2011436.htm](endnotes.xml).
+    <http://zqb.cyol.com/content/2007-12/27/content_2011436.htm>.
 
 [^15_Chin_11]: Erich R. Merkle and Rhonda A. Richardson, ‘Digital Dating and
     Virtual Relating: Conceptualizing Computer Mediated Romantic
@@ -1206,7 +1206,7 @@ China’s “Digital Revolution”’, *International Journal of Communication* 
 
 [^15_Chin_14]: IAC and JWT, China Leads the US in Digital Self-expression*,* 22
     November 2007,
-    [http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression](http://sru.soc.surrey.ac.uk/SRU31.html)
+    <http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression>
     .
 
 [^15_Chin_15]: Aaron Ben-Ze’ev, Love Online: Emotions on the Internet,
