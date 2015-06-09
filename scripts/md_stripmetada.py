@@ -1,28 +1,35 @@
 #!/usr/bin/env python
 
 """
-Script removes YAML metada from markdown files
-"""
+Script removes YAML metadata from markdown files
 
-"""
 (C) 2015 Andre Castro
+(C) 2015 rewritten by Gottfried Haider (PublishingLab)
 
 License: [GPL3](http://www.gnu.org/copyleft/gpl.html)
-
 """
 
-import re, sys, os
+import os, sys
 
-input_filename=os.path.abspath(sys.argv[1])
-input_file = open(input_filename, "r") # open and parse
-name = ((os.path.basename(input_filename))[:-3]).encode("ascii")
-text = (input_file.read()).decode("utf-8")
-yaml_regex = re.compile(r'((^|\n)(---|\.\.\.)[\s\S]+?\n\.\.\.)')
-        
-def replace(text):    
-    if bool(re.match(yaml_regex, text)) == True:
-        sub = re.sub(yaml_regex, '', text)
-        print (sub.encode("utf-8"))
+input_filename = os.path.abspath(sys.argv[1])
 
-replace(text)
+# U enables "universal newlines", handy for odd-formated files
+with open(input_filename, 'rU') as f:
+	lines = f.readlines()
+
+i = 0
+start = False
+while i < len(lines):
+	if lines[i].startswith('---') or lines[i].startswith('...'):
+		if start is False:
+			start = i
+		else:
+			del lines[start:(i+1)]
+			i -= (i-start)+1
+			start = False
+	i += 1
+
+# strip last character, a superfluous newline
+text = ''.join(lines)[:-1]
+print text
 
