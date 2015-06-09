@@ -80,10 +80,9 @@
     <Content>Introduction</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="1" ColumnCount="3">
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="1" ColumnCount="2">
   <Column Name="0" />
   <Column Name="1" />
-  <Column Name="2" />
   <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -125,8 +124,6 @@
         <Content>span two</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
   </Cell>
 </Table>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
