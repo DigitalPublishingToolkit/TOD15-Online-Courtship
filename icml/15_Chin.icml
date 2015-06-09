@@ -155,7 +155,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm</Content>
+            <Content>http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -2196,60 +2196,60 @@
       <Destination type="object">HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-8" Name="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" Name="link" DestinationURL="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-7" Name="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://zqb.cyol.com/content/2007-12/27/content_2011436.htm</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Name="link" DestinationURL="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-6" Name="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html" Name="link" DestinationURL="http://sru.soc.surrey.ac.uk/SRU31.html" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="http://sru.soc.surrey.ac.uk/SRU31.html" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-5" Name="http://sru.soc.surrey.ac.uk/SRU31.html" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/endnotes.xml" Name="link" DestinationURL="endnotes.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="endnotes.xml" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/endnotes.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/footnotes.xml" Name="link" DestinationURL="footnotes.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="footnotes.xml" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.twitter.com/2011/09/one-hundred-million-voices.html" Name="link" DestinationURL="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/footnotes.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://blog.twitter.com/2011/09/one-hundred-million-voices.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/webSettings.xml" Name="link" DestinationURL="webSettings.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="webSettings.xml" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" Name="link" DestinationURL="http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/webSettings.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/settings.xml" Name="link" DestinationURL="settings.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="settings.xml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" Name="link" DestinationURL="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/settings.xml</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/stylesWithEffects.xml" Name="link" DestinationURL="stylesWithEffects.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="stylesWithEffects.xml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/stylesWithEffects.xml</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/styles.xml" Name="link" DestinationURL="styles.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="styles.xml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/styles.xml</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/../customXml/item1.xml" Name="link" DestinationURL="../customXml/item1.xml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="../customXml/item1.xml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/../customXml/item1.xml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641</Destination>
     </Properties>
   </Hyperlink>
 </Document>
