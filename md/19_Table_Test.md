@@ -23,6 +23,6 @@ Rights: CC BY-NC 4.0
 
 ## Introduction
 
-hello | table | header | bye
---- | --- | --- | ---
-span one column | span two ||
+hello | table | header | bye | hello again |
+--- | --- | --- | --- | --- |
+span one column | span two || one | row |
