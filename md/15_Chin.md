@@ -27,7 +27,7 @@ romance in China. Many envisaged the romantic experience of meeting a
 loved one online just as depicted in the novel. Though the hype
 surrounding online romance may have dissipated, the practice has
 certainly not gone out of fashion. As the country with the largest
-Internet population in the world, dating somebody met online has become
+Internet population in the world, dating somebody online has become
 a mainstream mode of courtship for many Chinese, similar to Internet
 users in the West. In fact, existing studies suggest that Chinese
 Internet users embrace social media more extensively than their Western
@@ -1155,11 +1155,10 @@ China’s “Digital Revolution”’, *International Journal of Communication* 
 [^15_Chin_3]: Twitter Blog, One Hundred Million Voices, 8 September 2011,
     <http://blog.twitter.com/2011/09/one-hundred-million-voices.html>.
 
-    ^4^ IAC and JWT, China Leads the US in Digital Self-expression*,* 22
+
+[^15_Chin_4]: IAC and JWT, China Leads the US in Digital Self-expression*,* 22
     November 2007,
     <http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression>.
-
-[^15_Chin_4]: 
 
 [^15_Chin_5]: James Farrer, Opening Up: Youth Sex Culture and Market Reform in
     Shanghai, Chicago: University Chicago Press, 2002.
@@ -1308,9 +1307,7 @@ China’s “Digital Revolution”’, *International Journal of Communication* 
 [^15_Chin_44]: Ann Swidler, Talk of Love: How Culture Matters, Chicago:
     University of Chicago Press, 2001.
 
-    ^45^ Christine Hine, ‘Virtual Methods and the Sociology of
+[^15_Chin_45]: Christine Hine, ‘Virtual Methods and the Sociology of
     Cyber-social-scientific Knowledge’, in Christine Hine (ed.) Virtual
     Methods: Issues in Social Research on the Internet, Oxford: Berg,
     2005, pp.1-13.
-
-[^15_Chin_45]:
