@@ -57,15 +57,16 @@ def spine(filename): # makes cover & title page linear is <spine>
     tree = ET.parse(filename)
     ET.register_namespace('epub', 'http://www.idpf.org/2007/ops')
     spine = tree.find('.//{http://www.idpf.org/2007/opf}spine')
-    manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
-    for child in spine.getchildren():
-        if child.attrib['idref'] == 'cover_xhtml'or child.attrib['idref'] == 'title_page_xhtml':            
+       manifest = tree.find('.//{http://www.idpf.org/2007/opf}manifest')
+     for child in spine.getchildren():
+         if child.attrib['idref'] == 'cover_xhtml'or child.attrib['idref'] == 'title_page_xhtml':            
             (child.attrib).pop("linear")
-            #child.attrib['linear'] = 'yes'
-    return tree
-
-
-def save_html(content_dir, content_file, tree ):
+            try:
+                (child.attrib).pop("linear")
+            except KeyError:
+                print("Potential error epub_process.py: attribute linear doesn't exist\n")
+             #child.attrib['linear'] = 'yes'
+     return tree
     doctype = '<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE html>\n'
     html = ET.tostring(tree,  encoding='utf-8', method='xml')
     html = doctype + html
