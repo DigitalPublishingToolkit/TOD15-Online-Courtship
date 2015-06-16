@@ -2326,382 +2326,382 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://unstats.un.org/unsd/mdg/Data.aspx" Name="link" DestinationURL="http://unstats.un.org/unsd/mdg/Data.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//unstats.un.org/unsd/mdg/Data.aspx" Name="link" DestinationURL="http://unstats.un.org/unsd/mdg/Data.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-54" Name="http://unstats.un.org/unsd/mdg/Data.aspx" Source="htss-54" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://unstats.un.org/unsd/mdg/Data.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//unstats.un.org/unsd/mdg/Data.aspx</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://data.worldbank.org/indicator/IT.NET.USER.P2" Name="link" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//data.worldbank.org/indicator/IT.NET.USER.P2" Name="link" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-53" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="htss-53" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://data.worldbank.org/indicator/IT.NET.USER.P2</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//data.worldbank.org/indicator/IT.NET.USER.P2</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Name="link" DestinationURL="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Name="link" DestinationURL="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-52" Name="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Source="htss-52" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Name="link" DestinationURL="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Name="link" DestinationURL="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-51" Name="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Source="htss-51" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Name="link" DestinationURL="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Name="link" DestinationURL="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-50" Name="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Source="htss-50" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" Name="link" DestinationURL="http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" Name="link" DestinationURL="http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-49" Name="http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" Source="htss-49" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Name="link" DestinationURL="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Name="link" DestinationURL="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-48" Name="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Source="htss-48" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//bvs.sld.cu/revistas/infd/n1311/infd1213.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-47" Name="http://www.connectingsingles.com/" Source="htss-47" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-46" Name="http://www.connectingsingles.com/" Source="htss-46" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.datehookup.com/" Name="link" DestinationURL="http://www.datehookup.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.datehookup.com/" Name="link" DestinationURL="http://www.datehookup.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-45" Name="http://www.datehookup.com/" Source="htss-45" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.datehookup.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.datehookup.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-44" Name="http://www.connectingsingles.com/" Source="htss-44" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-43" Name="http://www.connectingsingles.com/" Source="htss-43" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-42" Name="http://www.connectingsingles.com/" Source="htss-42" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-41" Name="http://www.connectingsingles.com/" Source="htss-41" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-40" Name="http://www.connectingsingles.com/" Source="htss-40" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-39" Name="http://www.connectingsingles.com/" Source="htss-39" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-38" Name="http://www.connectingsingles.com/" Source="htss-38" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-37" Name="http://www.connectingsingles.com/" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-36" Name="http://www.connectingsingles.com/" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-35" Name="http://www.connectingsingles.com/" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-34" Name="http://www.connectingsingles.com/" Source="htss-34" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-33" Name="http://www.connectingsingles.com/" Source="htss-33" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-32" Name="http://www.connectingsingles.com/" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-31" Name="http://www.connectingsingles.com/" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-30" Name="http://www.connectingsingles.com/" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-29" Name="http://www.connectingsingles.com/" Source="htss-29" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-28" Name="http://www.connectingsingles.com/" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-27" Name="http://www.connectingsingles.com" Source="htss-27" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-26" Name="http://www.connectingsingles.com" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-25" Name="http://www.connectingsingles.com/" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-24" Name="http://www.revolico.com/" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.revolico.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.revolico.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-23" Name="http://www.revolico.com/" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.revolico.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.revolico.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-22" Name="http://www.revolico.com/" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.revolico.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.revolico.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-21" Name="http://www.connectingsingles.com/" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-20" Name="http://www.connectingsingles.com" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-19" Name="http://www.connectingsingles.com" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-18" Name="http://www.connectingsingles.com" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-17" Name="http://www.connectingsingles.com/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com" Name="link" DestinationURL="http://www.connectingsingles.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-16" Name="http://www.connectingsingles.com" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" Name="link" DestinationURL="http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" Name="link" DestinationURL="http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-15" Name="http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Name="link" DestinationURL="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Name="link" DestinationURL="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-14" Name="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//bvs.sld.cu/revistas/infd/n1311/infd1213.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.revolico.com/" Name="link" DestinationURL="http://www.revolico.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-13" Name="http://www.revolico.com/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.revolico.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.revolico.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.datehookup.com/" Name="link" DestinationURL="http://www.datehookup.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.datehookup.com/" Name="link" DestinationURL="http://www.datehookup.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-12" Name="http://www.datehookup.com/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.datehookup.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.datehookup.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.connectingsingles.com/" Name="link" DestinationURL="http://www.connectingsingles.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-11" Name="http://www.connectingsingles.com/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.connectingsingles.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.connectingsingles.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Name="link" DestinationURL="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Name="link" DestinationURL="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-10" Name="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.elpais.com/" Name="link" DestinationURL="http://www.elpais.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.elpais.com/" Name="link" DestinationURL="http://www.elpais.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-9" Name="http://www.elpais.com/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.elpais.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.elpais.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Name="link" DestinationURL="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Name="link" DestinationURL="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://unstats.un.org/unsd/mdg/Data.aspx" Name="link" DestinationURL="http://unstats.un.org/unsd/mdg/Data.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//unstats.un.org/unsd/mdg/Data.aspx" Name="link" DestinationURL="http://unstats.un.org/unsd/mdg/Data.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://unstats.un.org/unsd/mdg/Data.aspx" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://unstats.un.org/unsd/mdg/Data.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//unstats.un.org/unsd/mdg/Data.aspx</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.un.org/en/" Name="link" DestinationURL="http://www.un.org/en/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.un.org/en/" Name="link" DestinationURL="http://www.un.org/en/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://www.un.org/en/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.un.org/en/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.un.org/en/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" Name="link" DestinationURL="http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" Name="link" DestinationURL="http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.itu.int/es/Pages/default.aspx" Name="link" DestinationURL="http://www.itu.int/es/Pages/default.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.itu.int/es/Pages/default.aspx" Name="link" DestinationURL="http://www.itu.int/es/Pages/default.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://www.itu.int/es/Pages/default.aspx" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.itu.int/es/Pages/default.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.itu.int/es/Pages/default.aspx</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://data.worldbank.org/indicator/IT.NET.USER.P2." Name="link" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2." DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//data.worldbank.org/indicator/IT.NET.USER.P2." Name="link" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2." DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2." Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://data.worldbank.org/indicator/IT.NET.USER.P2.</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//data.worldbank.org/indicator/IT.NET.USER.P2.</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.worldbank.org/" Name="link" DestinationURL="http://www.worldbank.org/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.worldbank.org/" Name="link" DestinationURL="http://www.worldbank.org/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://www.worldbank.org/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.worldbank.org/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.worldbank.org/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Name="link" DestinationURL="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Name="link" DestinationURL="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf</Destination>
     </Properties>
   </Hyperlink>
 </Document>

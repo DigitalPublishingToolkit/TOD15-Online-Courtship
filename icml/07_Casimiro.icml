@@ -3153,130 +3153,130 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" Name="link" DestinationURL="https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" Name="link" DestinationURL="https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-18" Name="https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" Name="link" DestinationURL="http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" Name="link" DestinationURL="http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-17" Name="http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" Name="link" DestinationURL="http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" Name="link" DestinationURL="http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-16" Name="http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ibiblio.org/cmc/mag/1994/sep/self.html" Name="link" DestinationURL="http://www.ibiblio.org/cmc/mag/1994/sep/self.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ibiblio.org/cmc/mag/1994/sep/self.html" Name="link" DestinationURL="http://www.ibiblio.org/cmc/mag/1994/sep/self.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-15" Name="http://www.ibiblio.org/cmc/mag/1994/sep/self.html" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ibiblio.org/cmc/mag/1994/sep/self.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ibiblio.org/cmc/mag/1994/sep/self.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" Name="link" DestinationURL="http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" Name="link" DestinationURL="http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-14" Name="http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://obs.obercom.pt/index.php/obs/article/view/120" Name="link" DestinationURL="http://obs.obercom.pt/index.php/obs/article/view/120" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//obs.obercom.pt/index.php/obs/article/view/120" Name="link" DestinationURL="http://obs.obercom.pt/index.php/obs/article/view/120" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-13" Name="http://obs.obercom.pt/index.php/obs/article/view/120" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://obs.obercom.pt/index.php/obs/article/view/120</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//obs.obercom.pt/index.php/obs/article/view/120</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" Name="link" DestinationURL="http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" Name="link" DestinationURL="http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-12" Name="http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/wired/archive/13.08/tech.html" Name="link" DestinationURL="http://www.wired.com/wired/archive/13.08/tech.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.wired.com/wired/archive/13.08/tech.html" Name="link" DestinationURL="http://www.wired.com/wired/archive/13.08/tech.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-11" Name="http://www.wired.com/wired/archive/13.08/tech.html" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/wired/archive/13.08/tech.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.wired.com/wired/archive/13.08/tech.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://bib.dbvis.de/uploadedFiles/359.pdf" Name="link" DestinationURL="http://bib.dbvis.de/uploadedFiles/359.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//bib.dbvis.de/uploadedFiles/359.pdf" Name="link" DestinationURL="http://bib.dbvis.de/uploadedFiles/359.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-10" Name="http://bib.dbvis.de/uploadedFiles/359.pdf" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://bib.dbvis.de/uploadedFiles/359.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//bib.dbvis.de/uploadedFiles/359.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" Name="link" DestinationURL="http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-9" Name="http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" Name="link" DestinationURL="http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" Name="link" DestinationURL="http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.obercom.pt/client/?newsId=548&amp;fileName=sociedadeRede2012.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" Name="link" DestinationURL="http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" Name="link" DestinationURL="http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" Name="link" DestinationURL="http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" Name="link" DestinationURL="http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.pnas.org/content/early/2013/05/31/1222447110.full.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" Name="link" DestinationURL="http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" Name="link" DestinationURL="http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" Name="link" DestinationURL="http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" Name="link" DestinationURL="http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.unc.edu/depts/jomc/academics/dri/idog.html" Name="link" DestinationURL="http://www.unc.edu/depts/jomc/academics/dri/idog.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.unc.edu/depts/jomc/academics/dri/idog.html" Name="link" DestinationURL="http://www.unc.edu/depts/jomc/academics/dri/idog.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://www.unc.edu/depts/jomc/academics/dri/idog.html" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.unc.edu/depts/jomc/academics/dri/idog.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.unc.edu/depts/jomc/academics/dri/idog.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Forbes.com" Name="link" DestinationURL="http://www.Forbes.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.Forbes.com" Name="link" DestinationURL="http://www.Forbes.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://www.Forbes.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.Forbes.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.Forbes.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://archive.wired.com/wired/archive/13.08/tech.html" Name="link" DestinationURL="http://archive.wired.com/wired/archive/13.08/tech.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//archive.wired.com/wired/archive/13.08/tech.html" Name="link" DestinationURL="http://archive.wired.com/wired/archive/13.08/tech.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://archive.wired.com/wired/archive/13.08/tech.html" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://archive.wired.com/wired/archive/13.08/tech.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//archive.wired.com/wired/archive/13.08/tech.html</Destination>
     </Properties>
   </Hyperlink>
 </Document>

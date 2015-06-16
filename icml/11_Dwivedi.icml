@@ -2074,11 +2074,11 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shaddi.com" Name="link" DestinationURL="http://www.shaddi.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.shaddi.com" Name="link" DestinationURL="http://www.shaddi.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.shaddi.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shaddi.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.shaddi.com</Destination>
     </Properties>
   </Hyperlink>
 </Document>

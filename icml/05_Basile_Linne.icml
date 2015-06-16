@@ -998,25 +998,25 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.socialbakers.com/" Name="link" DestinationURL="http://www.socialbakers.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.socialbakers.com/" Name="link" DestinationURL="http://www.socialbakers.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://www.socialbakers.com/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.socialbakers.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.socialbakers.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Internetworldstats.com" Name="link" DestinationURL="http://www.Internetworldstats.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.Internetworldstats.com" Name="link" DestinationURL="http://www.Internetworldstats.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://www.Internetworldstats.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.Internetworldstats.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.Internetworldstats.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.internetworldstats.com" Name="link" DestinationURL="http://www.internetworldstats.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.internetworldstats.com" Name="link" DestinationURL="http://www.internetworldstats.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.internetworldstats.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.internetworldstats.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.internetworldstats.com</Destination>
     </Properties>
   </Hyperlink>
 </Document>

@@ -2261,25 +2261,25 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.oncevatan.com.tr/" Name="link" DestinationURL="http://www.oncevatan.com.tr/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.oncevatan.com.tr/" Name="link" DestinationURL="http://www.oncevatan.com.tr/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://www.oncevatan.com.tr/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.oncevatan.com.tr/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.oncevatan.com.tr/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.evlilikmerkezi.com" Name="link" DestinationURL="http://www.evlilikmerkezi.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.evlilikmerkezi.com" Name="link" DestinationURL="http://www.evlilikmerkezi.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://www.evlilikmerkezi.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.evlilikmerkezi.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.evlilikmerkezi.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.oncevatan.com.tr/" Name="link" DestinationURL="http://www.oncevatan.com.tr/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.oncevatan.com.tr/" Name="link" DestinationURL="http://www.oncevatan.com.tr/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.oncevatan.com.tr/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.oncevatan.com.tr/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.oncevatan.com.tr/</Destination>
     </Properties>
   </Hyperlink>
 </Document>

@@ -853,11 +853,11 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" Name="link" DestinationURL="http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" Name="link" DestinationURL="http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf</Destination>
     </Properties>
   </Hyperlink>
 </Document>
