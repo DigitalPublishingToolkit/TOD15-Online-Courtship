@@ -2,7 +2,7 @@
 
 ### Megan Lindsay
 
-# Introduction
+## Introduction
 
 Last year, one in ten Americans reported using online dating; I am one
 of these many users.[^17_Lindsay_1] Dating websites are intended to mediate a space
