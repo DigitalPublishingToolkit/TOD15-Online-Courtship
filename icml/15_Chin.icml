@@ -13,11 +13,6 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
-      </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Superscript" Name="Superscript" Position="Superscript">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
       </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
@@ -97,7 +92,7 @@
     <Content>The First Intimate Contact</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, a novel written by Taiwanese student Cai Zhiheng in 1998, created a frenzy about online romance in China. Many envisaged the romantic experience of meeting a loved one online just as depicted in the novel. Though the hype surrounding online romance may have dissipated, the practice has certainly not gone out of fashion. As the country with the largest Internet population in the world, dating somebody met online has become a mainstream mode of courtship for many Chinese, similar to Internet users in the West. In fact, existing studies suggest that Chinese Internet users embrace social media more extensively than their Western counterparts. For example, according to business consultant group, BCG’s press release dated 12 April 2012, 79 percent of Chinese used instant messages (IM) compared with 21 percent of U.S. Internet users.</Content>
+    <Content>, a novel written by Taiwanese student Cai Zhiheng in 1998, created a frenzy about online romance in China. Many envisaged the romantic experience of meeting a loved one online just as depicted in the novel. Though the hype surrounding online romance may have dissipated, the practice has certainly not gone out of fashion. As the country with the largest Internet population in the world, dating somebody online has become a mainstream mode of courtship for many Chinese, similar to Internet users in the West. In fact, existing studies suggest that Chinese Internet users embrace social media more extensively than their Western counterparts. For example, according to business consultant group, BCG’s press release dated 12 April 2012, 79 percent of Chinese used instant messages (IM) compared with 21 percent of U.S. Internet users.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -190,15 +185,24 @@
           <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The results of an online survey involving Chinese and American youths showed that the Internet was much more appreciated in China than in America.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
       <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>4</Content>
-        </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> IAC and JWT, China Leads the US in Digital Self-expression</Content>
+          <Content>IAC and JWT, China Leads the US in Digital Self-expression</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>,</Content>
@@ -214,18 +218,6 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>.</Content>
         </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The results of an online survey involving Chinese and American youths showed that the Internet was much more appreciated in China than in America.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1684,17 +1676,6 @@
           <Content>Ann Swidler, Talk of Love: How Culture Matters, Chicago: University of Chicago Press, 2001.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-          <Content>45</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> Christine Hine, ‘Virtual Methods and the Sociology of Cyber-social-scientific Knowledge’, in Christine Hine (ed.) Virtual Methods: Issues in Social Research on the Internet, Oxford: Berg, 2005, pp.1-13.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1708,6 +1689,14 @@
         <CharacterStyleRange>
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Christine Hine, ‘Virtual Methods and the Sociology of Cyber-social-scientific Knowledge’, in Christine Hine (ed.) Virtual Methods: Issues in Social Research on the Internet, Oxford: Berg, 2005, pp.1-13.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange><Br />
