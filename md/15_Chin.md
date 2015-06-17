@@ -47,7 +47,7 @@ showed that 66 percent of the Chinese surveyed thought that online
 interactions had broadened their sense of identity only 26 percent of
 American respondents reported to have this benefit.
 
-Yet despite China’s exponential growth of its Internet population, and
+Yet despite China’s exponential growth of its Internet population and
 enthusiastic embrace of social media, our understandings of online
 relationships are mostly limited to studies based in the Western
 context. The development of the information and communication (ICT)
