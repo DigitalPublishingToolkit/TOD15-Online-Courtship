@@ -327,7 +327,7 @@
 							<Content>	Wolfgang Ernst. Jenseits des Archivs: Bit Mapping. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12dc" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u137a" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1008,7 +1008,7 @@
 				<Content>Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April 2014. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12fa" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1398" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1022,13 +1022,13 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 5" DestinationUniqueKey="5" Name="URL 5" DestinationURL="http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 6" DestinationUniqueKey="6" Name="URL 6" DestinationURL="http://www.xcult.org/texte/tietjen/#sdfootnote3sym" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 7" DestinationUniqueKey="7" Name="URL 7" DestinationURL="http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" Hidden="false" />
-	<Hyperlink Self="u12fb" Name="http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/" Source="u12fa" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1399" Name="http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/" Source="u1398" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u12fc" Name="http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" Source="u12dc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="7">
+	<Hyperlink Self="u139a" Name="http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/" Source="u137a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="7">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 7</Destination>
