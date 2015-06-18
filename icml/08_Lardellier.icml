@@ -1,878 +1,863 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="8.0(370)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="8.0" Self="d">
-	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
-	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
-	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
-	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
-	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
-	<FontFamily Self="di3e" Name="Minion Pro">
-		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-	</FontFamily>
-	<FontFamily Self="di95" Name="Myriad Pro">
-		<Font Self="di95FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-	</FontFamily>
-	<FontFamily Self="dia2" Name="Kozuka Mincho Pro">
-		<Font Self="dia2FontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
-		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
-	</FontFamily>
-	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
-		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Regular" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Regular" PostScriptName="StandardGroteskBSK-Regular" Status="Installed" FontStyleName="Regular" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Regular" FullNameNative="Standard-Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Italic" PostScriptName="StandardGroteskBSK-Italic" Status="Installed" FontStyleName="Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Italic" FullNameNative="Standard-Grotesk Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Medium" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Medium" PostScriptName="StandardGroteskBSK-Medium" Status="Installed" FontStyleName="Medium" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Medium" FullNameNative="Standard-Grotesk Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Medium Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Medium Italic" PostScriptName="StandardGroteskBSK-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Medium Italic" FullNameNative="Standard-Grotesk Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold" PostScriptName="StandardGroteskBSK-Bold" Status="Installed" FontStyleName="Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold" FullNameNative="Standard-Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Bold Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold Italic" PostScriptName="StandardGroteskBSK-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold Italic" FullNameNative="Standard-Grotesk Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
-	</FontFamily>
-	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
-		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua3" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua4" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua5" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua6" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Minion Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua7" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Minion Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-	</CompositeFont>
-	<RootCharacterStyleGroup Self="u77">
-		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
-			<Properties>
-				<BasedOn type="string">$ID/[No character style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Link" Imported="false" KeyboardShortcut="0 0" Name="Link">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Superscript" Imported="false" KeyboardShortcut="0 0" Name="Superscript" Position="Superscript">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-	</RootCharacterStyleGroup>
-	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">14</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/R=147 G=44 B=101" PointSize="10" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" KeyboardShortcut="0 0" FontStyle="Bold" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10</Leading>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-	</RootParagraphStyleGroup>
-	<TinDocumentDataObject>
-		<Properties>
-			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
-		</Properties>
-	</TinDocumentDataObject>
-	<CrossReferenceFormat Self="u96" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u96BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u96BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u97" Name="Full Paragraph" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u98" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u99" Name="Paragraph Text" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9a" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9b" Name="Paragraph Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9c" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9d" Name="Text Anchor Name" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<Story Self="uf15" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
-		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
-		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Pascal Lardellier</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Introduction</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Internet and dating websites have had a strong impact on the nature of seductive relationships over a short period of time. This statement, which is not strictly deterministic, is based on a series of observations. Over the last 15 years or so, new means of meeting, flirting and falling in love have appeared -- all behind multiple screens. The traditional methods and timescale of seduction have been turned upside down. On the Internet you become acquainted with others from the inside out and many fall in love with these ‘strangers.’ In 1999, the movie </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>You’ve Got a Message</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> very explicitly put a story and images to this new phenomenon.</Content>
-				<Br />
-				<Content>In 2012, the American actor-director John Malkovich pitched a contemporary production of the famous novel of Choderlos de Laclos, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Liaisons dangereuses</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, in Paris. Malkovich, who in 1989 played the Vicomte de Valmont for producer Stephan Frears, has adapted this classic piece to the Internet generation. In this production, social networks (Facebook, Twitter), smartphones, and texting all play important roles. It is always interesting to observe the impact of different technical interfaces on the way we fall in love. Each historical period brings its own combination of its values and approaches to love. Malkovich’s Parisian adaptation shows that the role of the written word in seduction and relationships is reinforced through the use of the Internet. Of course, as in the ‘classic’ age of love, we still find cynicism, hypocrisy, lies, and manipulation. But now, they are all technologically assisted.</Content>
-				<Br />
-				<Content>It is a new state of mind and an unprecedented ideology that now presides over computer-assisted romantic-sexual relationships. Single people online commodify themselves in what we can call “romance marketing”.</Content>
-				<Br />
-				<Content>This chapter will begin by analyzing the manner in which liberalism has established itself as the dominant new ideology of postmodern romantic/seductive relationships. Liberalism is implicitly present in the discourse of those on the Internet as much as it is in their online habits. This observation is based on surveys conducted on the subject by the author, in the French-speaking world, over the past ten years. The chapter will then discuss this phenomenon in the light of more general sociological reflections and philosophical considerations about love and the digital-network-era couple.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Methodology and Surveys</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This chapter is based on two surveys carried out between 2003 and 2012, then published in 2004 and 2012.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>cf</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>. bibliography, Lardellier</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> In order to conduct these surveys, we partnered with four heterosexual dating websites, gathering data from both French nationals and other French-speaking people. 260 (130 from each group) questionnaires were gathered and processed along with 30 interviews. The title of this chapter, “Liberalism Conquering Love,” was a theme mentioned by the majority of those surveyed, despite some differences in wording. The analyses taken from these surveys were developed by the author, who has experience working in this field.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Victory of Liberalism in Romantic Relationships</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>First of all, it should be remembered that romantic/seductive relationships on the Internet have notable differences from those in real life. Online, you do not see who you are speaking to, and you do not know him or her because he or she is hidden behind a pseudonym and a screen. Likewise, things often move faster than in real life, where the temporality of seduction is often rather slow. In recent years, many authors have noted that digitized relationships are becoming subject to liberalism</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>cf</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>. Illouz, 1997 2007, bibliography.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> considered both as an economic doctrine and as a collection of values and ideology. They see relationships in the Internet age as commodities, governed by the principles of utilitarianism. To say that this economic theory is gaining the domain of human relationships is more than just a metaphor. If we take certain expressions literally, they can be incidentally revealing. On the subject of dating websites, the Internet users interviewed spontaneously alluded to: a “shopping for love,” a “supermarket,” “business and commerce,” “unrestrained sexual consumption,” and a “store front window for singles.” There are many who said that they choose a partner “like you would pick a yogurt, or any product, shopping cart in hand.” In short, “people have the impression of becoming merchandise” once they sign up for a dating website. Some, disappointed by these sites, even mention prostitution, “since you pay to have relationships with a stranger”…. These lexical clichés from the users themselves are all inspired by their experiences on existing dating websites.</Content>
-				<Br />
-				<Content>Romantic encounters have thus become a market selling singles the possibility of quick sexual relationships, as much as the hopes of a life together. Online service providers, helped by marketing specialists, were quick to seize this opportunity, appealing to the dreams and wishes of individuals and evolving social norms.</Content>
-				<Br />
-				<Content>On digital networks and dating sites, you label others using social intuition before your first encounter. This leads to homophilia (being attracted to people similar to us) and endogamy (couples forming on the basis of existing social groups, values, and similar religions). In fact, we see strong evidence of sociocultural kinship, an important organizing principle in the matrimonial market and thus in the make-up of couples. This makes it seem all the more shocking that online, we always begin talking to others anonymously. Is love not as blind as we all thought?</Content>
-				<Br />
-				<Content>Several phases can be seen to have characterized the French market of romantic encounters. After the first era of general dating websites, the market appeared to have split. It began to offer websites based on certain criteria such as ethnicity, religion, sociocultural status, and socioeconomic background.</Content>
-				<Br />
-				<Content>Likewise, on the Internet, relationships are liberalized. We see all major principles of economic markets: an abundance of offers, rationalization of the search for love, selective targeting, the ability to choose from many offers, and the standardization of ‘products.’ Indeed, we faithfully fill out anthropometric forms while strictly conforming to the sections given: a process of generalized objectification or commoditization. The immensity of the offer – hundreds of thousands of profiles</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	It is difficult to get the exact number of profiles from the sites themselves, in so far as those numbers are a strategic and jealously kept secret. However, the french market of online dating gather 5 or 6 million singles, registred on 10 main sites. Meetic, the most famous french site (that principally belongs to the American Match.com) has over than a million members for instance.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> – underlines this commoditization, with the personal information of those registered being analyzed like products for which we would read a factsheet. We can ‘test’ and change whatever we find to be unsatisfactory or flawed.</Content>
-				<Br />
-				<Content>Through all of the texts and images exchanged amongst strangers on dating websites, we see that liberalism has invaded the sphere of human relations. You must be efficient, attractive, and noteworthy to rise above the crowd. You must always ‘perform’ well, with pictures that broadcast the message that you want to be received. Romantic relationships must yield productivity, efficiency, and cost-effectiveness. The personal information pages put online must be sales-worthy and impactful in order to be noticed. These adjectives are a matter of marketing and coaching, which influence each type of intimate relationship. On dating sites, everyone conforms to the principles of romance marketing, considering themselves as exclusive products to promote, or one product in competition with thousands of others. In fact, on dating sites (like on social networks), many also indulge in personal branding, both consciously and subconsciously. In other words, they become their own brand. Once again, this is a notion and concept which takes us into the commercial domain.</Content>
-				<Br />
-				<Content>There is a famous French play by Pierre Marivaux, 1688-1768, entitled “The Game of Love and Chance.”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	“The Game of Love and Chance”, “Les jeux de l’amour et du hazard” in French, is a romantic comedy written by the French author Marivaux, first played in 1730.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Today, on dating sites, we can speak of “the game of love and the market.” As automated romantic relationships imply output and profitability, each member of a site becomes his or her own matrimonial cyber agent. In the era of the triumph of marketing and liberalism, we are under the impression that feelings can be reduced to consumer advantages, emotional capital, and successful interviews. In a similar vein, this is symbolized by speed-dating: a trend in which the first contact strangely resembles a job interview.</Content>
-				<Br />
-				<Content>Then there is the recent appearance of love coaching. Love coaches are in charge of singles as if they were relegated beings who must be motivated in order to even think of landing a good catch. The goal of these relationship coaches is to increase the value of your capital, display your qualities, and make good use of your potential. These principles and practices are a part of managerial ideology and fall within this current liberal framing of romantic/seductive relationships.</Content>
-				<Br />
-				<Content>Even though these digital networks are filled with cynicism, there is some romanticism and sincerity. But the majority of people registered on dating sites are after quick consumption, rather than searching for long-term relationships, According to the statements of members, men tend to be more pressing, eager to receive a number, an instant messenger name, or a Skype screen name, then a real-life meeting, as early as possible, to build up the relationship. That is to say, to move to a sexual relationship.</Content>
-				<Br />
-				<Content>Many works, whether novels or essays, written in recent years by men who frequent dating sites confirm the idea that picking up partners is like an industrialized process. In 2005, the Frenchman Lewis Wingrove explained in his work on </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Of Mice and Men</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> how much rationalization,</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Financial Times </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="ufcb" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
-								<Content>http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf</Content>
-							</HyperlinkTextSource>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> assisted by IT tools, can favor optimal output in the seduction process. But there are not only winners in this game of love and the market. In his novel, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Extension du domaine de la lutte</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Broadening the Field of Struggle)</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, the famous French novelist Michel Houellbecq, from 1994 to the present, predicted the entrance of sexuality into the era of liberal competition, with winners and, of course, losers. In this work, he puts forth frustrated, unlikeable, pathetic anti-heroes who are tortured by insatiable urges that make them suffer. The handsome ones and those full of themselves easily obtain sexual fulfillment. As for the losers, they are left with pictures, fantasies, and masturbation as their solace.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Dating Websites: a Triple Principle of Economics</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Romantic/seductive online relationships are governed by a triple principle of economics: the economics of time, money, and emotions. This concept assures their success. Once registered, which only takes a few minutes, you have access to a vast pool of singles -- thousands of people who virtually interest you and who can potentially be interested in your new profile.</Content>
-				<Br />
-				<Content>The economics of money, likewise, puts you in contact with all of these people which would have been much more onerous (offering dates, etc.) in ‘real life.’ Accepting an offer from a letter that was copied and pasted and sent to dozens of people is a common practice that alludes to Taylorism -- since it is a question of rationalizing a task.</Content>
-				<Br />
-				<Content>Lastly, we see economics of emotion on these sites, because losing face and its cost are opportunely ousted by the absence of the other. Making a digital exit does not cost anything in terms of face. However, there is fierceness in competition that is not specific to the virtual world and that can cause what psychoanalysts call a narcissistic injury: the feeling you are left with after an emotionally-invested relationship is terminated. But the Internet allows you to “move on to the next one.”</Content>
-				<Br />
-				<Content>It is the overall system of dating sites which causes this consumption trend. You make the most rational and judicious choice, generate traffic around your page to become the focal product, and gather contact information. That is the logic behind mass sexual and emotional consumption. Certain members of dating sites even boast about their sexual adventures as if they had collected exotic items or butterflies. For them, thanks to dating sites, picking up partners has truly moved from a small-scale hobby to an industry. Dating sites sanction marriage, sexual and emotional consumption as well as marketing techniques. Clearly, our era rationalizes emotional economics. We may still talk about the heart, but it is often hard to distinguish the heart (</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>coeur)</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> and the heart of our target (</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>coeur de cible</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>), which is of course a marketing term.</Content>
-				<Br />
-				<Content>One site that symbolizes this commoditization of online romantic/seductive encounters is the French site </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>AdopteUnMec.com</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> [adopt a guy]. With its overt and tongue-in-cheek feminist stance, this site allows women to walk around with a shopping cart, browsing the aisles of a virtual man-market. It is as if these men are special products that you cannot miss, the deal of the day! In this realm, men have few rights; they must obey – and only obey. The site is livened up by a commercial metaphor in which the all-powerful female user does her ‘shopping’ with an online list that she drew up based on her criteria. This site demands a good sense of humor, but it has had a lot of success with its young clientele, who master the relationship codes on social networks. So even if the title may seem exaggerated, we are most certainly living in the realm of love won over by liberalism.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Internet, Romance, and Being Internationally Single</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Liberalism is expressed in an even more tangible manner when you think of online romantic/seductive encounters. The global expansion of dating sites allows us to detect, more largely, the rise of a new international singles market. Thus, tens of thousands of women living in developing countries or zones of political unrest are trying to emigrate to ‘rich’ countries, thanks to the dating website network. This matrimonial cyber-migration has opened a new type of migratory trend, lining the pockets of cyber-café owners. In a documentary titled “Nord-Sud.com” (North-South.com), the Frenchmen François Ducat explains that in 1997, there were four cyber cafés in Yaoundé, Cameroon, and 450 in 2007. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	For a recent study of this phenomenon see: “La cybermigration maritale des femmes camerounaises. La quête de conjoints blancs, Brice Arsène Mankou, L’Harmattan, Paris, 2014.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>There are only two logistical demands for cyber-cafés: computers must be in individual booths and above all, equipped with webcams, since the Western men chatting with these women and want to judge them on their appearance. The competition is fierce and only the most attractive will be noticed. These women must simultaneously be pretty, docile, sensual, sweet, and offer hope for a meeting in Europe or North America. This international single life sees hordes of women from Africa, Asia, and ex-communist countries attempt to (and occasionally manage to) create a ‘cyber-union.’ Of course, one consequence is being uprooted from family and cultural lifestyle. These women will attempt to live a new life, far from home, (usually) with a white stranger who is wealthy and older then themselves. These men buy the ‘youth’ of these women in exchange for goods and a ‘better life.’ The success of these relationships varies. Some adapt to Western ways, while others are depressed, yet make sacrifices to stay. Then there are those who return to their country after seeing that it would be impossible to become integrated. Finally, many return after being disappointed or disillusioned by their Western ‘Prince Charming’.</Content>
-				<Br />
-				<Content>There is economical asymmetry in these relationships that stretches beyond the explanations of the protagonists. The men exhibit the ‘privileged values’ that these women look for in their future husband – a level of income and lifestyle unavailable in their countries of origin. Yet, these marital exiles also see native families torn apart for the reward of others living in the European/American Eldorado.’</Content>
-				<Br />
-				<Content>If this phenomenon makes searching for love an international affair, a part of the intercultural melting pot, tearing apart destinies but also bringing happiness to the lucky few, if it is amplified it could also cause legitimate instability in the domestic marriage markets, and heighten cultural and economic differences. “In the long term, globalization of the dating market could have notable results. Western women already have a difficult time finding men who fulfill their expectations. As for Western men, even though they are seduced by dynamic women, some may prefer a woman who is not too demanding to ensure calm on the home front and thus […] turn towards the international market to buy submission, youth, and beauty, ignoring the independent, degree-bearing women in their country. […] However, the poor men in the West are still having a difficult time finding spouses.”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	J.- C. Kaufmann, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Sex@mour</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Albin Michel, 2010, Paris, p. 192.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> The global singles market was created by dating sites and founded on economic principles. Feelings are not completely absent, but if they develop, it is much later on. ‘Playing the love market’ looks set to remain a global game.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Love on the Internet</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This part of the chapter will expand the frame of analysis so as to offer more general sociological and philosophical considerations about the new types of couples found in the Internet era.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Singles Enduring Paradoxical Tensions</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>First of all, it seems that the effects of solitude felt in our society throughout history are still just as present in the era of commoditized online relationships that made communication a social virtue. Users of dating sites come across digital heartthrobs and virtual kisses. Hundreds of people visit their personal page without meeting them offline, an act, which can lead to lasting relationships -- sometimes, of course, but not always.</Content>
-				<Br />
-				<Content>Oftentimes, many of these singles feel high levels of stress on a daily basis: exposing themselves to rejection, hoping for success, symbolically risking everything, while at the same time giving themselves the means to make a couple, in obedience to the constant implicit social pressure from their entourage. If our era values those who communicate well and know how to assert themselves in relationships, then it has never been more difficult to meet others. If proof were needed, we need simply to look at the millions who have already registered for dating sites.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Traditional Couple Transformed by Information and Communication Technologies</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In all cases, Internet suitors conform to a procedure which, for the first time ever, reverses the chronology of events: they become acquainted with one another before meeting, thus discovering each other from the inside out. When they meet, they sleep together very quickly if the ‘feeling’ is there. After that, love comes (or not). We understand that this Copernican change in courting takes people away from their traditional points of reference. They have to invent a new relationship code, an unprecedented feat in the history of humanity as well as that of romantic relationships.</Content>
-				<Br />
-				<Content>The Internet offers a solution for finding your soulmate, but on condition that you can escape being caught in the fringe. You frequently move to the other side of the screen. Remember that in Ovid’s </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Metamorphosis,</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Pygmalion commits himself to a virtual relationship (even then!), with his beautiful statue, Galatea. From one illusion to another, Narcissus prefers himself over even the tender love of the muse Echo, until his self-admiration becomes his own death. And how many are there on the Internet who put on this performance and who gaze at the raving comments and gratification of others? “A relationship put in the public eye via the Internet can allow someone to be satisfied with more or less success than the profound human need of having relationships and simultaneously promoting, in his or her own mind, a paranoid withdrawal, thus avoiding all forms of intersubjective commitment.”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Michael Civin, Psychanalyse du Net, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>op. cit</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>. p. 46-47.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> This is true because the web is all-powerful and allows you to fight against anxieties and frustrations. An Internet connection can be compared to an umbilical cord; it nourishes, calms, and relies on reassurance. New technologies, in a broad sense, have become the preferred source of pleasure for people from 25-49, even before sex.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	According to an Ipsos Survey, quoted by </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Télérama</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> n° 3072, November 2008, the main source of pleasure for 39% of respondents is use of technology, compared to a 36% for whom it is sex.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>We still love ‘for real’ in 2014, even if there is the temptation to be all powerful – or, hide behind a screen. We still continue to meet people in real life, experience physical attraction, and develop love affairs in real life. More and more, however, we use information and communication technologies and their resources in the courting process. Significantly over half of romantic encounters among thirty-year-olds are arranged by websites.</Content>
-				<Br />
-				<Content>The model of the traditional couple is called into question by information and communication technologies. Clearly, the Internet ‘produces’ a good amount of couples. But, as a consequence, it also produces ‘defeats,’ as digital suitors reconnect for digital adultery, polygamy and ‘sexfriending.’ These sites have given birth to a type of recreational sexuality. In a parallel manner, the sentimentality produced by these digital networks is fun and disengaged, but also cynical – and occasionally hurtful in this regard. Our current era is one of mass sexual and romantic consumption. We take, we make the most of things, we enjoy those things, and we throw those things away. Of course, we must not forget the numerous beautiful love stories which also have their origin the Internet. However, those involved in these stories often encountered disappointment and suffering before finally finding a soulmate. This is due to the prevailing cynicism and the unpleasant impression of being referred to like a supermarket product, as others flip through a thick catalog full of people to be ‘consumed.’</Content>
-				<Br />
-				<Content>We do not look at it all in a moral sense: there is not only frustration or disgust in romantic and sexual consumption being industrialized by the Internet. There are many who take great pleasure in the Internet and use it for adventures and sexual experimentation. They live in ‘sensual parentheses,’ filled with pleasure in order to break away from the monotony of life. Since you can seduce or be seduced online, and almost nobody shows it, casualness and immediate pleasure are the driving forces of the system. But just because something exists for a short amount of time, it does not mean that it will exist forever. After experimenting with the first option of dating sites, sex, many users set their hearts on the second promise: to find ‘true love.’</Content>
-				<Br />
-				<Content>But even in this case, it becomes complicated, since the Internet creates stress but also reassures. Matchmaking technology has effectively opened an era of interchangeable options for romance. Not one, not ten, but hundreds or even thousands have found their significant others, virtually, thanks to digital networks. How many are there, additionally, who brag and count their dozens of simultaneous affairs and hundreds of ‘one night stands’? “If the abundance of possibilities can be reassuring, it can also take on the form of an indefinite, never-ending quest. You are compulsively drawn back to the Internet, in a kind of stressful addiction. That is to say that you embark upon a quest which is not only continuous, but one in which what you do not always know what you are searching for.”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Marc Parmentier, Hermès, CNRS édition, Paris, p. 174.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Romantic Relationships – Fragile but Interchangeable</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Nowadays, love is a fixed-term contract. But couples who have signed a permanent contract can also fall apart due to the arrival of information and communication technologies. These technologies could, at any moment, bring about unsettling news, requests, or make you want to discretely have a look around the Internet. We have never previously had to see our exes and teen romances again as much as now, in an era where we can find them three clicks and a few seconds later.</Content>
-				<Br />
-				<Content>The Internet has introduced a sovereign restlessness to couples, most notably in couples who met online. A little flaw in your partner? A bug, an argument? Hit a rough spot? Well, there is now the enormous temptation to reconnect so as to restart the search for virtual candidates who will be less of a nuisance. But it is an illusion that brings the imaginary into contact with reality. We can call it “Bovaryism,” after Emma Bovary, heroine of 19</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
-				<Content>th</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> century French novellist Gustave Flaubert, who created a utopian life based on the power of imagination.</Content>
-				<Br />
-				<Content>However, we must not expect old examples to apply today. The famous Marcel Proust, in his novel </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Albertine disparue</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, exemplifies this idea: “this unique woman, we know that she would not have been for us if we had been in another city when we met, if we had walked in another neighborhood, if we had gone to another salon. Do we really think that she is unique? She is just one of countless many”…and how many are there on the Internet, sending notifications to others about going out for a coffee, a drink, or going on a date, and never seeing this person again? On the Internet, many romances end every day before even starting. Singles who try to pick up others online know this after having come across many people with whom a nice love story would have been possible. Multiply this by millions, and this sensation contributes to making the generation of Internet lovers nostalgic, yet disillusioned in facing the brutality of technologically advanced and liberalized relationships. They face so many failures, and do this all while confronting the fragility of connections and the difficulty of creating a strong couple in this society of ‘connected individualism.’</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Computer-Assisted Romance</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>It is always interesting to come back to the wisdom of ancient authors in a period of change. From Ovid’s </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>The Art of Love</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, a straightforward manual on how to pick up others, to Plato’s </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Symposium</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> and its origin in tight-bonded relationships and hesitant love - choosing one shortly after the other, even if they were not necessarily accepted in their eras. The Internet and dating sites have allowed us to opt for the sentimental-sexual model of interchangeability and ‘getting around,’ but only for a certain time. Despite the cynics and those who’ve been disappointed, a lot of singles on the Internet are convinced that a special person is hidden just behind a screen and that they will finally be in contact, like the androgynous couples of Plato. We finally see that the liberal ideology that we find on dating sites is counter-balanced by a romantic ideology that has always exerted its influence.</Content>
-				<Br />
-				<Content>In 2014, those searching for love try to catch Venus or Cupid, the mythical gods of desire and love, thanks to technology. And indeed, they occasionally offer love to those who are constantly looking for it. Then, it is left to the Internet lovers to learn how to work together until they become a real couple. Thus, the most difficult part begins. The Internet, which allows us to quickly create a bond with others, can even more abruptly break this same bond. And so we see the history of romantic relationships: never ending, always reinvented, continuing to write itself.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>References</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Zygmunt Bauman, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Liquid Love: On the Frailty of Human Bonds</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge: Polity Press, 2003.</Content>
-				<Br />
-				<Content>Dominique Baqué, Paris, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>E-Love. Petit marketing de la rencontre</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Anabet, 2008.</Content>
-				<Br />
-				<Content>Marie Bergström, ‘La loi du Supermarché? Sites de Rencontres et Représentations de L&apos;amour ‘, P.U.F. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Ethnologie Française</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, 3. 43, (2013: )433- 442.</Content>
-				<Br />
-				<Content>Elisabeth Bernstein, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Temporarily Yours. Intimacy, Authenticity and the Commerce of Sex</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Chicago: University of Chicago Press, 2007.</Content>
-				<Br />
-				<Content>Gargi Bhattacharyya, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Sexuality and Society. An Introduction</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, London/New York: Routledge, 2002.</Content>
-				<Br />
-				<Content>Serge Chaumier, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>La Déliaison Amoureuse. De la Fusion Romantique au Désir D’indépendance</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Paris: Armand Colin, 1999.</Content>
-				<Br />
-				<Content>Philippe Combessie, Sibylla Mayer, ‘Une Nouvelle économie des Relations Sexuelles?’ Ethnologie Française, Sexualités Négociées, Presses Universitaires de France, 2013.</Content>
-				<Br />
-				<Content>John Gagnon and William Simon, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Sexual Conduct. The Social Sources of Human Sexuality</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Chicago: Aldine, 1973.</Content>
-				<Br />
-				<Content>Anthony Giddens, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>The Transformation of Intimacy : Sexuality, Love and Eroticism in Modern Societies</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Stanford, CA: Stanford University Press, 1992, 2004.</Content>
-				<Br />
-				<Content>Mark Granovetter, ‘The Strength of Weak Ties :A Network Theory Revisited’, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Sociological Theory</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 1. (1983): 201-233.</Content>
-				<Br />
-				<Content>Eva Illouz, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Consuming the Romantic Utopia: Love and the Cultural Contradictions of Capitalism</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Berkeley: University of California Press, 1997.</Content>
-				<Br />
-				<Content>Eva Illouz, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Why Love Hurts : A Sociological Explanation</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge: Polity Press, 2011.</Content>
-				<Br />
-				<Content>Eva Illouz, ‘Réseaux Amoureux sur Internet’, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Réseaux</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 138. 2006: 269-272.</Content>
-				<Br />
-				<Content>Eva Illouz, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Cold Intimacies : The Making of Emotional Capitalism</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge: Polity Press, 2007.</Content>
-				<Br />
-				<Content>Jean-Claude Kaufmann, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Sex@mour</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Paris: Armand Colin, 2010.</Content>
-				<Br />
-				<Content>Emmanuel Kessous, ‘L’amour en Projet. Internet et les Conventions de la Rencontre Amoureuse’, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Réseaux</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 166. (2011) : 191-223.</Content>
-				<Br />
-				<Content>Pascal Lardellier. ‘De la Consommation Sentimentale et Sexuelle de Masse à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), @mours virtuelles. Conjugalité et Internet, Louvain-la-Neuve, Academia-Bruylandt, (2009): 17-41.</Content>
-				<Br />
-				<Content>Pascal Lardellier, Le coeur Net. Célibat et @mours sur le Web, Paris, Belin, 2004.</Content>
-				<Br />
-				<Content>Pascal Lardellier, Les Réseaux du Cœur. Sexe, Amour et Séduction sur Internet, Paris, François Bourin, 2012.</Content>
-				<Br />
-				<Content>Niklas Luhmann, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Love as Passion. The Codification of Intimacy</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge: Polity Press, 1986.</Content>
-				<Br />
-				<Content>Marc Parmentier, ‘Philosophie des sites de rencontres’, Hermès. 59.(2011) : 173-178, 2011.</Content>
-				<Br />
-				<Content>Martin King, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>White, Dating, Mating, and Marriage</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, New York: Aldine de Gruyter, 1990.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-	</Story>
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" DestinationUniqueKey="3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
-	<Hyperlink Self="ufdb" Name="http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" Source="ufcb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/link</Destination>
-		</Properties>
-	</Hyperlink>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Superscript" Name="Superscript" Position="Superscript">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pascal Lardellier</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Introduction</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Internet and dating websites have had a strong impact on the nature of seductive relationships over a short period of time. This statement, which is not strictly deterministic, is based on a series of observations. Over the last 15 years or so, new means of meeting, flirting and falling in love have appeared -- all behind multiple screens. The traditional methods and timescale of seduction have been turned upside down. On the Internet you become acquainted with others from the inside out and many fall in love with these ‘strangers.’ In 1998, the movie </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>You’ve Got Mail</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> very explicitly put a story and images to this new phenomenon.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2012, the American actor-director John Malkovich pitched a contemporary production of the famous novel of Choderlos de Laclos, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Liaisons dangereuses</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, in Paris. Malkovich, who in 1989 played the Vicomte de Valmont for producer Stephan Frears, has adapted this classic piece to the Internet generation. In this production, social networks (Facebook, Twitter), smartphones, and texting all play important roles. It is always interesting to observe the impact of different technical interfaces on the way we fall in love. Each historical period brings its own combination of its values and approaches to love. Malkovich’s Parisian adaptation shows that the role of the written word in seduction and relationships is reinforced through the use of the Internet. Of course, as in the ‘classic’ age of love, we still find cynicism, hypocrisy, lies, and manipulation. But now, they are all technologically assisted.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is a new state of mind and an unprecedented ideology that now presides over computer-assisted romantic-sexual relationships. Single people online commodify themselves in what we can call “romance marketing”.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This chapter will begin by analyzing the manner in which liberalism has established itself as the dominant new ideology of postmodern romantic/seductive relationships. Liberalism is implicitly present in the discourse of those on the Internet as much as it is in their online habits. This observation is based on surveys conducted on the subject by the author, in the French-speaking world, over the past ten years. The chapter will then discuss this phenomenon in the light of more general sociological reflections and philosophical considerations about love and the digital-network-era couple.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Methodology and Surveys</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This chapter is based on two surveys carried out between 2003 and 2012, then published in 2004 and 2012.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>cf</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. bibliography, Lardellier</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In order to conduct these surveys, we partnered with four heterosexual dating websites, gathering data from both French nationals and other French-speaking people. 260 (130 from each group) questionnaires were gathered and processed along with 30 interviews. The title of this chapter, “Liberalism Conquering Love,” was a theme mentioned by the majority of those surveyed, despite some differences in wording. The analyses taken from these surveys were developed by the author, who has experience working in this field.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Victory of Liberalism in Romantic Relationships</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>First of all, it should be remembered that romantic/seductive relationships on the Internet have notable differences from those in real life. Online, you do not see who you are speaking to, and you do not know him or her because he or she is hidden behind a pseudonym and a screen. Likewise, things often move faster than in real life, where the temporality of seduction is often rather slow. In recent years, many authors have noted that digitized relationships are becoming subject to liberalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>cf</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Illouz, 1997 2007, bibliography.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> considered both as an economic doctrine and as a collection of values and ideology. They see relationships in the Internet age as commodities, governed by the principles of utilitarianism. To say that this economic theory is gaining the domain of human relationships is more than just a metaphor. If we take certain expressions literally, they can be incidentally revealing. On the subject of dating websites, the Internet users interviewed spontaneously alluded to: a “shopping for love,” a “supermarket,” “business and commerce,” “unrestrained sexual consumption,” and a “store front window for singles.” There are many who said that they choose a partner “like you would pick a yogurt, or any product, shopping cart in hand.” In short, “people have the impression of becoming merchandise” once they sign up for a dating website. Some, disappointed by these sites, even mention prostitution, “since you pay to have relationships with a stranger”…. These lexical clichés from the users themselves are all inspired by their experiences on existing dating websites.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Romantic encounters have thus become a market selling singles the possibility of quick sexual relationships, as much as the hopes of a life together. Online service providers, helped by marketing specialists, were quick to seize this opportunity, appealing to the dreams and wishes of individuals and evolving social norms.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On digital networks and dating sites, you label others using social intuition before your first encounter. This leads to homophilia (being attracted to people similar to us) and endogamy (couples forming on the basis of existing social groups, values, and similar religions). In fact, we see strong evidence of sociocultural kinship, an important organizing principle in the matrimonial market and thus in the make-up of couples. This makes it seem all the more shocking that online, we always begin talking to others anonymously. Is love not as blind as we all thought?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Several phases can be seen to have characterized the French market of romantic encounters. After the first era of general dating websites, the market appeared to have split. It began to offer websites based on certain criteria such as ethnicity, religion, sociocultural status, and socioeconomic background.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Likewise, on the Internet, relationships are liberalized. We see all major principles of economic markets: an abundance of offers, rationalization of the search for love, selective targeting, the ability to choose from many offers, and the standardization of ‘products.’ Indeed, we faithfully fill out anthropometric forms while strictly conforming to the sections given: a process of generalized objectification or commoditization. The immensity of the offer – hundreds of thousands of profiles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>It is difficult to get the exact number of profiles from the sites themselves, in so far as those numbers are a strategic and jealously kept secret. However, the french market of online dating gather 5 or 6 million singles, registred on 10 main sites. Meetic, the most famous french site (that principally belongs to the American Match.com) has over than a million members for instance.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> – underlines this commoditization, with the personal information of those registered being analyzed like products for which we would read a factsheet. We can ‘test’ and change whatever we find to be unsatisfactory or flawed.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Through all of the texts and images exchanged amongst strangers on dating websites, we see that liberalism has invaded the sphere of human relations. You must be efficient, attractive, and noteworthy to rise above the crowd. You must always ‘perform’ well, with pictures that broadcast the message that you want to be received. Romantic relationships must yield productivity, efficiency, and cost-effectiveness. The personal information pages put online must be sales-worthy and impactful in order to be noticed. These adjectives are a matter of marketing and coaching, which influence each type of intimate relationship. On dating sites, everyone conforms to the principles of romance marketing, considering themselves as exclusive products to promote, or one product in competition with thousands of others. In fact, on dating sites (like on social networks), many also indulge in personal branding, both consciously and subconsciously. In other words, they become their own brand. Once again, this is a notion and concept which takes us into the commercial domain.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There is a famous French play by Pierre Marivaux, 1688-1768, entitled “The Game of Love and Chance.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>“The Game of Love and Chance”, “Les jeux de l’amour et du hazard” in French, is a romantic comedy written by the French author Marivaux, first played in 1730.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Today, on dating sites, we can speak of “the game of love and the market.” As automated romantic relationships imply output and profitability, each member of a site becomes his or her own matrimonial cyber agent. In the era of the triumph of marketing and liberalism, we are under the impression that feelings can be reduced to consumer advantages, emotional capital, and successful interviews. In a similar vein, this is symbolized by speed-dating: a trend in which the first contact strangely resembles a job interview.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Then there is the recent appearance of love coaching. Love coaches are in charge of singles as if they were relegated beings who must be motivated in order to even think of landing a good catch. The goal of these relationship coaches is to increase the value of your capital, display your qualities, and make good use of your potential. These principles and practices are a part of managerial ideology and fall within this current liberal framing of romantic/seductive relationships.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Even though these digital networks are filled with cynicism, there is some romanticism and sincerity. But the majority of people registered on dating sites are after quick consumption, rather than searching for long-term relationships, According to the statements of members, men tend to be more pressing, eager to receive a number, an instant messenger name, or a Skype screen name, then a real-life meeting, as early as possible, to build up the relationship. That is to say, to move to a sexual relationship.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Many works, whether novels or essays, written in recent years by men who frequent dating sites confirm the idea that picking up partners is like an industrialized process. In 2005, the Frenchman Lewis Wingrove explained in his work on </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Of Mice and Men</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> how much rationalization,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Financial Times </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> assisted by IT tools, can favor optimal output in the seduction process. But there are not only winners in this game of love and the market. In his novel, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Extension du domaine de la lutte</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Broadening the Field of Struggle)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, the famous French novelist Michel Houellbecq, from 1994 to the present, predicted the entrance of sexuality into the era of liberal competition, with winners and, of course, losers. In this work, he puts forth frustrated, unlikeable, pathetic anti-heroes who are tortured by insatiable urges that make them suffer. The handsome ones and those full of themselves easily obtain sexual fulfillment. As for the losers, they are left with pictures, fantasies, and masturbation as their solace.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dating Websites: a Triple Principle of Economics</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Romantic/seductive online relationships are governed by a triple principle of economics: the economics of time, money, and emotions. This concept assures their success. Once registered, which only takes a few minutes, you have access to a vast pool of singles -- thousands of people who virtually interest you and who can potentially be interested in your new profile.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The economics of money, likewise, puts you in contact with all of these people which would have been much more onerous (offering dates, etc.) in ‘real life.’ Accepting an offer from a letter that was copied and pasted and sent to dozens of people is a common practice that alludes to Taylorism -- since it is a question of rationalizing a task.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lastly, we see economics of emotion on these sites, because losing face and its cost are opportunely ousted by the absence of the other. Making a digital exit does not cost anything in terms of face. However, there is fierceness in competition that is not specific to the virtual world and that can cause what psychoanalysts call a narcissistic injury: the feeling you are left with after an emotionally-invested relationship is terminated. But the Internet allows you to “move on to the next one.”</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is the overall system of dating sites which causes this consumption trend. You make the most rational and judicious choice, generate traffic around your page to become the focal product, and gather contact information. That is the logic behind mass sexual and emotional consumption. Certain members of dating sites even boast about their sexual adventures as if they had collected exotic items or butterflies. For them, thanks to dating sites, picking up partners has truly moved from a small-scale hobby to an industry. Dating sites sanction marriage, sexual and emotional consumption as well as marketing techniques. Clearly, our era rationalizes emotional economics. We may still talk about the heart, but it is often hard to distinguish the heart (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>coeur)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and the heart of our target (</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>coeur de cible</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>), which is of course a marketing term.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>One site that symbolizes this commoditization of online romantic/seductive encounters is the French site </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>AdopteUnMec.com</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [adopt a guy]. With its overt and tongue-in-cheek feminist stance, this site allows women to walk around with a shopping cart, browsing the aisles of a virtual man-market. It is as if these men are special products that you cannot miss, the deal of the day! In this realm, men have few rights; they must obey – and only obey. The site is livened up by a commercial metaphor in which the all-powerful female user does her ‘shopping’ with an online list that she drew up based on her criteria. This site demands a good sense of humor, but it has had a lot of success with its young clientele, who master the relationship codes on social networks. So even if the title may seem exaggerated, we are most certainly living in the realm of love won over by liberalism.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Internet, Romance, and Being Internationally Single</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Liberalism is expressed in an even more tangible manner when you think of online romantic/seductive encounters. The global expansion of dating sites allows us to detect, more largely, the rise of a new international singles market. Thus, tens of thousands of women living in developing countries or zones of political unrest are trying to emigrate to ‘rich’ countries, thanks to the dating website network. This matrimonial cyber-migration has opened a new type of migratory trend, lining the pockets of cyber-café owners. In a documentary titled “Nord-Sud.com” (North-South.com), the Frenchmen François Ducat explains that in 1997, there were four cyber cafés in Yaoundé, Cameroon, and 450 in 2007. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>For a recent study of this phenomenon see: “La cybermigration maritale des femmes camerounaises. La quête de conjoints blancs, Brice Arsène Mankou, L’Harmattan, Paris, 2014.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There are only two logistical demands for cyber-cafés: computers must be in individual booths and above all, equipped with webcams, since the Western men chatting with these women and want to judge them on their appearance. The competition is fierce and only the most attractive will be noticed. These women must simultaneously be pretty, docile, sensual, sweet, and offer hope for a meeting in Europe or North America. This international single life sees hordes of women from Africa, Asia, and ex-communist countries attempt to (and occasionally manage to) create a ‘cyber-union.’ Of course, one consequence is being uprooted from family and cultural lifestyle. These women will attempt to live a new life, far from home, (usually) with a white stranger who is wealthy and older then themselves. These men buy the ‘youth’ of these women in exchange for goods and a ‘better life.’ The success of these relationships varies. Some adapt to Western ways, while others are depressed, yet make sacrifices to stay. Then there are those who return to their country after seeing that it would be impossible to become integrated. Finally, many return after being disappointed or disillusioned by their Western ‘Prince Charming’.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There is economical asymmetry in these relationships that stretches beyond the explanations of the protagonists. The men exhibit the ‘privileged values’ that these women look for in their future husband – a level of income and lifestyle unavailable in their countries of origin. Yet, these marital exiles also see native families torn apart for the reward of others living in the European/American Eldorado.’</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>If this phenomenon makes searching for love an international affair, a part of the intercultural melting pot, tearing apart destinies but also bringing happiness to the lucky few, if it is amplified it could also cause legitimate instability in the domestic marriage markets, and heighten cultural and economic differences. “In the long term, globalization of the dating market could have notable results. Western women already have a difficult time finding men who fulfill their expectations. As for Western men, even though they are seduced by dynamic women, some may prefer a woman who is not too demanding to ensure calm on the home front and thus […] turn towards the international market to buy submission, youth, and beauty, ignoring the independent, degree-bearing women in their country. […] However, the poor men in the West are still having a difficult time finding spouses.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>J.- C. Kaufmann, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Sex@mour</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Albin Michel, 2010, Paris, p. 192.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> The global singles market was created by dating sites and founded on economic principles. Feelings are not completely absent, but if they develop, it is much later on. ‘Playing the love market’ looks set to remain a global game.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Love on the Internet</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>This part of the chapter will expand the frame of analysis so as to offer more general sociological and philosophical considerations about the new types of couples found in the Internet era.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Singles Enduring Paradoxical Tensions</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>First of all, it seems that the effects of solitude felt in our society throughout history are still just as present in the era of commoditized online relationships that made communication a social virtue. Users of dating sites come across digital heartthrobs and virtual kisses. Hundreds of people visit their personal page without meeting them offline, an act, which can lead to lasting relationships -- sometimes, of course, but not always.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Oftentimes, many of these singles feel high levels of stress on a daily basis: exposing themselves to rejection, hoping for success, symbolically risking everything, while at the same time giving themselves the means to make a couple, in obedience to the constant implicit social pressure from their entourage. If our era values those who communicate well and know how to assert themselves in relationships, then it has never been more difficult to meet others. If proof were needed, we need simply to look at the millions who have already registered for dating sites.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Traditional Couple Transformed by Information and Communication Technologies</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In all cases, Internet suitors conform to a procedure which, for the first time ever, reverses the chronology of events: they become acquainted with one another before meeting, thus discovering each other from the inside out. When they meet, they sleep together very quickly if the ‘feeling’ is there. After that, love comes (or not). We understand that this Copernican change in courting takes people away from their traditional points of reference. They have to invent a new relationship code, an unprecedented feat in the history of humanity as well as that of romantic relationships.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Internet offers a solution for finding your soulmate, but on condition that you can escape being caught in the fringe. You frequently move to the other side of the screen. Remember that in Ovid’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Metamorphosis,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Pygmalion commits himself to a virtual relationship (even then!), with his beautiful statue, Galatea. From one illusion to another, Narcissus prefers himself over even the tender love of the muse Echo, until his self-admiration becomes his own death. And how many are there on the Internet who put on this performance and who gaze at the raving comments and gratification of others? “A relationship put in the public eye via the Internet can allow someone to be satisfied with more or less success than the profound human need of having relationships and simultaneously promoting, in his or her own mind, a paranoid withdrawal, thus avoiding all forms of intersubjective commitment.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Michael Civin, Psychanalyse du Net, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>op. cit</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. p. 46-47.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> This is true because the web is all-powerful and allows you to fight against anxieties and frustrations. An Internet connection can be compared to an umbilical cord; it nourishes, calms, and relies on reassurance. New technologies, in a broad sense, have become the preferred source of pleasure for people from 25-49, even before sex.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>According to an Ipsos Survey, quoted by </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Télérama</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> n° 3072, November 2008, the main source of pleasure for 39% of respondents is use of technology, compared to a 36% for whom it is sex.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We still love ‘for real’ in 2014, even if there is the temptation to be all powerful – or, hide behind a screen. We still continue to meet people in real life, experience physical attraction, and develop love affairs in real life. More and more, however, we use information and communication technologies and their resources in the courting process. Significantly over half of romantic encounters among thirty-year-olds are arranged by websites.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The model of the traditional couple is called into question by information and communication technologies. Clearly, the Internet ‘produces’ a good amount of couples. But, as a consequence, it also produces ‘defeats,’ as digital suitors reconnect for digital adultery, polygamy and ‘sexfriending.’ These sites have given birth to a type of recreational sexuality. In a parallel manner, the sentimentality produced by these digital networks is fun and disengaged, but also cynical – and occasionally hurtful in this regard. Our current era is one of mass sexual and romantic consumption. We take, we make the most of things, we enjoy those things, and we throw those things away. Of course, we must not forget the numerous beautiful love stories which also have their origin the Internet. However, those involved in these stories often encountered disappointment and suffering before finally finding a soulmate. This is due to the prevailing cynicism and the unpleasant impression of being referred to like a supermarket product, as others flip through a thick catalog full of people to be ‘consumed.’</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We do not look at it all in a moral sense: there is not only frustration or disgust in romantic and sexual consumption being industrialized by the Internet. There are many who take great pleasure in the Internet and use it for adventures and sexual experimentation. They live in ‘sensual parentheses,’ filled with pleasure in order to break away from the monotony of life. Since you can seduce or be seduced online, and almost nobody shows it, casualness and immediate pleasure are the driving forces of the system. But just because something exists for a short amount of time, it does not mean that it will exist forever. After experimenting with the first option of dating sites, sex, many users set their hearts on the second promise: to find ‘true love.’</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>But even in this case, it becomes complicated, since the Internet creates stress but also reassures. Matchmaking technology has effectively opened an era of interchangeable options for romance. Not one, not ten, but hundreds or even thousands have found their significant others, virtually, thanks to digital networks. How many are there, additionally, who brag and count their dozens of simultaneous affairs and hundreds of ‘one night stands’? “If the abundance of possibilities can be reassuring, it can also take on the form of an indefinite, never-ending quest. You are compulsively drawn back to the Internet, in a kind of stressful addiction. That is to say that you embark upon a quest which is not only continuous, but one in which what you do not always know what you are searching for.”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Marc Parmentier, Hermès, CNRS édition, Paris, p. 174.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Romantic Relationships – Fragile but Interchangeable</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nowadays, love is a fixed-term contract. But couples who have signed a permanent contract can also fall apart due to the arrival of information and communication technologies. These technologies could, at any moment, bring about unsettling news, requests, or make you want to discretely have a look around the Internet. We have never previously had to see our exes and teen romances again as much as now, in an era where we can find them three clicks and a few seconds later.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Internet has introduced a sovereign restlessness to couples, most notably in couples who met online. A little flaw in your partner? A bug, an argument? Hit a rough spot? Well, there is now the enormous temptation to reconnect so as to restart the search for virtual candidates who will be less of a nuisance. But it is an illusion that brings the imaginary into contact with reality. We can call it “Bovaryism,” after Emma Bovary, heroine of 19</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Superscript">
+    <Content>th</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> century French novellist Gustave Flaubert, who created a utopian life based on the power of imagination.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>However, we must not expect old examples to apply today. The famous Marcel Proust, in his novel </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Albertine disparue</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, exemplifies this idea: “this unique woman, we know that she would not have been for us if we had been in another city when we met, if we had walked in another neighborhood, if we had gone to another salon. Do we really think that she is unique? She is just one of countless many”…and how many are there on the Internet, sending notifications to others about going out for a coffee, a drink, or going on a date, and never seeing this person again? On the Internet, many romances end every day before even starting. Singles who try to pick up others online know this after having come across many people with whom a nice love story would have been possible. Multiply this by millions, and this sensation contributes to making the generation of Internet lovers nostalgic, yet disillusioned in facing the brutality of technologically advanced and liberalized relationships. They face so many failures, and do this all while confronting the fragility of connections and the difficulty of creating a strong couple in this society of ‘connected individualism.’</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Computer-Assisted Romance</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is always interesting to come back to the wisdom of ancient authors in a period of change. From Ovid’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Art of Love</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, a straightforward manual on how to pick up others, to Plato’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Symposium</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and its origin in tight-bonded relationships and hesitant love -- choosing one shortly after the other, even if they were not necessarily accepted in their eras. The Internet and dating sites have allowed us to opt for the sentimental-sexual model of interchangeability and ‘getting around,’ but only for a certain time. Despite the cynics and those who’ve been disappointed, a lot of singles on the Internet are convinced that a special person is hidden just behind a screen and that they will finally be in contact, like the androgynous couples of Plato. We finally see that the liberal ideology that we find on dating sites is counter-balanced by a romantic ideology that has always exerted its influence.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In 2014, those searching for love try to catch Venus or Cupid, the mythical gods of desire and love, thanks to technology. And indeed, they occasionally offer love to those who are constantly looking for it. Then, it is left to the Internet lovers to learn how to work together until they become a real couple. Thus, the most difficult part begins. The Internet, which allows us to quickly create a bond with others, can even more abruptly break this same bond. And so we see the history of romantic relationships: never ending, always reinvented, continuing to write itself.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Zygmunt Bauman, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Liquid Love: On the Frailty of Human Bonds</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity Press, 2003.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Dominique Baqué, Paris, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>E-Love. Petit marketing de la rencontre</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Anabet, 2008.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Marie Bergström, ‘La loi du Supermarché? Sites de Rencontres et Représentations de L'amour ‘, P.U.F. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ethnologie Française</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 3. 43, (2013: )433- 442.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Elisabeth Bernstein, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Temporarily Yours. Intimacy, Authenticity and the Commerce of Sex</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Chicago: University of Chicago Press, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Gargi Bhattacharyya, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sexuality and Society. An Introduction</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London/New York: Routledge, 2002.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Serge Chaumier, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>La Déliaison Amoureuse. De la Fusion Romantique au Désir D’indépendance</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Paris: Armand Colin, 1999.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Philippe Combessie, Sibylla Mayer, ‘Une Nouvelle économie des Relations Sexuelles?’ Ethnologie Française, Sexualités Négociées, Presses Universitaires de France, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>John Gagnon and William Simon, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sexual Conduct. The Social Sources of Human Sexuality</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Chicago: Aldine, 1973.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Anthony Giddens, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Transformation of Intimacy : Sexuality, Love and Eroticism in Modern Societies</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Stanford, CA: Stanford University Press, 1992, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mark Granovetter, ‘The Strength of Weak Ties :A Network Theory Revisited’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sociological Theory</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 1. (1983): 201-233.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Eva Illouz, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Consuming the Romantic Utopia: Love and the Cultural Contradictions of Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Berkeley: University of California Press, 1997.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Eva Illouz, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Why Love Hurts : A Sociological Explanation</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity Press, 2011.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Eva Illouz, ‘Réseaux Amoureux sur Internet’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Réseaux</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 138. 2006: 269-272.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Eva Illouz, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cold Intimacies : The Making of Emotional Capitalism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity Press, 2007.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Jean-Claude Kaufmann, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Sex@mour</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Paris: Armand Colin, 2010.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Emmanuel Kessous, ‘L’amour en Projet. Internet et les Conventions de la Rencontre Amoureuse’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Réseaux</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> 166. (2011) : 191-223.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pascal Lardellier. ‘De la Consommation Sentimentale et Sexuelle de Masse à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>@mours</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> virtuelles. Conjugalité et Internet, Louvain-la-Neuve, Academia-Bruylandt, (2009): 17-41.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pascal Lardellier, Le coeur Net. Célibat et </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>@mours</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> sur le Web, Paris, Belin, 2004.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pascal Lardellier, Les Réseaux du Cœur. Sexe, Amour et Séduction sur Internet, Paris, François Bourin, 2012.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Niklas Luhmann, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Love as Passion. The Codification of Intimacy</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity Press, 1986.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Marc Parmentier, ‘Philosophie des sites de rencontres’, Hermès. 59.(2011) : 173-178, 2011.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Martin King, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>White, Dating, Mating, and Marriage</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Aldine de Gruyter, 1990.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" Name="link" DestinationURL="http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.ft.com/intl/cms/s/288dadd2-073b-11db-9067-0000779e2340,Authorised=false.html?\_i\_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F288dadd2-073b-11db-9067-0000779e2340.html%3Fsiteedition%3Dintl&amp;siteedition=intl&amp;\_i\_referer=\#axzz3CJV8tuvf</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>
