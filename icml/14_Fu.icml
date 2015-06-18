@@ -4444,13 +4444,7 @@
 							<Properties>
 								<AppliedFont type="string">Hannotate SC</AppliedFont>
 							</Properties>
-							<Content>姻</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
-							<Properties>
-								<AppliedFont type="string">Hannotate SC</AppliedFont>
-							</Properties>
-							<Content>缘</Content>
+							<Content>姻缘</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, rhyming with Jiayuan </Content>
@@ -4459,13 +4453,7 @@
 							<Properties>
 								<AppliedFont type="string">Hannotate SC</AppliedFont>
 							</Properties>
-							<Content>佳</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
-							<Properties>
-								<AppliedFont type="string">Hannotate SC</AppliedFont>
-							</Properties>
-							<Content>缘</Content>
+							<Content>佳缘</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, the name of the dating website.</Content>
