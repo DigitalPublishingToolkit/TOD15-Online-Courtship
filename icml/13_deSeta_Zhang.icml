@@ -106,6 +106,30 @@
 		<Font Self="di127cFontnHannotate SC Bold" FontFamily="Hannotate SC" Name="Hannotate SC Bold" PostScriptName="HannotateSC-W7" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCID" WritingScript="1" FullName="Hannotate SC Bold" FullNameNative="Hannotate SC Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1" />
 		<Font Self="di127cFontnHannotate SC Regular" FontFamily="Hannotate SC" Name="Hannotate SC Regular" PostScriptName="HannotateSC-W5" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCID" WritingScript="1" FullName="Hannotate SC Regular" FullNameNative="Hannotate SC Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1" />
 	</FontFamily>
+	<FontFamily Self="di128e" Name="Helvetica Neue (T1)">
+		<Font Self="di128eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di128eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -197,6 +221,14 @@
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/TableCaption" Name="TableCaption" Imported="false" NextStyle="ParagraphStyle/TableCaption" KeyboardShortcut="0 0" FontStyle="Medium" PointSize="8.5">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">11</Leading>
 				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
@@ -473,7 +505,7 @@
 							<Content>	Joe, ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’, ChinaSmack, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1112" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1291" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -485,15 +517,15 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1115" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1294" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
-									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 -13.543307086614057" LeftDirection="-75 -13.543307086614057" RightDirection="-75 -13.543307086614057" />
+									<PathPointType Anchor="-75 105.8897637795277" LeftDirection="-75 105.8897637795277" RightDirection="-75 105.8897637795277" />
+									<PathPointType Anchor="151.77165354330708 105.8897637795277" LeftDirection="151.77165354330708 105.8897637795277" RightDirection="151.77165354330708 105.8897637795277" />
+									<PathPointType Anchor="151.77165354330708 -13.543307086614057" LeftDirection="151.77165354330708 -13.543307086614057" RightDirection="151.77165354330708 -13.543307086614057" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -506,14 +538,14 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="300" BottomCrop="137" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="-1.4210854715202004e-14" RightCrop="0" BottomCrop="-5.684341886080802e-14" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1248" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="96 96" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u129d" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="191 191" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.5039370078740157 0 0 0.5039370078740157 -75 -13.54330708661405" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAQEAYABgAAD//gAeTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMf/bAEMA
@@ -1129,12 +1161,18 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u111a" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740740000000 34462" LinkImportModificationTime="2014-03-31T23:14:34" LinkImportTime="2015-06-18T10:52:47" LinkResourceSize="0~869e" />
+						<Link Self="u1297" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-1.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740740000000 34462" LinkImportModificationTime="2014-03-31T23:14:34" LinkImportTime="2015-06-18T12:29:35" LinkResourceSize="0~869e" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
-				<Content> Figure 1 “You got married, right?”, screenshot of a Baihe advertisement, 2014. </Content>
+				<Content> </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Figure 1 “You got married, right?”, screenshot of a Baihe advertisement, 2014. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1152,7 +1190,7 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content>, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u111d" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u12a1" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1160,6 +1198,8 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Around the same time, M.G., a 36 year old single heterosexual male, evidently still troubled about his desire for a stable relationship and a related fraud scheme he was recently victim of, recounts his experience with matchmaking services to one of the authors. His narration, slightly abridged, goes like:</Content>
 				<Br />
@@ -1527,7 +1567,7 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content> (24 July 2013), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1134" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u12b8" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?_r=1&amp;</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1559,7 +1599,7 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content> (February 2014), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1137" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u12ba" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.zhihu.com/question/22680523</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1573,15 +1613,15 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1138" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u12bd" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 257.02362204724386" LeftDirection="-75 257.02362204724386" RightDirection="-75 257.02362204724386" />
+									<PathPointType Anchor="109.21417322834631 257.02362204724386" LeftDirection="109.21417322834631 257.02362204724386" RightDirection="109.21417322834631 257.02362204724386" />
+									<PathPointType Anchor="109.21417322834631 -50" LeftDirection="109.21417322834631 -50" RightDirection="109.21417322834631 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -1594,14 +1634,14 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="426" BottomCrop="860" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1251" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="96 96" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u12c3" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="300 300" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.319816272965879 0 0 0.319816272965879 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEANgA2AAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAANgAAAAEA
@@ -4865,13 +4905,15 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u113c" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-2.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740880000000 146028" LinkImportModificationTime="2014-03-31T23:14:48" LinkImportTime="2015-06-18T10:52:47" LinkResourceSize="0~23a6c" />
+						<Link Self="u12c0" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-2.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740880000000 146028" LinkImportModificationTime="2014-03-31T23:14:48" LinkImportTime="2015-06-18T12:29:35" LinkResourceSize="0~23a6c" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Figure 2</Content>
 			</CharacterStyleRange>
@@ -5320,7 +5362,7 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content> (9 February 2014), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1160" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u12e9" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.zhihu.com/question/22680523</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5377,7 +5419,7 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content>, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1163" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u12ed" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.zhihu.com/question/22680523</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -5404,15 +5446,15 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1166" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u12ef" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 151.57480314960634" LeftDirection="-75 151.57480314960634" RightDirection="-75 151.57480314960634" />
+									<PathPointType Anchor="151.7716535433071 151.57480314960634" LeftDirection="151.7716535433071 151.57480314960634" RightDirection="151.7716535433071 151.57480314960634" />
+									<PathPointType Anchor="151.7716535433071 -50" LeftDirection="151.7716535433071 -50" RightDirection="151.7716535433071 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -5425,14 +5467,14 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="570" BottomCrop="540" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u125c" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="72 72" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u12f6" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="229 229" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.3149606299212599 0 0 0.3149606299212599 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEANgA2AAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAANgAAAAEA
@@ -8658,14 +8700,22 @@ uvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvdf/9k=
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u116b" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-3.jpg" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740790000000 360943" LinkImportModificationTime="2014-03-31T23:14:39" LinkImportTime="2015-06-18T10:52:47" LinkResourceSize="0~581ef" />
+						<Link Self="u12f2" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-3.jpg" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740790000000 360943" LinkImportModificationTime="2014-03-31T23:14:39" LinkImportTime="2015-06-18T12:29:36" LinkResourceSize="0~581ef" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Figure 3: Frowns, bare legs, branded drinks and fashion items linked to situated events. &quot;Why it doesn&apos;t snow? Please snow... *praying hands*&quot; (3.92km away) / &quot;Rainy day, I drenched myself, if I get sick no one will look after me...&quot; (3.44km away).</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Part of these semiotic efforts of constructing a public and social face rely on what Bourdieu calls a &quot;language of urban sentimentality&quot;</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -8721,15 +8771,15 @@ uvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvdf/9k=
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> a façade that functions as a site-specific point of access for location-based, random encounters. Yet this popularity, especially when paired with gender roles and mores, ends up generating overloads of contact requests and competition for attention. It is for this reason that strategies of self-presentation move away from the obvious goals of romantic searches or flirtatious advances and acquire a platform-specific code: optimizing one&apos;s profile picture for attracting replies, managing one&apos;s picture gallery to represent lifestyles and dreams, proving one&apos;s reliability and involvement in the app through constant updates. As Figure 4 illustrates, the competition in this attention economy stimulates the users to exploit the very structure of the platform to prove their wit, creativity or familiarity with the app.</Content>
 				<Br />
-				<Rectangle Self="u1172" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u12ff" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75 151.57480314960634" LeftDirection="-75 151.57480314960634" RightDirection="-75 151.57480314960634" />
+									<PathPointType Anchor="151.7716535433071 151.57480314960634" LeftDirection="151.7716535433071 151.57480314960634" RightDirection="151.7716535433071 151.57480314960634" />
+									<PathPointType Anchor="151.7716535433071 -50" LeftDirection="151.7716535433071 -50" RightDirection="151.7716535433071 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -8742,14 +8792,14 @@ uvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvdf/9k=
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="570" BottomCrop="540" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1267" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="72 72" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1305" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="229 229" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/Portable Network Graphics (PNG)" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.3149606299212599 0 0 0.3149606299212599 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEANgA2AAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAANgAAAAEA
@@ -12760,12 +12810,16 @@ tfqtz9fdPP8A2n+Tqnn/ALT/ACdf/9k=]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1176" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-4.jpg" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740830000000 589579" LinkImportModificationTime="2014-03-31T23:14:43" LinkImportTime="2015-06-18T10:52:47" LinkResourceSize="0~8ff0b" />
+						<Link Self="u1302" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-4.jpg" LinkResourceFormat="$ID/Portable Network Graphics (PNG)" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740830000000 589579" LinkImportModificationTime="2014-03-31T23:14:43" LinkImportTime="2015-06-18T12:29:36" LinkResourceSize="0~8ff0b" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Figure 4: Exploiting the platform. Mixed-media nicknames (&apos;President Xi lead me&apos; with Chinese flag and rocket), and multi-panel pictures split to fit into Momo&apos;s predetermined 8-picture profile gallery.</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -12930,15 +12984,15 @@ tfqtz9fdPP8A2n+Tqnn/ALT/ACdf/9k=]]></GraphicProxy>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u1180" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1310" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
-									<PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-									<PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-									<PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-									<PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+									<PathPointType Anchor="-75.00000000000001 -50" LeftDirection="-75.00000000000001 -50" RightDirection="-75.00000000000001 -50" />
+									<PathPointType Anchor="-75.00000000000001 224.30526615927886" LeftDirection="-75.00000000000001 224.30526615927886" RightDirection="-75.00000000000001 224.30526615927886" />
+									<PathPointType Anchor="95.07874015748037 224.30526615927886" LeftDirection="95.07874015748037 224.30526615927886" RightDirection="95.07874015748037 224.30526615927886" />
+									<PathPointType Anchor="95.07874015748037 -50" LeftDirection="95.07874015748037 -50" RightDirection="95.07874015748037 -50" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -12951,14 +13005,14 @@ tfqtz9fdPP8A2n+Tqnn/ALT/ACdf/9k=]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="119.25" BottomCrop="334.25" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="1.1368683772161603e-13" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1272" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="96 96" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u1316" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="152 152" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.6316759151624154 0 0 0.6316759151624154 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/None</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
@@ -14081,15 +14135,19 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u1184" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-5.jpeg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740850000000 49855" LinkImportModificationTime="2014-03-31T23:14:45" LinkImportTime="2015-06-18T10:52:47" LinkResourceSize="0~c2bf" />
+						<Link Self="u1313" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD15-Online-Courtship/md/imgs/deseta-images/Figure-5.jpeg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130407740850000000 49855" LinkImportModificationTime="2014-03-31T23:14:45" LinkImportTime="2015-06-18T12:29:36" LinkResourceSize="0~c2bf" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Figure 5: Conversation versus boredom. &quot;Personal signature: When you are bored (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>wuliao</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -14243,7 +14301,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This book is designed for you... if you&apos;re ready to explore the World Wide Web of romance! You&apos;ll learn how to get online, and get the search results you want quickly. Whether you&apos;re single or already involved, you&apos;ll find answers to all your questions about how you can make romance happen every day.</Content>
+				<Content> This book is designed for you... if you&apos;re ready to explore the World Wide Web of romance! You&apos;ll learn how to get online, and get the search results you want quickly. Whether you&apos;re single or already involved, you&apos;ll find answers to all your questions about how you can make romance happen every day.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -14443,7 +14501,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 				<Content>‘Baihewang guanggao: Yinwei ai bu dengdai’, Youku, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u119f" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1333" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -14542,7 +14600,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 				<Content>Joe. ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’, China Smack (9 February 2014), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u11a1" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1335" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -14551,7 +14609,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 				<Content>Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, Shanghaiist (14 November 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u11a2" Name="Hyperlink 9" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1336" Name="Hyperlink 9" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -14624,7 +14682,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 				<Content>Rosenman, Olivia. ‘China&apos;s Sexual Revolution: “One-night Stand” app Momo Boasts 80 Million Users’, South China Morning Post (13 November 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u11a4" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1338" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -14649,7 +14707,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 				<Content>Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai Mom zuo shenme?’, Zhihu, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u11a6" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1339" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.zhihu.com/question/22680523</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -14658,7 +14716,7 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 				<Content>Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, New York Times (24 July 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u11a7" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u133a" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -14736,73 +14794,73 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 23" DestinationUniqueKey="23" Name="URL 23" DestinationURL="styles.xml" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 24" DestinationUniqueKey="24" Name="URL 24" DestinationURL="numbering.xml" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 25" DestinationUniqueKey="25" Name="URL 25" DestinationURL="../customXml/item1.xml" Hidden="false" />
-	<Hyperlink Self="u11b3" Name="http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html" Source="u119f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="19">
+	<Hyperlink Self="u133c" Name="http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html" Source="u1333" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="19">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 19</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11b1" Name="http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html" Source="u11a1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18">
+	<Hyperlink Self="u133d" Name="http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html" Source="u1335" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 18</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11af" Name="http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php" Source="u11a2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="17">
+	<Hyperlink Self="u133e" Name="http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php" Source="u1336" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="17">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 17</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11ad" Name="http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users" Source="u11a4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="16">
+	<Hyperlink Self="u133f" Name="http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users" Source="u1338" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="16">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 16</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11ab" Name="http://www.zhihu.com/question/22680523" Source="u11a6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="15">
+	<Hyperlink Self="u1340" Name="http://www.zhihu.com/question/22680523" Source="u1339" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="15">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 15</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11a9" Name="http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;" Source="u11a7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u1341" Name="http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&amp;" Source="u133a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11bf" Name="../customXml/item1.xml" Source="u1112" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="25">
+	<Hyperlink Self="u1342" Name="../customXml/item1.xml" Source="u1291" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="25">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 25</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11bd" Name="numbering.xml" Source="u111d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="24">
+	<Hyperlink Self="u1343" Name="numbering.xml" Source="u12a1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="24">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 24</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11bb" Name="styles.xml" Source="u1134" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="23">
+	<Hyperlink Self="u1344" Name="styles.xml" Source="u12b8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="23">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 23</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11b9" Name="stylesWithEffects.xml" Source="u1137" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="22">
+	<Hyperlink Self="u1345" Name="stylesWithEffects.xml" Source="u12ba" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="22">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 22</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11b7" Name="settings.xml" Source="u1160" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21">
+	<Hyperlink Self="u1346" Name="settings.xml" Source="u12e9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 21</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11b5" Name="webSettings.xml" Source="u1163" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="20">
+	<Hyperlink Self="u1347" Name="webSettings.xml" Source="u12ed" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="20">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 20</Destination>
