@@ -6,22 +6,22 @@ Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: title of the article
+Article-title: Online Courship: Interpersonal Interactions Across Borders
 Article-status: accepted
-Author: Enver Ozustun
+Author: I. Alev Degim, James Johnson, H. G Cocks, Murat Akser, Ramón Reichert, Diego Basile, Joaquín Linne, Lázaro M. Bacallao Pino, Cláudia Casimiro, Pascal Lardellier, Caiyun Wen, Sheena Raja and Bryce J. Renninger, Amitabh Vikram Dwivedi, David Levin, Gabriele de Seta, Ge Zhang, Tao Fu, Aras Ozgun, Megan Lindsay, Enver Ozustun.
 Author-email:   corresponding address
 Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Editor: I. Alev Degim, James Johnson, Tao Fu
+Abstract:   Computer mediated interpersonal interactions are defining our daily lives as we know it. Studying this phenomenon with various methodologies, across different cultures and traditions is a crucial component in understanding social ties. This book brings together articles that approach online dating from a  range of cultural and critical perspectives.
+Keywords:   online dating, social media, Institute of Network Cultures, print on demand, digital media, media theory, sociology, humanities, new media, France, India, China, Portugal, USA, methodologies, match.com, courtship, traditional, differences, Turkey, interactions, romantic, partners, search, love, facebook.
 Rights: CC BY-NC 4.0
 ...
-
 
 # Media’s Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium
 
 ### Enver Ozustun
 
-## INTRODUCTION
+## Introduction
 
 For the last 10 years, major private television networks have been
 broadcasting series of highly criticized reality shows with good
