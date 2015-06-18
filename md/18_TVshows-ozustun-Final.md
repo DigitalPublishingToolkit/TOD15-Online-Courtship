@@ -895,7 +895,7 @@ being claimed on television.
 
 Source : Seta, October 2011
 
-• While 91,3 percentage of the total subjects think cultural values that
+* While 91,3 percentage of the total subjects think cultural values that
 constitute the mutual identity of society in Turkey should be preserved,
 2,9 percentage think there is no need for it.
 
@@ -914,19 +914,19 @@ constitute the mutual identity of society in Turkey should be preserved,
 
 Source : Seta, October 2011
 
-• While 90,6% of the participants who have low level education, think
+* While 90,6% of the participants who have low level education, think
 that cultural values that constitute the mutual identity of society in
 Turkey should be preserved, 2,8% of them said there is no need for it.
 
-• While 92,3% of the participants who have medium level education, think
+* While 92,3% of the participants who have medium level education, think
 that cultural values that constitute the mutual identity of society in
 Turkey should be preserved, 3,4% of them said there is no need for it.
 
-• While 94,2% of the participants who have high level education, think
+* While 94,2% of the participants who have high level education, think
 that cultural values that constitute the mutual identity of society in
 Turkey should be preserved, 2,7% of them said there is no need for it.
 
-•A homogeneous spread is seen in all categories.
+* A homogeneous spread is seen in all categories.
 
 As we can understand from the survey, Turkish society defends their
 cultural values with an overwhelming majority, furthermore this opinion
