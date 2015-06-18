@@ -618,63 +618,6 @@ experiences of the respondents who had got a partner offline.
 
 ## References
 
-Alexa.com. 2014, www.alexa.com.
-
-Becker, S. Gary. 'A Theory of Marrage: Part I', Journal of Political
-Economy 81(1973): 813-846.
-
-Bellou, Andriana. 'The Impact of Internet Diffusion on Marriage Rates:
-Evidence from the Broadband Market', Discussion Paper Series (IZA DP No.
-7316). Bonn: The Institute for the Study of Labor (IZA), March 2013, pp.
-1-6.
-
-Bharat Matrimony. Bharat Matrimony, 2014,
-http://www.bharatmatrimony.com/.
-
-Economic and Political Weekly. 'Search', 2014,
-http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation.
-
-Fulk, Janet. 'Social Construction of Communication Technology', Academy
-of Management Journal 36.5 (1993): 921–950.
-
-Jeevansathi.com. 2014, www.jeevansathi.com.
-
-Magalhães, Rodrigo. Organizational Knoledge and Technology: An
-Action-Oriented Perspective on Organization and Information Systems,
-Cheltenham: Edward Elgar Publishing Limited, 2004.
-
-McGee, Mary. 'Samskåra', in The Hindu World, by Sushil Mittal and Gene
-Thursby, New York: Routledge, 2005, pp. 332-356.
-
-Padfield, Rev. J. E. The Hindu at Home, delhi: B. R. Publishing Company,
-([1895] 2007).
-
-Pal, Jiban K. 'Social Networks Enabling Matrimonial Information Services
-in India', International Journal of Library and Information Science May
-(2010): 55-64.
-
-Seth, Nainika and Patnayakuni, Ravi. 'Online Matrimonial Sites and the
-Transformation of Arranged Marriage in India', in Social Networking
-Communities and E-Dating Services: Concepts and Implications, by Celia
-Romm-Livermore & Kristina Setzekorn, London: Information Science
-Reference, 2009, pp. 329-352.
-
-Rinehart, Robin. 'Hearing and Remembering: Oral and Written Texts in
-Hinduism', in Contemporary Hinduism: Ritual, Culture, and Practice, by
-Robin Rinehart, California: ABC-CLIO, Inc., 2004, p. 92.
-
-Shaadi.com. 2014, <http://www.shaddi.com>.
-
-Wagner, Lyndsey. Disharmony and Matchless:Interpersonal Deception Theory
-in Online Dating. MA Thesis, Lynchburg: School of Communication Studies,
-Liberty University, 2011.
-
-Whitty, Monica T. "Revealing the ‘Real’ Me, Searching for the ‘Actual’
-You: Presentations of Self on an Internet Dating Site', Computers in
-Human Behavior (2007): 1-17.
-
-## References
-
 Alexa.com. *Alexa.com.* 2014. www.alexa.com.
 
 Becker, S. Gary. "A Theory of Marrage: Part I." *Journal of Political
