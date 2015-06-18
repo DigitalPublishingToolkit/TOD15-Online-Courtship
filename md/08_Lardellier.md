@@ -31,7 +31,7 @@ flirting and falling in love have appeared -- all behind multiple
 screens. The traditional methods and timescale of seduction have been
 turned upside down. On the Internet you become acquainted with others
 from the inside out and many fall in love with these ‘strangers.’ In
-1999, the movie *You’ve Got a Message* very explicitly put a story and
+1998, the movie *You’ve Got Mail* very explicitly put a story and
 images to this new phenomenon.
 
 In 2012, the American actor-director John Malkovich pitched a
