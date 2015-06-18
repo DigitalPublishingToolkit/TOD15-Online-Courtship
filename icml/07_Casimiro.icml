@@ -442,10 +442,9 @@
 				<Content>Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Br />
+				<Content>  Oscar Wilde</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Oscar Wilde</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
