@@ -28,8 +28,8 @@ Oscar Wilde
 
 ##Introduction
 
-Two decades ago, *Time* magazine, in an issue entitled "The strange new
-world of the Internet", pointed out why the Internet would never go
+Two decades ago, *Time* magazine, in an issue entitled 'The strange new
+world of the Internet', pointed out why the Internet would never go
 mainstream: "It was not designed for doing commerce, and it does not
 gracefully accommodate new arrivals."[^7_Casimiro_1] The prediction could not have
 been more wrong. As argued by numerous authors, the reality shows that
