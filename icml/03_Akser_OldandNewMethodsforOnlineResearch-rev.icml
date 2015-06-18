@@ -1,904 +1,923 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="8.0(370)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="8.0" Self="pandoc_doc">
-    <RootCharacterStyleGroup Self="pandoc_character_styles">
-      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle> 
-    </RootCharacterStyleGroup>
-    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
-      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
-          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
-        <Properties>
-          <TabList type="list">
-            <ListItem type="record">
-              <Alignment type="enumeration">LeftAlign</Alignment>
-              <AlignmentCharacter type="string">.</AlignmentCharacter>
-              <Leader type="string"></Leader>
-              <Position type="unit">10</Position> <!-- first tab stop -->
-            </ListItem>
-          </TabList>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle>
-      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
-        <Properties>
-          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
-        </Properties>
-      </ParagraphStyle> 
-    </RootParagraphStyleGroup>
-    <RootTableStyleGroup Self="pandoc_table_styles">
-      <TableStyle Self="TableStyle/Table" Name="Table" />
-    </RootTableStyleGroup>
-    <RootCellStyleGroup Self="pandoc_cell_styles">
-      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
-    </RootCellStyleGroup>
-  <Story Self="pandoc_story"
-      TrackChanges="false"
-      StoryTitle=""
-      AppliedTOCStyle="n"
-      AppliedNamedGrid="n" >
-    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
-
-<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Old and New Methods for Online Research: The Case of Online Dating</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Murat Akser</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The proverbial opening of the 2004 film </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Closer</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> shows us a passionate online chat message exchange between two people. Believing to be courting a young woman Dan Woolf (Jude Law) makes advances with sexual innuendos towards a woman or so he believes. The message exchange is indeed a fake one, in fact, between two heterosexual men, one pretending to be a woman Larry Gray (Clive Owen). This very virtual, gendered and insecure nature of online intimacy makes it a complex phenomenon to analyze. The psychological need for intimacy intertwines with the corporate networked ad machine, which sells gendered images of men and women to each other. Digital Technologies and mediated personal lives overlap with the gendered nature of these digital landscapes.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>K. Orton-Johnson and Nick Prior (eds) </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Digital Sociology: Critical Perspectives</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Basingstoke: Palgrave Macmillan, 2013, p. 4.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Today intimacy and networked individualism go hand in hand through online dating sites and social networks such as Facebook. These new spaces function as courting places for millions. Yet these spaces are also flowing sites of information that present new practices and modes of existence for couples. Today online dating is a 100 million US$ industry operating worldwide, answering both general and niche demand for singles. Match.com’s own statistics estimate that about 10 percent of all paying users find a partner within a year.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Arvidsson, Adam. ‘‘Quality Singles’: Internet Dating and the Work of Fantasy’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>New Media &amp; Society</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 8.4 (2006): 686.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Deborah Chambers states ‘the fluidity and choice apparently offered by online dating fits in neatly with today’s ethos of elective intimacy’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Deborah Chamber, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Social Media and Personal Relationships: Online Intimacies and Networked Friendship</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, Basingstoke: Palgrave Macmillan, 2013, p. 139.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>What is done through online dating is a reflexive and self-engaged impression management. Singles using online dating services are project-managing the outcomes of their mediated romantic encounters. Dysfunctional behavior such as stalking is also encountered in this space. Teenagers and young people are now: ‘reconfiguring their notions of privacy and publicity and their concepts of personal and intimate’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>İbid., p. 140.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Chambers is surprised how conventional intimacy remains the same in new media. She states how the alienating pressures of work life are countered by online dating that allows people to relive romance in the most traditional way.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ibid., p. 141.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>A Humanities or a Social Science Issue?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The gathering and use of data related to online courtship seem to be within the domain of psychology since the inception of the World Wide Web, as the first articles and books go back to 1997. From the early articles on, the emphasis has always been to find out who uses these services and on deceptive self-presentation. The users of online dating services were assumed to be shy people who could not experience face to face interaction, but instead resorted to a behind the computer approach.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The second assumption of the early researchers was that the users who misrepresented themselves through their profile photos and age-weight-height information wanted to have their romance chances higher, so they lied to get an advantage. This deception can take various forms: physical (both as data and information), discursive (false representation of self during online interaction). The personal impact of false representation on an individual can be devastating. The interest of psychologist in the area is understandable in terms of prevention of mental health problems such as depression and breakdown that could lead to suicide. Yet positive impact of online dating in terms of having a dialogue, however virtual, has been appreciated by such researchers. The online dating of widows after the death of their loved ones proves to be a cure for life long misery on the bereaving parties.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Dannagal Goldthwaite Young and Scott E. Caplan, ‘Online Dating and Conjugal Bereavement’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Death Studies</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 34.7 (2010): 575.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Who Dates Online?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The early studies focused on who uses online dating sites. Question of what happened after the online couples met dominated the late 1990s. Qualitative research by Andrea Baker between 1997-99 is a case in point. Baker interviewed 43 couples to find out if they got along after they met online. Baker analyzed email exchange between couples and did a follow up interview with a small subsection of the people. The finding can reflect the current status of online courtship after the arrival of social networks today. The common similarities of online couples (circa 1997) were age (late thirties), marital status (were married), education (at least a bachelor’s degree), offline meeting (4–7 months later), distance (lived thousands of miles away), prior online relationships (females none, males had experience). Online nicknames, modes and content of communication, timing, and presentation of the photo have had an impact on the research.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Andrea Baker, ‘Two by Two in Cyberspace: Getting Together and Connecting online’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>CyberPsychology and Behavior</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, 3.2 (2000): 239-242.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Studies done a decade later to find who goes online for courting have revealed more results. The methods used changed from email analysis to online surveys. A study done on Dutch Internet users aged between 18-60 through online questionnaire reveals that online dating was unrelated to income and educational level. The high activity age of the users shifted. Respondents between 30 and 50 years old were the most active online daters. People low in dating anxiety were found to be more active online daters than people high in dating anxiety.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Patti M. Valkenburg and Jochen Peter, ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>CyberPsychology &amp; Behavior</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 10.6 (2007): 849.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> The measures for the study were age, education, income, dating anxiety and frequency of visit of dating sites. The study wanted to debunk the myth that only the shy use online dating; in fact the less shy had more frequency in attending these sites. The average age of the users was twenty-nine as opposed to the Baker study’s 35 and over.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ibid. p.850.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>By 2010, the social demographic of Internet dating had changed. Sautter, Tippett and Morgan used a larger sample with quantitative methods. Multivariate logistic regression was used to analyze 3,215 respondents a nationally representative U.S. survey of Internet dating. The results yielded that sociodemographic factors have strong effects on Internet access and single status but weak effects on the use of Internet dating services. The presence of computer literate users in social networks increase the chances of Internet dating. The researchers found that Internet dating is a ‘common mate selection strategy among the highly selective subpopulation of single Internet users and may continue to grow through social networks. Material and virtual elements of the digital divide have direct and indirect effects on Internet dating’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jessica M. Sautter, Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Social Science Quarterly</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 91.2 (2010): 554.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Case studies and qualitative analyses revealed that filtering process is developed by online users when it comes to online dating. Danielle Couch and Pranee Liamputtong used a qualitative approach with 15 people who use online dating took part in in-depth, online chat interviews. The results showed that nearly all participants used more than one dating site to seek partners. They also made use of email, chat and webcam to qualify their potential partners. They utilized a variety of filters and filtering processes before progressing to a face-to-face meeting. ‘Participants filtered using the text, photographs, chat, and webcam opportunities available online, and followed progressive personalized steps in communication and engagement in the lead-up to meeting other online daters in person’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Danielle Couch and Pranee Liamputtong, ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Qualitative Health Research</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 18.2 (2008): 268.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Recent research reveals that online courtship has shifted to social networks such as Facebook among youth. Craig and Wright found that ‘attitude similarity and social attraction may be important perceptions that influence self-disclosure, and may eventually lead to predictability and interdependence, both important outcomes in terms of developing=maintaining relationships’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Elizabeth Craig and Kevin B. Wright, ‘Computer-mediated Relational Development and Maintenance on Facebook®’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Communication Research Reports</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 29.2 (2012): 119.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Perceptions of similarity and attraction are found to be influencing two relational maintenance strategies (positivity and openness). They also found out that many Facebook users supplement their Facebook communications with face-to-face interactions. Through these encounters, the online couples take care of any potential misunderstandings.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Deceptive Self-Presentation: A Psychological or A Security Issue?</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Misrepresentation has been, and it still is the most studied phenomenon in online dating. Ellison et al explore how users conceptualize misrepresentation (their own and others’) in a specific genre of online self-presentation: the online dating profile. Using qualitative data collected from 37 online dating participants, the researchers tried to understand self-presentational practices ‘specifically how discrepancies between one’s online profile and offline presentation are constructed, assessed, and justified’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>New Media &amp; Society</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 14.1 (2012): 45.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> New York City was chosen as the location having access to a variety of online dating site users. Participants were invited through the </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Village Voice</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> and Craigslist.com advertisements. Users of the most popular online dating sites (Yahoo! Personals, Match.com/MSN Match.com, American Singles, and Webdate) were included in the study. Overall eighty participants took part in the study. The first thirty-seven were interviewed (12 men and 25 women) ranging in age from 18 to 47. The near ethnographic field work yielded interesting results:</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>First, participants were presented with a printed copy of their online dating profile and asked to rate the accuracy of each profile element, as well as the general acceptability of lying on that topic. Profile elements included age, height, occupation, and religion. Participants then completed a survey and were interviewed by the third author. Finally, participants were asked to engage in measurement procedures and were thanked, debriefed, and given a $30 incentive.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ibid. p.60</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The end result showed that online daters used their profile as a promise when it came to creating their own online representation: The participants gave themselves ‘a flexible sense of identity that drew upon past, present, and future selves. The profile as promise framework enables us to better understand these dynamics and to consider when a misrepresentation is a lie and when it is merely a promise that may soon be fulfilled’.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ibid.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma and Hancock (2010) examined the role of online daters’ deception in physical attractiveness in their profiles. Sixty-nine online daters identified the deceptions in their online dating profiles and had their photograph taken in the lab. Independent judges rated the online daters’ physical attractiveness. Results showed that the online daters were to change their profile photographs and lie about their physical description (height, weight, age) when they had low self esteem. The relationship between attractiveness and deception did not extend to profile parts unrelated to their physical appearance such as income, occupation, suggesting that their deceptions were limited and strategic.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Catalina L.Toma and Jeffrey T. Hancock. ‘Looks and lies: The role of Physical Attractiveness in Online Dating Self-presentation and Deception’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Communication Research</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 37.3 (2010): 335.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Uncertainty plays a role in building trust in intimacy. Toma and Hancock’s further study investigated whether deceptions in online dating profiles match what daters write about themselves in the text part of the profile. Computerized analyses found that deceptions showed themselves through linguistic cues pertaining to liars’ emotions and liars’ strategic efforts to manage their self-presentations. The findings add to the research base on deception, media, and self-presentation, and also show how writing style influences perceived trustworthiness.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Catalina L. Toma and Jeffrey T. Hancock. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’,</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Journal of Communication</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 62.1 (2012): 78.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma, Hancock and Ellison (2008: 1023) examined self-presentation in online dating profiles using a novel cross-validation technique for establishing accuracy. Eighty online daters rated the accuracy of their online self-presentation. Information about participants’ physical attributes was then collected (height, weight, and age) and compared with their online profile, revealing that deviations tended to be ubiquitous but small in magnitude. Men lied more about their height, and women lied more about their weight, with participants farther from the mean lying more. Participants’ self-ratings of accuracy were significantly correlated with observed accuracy, suggesting that inaccuracies were intentional rather than self-deceptive. Overall, participants reported being the least accurate about their photographs and the most accurate about their relationship information. This study conflicts with previous studies that</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>On the other hand, Deandrea et al confirmed that online daters lied about their weight and height not to create social desirability. The study found that ‘height/weight misstatements are self-serving but do not serve a social influence strategy to affect others’ impressions’. The self-deception literature shows that distorted self-presentations can represent simple ignorance about oneself, a strategic message to deceive others, or a self-directed response to self-affirmation or the avoidance of threats to self-esteem.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>David C. DeAndrea et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Journal of Communication</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 62.3 (2012): 415.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kraeger et al questioned the tendency for spouses to resemble each other across a variety of valued social characteristics, such as income, education, and health. The idea was to check if homogamy played an important role in the creation of intergroup social distance, inequality among families, and the intergenerational transmission of (dis)advantage.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Derek A. Kreager et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Journal of Marriage and Family</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 76.2 (2014): 387.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Hall et al examined factors found that seven categories of misrepresentation exist: ‘personal assets, relationship goals, personal interests, personal attributes, past relationships, weight, and age’. The study found that men are more likely to misrepresent personal assets, relationship goals, personal interests, and personal attributes, whereas women are more likely to misrepresent weight.</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Jeffrey A. Hall et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, </Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Journal of Social and Personal Relationships</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 27.1 (2010): 117-118.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Conclusion</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The research literature on online dating has mostly concentrated on two strands of research: on who uses these services and why-how misrepresentation of self happens. The early assumptions of who were the shy people used online dating to their advantage. Yet further studies revealed that more aggressive, and less shy people overly use these services. As for the misrepresentation each study conflicted with another. The physical qualities were thought to be determining misrepresentation. Yet money and status were mist lied about by men. The variety of research methods used such as questionnaire and online surveys seem to be more reliable that computerized aggregate analyses. The future of online dating studies is yet to be determined by a new factor, the use of social networks. Such networks can change the assumptions and the actual uses of these sites in unpredictable ways. The online dating services are big, and the services they provide are on demand. The next decade of online dating research will questions today’s assumptions and give way to a better understanding of online romance.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>References:</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of Fantasy’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>New Media &amp; Society 8.4</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (2006): 671-690.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>CyberPsychology and Behavior</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, 3.2 (2000): 237-242.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Chambers, Deborah. </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Social Media and Personal Relationships: Online Intimacies and Networked Friendship</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Basingstoke: Palgrave Macmillan, 2013.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Closer</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Mike Nichols. 2004. Film.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Couch, Danielle, and Liamputtong, Pranee. ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Qualitative Health Research</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 18.2 (2008): 268-279.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Craig, Elizabeth, and Wright, Kevin B. ‘Computer-mediated Relational Development and Maintenance on Facebook®’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Communication Research Reports</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 29.2 (2012): 119-129.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>DeAndrea, David C., et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Journal of Communication</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 62.3 (2012): 400-417.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>New Media &amp; Society</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 14.1 (2012): 45-62.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing Impressions Online: Self‐presentation Processes in the Online Dating Environment’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Journal of Computer-Mediated Communication</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 11.2 (2006): 415-441.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. ‘Dating Deception: Gender, Online Dating, and Exaggerated Self-presentation’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Computers in Human Behavior</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 28.2 (2012): 642-647.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hall, Jeffrey A., et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Journal of Social and Personal Relationships</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 27.1 (2010): 117-135.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. ‘What Makes you Click? Mate Preferences in Online Dating’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Quantitative Marketing and Economics</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 8.4 (2010): 393-427.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kreager, Derek A., et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Journal of Marriage and Family</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 76.2 (2014): 387-410.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Orton-Johnson, K. and Prior, Nick. (eds). </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Digital Sociology: Critical Perspectives</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Basingstoke: Palgrave Macmillan, 2013.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Social Science Quarterly</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 91.2 (2010): 554-575.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma, Catalina L., Hancock, Jeffrey T. and Ellison, Nicole B. ‘Separating Fact from Fiction: An Examination of Deceptive Self-presentation in Online Dating Profiles’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Personality and Social Psychology Bulletin</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 34.8 (2008): 1023-1036.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Toma, Catalina L., and Hancock, Jeffrey T. ‘Looks and Lies: The Role of Physical Attractiveness in Online Dating Self-presentation and Deception’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Communication Research</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 37.3 (2010): 335-351.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>______. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Journal of Communication</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 62.1 (2012): 78-97.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Valkenburg, Patti M., and Peter, Jochen. ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>CyberPsychology &amp; Behavior</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 10.6 (2007): 849-852.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica, and Gavin, Jeff. ‘Age/sex/location: Uncovering the Social Cues in the Development of Online Relationships’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>CyberPsychology &amp; Behavior</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 4.5 (2001): 623-630.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Whitty, Monica T., &amp; Carr, Adrian N. Cyberspace </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Romance: The Psychology of Online Relationships</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Basingstoke: Palgrave Macmillan, 2010.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Young, Dannagal Goldthwaite, and Caplan, Scott E. ‘Online Dating and Conjugal Bereavement’, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Death Studies</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 34.7 (2010): 575-605.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-
-  </Story>
-  
+<Document DOMVersion="8.0" Self="d">
+	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<FontFamily Self="di3e" Name="Minion Pro">
+		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
+	</FontFamily>
+	<FontFamily Self="di95" Name="Myriad Pro">
+		<Font Self="di95FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="di95FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
+	</FontFamily>
+	<FontFamily Self="dia2" Name="Kozuka Mincho Pro">
+		<Font Self="dia2FontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="dia2FontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="dia2FontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="dia2FontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
+		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
+	</FontFamily>
+	<FontFamily Self="di86f" Name="Lato">
+		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+	</FontFamily>
+	<FontFamily Self="diac5" Name="Lato">
+		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
+	</FontFamily>
+	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
+		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
+	</FontFamily>
+	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
+		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Regular" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Regular" PostScriptName="StandardGroteskBSK-Regular" Status="Installed" FontStyleName="Regular" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Regular" FullNameNative="Standard-Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Italic" PostScriptName="StandardGroteskBSK-Italic" Status="Installed" FontStyleName="Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Italic" FullNameNative="Standard-Grotesk Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Medium" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Medium" PostScriptName="StandardGroteskBSK-Medium" Status="Installed" FontStyleName="Medium" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Medium" FullNameNative="Standard-Grotesk Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Medium Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Medium Italic" PostScriptName="StandardGroteskBSK-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Medium Italic" FullNameNative="Standard-Grotesk Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold" PostScriptName="StandardGroteskBSK-Bold" Status="Installed" FontStyleName="Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold" FullNameNative="Standard-Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Bold Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold Italic" PostScriptName="StandardGroteskBSK-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold Italic" FullNameNative="Standard-Grotesk Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
+		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua3" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua4" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u77">
+		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Default</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u76">
+		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">14</Leading>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/R=147 G=44 B=101" PointSize="10" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">10</Leading>
+				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" KeyboardShortcut="0 0" FontStyle="Bold" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">12</Leading>
+				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" KeyboardShortcut="0 0" LeftIndent="10">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u96" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u96BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u97" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u98" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="uf14" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Old and New Methods for Online Research: The Case of Online Dating</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Murat Akser</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The proverbial opening of the 2004 film </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Closer</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> shows us a passionate online chat message exchange between two people. Believing to be courting a young woman Dan Woolf (Jude Law) makes advances with sexual innuendos towards a woman or so he believes. The message exchange is indeed a fake one, in fact, between two heterosexual men, one pretending to be a woman Larry Gray (Clive Owen). This very virtual, gendered and insecure nature of online intimacy makes it a complex phenomenon to analyze. The psychological need for intimacy intertwines with the corporate networked ad machine, which sells gendered images of men and women to each other. Digital Technologies and mediated personal lives overlap with the gendered nature of these digital landscapes.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	K. Orton-Johnson and Nick Prior (eds) </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Digital Sociology: Critical Perspectives</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Basingstoke: Palgrave Macmillan, 2013, p. 4.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Today intimacy and networked individualism go hand in hand through online dating sites and social networks such as Facebook. These new spaces function as courting places for millions. Yet these spaces are also flowing sites of information that present new practices and modes of existence for couples. Today online dating is a 100 million US$ industry operating worldwide, answering both general and niche demand for singles. Match.com’s own statistics estimate that about 10 percent of all paying users find a partner within a year.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Arvidsson, Adam. ‘‘Quality Singles’: Internet Dating and the Work of Fantasy’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>New Media &amp; Society</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 8.4 (2006): 686.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Deborah Chambers states ‘the fluidity and choice apparently offered by online dating fits in neatly with today’s ethos of elective intimacy’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Deborah Chamber, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Social Media and Personal Relationships: Online Intimacies and Networked Friendship</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Basingstoke: Palgrave Macmillan, 2013, p. 139.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>What is done through online dating is a reflexive and self-engaged impression management. Singles using online dating services are project-managing the outcomes of their mediated romantic encounters. Dysfunctional behavior such as stalking is also encountered in this space. Teenagers and young people are now: ‘reconfiguring their notions of privacy and publicity and their concepts of personal and intimate’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Ibid., p. 140.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Chambers is surprised how conventional intimacy remains the same in new media. She states how the alienating pressures of work life are countered by online dating that allows people to relive romance in the most traditional way.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Ibid., p. 141.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>A Humanities or a Social Science Issue?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The gathering and use of data related to online courtship seem to be within the domain of psychology since the inception of the World Wide Web, as the first articles and books go back to 1997. From the early articles on, the emphasis has always been to find out who uses these services and on deceptive self-presentation. The users of online dating services were assumed to be shy people who could not experience face to face interaction, but instead resorted to a behind the computer approach.</Content>
+				<Br />
+				<Content>The second assumption of the early researchers was that the users who misrepresented themselves through their profile photos and age-weight-height information wanted to have their romance chances higher, so they lied to get an advantage. This deception can take various forms: physical (both as data and information), discursive (false representation of self during online interaction). The personal impact of false representation on an individual can be devastating. The interest of psychologist in the area is understandable in terms of prevention of mental health problems such as depression and breakdown that could lead to suicide. Yet positive impact of online dating in terms of having a dialogue, however virtual, has been appreciated by such researchers. The online dating of widows after the death of their loved ones proves to be a cure for life long misery on the bereaving parties.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Dannagal Goldthwaite Young and Scott E. Caplan, ‘Online Dating and Conjugal Bereavement’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Death Studies</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 34.7 (2010): 575.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Who Dates Online?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The early studies focused on who uses online dating sites. Question of what happened after the online couples met dominated the late 1990s. Qualitative research by Andrea Baker between 1997-99 is a case in point. Baker interviewed 43 couples to find out if they got along after they met online. Baker analyzed email exchange between couples and did a follow up interview with a small subsection of the people. The finding can reflect the current status of online courtship after the arrival of social networks today. The common similarities of online couples (circa 1997) were age (late thirties), marital status (were married), education (at least a bachelor’s degree), offline meeting (4–7 months later), distance (lived thousands of miles away), prior online relationships (females none, males had experience). Online nicknames, modes and content of communication, timing, and presentation of the photo have had an impact on the research.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Andrea Baker, ‘Two by Two in Cyberspace: Getting Together and Connecting online’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>CyberPsychology and Behavior</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, 3.2 (2000): 239-242.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Studies done a decade later to find who goes online for courting have revealed more results. The methods used changed from email analysis to online surveys. A study done on Dutch Internet users aged between 18-60 through online questionnaire reveals that online dating was unrelated to income and educational level. The high activity age of the users shifted. Respondents between 30 and 50 years old were the most active online daters. People low in dating anxiety were found to be more active online daters than people high in dating anxiety.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Patti M. Valkenburg and Jochen Peter, ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>CyberPsychology &amp; Behavior</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 10.6 (2007): 849.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> The measures for the study were age, education, income, dating anxiety and frequency of visit of dating sites. The study wanted to debunk the myth that only the shy use online dating; in fact the less shy had more frequency in attending these sites. The average age of the users was twenty-nine as opposed to the Baker study’s 35 and over.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Ibid. p.850.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>By 2010, the social demographic of Internet dating had changed. Sautter, Tippett and Morgan used a larger sample with quantitative methods. Multivariate logistic regression was used to analyze 3,215 respondents a nationally representative U.S. survey of Internet dating. The results yielded that sociodemographic factors have strong effects on Internet access and single status but weak effects on the use of Internet dating services. The presence of computer literate users in social networks increase the chances of Internet dating. The researchers found that Internet dating is a ‘common mate selection strategy among the highly selective subpopulation of single Internet users and may continue to grow through social networks. Material and virtual elements of the digital divide have direct and indirect effects on Internet dating’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Jessica M. Sautter, Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Social Science Quarterly</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 91.2 (2010): 554.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Case studies and qualitative analyses revealed that filtering process is developed by online users when it comes to online dating. Danielle Couch and Pranee Liamputtong used a qualitative approach with 15 people who use online dating took part in in-depth, online chat interviews. The results showed that nearly all participants used more than one dating site to seek partners. They also made use of email, chat and webcam to qualify their potential partners. They utilized a variety of filters and filtering processes before progressing to a face-to-face meeting. ‘Participants filtered using the text, photographs, chat, and webcam opportunities available online, and followed progressive personalized steps in communication and engagement in the lead-up to meeting other online daters in person’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Danielle Couch and Pranee Liamputtong, ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Qualitative Health Research</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 18.2 (2008): 268.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Recent research reveals that online courtship has shifted to social networks such as Facebook among youth. Craig and Wright found that ‘attitude similarity and social attraction may be important perceptions that influence self-disclosure, and may eventually lead to predictability and interdependence, both important outcomes in terms of developing=maintaining relationships’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Elizabeth Craig and Kevin B. Wright, ‘Computer-mediated Relational Development and Maintenance on Facebook®’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Communication Research Reports</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 29.2 (2012): 119.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Perceptions of similarity and attraction are found to be influencing two relational maintenance strategies (positivity and openness). They also found out that many Facebook users supplement their Facebook communications with face-to-face interactions. Through these encounters, the online couples take care of any potential misunderstandings.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Deceptive Self-Presentation: A Psychological or A Security Issue?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Misrepresentation has been, and it still is the most studied phenomenon in online dating. Ellison et al explore how users conceptualize misrepresentation (their own and others’) in a specific genre of online self-presentation: the online dating profile. Using qualitative data collected from 37 online dating participants, the researchers tried to understand self-presentational practices ‘specifically how discrepancies between one’s online profile and offline presentation are constructed, assessed, and justified’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>New Media &amp; Society</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 14.1 (2012): 45.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> New York City was chosen as the location having access to a variety of online dating site users. Participants were invited through the </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Village Voice</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> and Craigslist.com advertisements. Users of the most popular online dating sites (Yahoo! Personals, Match.com/MSN Match.com, American Singles, and Webdate) were included in the study. Overall eighty participants took part in the study. The first thirty-seven were interviewed (12 men and 25 women) ranging in age from 18 to 47. The near ethnographic field work yielded interesting results:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>First, participants were presented with a printed copy of their online dating profile and asked to rate the accuracy of each profile element, as well as the general acceptability of lying on that topic. Profile elements included age, height, occupation, and religion. Participants then completed a survey and were interviewed by the third author. Finally, participants were asked to engage in measurement procedures and were thanked, debriefed, and given a $30 incentive.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Ibid. p.60</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The end result showed that online daters used their profile as a promise when it came to creating their own online representation: The participants gave themselves ‘a flexible sense of identity that drew upon past, present, and future selves. The profile as promise framework enables us to better understand these dynamics and to consider when a misrepresentation is a lie and when it is merely a promise that may soon be fulfilled’.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Ibid.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Toma and Hancock (2010) examined the role of online daters’ deception in physical attractiveness in their profiles. Sixty-nine online daters identified the deceptions in their online dating profiles and had their photograph taken in the lab. Independent judges rated the online daters’ physical attractiveness. Results showed that the online daters were to change their profile photographs and lie about their physical description (height, weight, age) when they had low self esteem. The relationship between attractiveness and deception did not extend to profile parts unrelated to their physical appearance such as income, occupation, suggesting that their deceptions were limited and strategic.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Catalina L.Toma and Jeffrey T. Hancock. ‘Looks and lies: The role of Physical Attractiveness in Online Dating Self-presentation and Deception’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Communication Research</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 37.3 (2010): 335.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Uncertainty plays a role in building trust in intimacy. Toma and Hancock’s further study investigated whether deceptions in online dating profiles match what daters write about themselves in the text part of the profile. Computerized analyses found that deceptions showed themselves through linguistic cues pertaining to liars’ emotions and liars’ strategic efforts to manage their self-presentations. The findings add to the research base on deception, media, and self-presentation, and also show how writing style influences perceived trustworthiness.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Catalina L. Toma and Jeffrey T. Hancock. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’,</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Journal of Communication</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 62.1 (2012): 78.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Toma, Hancock and Ellison (2008: 1023) examined self-presentation in online dating profiles using a novel cross-validation technique for establishing accuracy. Eighty online daters rated the accuracy of their online self-presentation. Information about participants’ physical attributes was then collected (height, weight, and age) and compared with their online profile, revealing that deviations tended to be ubiquitous but small in magnitude. Men lied more about their height, and women lied more about their weight, with participants farther from the mean lying more. Participants’ self-ratings of accuracy were significantly correlated with observed accuracy, suggesting that inaccuracies were intentional rather than self-deceptive. Overall, participants reported being the least accurate about their photographs and the most accurate about their relationship information. This study conflicts with previous studies that</Content>
+				<Br />
+				<Content>On the other hand, Deandrea et al confirmed that online daters lied about their weight and height not to create social desirability. The study found that ‘height/weight misstatements are self-serving but do not serve a social influence strategy to affect others’ impressions’. The self-deception literature shows that distorted self-presentations can represent simple ignorance about oneself, a strategic message to deceive others, or a self-directed response to self-affirmation or the avoidance of threats to self-esteem.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	David C. DeAndrea et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Journal of Communication</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 62.3 (2012): 415.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Kraeger et al questioned the tendency for spouses to resemble each other across a variety of valued social characteristics, such as income, education, and health. The idea was to check if homogamy played an important role in the creation of intergroup social distance, inequality among families, and the intergenerational transmission of (dis)advantage.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Derek A. Kreager et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Journal of Marriage and Family</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 76.2 (2014): 387.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> Hall et al examined factors found that seven categories of misrepresentation exist: ‘personal assets, relationship goals, personal interests, personal attributes, past relationships, weight, and age’. The study found that men are more likely to misrepresent personal assets, relationship goals, personal interests, and personal attributes, whereas women are more likely to misrepresent weight.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Footnote>
+					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content><?ACE 4?></Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>	Jeffrey A. Hall et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Journal of Social and Personal Relationships</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> 27.1 (2010): 117-118.</Content>
+						</CharacterStyleRange>
+					</ParagraphStyleRange>
+				</Footnote>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Conclusion</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The research literature on online dating has mostly concentrated on two strands of research: on who uses these services and why-how misrepresentation of self happens. The early assumptions of who were the shy people used online dating to their advantage. Yet further studies revealed that more aggressive, and less shy people overly use these services. As for the misrepresentation each study conflicted with another. The physical qualities were thought to be determining misrepresentation. Yet money and status were mist lied about by men. The variety of research methods used such as questionnaire and online surveys seem to be more reliable that computerized aggregate analyses. The future of online dating studies is yet to be determined by a new factor, the use of social networks. Such networks can change the assumptions and the actual uses of these sites in unpredictable ways. The online dating services are big, and the services they provide are on demand. The next decade of online dating research will questions today’s assumptions and give way to a better understanding of online romance.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>References:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of Fantasy’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>New Media &amp; Society 8.4</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (2006): 671-690.</Content>
+				<Br />
+				<Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>CyberPsychology and Behavior</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, 3.2 (2000): 237-242.</Content>
+				<Br />
+				<Content>Chambers, Deborah. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Social Media and Personal Relationships: Online Intimacies and Networked Friendship</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Basingstoke: Palgrave Macmillan, 2013.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Closer</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. Mike Nichols. 2004. Film.</Content>
+				<Br />
+				<Content>Couch, Danielle, and Liamputtong, Pranee. ‘Online Dating and Mating: The Use of the Internet to Meet Sexual Partners’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Qualitative Health Research</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 18.2 (2008): 268-279.</Content>
+				<Br />
+				<Content>Craig, Elizabeth, and Wright, Kevin B. ‘Computer-mediated Relational Development and Maintenance on Facebook®’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Communication Research Reports</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 29.2 (2012): 119-129.</Content>
+				<Br />
+				<Content>DeAndrea, David C., et al. ‘When Do People Misrepresent Themselves to Others? The Effects of Social Desirability, Ground Truth, and Accountability on Deceptive Self‐Presentations’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Journal of Communication</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 62.3 (2012): 400-417.</Content>
+				<Br />
+				<Content>Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. ‘Profile as Promise: A Framework for Conceptualizing Veracity in Online Dating Self-presentations’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>New Media &amp; Society</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 14.1 (2012): 45-62.</Content>
+				<Br />
+				<Content>Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing Impressions Online: Self‐presentation Processes in the Online Dating Environment’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Journal of Computer-Mediated Communication</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 11.2 (2006): 415-441.</Content>
+				<Br />
+				<Content>Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. ‘Dating Deception: Gender, Online Dating, and Exaggerated Self-presentation’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Computers in Human Behavior</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 28.2 (2012): 642-647. Hall, Jeffrey A., et al. ‘Strategic Misrepresentation in Online Dating: The Effects of Gender, Self-monitoring, and Personality Traits’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Journal of Social and Personal Relationships</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 27.1 (2010): 117-135.</Content>
+				<Br />
+				<Content>Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. ‘What Makes you Click? Mate Preferences in Online Dating’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Quantitative Marketing and Economics</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 8.4 (2010): 393-427.</Content>
+				<Br />
+				<Content>Kreager, Derek A., et al. ‘“Where Have All the Good Men Gone?” Gendered Interactions in Online Dating’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Journal of Marriage and Family</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 76.2 (2014): 387-410.</Content>
+				<Br />
+				<Content>Orton-Johnson, K. and Prior, Nick. (eds). </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Digital Sociology: Critical Perspectives</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Basingstoke: Palgrave Macmillan, 2013.</Content>
+				<Br />
+				<Content>Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. ‘The Social Demography of Internet Dating in the United States’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Social Science Quarterly</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 91.2 (2010): 554-575.</Content>
+				<Br />
+				<Content>Toma, Catalina L., Hancock, Jeffrey T. and Ellison, Nicole B. ‘Separating Fact from Fiction: An Examination of Deceptive Self-presentation in Online Dating Profiles’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Personality and Social Psychology Bulletin</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 34.8 (2008): 1023-1036.</Content>
+				<Br />
+				<Content>Toma, Catalina L., and Hancock, Jeffrey T. ‘Looks and Lies: The Role of Physical Attractiveness in Online Dating Self-presentation and Deception’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Communication Research</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 37.3 (2010): 335-351.</Content>
+				<Br />
+				<Content>______. ‘What Lies Beneath: The Linguistic Traces of Deception in Online Dating Profiles’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Journal of Communication</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 62.1 (2012): 78-97.</Content>
+				<Br />
+				<Content>Valkenburg, Patti M., and Peter, Jochen. ‘Who Visits Online Dating Sites? Exploring Some Characteristics of Online Daters’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>CyberPsychology &amp; Behavior</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 10.6 (2007): 849-852.</Content>
+				<Br />
+				<Content>Whitty, Monica, and Gavin, Jeff. ‘Age/sex/location: Uncovering the Social Cues in the Development of Online Relationships’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>CyberPsychology &amp; Behavior</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 4.5 (2001): 623-630.</Content>
+				<Br />
+				<Content>Whitty, Monica T., &amp; Carr, Adrian N. Cyberspace </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Romance: The Psychology of Online Relationships</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Basingstoke: Palgrave Macmillan, 2010.</Content>
+				<Br />
+				<Content>Young, Dannagal Goldthwaite, and Caplan, Scott E. ‘Online Dating and Conjugal Bereavement’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Death Studies</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> 34.7 (2010): 575-605.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" DestinationUniqueKey="3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
 </Document>
