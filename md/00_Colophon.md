@@ -5,7 +5,7 @@ Theory on Demand #16
 
 
 **Editors:** I. Alev Degim, James Johnson, Tao Fu<br/>
-**Copy-editing:** Miriam Rasch, Jess van Zyl
+**Copy-editing:** Miriam Rasch, Jess van Zyl<br/>
 **Editorial support:** Miriam Rasch<br/>
 
 **Design:** Jess van Zyl<br/>
