@@ -317,7 +317,7 @@ socialization, since adolescents socialise with their peers meanwhile
 they learn from observing the most popular posts which are the code
 lines and models to follow in search of a couple.
 
-*Disadvantages*
+### Disadvantages
 
 When asked about the disadvantages of meeting a couple on FB, women
 responses present more concern than men. In social networks, the “other”
