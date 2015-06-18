@@ -100,26 +100,12 @@
 		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
 	</FontFamily>
-	<FontFamily Self="di14ab" Name="$ID/Symbol">
-		<Font Self="di14abFontnSymbol Regular" FontFamily="Symbol" Name="$ID/Symbol Regular" PostScriptName="Symbol" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="6.1d7e3" />
-	</FontFamily>
-	<FontFamily Self="di14ac" Name="Source Sans Pro">
-		<Font Self="di14acFontnSource Sans Pro ExtraLight" FontFamily="Source Sans Pro" Name="Source Sans Pro ExtraLight" PostScriptName="SourceSansPro-ExtraLight" Status="Installed" FontStyleName="ExtraLight" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro ExtraLight" FullNameNative="Source Sans Pro ExtraLight" FontStyleNameNative="ExtraLight" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro ExtraLight Italic" FontFamily="Source Sans Pro" Name="Source Sans Pro ExtraLight Italic" PostScriptName="SourceSansPro-ExtraLightIt" Status="Installed" FontStyleName="ExtraLight Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro ExtraLight Italic" FullNameNative="Source Sans Pro ExtraLight Italic" FontStyleNameNative="ExtraLight Italic" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Light" FontFamily="Source Sans Pro" Name="Source Sans Pro Light" PostScriptName="SourceSansPro-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Light" FullNameNative="Source Sans Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.050;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Light Italic" FontFamily="Source Sans Pro" Name="Source Sans Pro Light Italic" PostScriptName="SourceSansPro-LightIt" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Light Italic" FullNameNative="Source Sans Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Regular" FontFamily="Source Sans Pro" Name="Source Sans Pro Regular" PostScriptName="SourceSansPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro" FullNameNative="Source Sans Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Italic" FontFamily="Source Sans Pro" Name="Source Sans Pro Italic" PostScriptName="SourceSansPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Italic" FullNameNative="Source Sans Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Semibold" FontFamily="Source Sans Pro" Name="Source Sans Pro Semibold" PostScriptName="SourceSansPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Semibold" FullNameNative="Source Sans Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Semibold Italic" FontFamily="Source Sans Pro" Name="Source Sans Pro Semibold Italic" PostScriptName="SourceSansPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Semibold Italic" FullNameNative="Source Sans Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Bold" FontFamily="Source Sans Pro" Name="Source Sans Pro Bold" PostScriptName="SourceSansPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Bold" FullNameNative="Source Sans Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Bold Italic" FontFamily="Source Sans Pro" Name="Source Sans Pro Bold Italic" PostScriptName="SourceSansPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Bold Italic" FullNameNative="Source Sans Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Black" FontFamily="Source Sans Pro" Name="Source Sans Pro Black" PostScriptName="SourceSansPro-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Black" FullNameNative="Source Sans Pro Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di14acFontnSource Sans Pro Black Italic" FontFamily="Source Sans Pro" Name="Source Sans Pro Black Italic" PostScriptName="SourceSansPro-BlackIt" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Source Sans Pro Black Italic" FullNameNative="Source Sans Pro Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.040;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-	</FontFamily>
 	<FontFamily Self="di14ad" Name="Hannotate SC">
 		<Font Self="di14adFontnHannotate SC Bold" FontFamily="Hannotate SC" Name="Hannotate SC Bold" PostScriptName="HannotateSC-W7" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCID" WritingScript="1" FullName="Hannotate SC Bold" FullNameNative="Hannotate SC Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="10.0d1" />
 		<Font Self="di14adFontnHannotate SC Regular" FontFamily="Hannotate SC" Name="Hannotate SC Regular" PostScriptName="HannotateSC-W5" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCID" WritingScript="1" FullName="Hannotate SC Regular" FullNameNative="Hannotate SC Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="10.0d1" />
+	</FontFamily>
+	<FontFamily Self="di14af" Name="$ID/Symbol">
+		<Font Self="di14afFontnSymbol Regular" FontFamily="Symbol" Name="$ID/Symbol Regular" PostScriptName="Symbol" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="6.1d7e3" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -3518,14 +3504,12 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, as the Chinese would say. The others featured quietness and gracefulness, shortness and sweetness, mature attractiveness, bright eyes and regality and magnificence (Table 4).</Content>
 				<Br />
-				<Content>Table 4</Content>
-				<Br />
-				<Content>Self-evaluation</Content>
-				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Table 4 Self-evaluation</Content>
+				<Br />
 				<Table Self="uf14i132b" HeaderRowCount="1" FooterRowCount="0" BodyRowCount="9" ColumnCount="4" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
 					<Row Self="uf14i132bRow0" Name="0" SingleRowHeight="28.00393700787402" />
 					<Row Self="uf14i132bRow1" Name="1" SingleRowHeight="26.053937007874016" />
@@ -4001,9 +3985,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> desired. They also offered little financial security. However, physical and personality attractiveness and sincerity were more desirable (Table 5).</Content>
 				<Br />
-				<Content>Table 5</Content>
-				<Br />
-				<Content>What </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Table 5 What </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Shengnv</Content>
@@ -4011,21 +3997,17 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Seek and Offer in Love Monologue</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Table Self="uf14i133e" HeaderRowCount="1" FooterRowCount="0" BodyRowCount="6" ColumnCount="3" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
 					<Row Self="uf14i133eRow0" Name="0" SingleRowHeight="28.00393700787402" />
-					<Row Self="uf14i133eRow1" Name="1" SingleRowHeight="47.599966670959944" />
-					<Row Self="uf14i133eRow2" Name="2" SingleRowHeight="47.599966670959944" />
-					<Row Self="uf14i133eRow3" Name="3" SingleRowHeight="47.599966670959944" />
-					<Row Self="uf14i133eRow4" Name="4" SingleRowHeight="47.599966670959944" />
-					<Row Self="uf14i133eRow5" Name="5" SingleRowHeight="47.599966670959944" />
-					<Row Self="uf14i133eRow6" Name="6" SingleRowHeight="47.599966670959944" />
-					<Column Self="uf14i133eColumn0" Name="0" SingleColumnWidth="40" />
-					<Column Self="uf14i133eColumn1" Name="1" SingleColumnWidth="40" />
-					<Column Self="uf14i133eColumn2" Name="2" SingleColumnWidth="40" />
+					<Row Self="uf14i133eRow1" Name="1" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf14i133eRow2" Name="2" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf14i133eRow3" Name="3" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf14i133eRow4" Name="4" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf14i133eRow5" Name="5" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf14i133eRow6" Name="6" SingleRowHeight="25.999966670959953" />
+					<Column Self="uf14i133eColumn0" Name="0" SingleColumnWidth="114.23622047244096" />
+					<Column Self="uf14i133eColumn1" Name="1" SingleColumnWidth="114.23622047244096" />
+					<Column Self="uf14i133eColumn2" Name="2" SingleColumnWidth="114.23622047244096" />
 					<Cell Self="uf14i133ei12" Name="0:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular" />
@@ -4192,7 +4174,6 @@
 						</ParagraphStyleRange>
 					</Cell>
 				</Table>
-				<Content></Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4539,6 +4520,11 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> accounts for only a small percentage of all Chinese women. Media coverage, especially by Western press, has drawn more attention to this social group. However, Chinese women who have migrated to urban areas to make a living should be studied as well. Their rigid and long work schedules, limited social capital in cities and less-competent digital literacy make the courtship of migrant women merit further research.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
