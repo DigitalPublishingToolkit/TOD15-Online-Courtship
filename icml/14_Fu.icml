@@ -4527,8 +4527,6 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>References</Content>
 				<Br />
