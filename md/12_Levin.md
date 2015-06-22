@@ -1,20 +1,22 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: Online Courship: Interpersonal Interactions Across Borders
-Article-status: accepted
-Author: I. Alev Degim, James Johnson, H. G Cocks, Murat Akser, Ramón Reichert, Diego Basile, Joaquín Linne, Lázaro M. Bacallao Pino, Cláudia Casimiro, Pascal Lardellier, Caiyun Wen, Sheena Raja and Bryce J. Renninger, Amitabh Vikram Dwivedi, David Levin, Gabriele de Seta, Ge Zhang, Tao Fu, Aras Ozgun, Megan Lindsay, Enver Ozustun.
-Author-email:   corresponding address
-Author-bio:  about the author
+Pr-id: Publications  
+P-id: Theory on Demand  
+A-id: 16  
+Type (formerly called Item): book  
+Book-type: anthology  
+Anthology item: article  
+Item-id:   
+Article-title: Online Courship: Interpersonal Interactions Across Borders  
+Article-status: accepted  
+Author: I. Alev Degim, James Johnson, H. G Cocks, Murat Akser, Ramón Reichert, Diego Basile, Joaquín Linne, Lázaro M. Bacallao Pino, Cláudia Casimiro, Pascal Lardellier, Caiyun Wen, Sheena Raja and Bryce J. Renninger, Amitabh Vikram Dwivedi, David Levin, Gabriele de Seta, Ge Zhang, Tao Fu, Aras Ozgun, Megan Lindsay, Enver Ozustun. 
+Author-email: alevdegim@siu.edu
+Author-bio: about the author  
 Editor: I. Alev Degim, James Johnson, Tao Fu
-Abstract:   Computer mediated interpersonal interactions are defining our daily lives as we know it. Studying this phenomenon with various methodologies, across different cultures and traditions is a crucial component in understanding social ties. This book brings together articles that approach online dating from a  range of cultural and critical perspectives.
-Keywords:   online dating, social media, Institute of Network Cultures, print on demand, digital media, media theory, sociology, humanities, new media, France, India, China, Portugal, USA, methodologies, match.com, courtship, traditional, differences, Turkey, interactions, romantic, partners, search, love, facebook.
-Rights: CC BY-NC 4.0
+Abstract: Computer mediated interpersonal interactions are defining our daily lives as we know it. Studying this phenomenon with various methodologies, across different cultures and traditions is a crucial component in understanding social ties. This book brings together articles that approach online dating from a  range of cultural and critical perspectives. 
+The research decodes the approach to online dating in various countries like France, India, China, Turkey, Cuba, USA and Portugal. Mapping the history of dating and courtship shows the evolution of these practices even before the introduction of the online medium and traces parallels and differences between old and new traditions.   
+Keywords: online dating, social media, Institute of Network Cultures, print on demand, digital media, media theory, sociology, humanities, new media, France, India, China, Portugal, USA, methodologies, match.com, courtship, traditional, differences, Turkey, interactions, romantic, partners, search, love, facebook. 
+  
+Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
 # The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel
