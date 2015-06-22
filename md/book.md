@@ -13784,7 +13784,7 @@ continue to increase.
 
 Dating courtships have been complicated both by the changing roles of
 women and men and by the new approaches afforded by
-technology.[^17_Lindsay_3] [^17_Lindsay_4],[^17_Lindsay_5] It should be the responsibility of both
+technology.[^17_Lindsay_3] [^17_Lindsay_4] [^17_Lindsay_5] It should be the responsibility of both
 men and women to negotiate the new possibilities (specifically new norms
 and expectations around courtship) afforded in dating relationships,
 “but the media would certainly have us think that . . . women must
