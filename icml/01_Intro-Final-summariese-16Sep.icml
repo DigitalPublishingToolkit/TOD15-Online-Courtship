@@ -3,10 +3,13 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="d">
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
@@ -99,6 +102,30 @@
 		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
 	</FontFamily>
+	<FontFamily Self="di10b1" Name="Helvetica Neue (T1)">
+		<Font Self="di10b1FontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di10b1FontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -151,7 +178,9 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" Name="$ID/[No character style]" />
 	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
 		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
 			<Properties>
@@ -174,15 +203,14 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
 			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -195,6 +223,52 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">12</Leading>
 				<AppliedFont type="string">Lato</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/References" Name="References" Imported="false" NextStyle="ParagraphStyle/References" KeyboardShortcut="0 0" PointSize="8" GridAlignment="None">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226" />
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" KeyboardShortcut="0 0">
@@ -414,7 +488,7 @@
 							<Content>	Huffington Post. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="uffb" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u10ba" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\_b\_2561380.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -437,7 +511,7 @@
 							<Content>	The Gazette. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="ufff" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u10be" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Content>
 							</HyperlinkTextSource>
 							<Content> </Content>
@@ -479,7 +553,7 @@
 							<Content>	The Independent. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1002" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u10c1" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -517,7 +591,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Defining Online Courtship/Dating:</Content>
+				<Content>Defining Online Courtship/Dating</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -665,10 +739,28 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing impressions online: Self‐presentation processes in the online dating environment.’ </Content>
+							<Content>	Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing impressions online: Self</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+							<Properties>
+								<AppliedFont type="string">Myriad Pro</AppliedFont>
+							</Properties>
+							<Content>‐</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>presentation processes in the online dating environment.’ </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Journal of Computer‐Mediated Communication</Content>
+							<Content>Journal of Computer</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+							<Properties>
+								<AppliedFont type="string">Myriad Pro</AppliedFont>
+							</Properties>
+							<Content>‐</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Mediated Communication</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content> 11.2 (2006): 415-441. </Content>
@@ -937,7 +1029,7 @@
 							<Content>	S. Yoder, How Online Dating Became a $2 Billion Industry, Fiscal Times, 2014. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1020" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u10df" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -955,17 +1047,15 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
-				<Br />
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>References:</Content>
+				<Content>References</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/References">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Barraket, Jo, and Millsom S. Henry-Waring. ‘Getting it on (line) Sociological perspectives on e-dating.’ </Content>
+				<Br />
+				<Content>Barraket, Jo and Millsom S. Henry-Waring. ‘Getting it on (line) Sociological perspectives on e-dating.’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Journal of Sociology</Content>
@@ -973,7 +1063,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> 44.2 (2008): 149-165.</Content>
 				<Br />
-				<Content>J. A. Bargh and K. Y. McKenna, ‘The Internet and social life.’ </Content>
+				<Content>Bargh, J. A. and K. Y. McKenna. ‘The Internet and social life.’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Annu. Rev. Psychol.</Content>
@@ -989,26 +1079,53 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>. (110), (2005): 239-256.</Content>
 				<Br />
-				<Content>A. Beaulieu, ‘Mediating ethnography: objectivity and the making of ethnographies of the internet.’ </Content>
+				<Content>Beaulieu, A. ‘Mediating ethnography: objectivity and the making of ethnographies of the internet.’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Social Epistemology</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, 18(2-3), (2004): 139-163.</Content>
+				<Content>, 18 (2-3), (2004): 139-163.</Content>
 				<Br />
 				<Content>Ellison, Nicole B. ‘Social network sites: Definition, history, and scholarship.’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Journal of Computer‐Mediated Communication</Content>
+				<Content>Journal of Computer</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>‐</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Mediated Communication</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> 13.1 (2007): 210-230.</Content>
 				<Br />
-				<Content>Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing impressions online: Self‐presentation processes in the online dating environment.’ </Content>
+				<Content>Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing impressions online: Self</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>‐</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>presentation processes in the online dating environment.’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Journal of Computer‐Mediated Communication</Content>
+				<Content>Journal of Computer</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>‐</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Mediated Communication</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> 11.2 (2006): 415-441.</Content>
@@ -1037,15 +1154,29 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>. Amsterdam: Institute of Network Cultures, 2008.</Content>
 				<Br />
-				<Content>Lovink, Geert, and Miriam Rasch. Unlike us reader: social media monopolies and their alternatives. No. 8. </Content>
+				<Content>Lovink, Geert and Miriam Rasch. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Unlike us reader: social media monopolies and their alternatives</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>. No. 8. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Institute of Network Cultures</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, 2013.</Content>
 				<Br />
-				<Content>J. A. Hall, N. Park, H. Song and M. J. Cody, ‘Strategic misrepresentation in online dating: The effects of gender, self-monitoring, and personality traits.’ Journal of Social and Personal Relationships, 27(1), (2010): 117-135.J. T. Hancock and C. L. Toma, ‘Putting your best face forward: The accuracy of online dating photographs.’ </Content>
+				<Content>J. A. Hall, N. Park, H. Song and M. J. Cody, ‘Strategic misrepresentation in online dating: The effects of gender, self-monitoring, and personality traits.’ </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Journal of Social and Personal Relationships</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, 27(1), (2010): 117-135.</Content>
+				<Br />
+				<Content>J. T. Hancock and C. L. Toma, ‘Putting your best face forward: The accuracy of online dating photographs.’ </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Journal of Communication</Content>
@@ -1152,7 +1283,7 @@
 				<Content>Huffington Post. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1024" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u10e4" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1162,7 +1293,7 @@
 				<Content>The Independent. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1026" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u10e5" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1172,7 +1303,7 @@
 				<Content>The Fiscal Times. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1027" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u10e6" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1182,7 +1313,7 @@
 				<Content>The Gazette. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1028" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u10e7" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1209,49 +1340,49 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 15" DestinationUniqueKey="15" Name="URL 15" DestinationURL="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 16" DestinationUniqueKey="16" Name="URL 16" DestinationURL="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 17" DestinationUniqueKey="17" Name="URL 17" DestinationURL="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Hidden="false" />
-	<Hyperlink Self="u102f" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Source="u1024" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
+	<Hyperlink Self="u10e8" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Source="u10e4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u102d" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Source="u1026" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
+	<Hyperlink Self="u10e9" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Source="u10e5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u102b" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Source="u1027" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
+	<Hyperlink Self="u10ea" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Source="u10e6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1029" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Source="u1028" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u10eb" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Source="u10e7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1037" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html 8" Source="uffb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="17">
+	<Hyperlink Self="u10ec" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html 8" Source="u10ba" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="17">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 17</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1035" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/ 7" Source="ufff" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="16">
+	<Hyperlink Self="u10ed" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/ 7" Source="u10be" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="16">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 16</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1033" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html 6" Source="u1002" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="15">
+	<Hyperlink Self="u10ee" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html 6" Source="u10c1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="15">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 15</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1031" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry 5" Source="u1020" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="14">
+	<Hyperlink Self="u10ef" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry 5" Source="u10df" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="14">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 14</Destination>
