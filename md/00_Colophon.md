@@ -19,8 +19,7 @@ Keywords: online dating, social media, Institute of Network Cultures, print on d
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
-# Online Courtship:
-## Interpersonal Interactions Across Borders
+# Online Courtship: Interpersonal Interactions Across Borders
 
 Computer mediated interpersonal interactions are defining our daily lives as we know it. Studying this phenomenon with various methodologies, across different cultures and traditions is a crucial component in understanding social ties. This book brings together articles that approach online dating from a  range of cultural and critical perspectives.<br/>
 The research decodes the level of engagement and manner of 
@@ -36,7 +35,7 @@ Theory on Demand #16
 
 
 **Editors:** I. Alev Degim, James Johnson, Tao Fu<br/>
-**Copy-editing:** Miriam Rasch, Jess van Zyl<br/>
+**Copy-editing:** Jess van Zyl<br/>
 **Editorial support:** Miriam Rasch<br/>
 
 **Design:** Jess van Zyl<br/>
@@ -46,7 +45,6 @@ Theory on Demand #16
 **Publisher:** Institute of Network Cultures, Amsterdam, 2015<br/>
 **ISBN:** 978-90-822345-7-2<br/> 
 
-![](imgs/INC-logo.png)
 
 **Contact**
 
@@ -59,4 +57,45 @@ This publication is available through various print on demand services.</br>
 For more information, and a freely downloadable PDF:<br/> 
 <http://networkcultures.org/publications>
 
-This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0). 
+This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br/>
+![](imgs/INC-logo.png)
+
+
+# Contents
+
+<a href="ch004.xhtml">Introduction</a>
+
+<a href="ch005.xhtml">The Pre-History of Print and Online Dating, c. 1690-1990</a>
+
+<a href="ch006.xhtml">Old and New Methods for Online Research: The Case of Online Dating</a>
+
+<a href="ch007.xhtml">Dating Maps: Mapping Love in Online Dating Communities</a>
+
+<a href="ch008.xhtml">The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</a>
+
+<a href="ch009.xhtml">'Dating' or 'Escaping'? Cuban Profiles in Dating Websites</a>
+
+<a href="ch010.xhtml">Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?</a>
+
+<a href="ch011.xhtml">Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age</a>
+
+<a href="ch012.xhtml">The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai's Targeting and Advertising</a>
+
+<a href="ch013.xhtml">Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diasora in America</a>
+
+<a href="ch014.xhtml">From Arranged to Online: A Study of Courtship Culture in India</a>
+
+<a href="ch015.xhtml">The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</a>
+
+<a href="ch016.xhtml">Stranger Stranger or Lonley Lonely? Young Chinese and Dating Apps Between the Locational, the Mobile and the Social</a>
+
+<a href="ch017.xhtml">What are the *Shengv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women's Personal Profiles on Jiayuan.com</a>
+
+<a href="ch018.xhtml">Keeping it Unreal - Online Dating with Chinese Characteristics</a>
+
+<a href="ch019.xhtml">Talking to Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels</a>
+
+<a href="ch020.xhtml">Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites</a>
+
+<a href="ch021.xhtml">Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium</a>
+<br/>
