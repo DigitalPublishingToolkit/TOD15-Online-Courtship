@@ -43,41 +43,41 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-<a href="ch004.xhtml">Introduction</a>
+Introduction<br/>
 
-<a href="ch005.xhtml">The Pre-History of Print and Online Dating, c. 1690-1990</a>
+The Pre-History of Print and Online Dating, c. 1690-1990<br/>
 
-<a href="ch006.xhtml">Old and New Methods for Online Research: The Case of Online Dating</a>
+Old and New Methods for Online Research: The Case of Online Dating<br/>
 
-<a href="ch007.xhtml">Dating Maps: Mapping Love in Online Dating Communities</a>
+Dating Maps: Mapping Love in Online Dating Communities<br/>
 
-<a href="ch008.xhtml">The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</a>
+The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook<br/>
 
-<a href="ch009.xhtml">'Dating' or 'Escaping'? Cuban Profiles in Dating Websites</a>
+'Dating' or 'Escaping'? Cuban Profiles in Dating Websites<br/>
 
-<a href="ch010.xhtml">Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?</a>
+Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?<br/>
 
-<a href="ch011.xhtml">Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age</a>
+Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age<br/>
 
-<a href="ch012.xhtml">The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai's Targeting and Advertising</a>
+The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai's Targeting and Advertising<br/>
 
-<a href="ch013.xhtml">Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diasora in America</a>
+Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diasora in America<br/>
 
-<a href="ch014.xhtml">From Arranged to Online: A Study of Courtship Culture in India</a>
+From Arranged to Online: A Study of Courtship Culture in India<br/>
 
-<a href="ch015.xhtml">The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</a>
+The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel<br/>
 
-<a href="ch016.xhtml">Stranger Stranger or Lonley Lonely? Young Chinese and Dating Apps Between the Locational, the Mobile and the Social</a>
+Stranger Stranger or Lonley Lonely? Young Chinese and Dating Apps Between the Locational, the Mobile and the Social<br/>
 
-<a href="ch017.xhtml">What are the *Shengv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women's Personal Profiles on Jiayuan.com</a>
+What are the *Shengv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women's Personal Profiles on Jiayuan.com<br/>
 
-<a href="ch018.xhtml">Keeping it Unreal - Online Dating with Chinese Characteristics</a>
+Keeping it Unreal - Online Dating with Chinese Characteristics<br/>
 
-<a href="ch019.xhtml">Talking to Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels</a>
+Talking to Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels<br/>
 
-<a href="ch020.xhtml">Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites</a>
+Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites<br/>
 
-<a href="ch021.xhtml">Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium</a>
+Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium<br/>
 <br/
 
 # Introduction
@@ -85,17 +85,17 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 ### I. Alev Degim and James Johnson
 
 
->*“Matchmaking and introductory intermediaries, particularly for the
+>*'Matchmaking and introductory intermediaries, particularly for the
 purpose of facilitating marriage, have been a component of the
 marriage-courtship market long before the emergence of online dating. In
 addition, computers have been used for romantic matching, both
-commercially and in university settings, for over 60 years.”*[^01_intro_1]
+commercially and in university settings, for over 60 years.'*[^01_intro_1]
 
 This book aims to bring together articles across the world on online
 dating exercises as a social, economical and political phenomenon and
 define online dating as an important experience that should be
-considered as a ground for research. As the Internet’s influence on
-social life and behaviors increase [^01_intro_2],[^01_intro_3]. The virtual realm is
+considered as a ground for research. As the Internet's influence on
+social life and behaviors increase.[^01_intro_2] [^01_intro_3] The virtual realm is
 becoming our daily reality [^01_intro_4],[^01_intro_5]. So much so that dating digitally
 has permeated social networking territories from the very beginning
 stages. Looking at the changes and similarities between old and new
@@ -123,29 +123,29 @@ an overlapping of the online and real identities. This shift can visibly
 be seen in the examples of online dating and courtship websites as in
 the recent years companies specifically created for this purpose
 required real information from their users. The way media in general
-represented online dating, especially TV shows, labeled it as “unsafe”
-and “sketchy”: an article on Huffington Post sheds light on the dangers
+represented online dating, especially TV shows, labeled it as 'unsafe'
+and 'sketchy': an article on Huffington Post sheds light on the dangers
 of online dating especially for women[^01_intro_7], this stigma for online dating
 has slowly declined in media. This portrayal of online dating produced a
 stigma for the users over the years, the TV shows and other media often
-labeled users as “anti-social”: according to a 2013 report from the Pew
-Research Center, 21 percent of polled Internet users agree that “People
-who use online dating sites are desperate.”[^01_intro_8]. This type of atmosphere
+labeled users as 'anti-social': according to a 2013 report from the Pew
+Research Center, 21 percent of polled Internet users agree that "People
+who use online dating sites are desperate."[^01_intro_8]. This type of atmosphere
 however, is changing rapidly as the Social Networking Sites (that are
-defined as “... web-based services that allow individuals to (1)
+defined as "... web-based services that allow individuals to (1)
 construct a public or semi-public profile within a bounded system, (2)
 articulate a list of other users with whom they share a connection, and
 (3) view and traverse their list of connections and those made by others
-within the system.“) [^01_intro_9] are becoming an eminent part of our daily
+within the system.") [^01_intro_9] are becoming an eminent part of our daily
 lives, since they provide an online social experience that is not
-“dangerous”. The increase in these and other online social
+'dangerous'. The increase in these and other online social
 experiences[^01_intro_10] began to change the nature of daily interpersonal
 interactions. This change has allowed the users to seek intimate
-relationships online more often. “According to a recent estimate based
-on ComScore Networks’ analysis of Internet users’ browsing behavior, 40
+relationships online more often. "According to a recent estimate based
+on ComScore Networks'analysis of Internet users' browsing behavior, 40
 million Americans visited online dating sites in 2003, generating \$214
 million in revenues, making online dating the most important
-subscription-based business on the Internet.”[^01_intro_11].
+subscription-based business on the Internet."[^01_intro_11].
 
 ## Defining Online Courtship/Dating:
 
@@ -187,12 +187,12 @@ important part of online studies.
 
 The site of study then becomes the defining feature of the specific
 research. A good and functional definition of online dating sites is
-provided by Rosen et. al. as follows: “Online dating sites are all
+provided by Rosen et. al. as follows: "Online dating sites are all
 similarly structured. Participants provide a photograph and answer an
 array of questions including geographic location, age, weight or body
-type, education level, income, and other relevant demographics...”[^01_intro_24].
+type, education level, income, and other relevant demographics..."[^01_intro_24].
 The system is dependent on statistical codes running in the background
-that provide the “perfect match” for the user by looking at the
+that provide the 'perfect match' for the user by looking at the
 variables. As the sites rely on technology and the social context, the
 experience of one user will be rather different than the other (in a
 scenario where the person who uses these websites is located in a remote
@@ -206,14 +206,14 @@ in marriage (China, Turkey and India are good examples of this, see
 Vikram, Ozgun and Fu) whereas in other cultures it can become a place to
 seek one-night stands or webcam sex or to seek company to pass time.
 These different examples show the fluid nature of the experience of
-online “courtship” or “dating” within the globalizing world, as the
+online 'courtship' or 'dating' within the globalizing world, as the
 local and global definitions amalgamate in virtual environments.
 
 Digital intimacy has become a normative mode of social interaction
 within other mediums online, such as SNS and mobile applications. Rosen
 et al. gives examples of studies that have found the increase in such
 online environments: an early study shows that 75% of online-formed
-relationships became “proper relationships” [^01_intro_25]. As online dating
+relationships became 'proper relationships' [^01_intro_25]. As online dating
 becomes a prominent part of social life, it is even more crucial for
 social studies to research and analyze this phenomenon.
 
@@ -238,7 +238,7 @@ and self-disclosure strategies are adapted to gain the attention of
 potential online daters[^01_intro_26]. Singles utilize online dating interfaces
 with preset attributes, creating their online identity with identity
 markers provided by the site. Online personal ads are user-generated
-dossiers aimed to construct online daters’ identity. This scholarship
+dossiers aimed to construct online daters' identity. This scholarship
 examines online dating sites as social sites where technology sustains
 and reproduces existing gender roles. Recent online dating research also
 highlights the limitations of gender construction and the
@@ -275,29 +275,29 @@ ways they dealt with specific cases. He predicts the future of the
 research field to move forward with the introduction of social
 networking sites and other technology.
 
-Gabriele de Seta and Ge Zhang’s *Stranger Stranger or Lonely Lonely?
+Gabriele de Seta and Ge Zhang's *Stranger Stranger or Lonely Lonely?
 Young Chinese and Dating Apps between the Locational, the Mobile and the
 Social* is an ethnographic study about a location-based social app –
-Momo, and the floating population who use it. Rather than ‘a one-night
-stand mythical device’ as portrayed in media narratives, Momo users’ use
-of the mobile app emanates the immobility of “strangers” in populated
+Momo, and the floating population who use it. Rather than 'a one-night
+stand mythical device' as portrayed in media narratives, Momo users' use
+of the mobile app emanates the immobility of 'strangers' in populated
 metropolises. Studying apps specifically on online dating is a new
 approach and is a crucial part of the discussion of the contemporary
 social context of online dating.
 
 Unlike in the West, courtship and marriage convey more social pressures
 to Chinese in the dating age. Dating websites and broadcasting media
-reap millions in this gold mine. Caiyun Wen’s case study of three
+reap millions in this gold mine. Caiyun Wen's case study of three
 leading Chinese dating websites – Baihe, Jiayuan and Zhenai – brought us
-to see their “secrets” of profit making with a Chinese touch. Yann L.
+to see their 'secrets' of profit making with a Chinese touch. Yann L.
 Chin examined how *wanglian*, or online romance, is conceptualized by
-Chinese Internet users based on two key constructs: ‘Platonic emotional
-love’ and ‘play’. Her categorization of online daters as pragmatist
+Chinese Internet users based on two key constructs: 'Platonic emotional
+love' and 'play'. Her categorization of online daters as pragmatist
 fantasists, skeptics and romantic realists is more than a fun of
-oxymoron’s but an in-depth analysis of the dichotomous and
+oxymoron's but an in-depth analysis of the dichotomous and
 interconnected reality and virtuality and a modern Chinese society where
 materialistic prosperity and spiritual emptiness co-exist. Sheena Raja
-and Bryce J. Renninger’s in-depth interviews scrutinized the interplay
+and Bryce J. Renninger's in-depth interviews scrutinized the interplay
 of people, technology and media brought by globalization and its
 influence to South Asian diasporas in the New York City metro area in
 their pursuit of courtship. Computer-mediated communication remediates
@@ -310,10 +310,10 @@ activities, technology and individuals, and tradition and modernity in
 Indian society is presented to us.
 
 The ubiquitous nature of technology often blurs the lines, in some cases
-completely rewrite, society’s popular social norms. This holds true in
+completely rewrite, society's popular social norms. This holds true in
 online courtship. The emergence of online courtship has gained attention
 from media as well as new sociological and behavioral studies examining
-humans’ participation and practices in mixed mode relationships
+humans' participation and practices in mixed mode relationships
 (relationships that begin online with the expectation of an intimate
 offline encounter). This section consists of case studies examining the
 social and legal boundaries that helped shape the business of personal
@@ -339,7 +339,7 @@ tool for many Internet users. Casmiro examines the influence that gender
 has on self-presentation practices in Portuguese online dating profiles.
 This research highlights how gender roles influence self-presentation
 constructions within the Portuguese dating context. Dating practices
-reveal that dating sites serve as a door to other regions. Cuba’s
+reveal that dating sites serve as a door to other regions. Cuba's
 Internet access is one of the lowest in Latin America, inhibiting
 private use of the World Wide Web. Pino uses online dating profiles in
 conjunction with interviews, analyzing the dating practices of singles
@@ -358,7 +358,7 @@ Aires, Argentina use of Facebook as a venue for Internet dating.
 Researchers examine adolescent impression management strategies when
 romantically pursuing relationships via Facebook. Virtual Nightclub
 references this social network as a venue for adolescent matchmaking.
-Pino’s study explores the social implications of poor Internet access
+Pino's study explores the social implications of poor Internet access
 and online dating in Cuba.
 Discourse analysis is conducted on online dating profiles, in
 conjunction with interviews, analyzing the dating practices of singles
@@ -418,7 +418,7 @@ dating market has become a \$2 billion industry [^01_intro_29]. Pascal Lardellie
 explores the political economy of dating sites in France and analyzes
 the underlying structures that are at play. The commodification of love
 now assisted by the computerized technology also takes away from the
-intimate experience, monetizing the relationship. Also Reichert’s
+intimate experience, monetizing the relationship. Also Reichert's
 analysis examines the cartographic visualizations and the underlying
 structures within this system. The changing role of digital intimacy
 within the market is affecting the way we perceive relationships,
@@ -437,11 +437,11 @@ of the subject in further studies.
 
 ## References:
 
-Barraket, Jo, and Millsom S. Henry-Waring. ‘Getting it on (line)
-Sociological perspectives on e-dating.’ *Journal of Sociology* 44.2
+Barraket, Jo, and Millsom S. Henry-Waring. 'Getting it on (line)
+Sociological perspectives on e-dating.' *Journal of Sociology* 44.2
 (2008): 149-165.
 
-J. A. Bargh and K. Y. McKenna, ‘The Internet and social life.’ *Annu.
+J. A. Bargh and K. Y. McKenna, 'The Internet and social life.' *Annu.
 Rev. Psychol.*, 55, (2004): 573-590.
 
 Bauman, Z. 'Liquid Modernity, Cambridge (Reino Unido), Polity Press,
@@ -450,26 +450,26 @@ Unido), Polity Press, 2003, por Jesus M. de Miguel y Jara D. Sanchez.'
 *Revista Espanola De Investiagiones Sociologicas – Spanish Edition*.
 (110), (2005): 239-256.
 
-A. Beaulieu, ‘Mediating ethnography: objectivity and the making of
-ethnographies of the internet.’ *Social Epistemology*, 18(2-3), (2004):
+A. Beaulieu, 'Mediating ethnography: objectivity and the making of
+ethnographies of the internet.' *Social Epistemology*, 18(2-3), (2004):
 139-163.
 
-Ellison, Nicole B. ‘Social network sites: Definition, history, and
-scholarship.’ *Journal of Computer‐Mediated Communication* 13.1 (2007):
+Ellison, Nicole B. 'Social network sites: Definition, history, and
+scholarship.' *Journal of Computer‐Mediated Communication* 13.1 (2007):
 210-230.
 
-Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing
+Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. 'Managing
 impressions online: Self‐presentation processes in the online dating
-environment.’ *Journal of Computer‐Mediated Communication* 11.2 (2006):
+environment.' *Journal of Computer‐Mediated Communication* 11.2 (2006):
 415-441.
 
 E. J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S. Sprecher,
-‘Online Dating A Critical Analysis From the Perspective of Psychological
-Science.’ *Psychological Science in the Public Interest*, 13(1), (2012):
+'Online Dating A Critical Analysis From the Perspective of Psychological
+Science.' *Psychological Science in the Public Interest*, 13(1), (2012):
 3-66.
 
-Fiore, Andrew T., and Judith S. Donath. ‘Homophily in online dating:
-when do you like someone like yourself?.’ *CHI'05 Extended Abstracts on
+Fiore, Andrew T., and Judith S. Donath. 'Homophily in online dating:
+when do you like someone like yourself?.' *CHI'05 Extended Abstracts on
 Human Factors in Computing Systems*. ACM, 2005.
 
 Lovink, Geert, and Sabine Niederer. *Video vortex reader: Responses to
@@ -479,53 +479,53 @@ Lovink, Geert, and Miriam Rasch. Unlike us reader: social media
 monopolies and their alternatives. No. 8. *Institute of Network Cultures*,
 2013.
 
-J. A. Hall, N. Park, H. Song and M. J. Cody, ‘Strategic
+J. A. Hall, N. Park, H. Song and M. J. Cody, 'Strategic
 misrepresentation in online dating: The effects of gender,
-self-monitoring, and personality traits.’ Journal of Social and Personal
+self-monitoring, and personality traits.' Journal of Social and Personal
 Relationships, 27(1), (2010): 117-135.J. T. Hancock and C. L. Toma,
-‘Putting your best face forward: The accuracy of online dating
-photographs.’ *Journal of Communication*, 59(2), (2009): 367-386.
+'Putting your best face forward: The accuracy of online dating
+photographs.' *Journal of Communication*, 59(2), (2009): 367-386.
 
-Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. ‘The truth about
-lying in online dating profiles.’ *Proceedings of the SIGCHI conference
+Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. 'The truth about
+lying in online dating profiles.' *Proceedings of the SIGCHI conference
 on Human factors in computing systems*. ACM, 2007.
 
-G. J. Hitsch, A. Hortaçsu and D. Ariely, ‘What makes you click: An
-empirical analysis of online dating.’ 2005 Meeting Papers (Vol. 207).
+G. J. Hitsch, A. Hortaçsu and D. Ariely, 'What makes you click: An
+empirical analysis of online dating.' 2005 Meeting Papers (Vol. 207).
 *Society for Economic Dynamics*. (2005).
 
-Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. ‘Matching and sorting
-in online dating.’ *The American Economic Review* (2010): 130-163.
+Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. 'Matching and sorting
+in online dating.' *The American Economic Review* (2010): 130-163.
 
-C. L. Hsu, and J. C. C. Lin, ‘Acceptance of blog usage: The roles of
+C. L. Hsu, and J. C. C. Lin, 'Acceptance of blog usage: The roles of
 technology acceptance, social influence and knowledge sharing
-motivation.’ *Information & Management*, 45(1), (2008): 65-74.
+motivation.' *Information & Management*, 45(1), (2008): 65-74.
 
-Irizarry, Robert. ‘Self-efficacy and motivation effects on online
-psychology student retention.’ *Usdla Journal* 16.12 (2002): 55-64.
+Irizarry, Robert. 'Self-efficacy and motivation effects on online
+psychology student retention.' *Usdla Journal* 16.12 (2002): 55-64.
 
-Juvonen, Jaana, and Elisheva F. Gross. ‘Extending the school
-grounds?—Bullying experiences in cyberspace.’ *Journal of School health*
+Juvonen, Jaana, and Elisheva F. Gross. 'Extending the school
+grounds?—Bullying experiences in cyberspace.' *Journal of School health*
 78.9 (2008): 496-505.
 
-L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, ‘The impact of
+L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, 'The impact of
 emotionality and self-disclosure on online dating versus traditional
-dating.’ *Computers in Human Behavior*, 24(5), (2008): 2124-2157.
+dating.' *Computers in Human Behavior*, 24(5), (2008): 2124-2157.
 
-Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. ‘The Social
-Demography of Internet Dating in the United States.’ *Social Science
+Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. 'The Social
+Demography of Internet Dating in the United States.' *Social Science
 Quarterly* 91.2 (2010): 554-575.
 
-A. Vasalou and A. N. Joinson, ‘Me, myself and I: The role of
-interactional context on self-presentation through avatars.’ *Computers
+A. Vasalou and A. N. Joinson, 'Me, myself and I: The role of
+interactional context on self-presentation through avatars.' *Computers
 in Human Behavior*, 25(2), (2009): 510-520.
 
 Treske, Andreas. *The inner life of video sphere*. Amsterdam: Institute of Network
 Cultures. 2013.
 
 Toma, Catalina L., Jeffrey T. Hancock, and Nicole B. Ellison.
-‘Separating fact from fiction: An examination of deceptive
-self-presentation in online dating profiles.’ *Personality and Social
+'Separating fact from fiction: An examination of deceptive
+self-presentation in online dating profiles.' *Personality and Social
 Psychology Bulletin* 34.8 (2008): 1023-1036.
 
 S. Woolgar, (Ed.). *Virtual Society?: Technology, Cyberhole, Reality*.
@@ -539,55 +539,55 @@ The Fiscal Times. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-
 
 The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>.
 
-[^01_intro_1]: E. J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S.
-    Sprecher, ‘Online Dating A Critical Analysis From the Perspective of
-    Psychological Science.’ *Psychological Science in the Public
+[^01_intro_1]: E.J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S.
+    Sprecher, 'Online Dating A Critical Analysis From the Perspective of
+    Psychological Science.' *Psychological Science in the Public
     Interest*, 13(1), (2012): 3-66.
 
-[^01_intro_2]: J. A. Bargh and K. Y. McKenna, ‘The Internet and social life.’
+[^01_intro_2]: J.A. Bargh and K. Y. McKenna, 'The Internet and social life.'
     *Annu. Rev. Psychol.*, 55, (2004): 573-590.
 
-[^01_intro_3]: C. L. Hsu, and J. C. C. Lin, ‘Acceptance of blog usage: The roles
+[^01_intro_3]: CL. Hsu, and J. C. C. Lin, 'Acceptance of blog usage: The roles
     of technology acceptance, social influence and knowledge sharing
-    motivation.’ *Information & Management*, 45(1), (2008): 65-74.
+    motivation.' *Information & Management*, 45(1), (2008): 65-74.
 
 [^01_intro_4]: S. Woolgar, (Ed.). Virtual Society?: Technology, Cyberhole,
     Reality. *Oxford University Press*. 2002.
 
-[^01_intro_5]: A. Beaulieu, ‘Mediating ethnography: objectivity and the making of
-    ethnographies of the internet.’ *Social Epistemology*, 18(2-3),
+[^01_intro_5]: A. Beaulieu, 'Mediating ethnography: objectivity and the making of
+    ethnographies of the internet.' *Social Epistemology*, 18(2-3),
     (2004): 139-163.
 
-[^01_intro_6]: Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. ‘The
-    Social Demography of Internet Dating in the United States.’ *Social
+[^01_intro_6]: Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. 'The
+    Social Demography of Internet Dating in the United States.' *Social
     Science Quarterly* 91.2 (2010): 554-575.
 
 [^01_intro_7]: Huffington Post. [http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html](http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\_b\_2561380.html).
 
 [^01_intro_8]: The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>
 
-[^01_intro_9]: N. B. Ellison, ‘Social network sites: Definition, history, and
-    scholarship.’ *Journal of Computer Mediated Communication*, 13(1),
+[^01_intro_9]: N. B. Ellison, 'Social network sites: Definition, history, and
+    scholarship.' *Journal of Computer Mediated Communication*, 13(1),
     (2007): 210-230.
 
 [^01_intro_10]: The Independent. <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
 
-[^01_intro_11]: G. J. Hitsch, A. Hortaçsu and D. Ariely, ‘What makes you click:
-    An empirical analysis of online dating.’ 2005 Meeting Papers (Vol.
+[^01_intro_11]: G. J. Hitsch, A. Hortaçsu and D. Ariely, 'What makes you click:
+    An empirical analysis of online dating.' 2005 Meeting Papers (Vol.
     207). *Society for Economic Dynamics*. (2005).
 
-[^01_intro_12]: It is defined functionally as “a purposeful form of meeting new
-    people through specifically designed Internet sites,” Barraket, Jo,
-    and Millsom S. Henry-Waring. ‘Getting it on (line) Sociological
-    perspectives on e-dating.’ *Journal of Sociology* 44.2 (2008):
+[^01_intro_12]: It is defined functionally as 'a purposeful form of meeting new
+    people through specifically designed Internet sites,' Barraket, Jo,
+    and Millsom S. Henry-Waring. 'Getting it on (line) Sociological
+    perspectives on e-dating.' *Journal of Sociology* 44.2 (2008):
     149-165.
 
-[^01_intro_13]: Juvonen, Jaana, and Elisheva F. Gross. ‘Extending the school
-    grounds?—Bullying experiences in cyberspace.’ *Journal of School
+[^01_intro_13]: Juvonen, Jaana, and Elisheva F. Gross. 'Extending the school
+    grounds?—Bullying experiences in cyberspace.' *Journal of School
     Health* 78.9 (2008): 496-505.
 
-[^01_intro_14]: Irizarry, Robert. ‘Self-efficacy and motivation effects on online
-    psychology student retention.’ *Usdla Journal* 16.12 (2002): 55-64.
+[^01_intro_14]: Irizarry, Robert. 'Self-efficacy and motivation effects on online
+    psychology student retention.' *Usdla Journal* 16.12 (2002): 55-64.
 
 [^01_intro_15]: Lovink, Geert, and Sabine Niederer. *Video vortex reader:
     Responses to YouTube*. Amsterdam: Institute of Network Cultures,
@@ -600,50 +600,50 @@ The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-d
     monopolies and their alternatives. No. 8. *Institute of Network
     Cultures*, 2013.
 
-[^01_intro_18]: Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing
+[^01_intro_18]: Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. 'Managing
     impressions online: Self‐presentation processes in the online dating
-    environment.’ *Journal of Computer‐Mediated Communication* 11.2
+    environment.' *Journal of Computer‐Mediated Communication* 11.2
     (2006): 415-441.
 
 [^01_intro_19]: Toma, Catalina L., Jeffrey T. Hancock, and Nicole B. Ellison.
-    ‘Separating fact from fiction: An examination of deceptive
-    self-presentation in online dating profiles.’ *Personality and
+    'Separating fact from fiction: An examination of deceptive
+    self-presentation in online dating profiles.' *Personality and
     Social Psychology Bulletin* 34.8 (2008): 1023-1036.
 
-[^01_intro_20]: Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. ‘The
-    truth about lying in online dating profiles.’ *Proceedings of the
+[^01_intro_20]: Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. 'The
+    truth about lying in online dating profiles.' *Proceedings of the
     SIGCHI conference on Human factors in computing systems*. ACM, 2007.
 
-[^01_intro_21]: Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. ‘Matching and
-    sorting in online dating.’ *The American Economic Review* (2010):
+[^01_intro_21]: Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. 'Matching and
+    sorting in online dating.' *The American Economic Review* (2010):
     130-163.
 
-[^01_intro_22]: Fiore, Andrew T., and Judith S. Donath. ‘Homophily in online
-    dating: when do you like someone like yourself?.’ *CHI'05 Extended
+[^01_intro_22]: Fiore, Andrew T., and Judith S. Donath. 'Homophily in online
+    dating: when do you like someone like yourself?.' *CHI'05 Extended
     Abstracts on Human Factors in Computing Systems*. ACM, 2005.
 
-[^01_intro_23]: Fiore, Andrew T., and Judith S. Donath. ‘Homophily in online
-    dating: when do you like someone like yourself?.’ *CHI'05 Extended
+[^01_intro_23]: Fiore, Andrew T., and Judith S. Donath. 'Homophily in online
+    dating: when do you like someone like yourself?.' *CHI'05 Extended
     Abstracts on Human Factors in Computing Systems*. ACM, 2005.
 
-[^01_intro_24]: L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, ‘The impact
+[^01_intro_24]: L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, 'The impact
     of emotionality and self-disclosure on online dating versus
-    traditional dating.’ *Computers in Human Behavior*, 24(5), (2008):
+    traditional dating.' *Computers in Human Behavior*, 24(5), (2008):
     2124-2157.
 
 [^01_intro_25]: Ibid. p. 2124-2157.
 
-[^01_intro_26]: J. T. Hancock and C. L. Toma, ‘Putting your best face forward:
-    The accuracy of online dating photographs.’ *Journal of
+[^01_intro_26]: J. T. Hancock and C. L. Toma, 'Putting your best face forward:
+    The accuracy of online dating photographs.' *Journal of
     Communication*, 59(2), (2009): 367-386.
 
-[^01_intro_27]: J. A. Hall, N. Park, H. Song and M. J. Cody, ‘Strategic
+[^01_intro_27]: J. A. Hall, N. Park, H. Song and M. J. Cody, 'Strategic
     misrepresentation in online dating: The effects of gender,
-    self-monitoring, and personality traits.’ *Journal of Social and
+    self-monitoring, and personality traits.' *Journal of Social and
     Personal Relationships*, 27(1), (2010): 117-135.
 
-[^01_intro_28]: A. Vasalou and A. N. Joinson, ‘Me, myself and I: The role of
-    interactional context on self-presentation through avatars.’
+[^01_intro_28]: A. Vasalou and A. N. Joinson, 'Me, myself and I: The role of
+    interactional context on self-presentation through avatars.'
     *Computers in Human Behavior*, 25(2), (2009): 510-520.
 
 [^01_intro_29]: S. Yoder, How Online Dating Became a $2 Billion Industry, Fiscal Times, 2014. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
