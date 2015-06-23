@@ -603,9 +603,9 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 [^9_Wen-Final_12]: Navigation website refers to a collection of many web sites, to
     classify the websites according to certain conditions.
 
-[^9_Wen-Final_13]: Lei Li. ‘Dating Sites Started the New User Battle’.
+[^9_Wen-Final_13]: Lei Li, ‘Dating Sites Started the New User Battle’.
 
-[^9_Wen-Final_14]: Xiaobo Chen. ‘The Micro Film: A Visual Culture Transmutation of
+[^9_Wen-Final_14]: Xiaobo Chen, ‘The Micro Film: A Visual Culture Transmutation of
     Concept First’, Contemporary Cinema, 10(2013): 199.
 
 [^9_Wen-Final_15]: A line in the ad.

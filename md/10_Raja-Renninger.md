@@ -814,10 +814,7 @@ Rao, V.V. Prakasa and Rao, V. Nandini. *Marriage, the Family, and Women
 in India*, Delhi: Heritage, 1982.
 
 SAALT, ‘A Demographic Snapshot of South Asians in the United States’,
-July 2012.
-
-Retrieved from
-[*http://saalt.org/wp-content/uploads/2012/09/Demographic-*](http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf).
+July 2012. Retrieved from <http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf>.
 
 Seth, Nainika and Patnayakuni, Ravi. ‘Online Matrimonial Sites and the
 Transformation of Arranged Marriage in India’, in Celia Romm Livermo
@@ -825,24 +822,20 @@ Transformation of Arranged Marriage in India’, in Celia Romm Livermo
 Relationships*, Hershey, PA: IGI Global, 2011, pp. 272-93.
 
 US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved
-from
-
-[*http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf*](http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf)
+from <http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf>.
 
 [^10_Raja-Renninger_1]: Arjun Appudarai, *Modernity at Large: Cultural Dimensions of
     Globalization*, Minneapolis: University of Minnesota, 1996.
 
-[^10_Raja-Renninger_2]: Ibid.
+[^10_Raja-Renninger_2]: Arjun Appudarai, *Modernity at Large: Cultural Dimensions of
+    Globalization*.
 
 [^10_Raja-Renninger_3]: Stephanie Coontz, *Marriage, a History: How Love Conquered
     Marriage*, New York: Viking, 2005.
 
-[^10_Raja-Renninger_4]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and
-    the Transformation of Arranged Marriage in India’, in Celia Romm
-    Livermo (ed) *Gender and Social Computing: Interactions, Differences,
-    and Relationships*, Hershey, PA: IGI Global, 2011, p. 276.
+[^10_Raja-Renninger_4]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) *Gender and Social Computing: Interactions, Differences and Relationships*, Hershey, PA: IGI Global, 2011, p. 276.
 
-[^10_Raja-Renninger_5]: Ibid.
+[^10_Raja-Renninger_5]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’.
 
 [^10_Raja-Renninger_6]: Narayan Gopalkrishnan and Hurriyet Babacan, ‘Ties That Bind:
     Marriage and Partner Choice in the Indian Community in Australia in

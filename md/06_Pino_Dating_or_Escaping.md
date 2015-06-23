@@ -19,7 +19,7 @@ Keywords: online dating, social media, Institute of Network Cultures, print on d
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
-# “Dating” or “Escaping”? Cuban Profiles in Dating Websites
+# 'Dating' or 'Escaping'? Cuban Profiles in Dating Websites
 
 ### Lázaro M. Bacallao Pino
 
@@ -118,7 +118,7 @@ inclusion will allow us to have a case to compare Cuban profiles in
 dating websites with listings of contact with a more explicit sexual
 purpose, which is relevant for the analysis of the first.
 
-## Mediation of “the Cuban condition” in Profiles from Cuba in Dating Websites
+## Mediation of 'the Cuban Condition' in Profiles from Cuba in Dating Websites
 
 Relationships between real and virtual worlds -or, better, between the
 social, cultural, economic and political context of individuals and
@@ -249,7 +249,7 @@ me to be bothered by Cubans. Besides, nobody will call to Cuba from
 abroad if he has no real interest, because phone calls are very
 expensive”.[^6_Pino_Dating_or_Escaping_23]
 
-The Cuban condition -mainly its technological dimension and the
+The Cuban condition - mainly its technological dimension and the
 difficult Internet access- becomes this way a source of safety, at least
 in the opinion of the subjects. But, while some individuals make public
 their private data, other ones even prefer not to publish his/her
@@ -738,12 +738,12 @@ interpersonal, and hyperpersonal interaction', *Communication Research* 23
      <http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls>.
 
 [^6_Pino_Dating_or_Escaping_4]: United Nations, Indicators of the Millennium Development Goals,
-    2013, <http://unstats.un.org/unsd/mdg/Data.aspx>
+    2013, <http://unstats.un.org/unsd/mdg/Data.aspx>.
 
 [^6_Pino_Dating_or_Escaping_5]: Pedro Oliva, *‘International Internet Connectivity (IIC) -
     Individual Country and Organization Experiences’*, Geneva, January
     23-24, 2012,
-    <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>
+    <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>.
 
 [^6_Pino_Dating_or_Escaping_6]: Maye Primera, ‘Internet cubano a precios del “imperio”’, *El
     País*, June 5, 2013,

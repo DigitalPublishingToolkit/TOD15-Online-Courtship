@@ -2136,109 +2136,109 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Name="link" DestinationURL="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Name="link" DestinationURL="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-15" Name="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//news.xinhuanet.com/tech/2012-02/29/c_122769084.htm" Name="link" DestinationURL="http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm" Name="link" DestinationURL="http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-14" Name="http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//news.xinhuanet.com/tech/2012-02/29/c_122769084.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/tech/2012-02/29/c_122769084.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//zqb.cyol.com/content/2007-12/27/content_2011436.htm" Name="link" DestinationURL="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" Name="link" DestinationURL="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-13" Name="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//zqb.cyol.com/content/2007-12/27/content_2011436.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://zqb.cyol.com/content/2007-12/27/content_2011436.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.twitter.com/2011/09/one-hundred-million-voices.html" Name="link" DestinationURL="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.twitter.com/2011/09/one-hundred-million-voices.html" Name="link" DestinationURL="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-12" Name="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//blog.twitter.com/2011/09/one-hundred-million-voices.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://blog.twitter.com/2011/09/one-hundred-million-voices.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-11" Name="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bcg.com/media/PressReleaseDetails.aspx?id=tcm%3a12-103641" Name="link" DestinationURL="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" Name="link" DestinationURL="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-10" Name="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.bcg.com/media/PressReleaseDetails.aspx?id=tcm%3a12-103641</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//sru.soc.surrey.ac.uk/SRU31.html" Name="link" DestinationURL="http://sru.soc.surrey.ac.uk/SRU31.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html" Name="link" DestinationURL="http://sru.soc.surrey.ac.uk/SRU31.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-9" Name="http://sru.soc.surrey.ac.uk/SRU31.html" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//sru.soc.surrey.ac.uk/SRU31.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//zqb.cyol.com/content/2007-12/27/content_2011436.htm" Name="link" DestinationURL="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" Name="link" DestinationURL="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://zqb.cyol.com/content/2007-12/27/content_2011436.htm" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//zqb.cyol.com/content/2007-12/27/content_2011436.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://zqb.cyol.com/content/2007-12/27/content_2011436.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Name="link" DestinationURL="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Name="link" DestinationURL="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.sociology.cass.net.cn/shxw/qsnyj/t20041223_4103.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//sru.soc.surrey.ac.uk/SRU31.html" Name="link" DestinationURL="http://sru.soc.surrey.ac.uk/SRU31.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html" Name="link" DestinationURL="http://sru.soc.surrey.ac.uk/SRU31.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://sru.soc.surrey.ac.uk/SRU31.html" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//sru.soc.surrey.ac.uk/SRU31.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://sru.soc.surrey.ac.uk/SRU31.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Name="link" DestinationURL="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://iac.com/media-room/press-releases/china-leads-us-digital-self-expression</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.twitter.com/2011/09/one-hundred-million-voices.html" Name="link" DestinationURL="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.twitter.com/2011/09/one-hundred-million-voices.html" Name="link" DestinationURL="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://blog.twitter.com/2011/09/one-hundred-million-voices.html" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//blog.twitter.com/2011/09/one-hundred-million-voices.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://blog.twitter.com/2011/09/one-hundred-million-voices.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" Name="link" DestinationURL="http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" Name="link" DestinationURL="http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/tech/2012-02/29/c\_122769084.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.bcg.com/media/PressReleaseDetails.aspx?id=tcm%3a12-103641" Name="link" DestinationURL="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" Name="link" DestinationURL="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.bcg.com/media/PressReleaseDetails.aspx?id=tcm%3a12-103641</Destination>
+      <Destination type="object">HyperlinkURLDestination/http://www.bcg.com/media/PressReleaseDetails.aspx?id=tcm:12-103641</Destination>
     </Properties>
   </Hyperlink>
 </Document>

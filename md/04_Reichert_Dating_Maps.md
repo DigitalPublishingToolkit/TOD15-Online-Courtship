@@ -19,7 +19,7 @@ Keywords: online dating, social media, Institute of Network Cultures, print on d
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
-# Dating Maps. Mapping Love in Online Dating Communities
+# Dating Maps: Mapping Love in Online Dating Communities
 
 ### Ramón Reichert
 
@@ -594,26 +594,23 @@ Graphics’, IEEE Transactions 12.5 (2006): 677-684.
 Nomata, Yuya and Hoshino, Junichi. ‘Social Landscapes: Visual Interface
 to Improve Awareness in Human Relationships on Social Networking Sites’.
 ICEC, Volume 4161, Lecture Notes in Computer Science. Ed. Richard
-Harper, Matthias Rauterberg, Marco Combetto, New York, Springer, 2006,
-pp.350-353.
+Harper, Matthias Rauterberg, Marco Combetto, New York, Springer, 2006.
 
 Reichert, Ramón. *Amateure im Netz. Selbstmanagement und Wissenstechnik
 im Web 2.0*, Bielefeld: transcript, 2008.
 
 Reichert, Ramón. ‘Social Media Storytelling’, in: Bernd Kracke, Marc
-Ries (eds.): *Expanded Narration*, Bielefeld: transcript, 2013, pp.
-341-358.
+Ries (eds.): *Expanded Narration*, Bielefeld: transcript, 2013.
 
 Strathern, Marilyn. *Audit Cultures: Anthropological Studies in
 Accountability, Ethics and the Academy*, London: Routledge, 2000.
 
 Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
 2014.
-<http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/>
+<http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/>.
 
-[^4_Reichert_Dating_Maps_1]: Wolfgang Ernst. Jenseits des Archivs: Bit Mapping.
-    <http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/>
-    2007
+[^4_Reichert_Dating_Maps_1]: Wolfgang Ernst, Jenseits des Archivs: Bit Mapping, 2007.
+    <http://www.medienkunstnetz.de/themen/medienkunst_im_ueberblick/>
 
 [^4_Reichert_Dating_Maps_2]: Ramón Reichert, *Amateure im Netz. Selbstmanagement und
     Wissenstechnik im Web 2.0*, Bielefeld: transcript, 2008, pp. 124-129.
@@ -657,10 +654,10 @@ Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
 
 [^4_Reichert_Dating_Maps_13]: Ramón Reichert, ‘Social Media Storytelling’. Expanded Narration.
     Ed. Bernd Kracke, Marc Ries, Bielefeld: transcript, 2013,
-    pp.341-358.
+    pp. 341-358.
 
 [^4_Reichert_Dating_Maps_14]: Michel Foucault,*Dits et écrits IV*, Paris: Gallimard, 1994,
-    p.237.
+    p. 237.
 
 [^4_Reichert_Dating_Maps_15]: Matthew Causey, *Theatre and Performance in Digital Culture: From
     Simulation to Embeddedness*, London/New York: Routledge, 2006.

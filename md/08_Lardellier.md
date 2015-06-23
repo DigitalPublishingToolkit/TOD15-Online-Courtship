@@ -25,13 +25,13 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 ## Introduction
 
-The Internet and dating websites have had a strong impact on the nature
+The internet and dating websites have had a strong impact on the nature
 of seductive relationships over a short period of time. This statement,
 which is not strictly deterministic, is based on a series of
 observations. Over the last 15 years or so, new means of meeting,
 flirting and falling in love have appeared -- all behind multiple
 screens. The traditional methods and timescale of seduction have been
-turned upside down. On the Internet you become acquainted with others
+turned upside down. On the internet you become acquainted with others
 from the inside out and many fall in love with these ‘strangers.’ In
 1998, the movie *You’ve Got Mail* very explicitly put a story and
 images to this new phenomenon.
@@ -40,13 +40,13 @@ In 2012, the American actor-director John Malkovich pitched a
 contemporary production of the famous novel of Choderlos de Laclos,
 *Liaisons dangereuses*, in Paris. Malkovich, who in 1989 played the
 Vicomte de Valmont for producer Stephan Frears, has adapted this classic
-piece to the Internet generation. In this production, social networks
+piece to the internet generation. In this production, social networks
 (Facebook, Twitter), smartphones, and texting all play important roles.
 It is always interesting to observe the impact of different technical
 interfaces on the way we fall in love. Each historical period brings its
 own combination of its values and approaches to love. Malkovich’s
 Parisian adaptation shows that the role of the written word in seduction
-and relationships is reinforced through the use of the Internet. Of
+and relationships is reinforced through the use of the internet. Of
 course, as in the ‘classic’ age of love, we still find cynicism,
 hypocrisy, lies, and manipulation. But now, they are all technologically
 assisted.
@@ -59,7 +59,7 @@ marketing”.
 This chapter will begin by analyzing the manner in which liberalism has
 established itself as the dominant new ideology of postmodern
 romantic/seductive relationships. Liberalism is implicitly present in
-the discourse of those on the Internet as much as it is in their online
+the discourse of those on the internet as much as it is in their online
 habits. This observation is based on surveys conducted on the subject by
 the author, in the French-speaking world, over the past ten years. The
 chapter will then discuss this phenomenon in the light of more general
@@ -81,7 +81,7 @@ developed by the author, who has experience working in this field.
 ## The Victory of Liberalism in Romantic Relationships
 
 First of all, it should be remembered that romantic/seductive
-relationships on the Internet have notable differences from those in
+relationships on the internet have notable differences from those in
 real life. Online, you do not see who you are speaking to, and you do
 not know him or her because he or she is hidden behind a pseudonym and a
 screen. Likewise, things often move faster than in real life, where the
@@ -89,11 +89,11 @@ temporality of seduction is often rather slow. In recent years, many
 authors have noted that digitized relationships are becoming subject to
 liberalism[^8_Lardellier_2] considered both as an economic doctrine and as a
 collection of values and ideology. They see relationships in the
-Internet age as commodities, governed by the principles of
+internet age as commodities, governed by the principles of
 utilitarianism. To say that this economic theory is gaining the domain
 of human relationships is more than just a metaphor. If we take certain
 expressions literally, they can be incidentally revealing. On the
-subject of dating websites, the Internet users interviewed spontaneously
+subject of dating websites, the internet users interviewed spontaneously
 alluded to: a “shopping for love,” a “supermarket,” “business and
 commerce,” “unrestrained sexual consumption,” and a “store front window
 for singles.” There are many who said that they choose a partner “like
@@ -101,7 +101,7 @@ you would pick a yogurt, or any product, shopping cart in hand.” In
 short, “people have the impression of becoming merchandise” once they
 sign up for a dating website. Some, disappointed by these sites, even
 mention prostitution, “since you pay to have relationships with a
-stranger”…. These lexical clichés from the users themselves are all
+stranger”… These lexical clichés from the users themselves are all
 inspired by their experiences on existing dating websites.
 
 Romantic encounters have thus become a market selling singles the
@@ -126,7 +126,7 @@ market appeared to have split. It began to offer websites based on
 certain criteria such as ethnicity, religion, sociocultural status, and
 socioeconomic background.
 
-Likewise, on the Internet, relationships are liberalized. We see all
+Likewise, on the internet, relationships are liberalized. We see all
 major principles of economic markets: an abundance of offers,
 rationalization of the search for love, selective targeting, the ability
 to choose from many offers, and the standardization of ‘products.’
@@ -219,7 +219,7 @@ a digital exit does not cost anything in terms of face. However, there
 is fierceness in competition that is not specific to the virtual world
 and that can cause what psychoanalysts call a narcissistic injury: the
 feeling you are left with after an emotionally-invested relationship is
-terminated. But the Internet allows you to “move on to the next one.”
+terminated. But the internet allows you to “move on to the next one.”
 
 It is the overall system of dating sites which causes this consumption
 trend. You make the most rational and judicious choice, generate traffic
@@ -297,9 +297,9 @@ globalization of the dating market could have notable results. Western
 women already have a difficult time finding men who fulfill their
 expectations. As for Western men, even though they are seduced by
 dynamic women, some may prefer a woman who is not too demanding to
-ensure calm on the home front and thus […] turn towards the
+ensure calm on the home front and thus (…) turn towards the
 international market to buy submission, youth, and beauty, ignoring the
-independent, degree-bearing women in their country. […] However, the
+independent, degree-bearing women in their country. (…) However, the
 poor men in the West are still having a difficult time finding
 spouses.”[^8_Lardellier_7] The global singles market was created by dating sites and
 founded on economic principles. Feelings are not completely absent, but
@@ -310,7 +310,7 @@ set to remain a global game.
 
 This part of the chapter will expand the frame of analysis so as to
 offer more general sociological and philosophical considerations about
-the new types of couples found in the Internet era.
+the new types of couples found in the internet era.
 
 ### Singles Enduring Paradoxical Tensions
 
@@ -334,7 +334,7 @@ registered for dating sites.
 
 ### The Traditional Couple Transformed by Information and Communication Technologies
 
-In all cases, Internet suitors conform to a procedure which, for the
+In all cases, internet suitors conform to a procedure which, for the
 first time ever, reverses the chronology of events: they become
 acquainted with one another before meeting, thus discovering each other
 from the inside out. When they meet, they sleep together very quickly if
@@ -344,21 +344,21 @@ traditional points of reference. They have to invent a new relationship
 code, an unprecedented feat in the history of humanity as well as that
 of romantic relationships.
 
-The Internet offers a solution for finding your soulmate, but on
+The internet offers a solution for finding your soulmate, but on
 condition that you can escape being caught in the fringe. You frequently
 move to the other side of the screen. Remember that in Ovid’s
 *Metamorphosis,* Pygmalion commits himself to a virtual relationship
 (even then!), with his beautiful statue, Galatea. From one illusion to
 another, Narcissus prefers himself over even the tender love of the muse
 Echo, until his self-admiration becomes his own death. And how many are
-there on the Internet who put on this performance and who gaze at the
+there on the internet who put on this performance and who gaze at the
 raving comments and gratification of others? “A relationship put in the
-public eye via the Internet can allow someone to be satisfied with more
+public eye via the internet can allow someone to be satisfied with more
 or less success than the profound human need of having relationships and
 simultaneously promoting, in his or her own mind, a paranoid withdrawal,
 thus avoiding all forms of intersubjective commitment.”[^8_Lardellier_8] This is true
 because the web is all-powerful and allows you to fight against
-anxieties and frustrations. An Internet connection can be compared to an
+anxieties and frustrations. An internet connection can be compared to an
 umbilical cord; it nourishes, calms, and relies on reassurance. New
 technologies, in a broad sense, have become the preferred source of
 pleasure for people from 25-49, even before sex.[^8_Lardellier_9]
@@ -372,7 +372,7 @@ Significantly over half of romantic encounters among thirty-year-olds
 are arranged by websites.
 
 The model of the traditional couple is called into question by
-information and communication technologies. Clearly, the Internet
+information and communication technologies. Clearly, the internet
 ‘produces’ a good amount of couples. But, as a consequence, it also
 produces ‘defeats,’ as digital suitors reconnect for digital adultery,
 polygamy and ‘sexfriending.’ These sites have given birth to a type of
@@ -382,7 +382,7 @@ cynical – and occasionally hurtful in this regard. Our current era is
 one of mass sexual and romantic consumption. We take, we make the most
 of things, we enjoy those things, and we throw those things away. Of
 course, we must not forget the numerous beautiful love stories which
-also have their origin the Internet. However, those involved in these
+also have their origin the internet. However, those involved in these
 stories often encountered disappointment and suffering before finally
 finding a soulmate. This is due to the prevailing cynicism and the
 unpleasant impression of being referred to like a supermarket product,
@@ -390,7 +390,7 @@ as others flip through a thick catalog full of people to be ‘consumed.’
 
 We do not look at it all in a moral sense: there is not only frustration
 or disgust in romantic and sexual consumption being industrialized by
-the Internet. There are many who take great pleasure in the Internet and
+the internet. There are many who take great pleasure in the internet and
 use it for adventures and sexual experimentation. They live in ‘sensual
 parentheses,’ filled with pleasure in order to break away from the
 monotony of life. Since you can seduce or be seduced online, and almost
@@ -400,7 +400,7 @@ amount of time, it does not mean that it will exist forever. After
 experimenting with the first option of dating sites, sex, many users set
 their hearts on the second promise: to find ‘true love.’
 
-But even in this case, it becomes complicated, since the Internet
+But even in this case, it becomes complicated, since the internet
 creates stress but also reassures. Matchmaking technology has
 effectively opened an era of interchangeable options for romance. Not
 one, not ten, but hundreds or even thousands have found their
@@ -409,7 +409,7 @@ there, additionally, who brag and count their dozens of simultaneous
 affairs and hundreds of ‘one night stands’? “If the abundance of
 possibilities can be reassuring, it can also take on the form of an
 indefinite, never-ending quest. You are compulsively drawn back to the
-Internet, in a kind of stressful addiction. That is to say that you
+internet, in a kind of stressful addiction. That is to say that you
 embark upon a quest which is not only continuous, but one in which what
 you do not always know what you are searching for.”[^8_Lardellier_10]
 
@@ -419,11 +419,11 @@ Nowadays, love is a fixed-term contract. But couples who have signed a
 permanent contract can also fall apart due to the arrival of information
 and communication technologies. These technologies could, at any moment,
 bring about unsettling news, requests, or make you want to discretely
-have a look around the Internet. We have never previously had to see our
+have a look around the internet. We have never previously had to see our
 exes and teen romances again as much as now, in an era where we can find
 them three clicks and a few seconds later.
 
-The Internet has introduced a sovereign restlessness to couples, most
+The internet has introduced a sovereign restlessness to couples, most
 notably in couples who met online. A little flaw in your partner? A bug,
 an argument? Hit a rough spot? Well, there is now the enormous
 temptation to reconnect so as to restart the search for virtual
@@ -439,13 +439,13 @@ Marcel Proust, in his novel *Albertine disparue*, exemplifies this idea:
 had been in another city when we met, if we had walked in another
 neighborhood, if we had gone to another salon. Do we really think that
 she is unique? She is just one of countless many”…and how many are there
-on the Internet, sending notifications to others about going out for a
+on the internet, sending notifications to others about going out for a
 coffee, a drink, or going on a date, and never seeing this person again?
-On the Internet, many romances end every day before even starting.
+On the internet, many romances end every day before even starting.
 Singles who try to pick up others online know this after having come
 across many people with whom a nice love story would have been possible.
 Multiply this by millions, and this sensation contributes to making the
-generation of Internet lovers nostalgic, yet disillusioned in facing the
+generation of internet lovers nostalgic, yet disillusioned in facing the
 brutality of technologically advanced and liberalized relationships.
 They face so many failures, and do this all while confronting the
 fragility of connections and the difficulty of creating a strong couple
@@ -458,10 +458,10 @@ in a period of change. From Ovid’s *The Art of Love*, a straightforward
 manual on how to pick up others, to Plato’s *Symposium* and its origin
 in tight-bonded relationships and hesitant love -- choosing one shortly
 after the other, even if they were not necessarily accepted in their
-eras. The Internet and dating sites have allowed us to opt for the
+eras. The internet and dating sites have allowed us to opt for the
 sentimental-sexual model of interchangeability and ‘getting around,’ but
 only for a certain time. Despite the cynics and those who’ve been
-disappointed, a lot of singles on the Internet are convinced that a
+disappointed, a lot of singles on the internet are convinced that a
 special person is hidden just behind a screen and that they will finally
 be in contact, like the androgynous couples of Plato. We finally see
 that the liberal ideology that we find on dating sites is
@@ -471,80 +471,79 @@ influence.
 In 2014, those searching for love try to catch Venus or Cupid, the
 mythical gods of desire and love, thanks to technology. And indeed, they
 occasionally offer love to those who are constantly looking for it.
-Then, it is left to the Internet lovers to learn how to work together
+Then, it is left to the internet lovers to learn how to work together
 until they become a real couple. Thus, the most difficult part begins.
-The Internet, which allows us to quickly create a bond with others, can
+The internet, which allows us to quickly create a bond with others, can
 even more abruptly break this same bond. And so we see the history of
 romantic relationships: never ending, always reinvented, continuing to
 write itself.
 
 ## References
 
-Zygmunt Bauman, *Liquid Love: On the Frailty of Human Bonds*, Cambridge: Polity Press,
-2003.
+Bauman, Zygmunt. *Liquid Love: On the Frailty of Human Bonds*, Cambridge: Polity Press, 2003.
 
-Dominique Baqué, Paris, *E-Love. Petit marketing de la rencontre*, Anabet,
+Baqué, Dominique. *E-Love. Petit marketing de la rencontre*, Paris: Anabet,
 2008.
 
-Marie Bergström, ‘La loi du Supermarché? Sites de Rencontres et
+Bergström, Marie. ‘La loi du Supermarché? Sites de Rencontres et
 Représentations de L'amour ‘, P.U.F. *Ethnologie Française*, 3. 43, (2013:
 )433- 442.
 
-Elisabeth Bernstein, *Temporarily Yours. Intimacy, Authenticity and the
+Bernstein, Elisabeth. *Temporarily Yours. Intimacy, Authenticity and the
 Commerce of Sex*, Chicago: University of Chicago Press, 2007.
 
-Gargi Bhattacharyya, *Sexuality and Society. An Introduction*, London/New York: Routledge, 2002.
+Bhattacharyya, Gargi. *Sexuality and Society. An Introduction*, London/New York: Routledge, 2002.
 
-Serge Chaumier, *La Déliaison Amoureuse. De la Fusion Romantique au Désir
+Chaumier, Serge. *La Déliaison Amoureuse. De la Fusion Romantique au Désir
 D’indépendance*, Paris: Armand Colin, 1999.
 
-Philippe Combessie, Sibylla Mayer, ‘Une Nouvelle économie des Relations
-Sexuelles?’ Ethnologie Française, Sexualités Négociées, Presses
-Universitaires de France, 2013.
+Combessie, Philippe and Sibylla Mayer, ‘Une Nouvelle économie des Relations
+Sexuelles?’ Ethnologie Française, Sexualités Négociées, *Presses
+Universitaires de France*, 2013.
 
-John Gagnon and William Simon, *Sexual Conduct. The Social Sources of
+Gagnon, John and William Simon, *Sexual Conduct. The Social Sources of
 Human Sexuality*, Chicago: Aldine, 1973.
 
-Anthony Giddens, *The Transformation of Intimacy : Sexuality, Love and
+Giddens, Anthony. *The Transformation of Intimacy : Sexuality, Love and
 Eroticism in Modern Societies*, Stanford, CA: Stanford University Press, 1992, 2004.
 
-Mark Granovetter, ‘The Strength of Weak Ties :A Network Theory
+Granovetter, Mark. ‘The Strength of Weak Ties :A Network Theory
 Revisited’, *Sociological Theory* 1. (1983): 201-233.
 
-Eva Illouz, *Consuming the Romantic Utopia: Love and the Cultural
+Illouz, Eva. *Consuming the Romantic Utopia: Love and the Cultural
 Contradictions of Capitalism*, Berkeley: University of California Press,
 1997.
 
-Eva Illouz, *Why Love Hurts : A Sociological Explanation*, Cambridge: Polity Press, 2011.
+Illouz, Eva. *Why Love Hurts : A Sociological Explanation*, Cambridge: Polity Press, 2011.
 
-Eva Illouz, ‘Réseaux Amoureux sur Internet’, *Réseaux* 138. 2006:
+Illouz, Eva. ‘Réseaux Amoureux sur Internet’, *Réseaux* 138. 2006:
 269-272.
 
-Eva Illouz, *Cold Intimacies : The Making of Emotional Capitalism*,
+Illouz, Eva. *Cold Intimacies : The Making of Emotional Capitalism*,
 Cambridge: Polity Press, 2007.
 
-Jean-Claude Kaufmann, *Sex@mour*, Paris: Armand Colin, 2010.
+Kaufmann, Jean-Claude. *Sex@mour*, Paris: Armand Colin, 2010.
 
-Emmanuel Kessous, ‘L’amour en Projet. Internet et les Conventions de la
+Kessous, Emmanuel. ‘L’amour en Projet. Internet et les Conventions de la
 Rencontre Amoureuse’, *Réseaux* 166. (2011) : 191-223.
 
-Pascal Lardellier. ‘De la Consommation Sentimentale et Sexuelle de Masse
+Lardellier, Pascal. ‘De la Consommation Sentimentale et Sexuelle de Masse
 à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), @mours
 virtuelles. Conjugalité et Internet, Louvain-la-Neuve,
 Academia-Bruylandt, (2009): 17-41.
 
-Pascal Lardellier, Le coeur Net. Célibat et @mours sur le Web, Paris,
+Lardellier, Pascal. Le coeur Net. Célibat et @mours sur le Web, Paris,
 Belin, 2004.
 
-Pascal Lardellier, Les Réseaux du Cœur. Sexe, Amour et Séduction sur
+Lardellier, Pascal. Les Réseaux du Cœur. Sexe, Amour et Séduction sur
 Internet, Paris, François Bourin, 2012.
 
-Niklas Luhmann, *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
+Luhmann, Niklas. *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
 
-Marc Parmentier, ‘Philosophie des sites de rencontres’, Hermès.
+Parmentier, Marc. ‘Philosophie des sites de rencontres’, Hermès.
 59.(2011) : 173-178, 2011.
 
-Martin King, *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
+King, Martin. *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
 
 [^8_Lardellier_1]: *cf*. bibliography, Lardellier
 
@@ -569,7 +568,7 @@ Martin King, *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter,
 
 [^8_Lardellier_7]: J.- C. Kaufmann, *Sex@mour*, Albin Michel, 2010, Paris, p. 192.
 
-[^8_Lardellier_8]: Michael Civin, Psychanalyse du Net, *op. cit*. p. 46-47.
+[^8_Lardellier_8]: Michael Civin, Psychanalyse du Net, *op. cit*. pp. 46-47.
 
 [^8_Lardellier_9]: According to an Ipsos Survey, quoted by *Télérama* n° 3072,
     November 2008, the main source of pleasure for 39% of respondents is
