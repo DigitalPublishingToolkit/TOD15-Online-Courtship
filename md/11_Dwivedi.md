@@ -71,16 +71,17 @@ religion. Now there is love, love-arranged, arranged-love, inter-caste,
 inter-religion, court-marriage and live-in relationship. Moreover, most
 of these marriages are arranged online.
 
-The chapter addressed the following research questions: (1) What is the
+This chapter addressed the following research questions: 
+1. What is the
 magnitude of modern technology against the societal traditions in India?
 Especially, on these three online matrimonial sites, how do they
 penetrate in the complex social practices confrontational or
 supplementary to old traditional searching practices?
 
-\(2) How do family and individual differ in their opinions for searching
+2. How do family and individual differ in their opinions for searching
 a partner?
 
-\(3) What technological, individual, and family factors are associated
+3. What technological, individual, and family factors are associated
 with the online searching practices?
 
 This study has three components: a. Assessing trends and patterns of
@@ -181,9 +182,9 @@ opportunities to meet people they would not have otherwise met.”[^11_Dwivedi_1
 Online partner searchers on matrimonial sites are of six types: married,
 divorced, single, widowed, awaiting divorce, and annulled.
 
-**Figure 1** Online partner searchers
 
 ![Figure 1](imgs/Dwivedi-marriagetypes-01.jpg)
+Figure 1 Online partner searchers
 
 The online matrimonial sites work as a bridge in their search to place
 them from a stage without a partner to where they have a partner. The
@@ -312,7 +313,7 @@ pay the refund of entire fee without question. The customers can also
 follow the CEO on Twitter and on his blog. The SSL[^11_Dwivedi_25] encryption
 technology secures the payment transactions and makes the customer’s
 buying experience easier and more enjoyable. The plans start from three
-months for \$ 62 to one year for \$ 170.
+months for \$62 to one year for \$170.
 
 BharatMatrimony.com was probably the first to provide community-specific
 searching experience in regional languages. Established in 1997,
@@ -327,7 +328,7 @@ according to the Brand Trust Report 2014.[^11_Dwivedi_27] It has launched two ne
 sections, namely assisted matrimony, a personalized match making
 service, and elite matrimony, for the rich and affluent, to serve and
 cover all types of online searchers. There are various paid packages
-ranging from \$ 62 to \$ 615 with duration from three to nine months.
+ranging from \$62 to \$615 with duration from three to nine months.
 The website directs various payment options, for example, credit card,
 debit card, net banking, and free door step collection. This matrimonial
 site provides free SMS alerts and voice messages.
@@ -335,15 +336,15 @@ site provides free SMS alerts and voice messages.
 It is a recent venture of a job searching site *Naukari.com,* initiated
 in September 2004, to serve northern and western Indian communities.
 Jeevansathi.com provides up to one-year paid packages services starting
-from US\$ 50 to US\$ 500. The company, along with regular registered
+from US\$50 to US\$500. The company, along with regular registered
 account, also advertizes the profiles of HIV positives, Thalassemia
 Major, physically handicapped, and cancer survivors, for whom searching
 a life partner is a challenge. This indicates how deeply technology
 penetrates in the complex social structures.
 
-**Table 1 Popularity of Matrimonial Sites in India**[^11_Dwivedi_28]
 
 ![Figure 2](imgs/Dwivedi-matrimonysite-table-02.jpg)
+Table 1 Popularity of Matrimonial Sites in India[^11_Dwivedi_28]
 
 ## Methodology
 
@@ -367,8 +368,7 @@ the author resides. This research also makes use of
 participant-observation[^11_Dwivedi_30] method in the study. The data were
 collected through 150 feedbacks, mostly testimonies of the users; and
 content, such as 50 personal profiles, and 50 language samples on
-matrimonial sites. The participants in the study had income between US\$
-1, 500 and US\$ 5, 000 per month. The interpretation of data was based
+matrimonial sites. The participants in the study had income between US\$1,500 and US\$5,000 per month. The interpretation of data was based
 on how the use of new technology depends on the interaction between the
 technology, the user and the organizational environment.
 
@@ -419,8 +419,8 @@ updating option never allows the information shared by the users to
 become obsolete. The searchers can get more detailed information about
 the prospective partner.
 
-*I got his request, saw the profile … … … Our families met and by the
-end of our third meeting we did *roka**[^11_Dwivedi_32] *… … … on 27th feb 2014.
+*I got his request, saw the profile… Our families met and by the
+end of our third meeting we did *roka*[^11_Dwivedi_32]… on 27th feb 2014.
 Very happy to have found him.*
 
 Another profile says:
@@ -578,8 +578,6 @@ the users of the matrimonial sites were not satisfied. Table 2
 summarizes the differences between online and offline partner search
 practices.
 
-**Table 2** Comparing offline generation to online generation in partner
-search
 
 Characteristics | Offline Generation | Online Generation
 --- | --- | --- 
@@ -600,6 +598,8 @@ Ties (Caste and Religion) | Rigid | Flexible
 Chances of understanding each other before marriage | Less | More
 Participation | Less | More
 
+**Table 2** Comparing offline generation to online generation in partner
+search
 
 ## Limitations
 
@@ -763,7 +763,7 @@ Human Behavior, 2007: 1-17.
 [^11_Dwivedi_24]: Jiban K. Pal, ‘Social Networks Enabling Matrimonial Information
     Services in India’.
 
-[^11_Dwivedi_25]: Secure Sockets Layer
+[^11_Dwivedi_25]: Secure Sockets Layer.
 
 [^11_Dwivedi_26]: Bharat Matrimony, 2014.
 
@@ -787,7 +787,7 @@ Human Behavior, 2007: 1-17.
     of relationship between the two families. It includes the family
     members and close relatives of the prospective bride and groom.
 
-[^11_Dwivedi_33]: A connotation in Indian English means ‘not virtuous.’
+[^11_Dwivedi_33]: A connotation in Indian English means 'not virtuous'.
 
 [^11_Dwivedi_34]: Women generally go for economically secure groom while men want a
     beautiful wife. Women want a groom working in either Indian
