@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # The Pre-History of Print and Online Dating, c. 1690-1990
 
-### H. G Cocks
+### H.G. Cocks
 
 It is often argued that the rise of online dating reflects the
 increasing dominance of economic liberalism in western societies. This
@@ -594,8 +594,12 @@ Present, Oxford, Oxford University Press, 1985.
 Goody, Jack. The European Family: A Historico-Anthroplogical Essay,
 Oxford, Blackwell, 2000.
 
+*Jeffrey* no. 1 and no. 2 (1973), p. 22.
+
 Macfarlane, Alan. Marriage and Love in England, Modes of Reproduction
 1300-1840, Oxford, Blackwell, 1986.
+
+(Matrimonial Adlets), *The Sun*, 31 July 1893, p. 4.
 
 Matrimonial Advertisements, Private Collection, 1740-1859, British
 Library.
@@ -613,20 +617,15 @@ Quilter, Harry. (ed.) Is Marriage a Failure?, London, Swan Sonnenschein,
 Stone, Lawrence. The Family, Sex and Marriage in England 1500-1800,
 London, 1977.
 
+(The Alleged Matrimonial Frauds), *(London) Times*, 3 December 1895, p. 12; ‘Police’, Times, 1 January 1896, p. 14; Times,3, 18, 24 December 1895, 12; 8, 29, January; 29 February; 2 March 1896.
+
+(The Answer to the Marriage Muddle), Sunday Pictorial, 18 April 1948, p. 4.
+
+(Who Will Marry Phyllis Monkman, A Chance for Single Men), *Pearson’s Weekly*, 8 July 1916, p. 67.
+
 Wrigley, E. A., and R. S. Schofield. The Population 1541-1871, London,
 Edward Arnold, 1981.
 
-Newspapers and Periodicals
-
-Jeffrey
-
-Pearson’s Weekly (London)
-
-The Times (London)
-
-Sun (London)
-
-Sunday Pictorial (London)
 
 [^2_Cocks_Pre-History_1]: Lawrence Stone, *The Family, Sex and Marriage in England 1500-1800*,
     London: Weidenfeld & Nicolson, 1977; Alan Macfarlane, *Marriage and Love in England, Modes
@@ -670,8 +669,8 @@ Sunday Pictorial (London)
 
 [^2_Cocks_Pre-History_12]: On the German press see Karl-Christian Fuhrer, *Contradicting
     Nazi Propaganda: Classified Advertisements as Documents of Jewish
-    Life in Nazi Germany, 1933-1938*, Media History 18, 1 (February
-    2012): pp. 65-76.
+    Life in Nazi Germany, 1933-1938*, Media History 18:1 (February
+    2012): 65-76.
 
 [^2_Cocks_Pre-History_13]: Twenty-two different papers are listed in the British Library
     catalogue but others are mentioned in different sources, so the
@@ -702,10 +701,9 @@ Sunday Pictorial (London)
 [^2_Cocks_Pre-History_20]: ‘Friendship Clubs’, Mass Observation Archive, University of
     Sussex, TC 12 Box 16 File E.
 
-[^2_Cocks_Pre-History_21]: ‘The Answer to the Marriage Muddle,’ Sunday Pictorial, 18 April
-    1948, 4.
+[^2_Cocks_Pre-History_21]: ‘The Answer to the Marriage Muddle,’ Sunday Pictorial, 18 April 1948, p. 4.
 
 [^2_Cocks_Pre-History_22]: For instance in articles by Bernard Levin, Times, 21 and 22 June
     1972. See also “International Times”, NA UK, DPP 2/4338.
 
-[^2_Cocks_Pre-History_23]: *Jeffrey* no. 1 and no.2 (1973), p. 22.
+[^2_Cocks_Pre-History_23]: *Jeffrey* no. 1 and no. 2 (1973), p. 22.
