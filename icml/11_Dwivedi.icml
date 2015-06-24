@@ -54,6 +54,21 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph" Name="Italic &gt; Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; beginsWith-2 &gt; Paragraph" Name="NumList &gt; beginsWith-2 &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/NumList &gt; first &gt; beginsWith-2 &gt; Paragraph" Name="NumList &gt; first &gt; beginsWith-2 &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -232,17 +247,17 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The chapter addressed the following research questions: (1) What is the magnitude of modern technology against the societal traditions in India? Especially, on these three online matrimonial sites, how do they penetrate in the complex social practices confrontational or supplementary to old traditional searching practices?</Content>
+    <Content>This chapter addressed the following research questions: 1. What is the magnitude of modern technology against the societal traditions in India? Especially, on these three online matrimonial sites, how do they penetrate in the complex social practices confrontational or supplementary to old traditional searching practices?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange NumberingStartAt="2" AppliedParagraphStyle="ParagraphStyle/NumList &gt; first &gt; beginsWith-2 &gt; Paragraph" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>(2) How do family and individual differ in their opinions for searching a partner?</Content>
+    <Content>How do family and individual differ in their opinions for searching a partner?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; beginsWith-2 &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>(3) What technological, individual, and family factors are associated with the online searching practices?</Content>
+    <Content>What technological, individual, and family factors are associated with the online searching practices?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -552,14 +567,6 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Figure 1</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Online partner searchers</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>
@@ -584,6 +591,9 @@
         <Link Self="ueb" LinkResourceURI="file:imgs/Dwivedi-marriagetypes-01.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Figure 1 Online partner searchers</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -892,13 +902,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Secure Sockets Layer</Content>
+          <Content>Secure Sockets Layer.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> encryption technology secures the payment transactions and makes the customer’s buying experience easier and more enjoyable. The plans start from three months for $ 62 to one year for $ 170.</Content>
+    <Content> encryption technology secures the payment transactions and makes the customer’s buying experience easier and more enjoyable. The plans start from three months for $62 to one year for $170.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -955,7 +965,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> It has launched two new sections, namely assisted matrimony, a personalized match making service, and elite matrimony, for the rich and affluent, to serve and cover all types of online searchers. There are various paid packages ranging from $ 62 to $ 615 with duration from three to nine months. The website directs various payment options, for example, credit card, debit card, net banking, and free door step collection. This matrimonial site provides free SMS alerts and voice messages.</Content>
+    <Content> It has launched two new sections, namely assisted matrimony, a personalized match making service, and elite matrimony, for the rich and affluent, to serve and cover all types of online searchers. There are various paid packages ranging from $62 to $615 with duration from three to nine months. The website directs various payment options, for example, credit card, debit card, net banking, and free door step collection. This matrimonial site provides free SMS alerts and voice messages.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -966,29 +976,7 @@
     <Content>Naukari.com,</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> initiated in September 2004, to serve northern and western Indian communities. Jeevansathi.com provides up to one-year paid packages services starting from US$ 50 to US$ 500. The company, along with regular registered account, also advertizes the profiles of HIV positives, Thalassemia Major, physically handicapped, and cancer survivors, for whom searching a life partner is a challenge. This indicates how deeply technology penetrates in the complex social structures.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Table 1 Popularity of Matrimonial Sites in India</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Alexa.com, 3 June 2014, www.alexa.com.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
+    <Content> initiated in September 2004, to serve northern and western Indian communities. Jeevansathi.com provides up to one-year paid packages services starting from US$50 to US$500. The company, along with regular registered account, also advertizes the profiles of HIV positives, Thalassemia Major, physically handicapped, and cancer survivors, for whom searching a life partner is a challenge. This indicates how deeply technology penetrates in the complex social structures.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1016,6 +1004,26 @@
         <Link Self="ueb" LinkResourceURI="file:imgs/Dwivedi-matrimonysite-table-02.jpg" />
       </Image>
     </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Table 1 Popularity of Matrimonial Sites in India</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Alexa.com, 3 June 2014, www.alexa.com.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -1070,7 +1078,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> method in the study. The data were collected through 150 feedbacks, mostly testimonies of the users; and content, such as 50 personal profiles, and 50 language samples on matrimonial sites. The participants in the study had income between US$ 1, 500 and US$ 5, 000 per month. The interpretation of data was based on how the use of new technology depends on the interaction between the technology, the user and the organizational environment.</Content>
+    <Content> method in the study. The data were collected through 150 feedbacks, mostly testimonies of the users; and content, such as 50 personal profiles, and 50 language samples on matrimonial sites. The participants in the study had income between US$1,500 and US$5,000 per month. The interpretation of data was based on how the use of new technology depends on the interaction between the technology, the user and the organizational environment.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1125,10 +1133,10 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>I got his request, saw the profile … … … Our families met and by the end of our third meeting we did </Content>
+    <Content>I got his request, saw the profile… Our families met and by the end of our third meeting we did </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>roka**</Content>
+    <Content>roka</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1137,7 +1145,7 @@
           <Content><?ACE 4?></Content>
         </CharacterStyleRange>
       </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Italic &gt; Footnote &gt; Paragraph">
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>	</Content>
         </CharacterStyleRange>
@@ -1147,11 +1155,8 @@
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>… … … on 27th feb 2014. Very happy to have found him.</Content>
+    <Content>… on 27th feb 2014. Very happy to have found him.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1216,7 +1221,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>A connotation in Indian English means ‘not virtuous.’</Content>
+          <Content>A connotation in Indian English means 'not virtuous'.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1394,14 +1399,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>These matrimonial sites are bridging the gap between the traditional offline culture and modern online system of finding a partner. The association of the two practices is complementing each other by providing more varied options and results to their searches. The social construction of technology in the Indian traditional set-up can be well defined and understood by these sites. The interaction between the matrimonial sites and the potential partner seekers is relatively fruitful. This metaphor describes that the matrimonial sites have grown popular among youths, and the partner-seekers have got the prospective partners. There were only 5 cases noted out of 370 mixed samples where the users of the matrimonial sites were not satisfied. Table 2 summarizes the differences between online and offline partner search practices.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Table 2</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Comparing offline generation to online generation in partner search</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="16" ColumnCount="3">
@@ -1768,6 +1765,14 @@
 </Table>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Table 2</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Comparing offline generation to online generation in partner search</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
