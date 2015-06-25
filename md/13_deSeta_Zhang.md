@@ -728,7 +728,7 @@ images.
 ## References
 
 ‘Baihewang guanggao: Yinwei ai bu dengdai’, Youku,
-<http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html>
+<http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html>.
 
 Ben-Ze'ev, Aaron. *Love Online: Emotions on the Internet*, Cambridge:
 Cambridge University Press, 2004.
@@ -771,11 +771,11 @@ Hviid Jacobsen (ed.), *The Contemporary Goffman*, New York, NY: Routledge,
 
 Joe. ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’,
 China Smack (9 February 2014),
-<http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html>
+<http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html>.
 
 Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m
 Users’, Shanghaiist (14 November 2013),
-<http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>
+<http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>.
 
 Kaufmann, Jean-Claude. *Love Online*, trans. David Macey, Cambridge:
 Polity Press, 2012.
@@ -807,9 +807,9 @@ and Public Culture*, Durham: Duke University Press, 2007.
 
 Rosenman, Olivia. ‘China's Sexual Revolution: “One-night Stand” app Momo
 Boasts 80 Million Users’, South China Morning Post (13 November 2013),
-<http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>
+<http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>.
 
-Sheller, Mimi, & Urry, John. 2006, "The New Mobilities Paradigm",
+Sheller, Mimi, & John Urry. 2006, "The New Mobilities Paradigm",
 *Environment and Planning* A 38(2), 207-226.
 
 Synnott, Anthony. ‘Truth and Goodness, Mirrors and Masks: A Sociology of
@@ -818,11 +818,11 @@ Popular Culture: Theories and Methodologies in Archeology, Anthropology,
 and Other Fields*, Bowling Green: Popular Press, 1991.
 
 Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai
-Mom zuo shenme?’, Zhihu, <http://www.zhihu.com/question/22680523>
+Mom zuo shenme?’, Zhihu, <http://www.zhihu.com/question/22680523>.
 
 Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, New
 York Times (24 July 2013),
-<http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
+<http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>.
 
 Terranova, Tiziana. *Network Culture: Politics for the Information Age*,
 London: Pluto Press, 2004.
@@ -848,10 +848,10 @@ Palgrave MacMillan, 2007.
 
 [^13_deSeta_Zhang_2]: Joe, ‘Chinese Dating Site TV Ad Promotes Being Forced into
     Marriage’, ChinaSmack,
-    [http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html](../customXml/item1.xml).
+    <http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html>.
 
 [^13_deSeta_Zhang_3]: ‘Baihewang Guanggao: Yinwei Ai Bu Dengdai’, *Youku*,
-    [http://v.youku.com/v\_show/id\_XNjY2NzE2OTA4.html](numbering.xml)
+    <http://v.youku.com/v\_show/id\_XNjY2NzE2OTA4.html>.
 
 [^13_deSeta_Zhang_4]: ‘Cherished love’, translation by the authors.
 
@@ -859,13 +859,11 @@ Palgrave MacMillan, 2007.
     Limited, is the instant messaging mobile app most popular in China
     at the time of writing.
 
-[^13_deSeta_Zhang_6]: CNNIC, The 32nd Statistical Report on Internet Development in
-    China, Beijing: China Internet Network Information Center, 2013, p.
-    7.
+[^13_deSeta_Zhang_6]: CNNIC, *The 32nd Statistical Report on Internet Development in
+    China*, Beijing: China Internet Network Information Center, 2013, p. 7.
 
-[^13_deSeta_Zhang_7]: Jack Linchuan Qiu, ‘The Internet in China: Technologies of Freedom
-    in a Statist Society’, in Manuel Castells (ed.), The Network
-    Society: A Cross-cultural Perspective, Cheltenham: Edward Elgar
+[^13_deSeta_Zhang_7]: Jack Linchuan Qiu, ‘The Internet in China: Technologies of Freedom in a Statist Society’, in Manuel Castells (ed.), *The Network
+    Society: A Cross-cultural Perspective*, Cheltenham: Edward Elgar
     Publishing Limited, 2004, p. 99.
 
 [^13_deSeta_Zhang_8]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the
@@ -877,16 +875,14 @@ Palgrave MacMillan, 2007.
     Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010,
     p. 7.
 
-[^13_deSeta_Zhang_10]: *Ibid*.
+[^13_deSeta_Zhang_10]: Stephanie Hemelryk Donald, ‘Introduction: Why Mobility Matters'.
 
-[^13_deSeta_Zhang_11]: Christine Hine, The Internet: Understanding Qualitative Research,
-    New York: Oxford University Press, 2013, p. 20.
+[^13_deSeta_Zhang_11]: Christine Hine, *The Internet: Understanding Qualitative Research*, New York: Oxford University Press, 2013, p. 20.
 
 [^13_deSeta_Zhang_12]: Mimi Sheller & John Urry, ‘The New Mobilities Paradigm’,
     Environment and Planning A 38.2, 2006, p. 271.
 
-[^13_deSeta_Zhang_13]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the
-    Chinese Internet, p. 131.
+[^13_deSeta_Zhang_13]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, p. 131.
 
 [^13_deSeta_Zhang_14]: When going beyond occasional online chatting and agreeing to
     actual meetings with Momo users, we always made a point to disclose
@@ -894,89 +890,75 @@ Palgrave MacMillan, 2007.
     and to assure participants regarding the anonymization of the data
     collected from them.
 
-[^13_deSeta_Zhang_15]: Jaz Hee-jong Choi, ‘The City, Self and Connections’, in Stephanie
-    Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds),
-    Youth, Society and Mobile Media in Asia, Abingdon, UK: Routledge,
+[^13_deSeta_Zhang_15]: Jaz Hee-jong Choi, ‘The City, Self and Connections’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds),
+    *Youth, Society and Mobile Media in Asia*, Abingdon, UK: Routledge,
     2010, p. 90.
 
-[^13_deSeta_Zhang_16]: Katie Nelson, ‘Momo App, the “Magical Tool to Get Laid”, Reaches
-    80m Users’, *Shanghaiist* (14 November 2013),
-    http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php
+[^13_deSeta_Zhang_16]: Katie Nelson, ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, *Shanghaiist* (14 November 2013),
+    <http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>
 
 [^13_deSeta_Zhang_17]: See Fig. 2.
 
-[^13_deSeta_Zhang_18]: *Ibid.*
+[^13_deSeta_Zhang_18]: See Fig. 2.
 
 [^13_deSeta_Zhang_19]: Olivia Rosenman, ‘China's Sexual Revolution: “One-Night Stand”
     App Momo Boasts 80 Million Users’, *South China Morning Post* (14
     November 2013),
-    http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users
+    <http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>
 
 [^13_deSeta_Zhang_20]: Didi Kirsten Tatlow, ‘Apps Offer Chinese a Path to the
     Forbidden’, *New York Times* (24 July
-    2013), [http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&](styles.xml)
+    2013), <http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
 
-[^13_deSeta_Zhang_21]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou
-    Zai Momo Zuo Shenme?’, *Zhihu* (February 2014),
-    [http://www.zhihu.com/question/22680523](stylesWithEffects.xml)
+[^13_deSeta_Zhang_21]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou Zai Momo Zuo Shenme?’, *Zhihu* (February 2014), <http://www.zhihu.com/question/22680523>
 
-[^13_deSeta_Zhang_22]: Jon Pirone, Don Mayo, and Kathy Berkemeyer, Internet in an Hour:
-    Romance & Relationships, New York: DDC Publishing, 1999.
+[^13_deSeta_Zhang_22]: Jon Pirone, Don Mayo, and Kathy Berkemeyer, Internet in an Hour: Romance & Relationships, New York: DDC Publishing, 1999.
 
-[^13_deSeta_Zhang_23]: Andrea Orr, Meeting, Mating, and Cheating: Sex, Love, and the New
-    World of Online Dating, Upper Saddle River: Reuters, 2004, p. xiii;
-    Jean-Claude Kaufmann, Love Online, trans. David Macey, Cambridge:
-    Polity Press, 2012, p. 4.
+[^13_deSeta_Zhang_23]: Andrea Orr, Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating, Upper Saddle River: Reuters, 2004, p. xiii; in Jean-Claude Kaufmann, *Love Online*, trans. David Macey, Cambridge: Polity Press, 2012, p. 4.
 
-[^13_deSeta_Zhang_24]: Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New
-    World of Online Dating, p. x.
+[^13_deSeta_Zhang_24]: Andrea Orr, *Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating*, p. x.
 
-[^13_deSeta_Zhang_25]: *Ibid.*, p. xi.
+[^13_deSeta_Zhang_25]: Andrea Orr, *Meeting, Mating, and Cheating*, p. xi.
 
-[^13_deSeta_Zhang_26]: Aaron Ben-Ze'ev, Love Online: Emotions on the Internet,
+[^13_deSeta_Zhang_26]: Aaron Ben-Ze'ev, *Love Online: Emotions on the Internet*,
     Cambridge: Cambridge University Press, 2004, p. xi.
 
-[^13_deSeta_Zhang_27]: *Ibid.*
+[^13_deSeta_Zhang_27]: Aaron Ben-Ze'ev, 'Love Online'.
 
-[^13_deSeta_Zhang_28]: Monica Whitty and Adrian Carr, Cyberspace Romance: The Psychology
-    of Online Relationships, Houndmills: Palgrave MacMillan, 2006, p.
-    xii.
+[^13_deSeta_Zhang_28]: Monica Whitty and Adrian Carr, *Cyberspace Romance: The Psychology of Online Relationships*, Houndmills: Palgrave MacMillan, 2006, p. xii.
 
-[^13_deSeta_Zhang_29]: Tiziana Terranova, Network Culture: Politics for the Information
-    Age, London: Pluto Press, 2004, p. 42.
+[^13_deSeta_Zhang_29]: Tiziana Terranova, *Network Culture: Politics for the Information Age*, London: Pluto Press, 2004, p. 42.
 
-[^13_deSeta_Zhang_30]: *Ibid*.
+[^13_deSeta_Zhang_30]: Tiziana Terranova, *Network Culture*.
 
-[^13_deSeta_Zhang_31]: *Ibid*.
+[^13_deSeta_Zhang_31]: Tiziana Terranova, *Network Culture*.
 
-[^13_deSeta_Zhang_32]: John Urry, Mobilities, Cambridge: Polity Press, 2000.
+[^13_deSeta_Zhang_32]: John Urry, *Mobilities*, Cambridge: Polity Press, 2000.
 
 [^13_deSeta_Zhang_33]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, in
-    Michael Hviid Jacobsen (ed.), The Contemporary Goffman, New York:
+    Michael Hviid Jacobsen (ed.), *The Contemporary Goffman*, New York:
     Routledge, 2010, p. 334.
 
-[^13_deSeta_Zhang_34]: *Ibid.*, p. 345.
+[^13_deSeta_Zhang_34]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, p. 345.
 
-[^13_deSeta_Zhang_35]: *Ibid.*, p. 347.
+[^13_deSeta_Zhang_35]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, p. 347.
 
-[^13_deSeta_Zhang_36]: *Ibid.*, p. 345.
+[^13_deSeta_Zhang_36]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, p. 345.
 
 [^13_deSeta_Zhang_37]: Cara Wallis, ‘The Technological Meets the Traditional: Mobile
     Navigations of Desire and Intimacy’, in Stephanie Hemelryk Donald,
-    Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society
-    and Mobile Media in Asia, Abingdon: Routledge, 2010,p. 58.
+    Theresa Dirndorfer Anderson and Damien Spry (eds.), *Youth, Society
+    and Mobile Media in Asia*, Abingdon: Routledge, 2010,p. 58.
 
 [^13_deSeta_Zhang_38]: Jaz Hee-jong Choi, ‘The City, Self and Connections’, p. 90.
 
 [^13_deSeta_Zhang_39]: Quoted from Didi Kirsten Tatlow, ‘Apps offer Chinese a path to
     the forbidden’, *New York Times* (24 July
-    2013), *http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&*
+    2013), <http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
 
-[^13_deSeta_Zhang_40]: Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New
-    World of Online Dating, p. 100.
+[^13_deSeta_Zhang_40]: Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating, p. 100.
 
-[^13_deSeta_Zhang_41]: Monica Whitty & Adrian Carr, Cyberspace Romance: The Psychology
-    of Online Relationships, p. 30.
+[^13_deSeta_Zhang_41]: Monica Whitty & Adrian Carr, Cyberspace Romance: The Psychology of Online Relationships, p. 30.
 
 [^13_deSeta_Zhang_42]: Anthony Synnott, "Truth and Goodness, Mirrors and Masks: A
     Sociology of Beauty and the Face", in Ray B. Browne & Pat Browne
@@ -986,17 +968,16 @@ Palgrave MacMillan, 2007.
 
 [^13_deSeta_Zhang_43]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou
     Zai Momo Zuo Shenme?’, *Zhihu* (9 February
-    2014), [http://www.zhihu.com/question/22680523](settings.xml).
+    2014), <http://www.zhihu.com/question/22680523>.
 
 [^13_deSeta_Zhang_44]: Pierre Bourdieu, The Bachelor’s Ball, Cambridge: Polity Press,
     2008, p. 86.
 
 [^13_deSeta_Zhang_45]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou
-    Zai Momo Zuo Shenme?’, *Zhihu*,
-    [http://www.zhihu.com/question/22680523](webSettings.xml).
+    Zai Momo Zuo Shenme?’, *Zhihu*, <http://www.zhihu.com/question/22680523>.
 
-[^13_deSeta_Zhang_46]: <span id="OLE_LINK1" class="anchor"></span>Erving Goffman, The
-    Presentation of Self in Everyday Life, Carden City: Doubleday Anchor
+[^13_deSeta_Zhang_46]: Erving Goffman, *The
+    Presentation of Self in Everyday Life*, Carden City: Doubleday Anchor
     Books, 1959, p. 146.
 
 [^13_deSeta_Zhang_47]: Pierre Bourdieu, The Bachelor’s Ball, p. 88.
@@ -1020,8 +1001,7 @@ Palgrave MacMillan, 2007.
     (ed.), Romantic Love and Sexual Behavior: Perspectives from the
     Social Sciences, Westport: Praeger, 1998, p. 262.
 
-[^13_deSeta_Zhang_54]: The play on words relies on the homophony between the two Chinese
-    characters *mo* (陌, ‘stranger, unacquainted with’) and *mo* (寞
+[^13_deSeta_Zhang_54]: The play on words relies on the homophony between the two Chinese characters *mo* (陌, ‘stranger, unacquainted with’) and *mo* (寞
     ‘lonely’).
 
 [^13_deSeta_Zhang_55]: Drew Hemment, 'Locative Arts', *Leonardo 39*(4), 2006, p. 349.
@@ -1035,8 +1015,7 @@ Palgrave MacMillan, 2007.
 [^13_deSeta_Zhang_58]: Jenson Ole B. Jensen, ‘Erving Goffman and everyday life
     mobility’, p. 338.
 
-[^13_deSeta_Zhang_59]: Erving Goffman, Relations in Public: Micro Studies of the Public
-    Order, p. 19.
+[^13_deSeta_Zhang_59]: Erving Goffman, Relations in Public: Micro Studies of the Public Order, p. 19.
 
 [^13_deSeta_Zhang_60]: Howard Rheingold, The Virtual Community: Homesteading on the
     Electronic Frontier, Cambridge: MIT Press, 2000.
@@ -1047,20 +1026,15 @@ Palgrave MacMillan, 2007.
 [^13_deSeta_Zhang_62]: Lisa Rofel, Desiring China: Experiments in Neoliberalism,
     Sexuality, and Public Culture, Durham: Duke University Press, 2007.
 
-[^13_deSeta_Zhang_63]: Evgeny Morozov, The Net Delusion: The Dark Side of Internet
-    Freedom, New York: Public Affairs, 2011, p. 70.
+[^13_deSeta_Zhang_63]: Evgeny Morozov, *The Net Delusion: The Dark Side of Internet
+    Freedom*, New York: Public Affairs, 2011, p. 70.
 
-[^13_deSeta_Zhang_64]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the
-    Chinese Internet, p. 183.
+[^13_deSeta_Zhang_64]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, p. 183.
 
-[^13_deSeta_Zhang_65]: Richard Burger, Behind the red door: Sex in China, Hong Kong:
-    Earnshaw Books, 2012, p. 4.
+[^13_deSeta_Zhang_65]: Richard Burger, *Behind the red door: Sex in China*, Hong Kong: Earnshaw Books, 2012, p. 4.
 
-[^13_deSeta_Zhang_66]: Jean-Claude Kaufmann, Love Online, trans. David Macey, Cambridge:
-    Polity Press, 2012, p. 94.
+[^13_deSeta_Zhang_66]: Jean-Claude Kaufmann, *Love Online*, trans. David Macey, Cambridge: Polity Press, 2012, p. 94.
 
-[^13_deSeta_Zhang_67]: Sherry Turkle. Alone Together: Why We Expect More from Technology
-    and Less from Each Other, New York: Basic Books, 2012, pp.280-281*.
-    *
+[^13_deSeta_Zhang_67]: Sherry Turkle. *Alone Together: Why We Expect More from Technology and Less from Each Other*, New York: Basic Books, 2012, pp.280-281.
 
-[^13_deSeta_Zhang_68]: *Ibid.*, p.231.
+[^13_deSeta_Zhang_68]: Sherry Turkle. Alone Together, p.231.
