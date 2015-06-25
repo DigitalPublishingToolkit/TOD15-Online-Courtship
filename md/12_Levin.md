@@ -126,10 +126,7 @@ with the interactional arrangement that institutionalizes the event:
 which participants employ in order to attain the ends, *norms* -
 which determine the relations between participants and can project on
 the *key and instrumentalities* associated with the atmosphere in
-which they partake.
-
-*The eighth element* - i.e., the genre that the event is categorized by;
-encompassing all features of the event with a generalizing definition
+which they partake. *The eighth element* - i.e., the genre that the event is categorized by; encompassing all features of the event with a generalizing definition
 that attributes the event to a given category.
 
 Studies into e-dating referred to this model. It usually refers to this
