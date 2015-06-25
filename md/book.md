@@ -95,8 +95,8 @@ This book aims to bring together articles across the world on online
 dating exercises as a social, economical and political phenomenon and
 define online dating as an important experience that should be
 considered as a ground for research. As the Internet's influence on
-social life and behaviors increase.[^01_intro_2] [^01_intro_3] The virtual realm is
-becoming our daily reality [^01_intro_4],[^01_intro_5]. So much so that dating digitally
+social life and behaviors increase.[^01_intro_2],[^01_intro_3] The virtual realm is
+becoming our daily reality. [^01_intro_4],[^01_intro_5] So much so that dating digitally
 has permeated social networking territories from the very beginning
 stages. Looking at the changes and similarities between old and new
 behaviors adopted online and offline, this book aims to find
@@ -111,7 +111,7 @@ way of social engagement.
 
 Online dating and online courtship have been prominent parts of the
 daily experience of most users over the years that followed the
-proliferation of Internet and Web 2.0.[^01_intro_6]. Courtship is not a new
+proliferation of Internet and Web 2.0.[^01_intro_6] Courtship is not a new
 phenomenon, dating is a part of the social structure of many cultural
 systems. The introduction of new technologies has changed the way we
 interact with others, despite early negative stigmatization; forms of
@@ -130,7 +130,7 @@ has slowly declined in media. This portrayal of online dating produced a
 stigma for the users over the years, the TV shows and other media often
 labeled users as 'anti-social': according to a 2013 report from the Pew
 Research Center, 21 percent of polled Internet users agree that "People
-who use online dating sites are desperate."[^01_intro_8]. This type of atmosphere
+who use online dating sites are desperate".[^01_intro_8] This type of atmosphere
 however, is changing rapidly as the Social Networking Sites (that are
 defined as "... web-based services that allow individuals to (1)
 construct a public or semi-public profile within a bounded system, (2)
@@ -145,7 +145,7 @@ relationships online more often. "According to a recent estimate based
 on ComScore Networks'analysis of Internet users' browsing behavior, 40
 million Americans visited online dating sites in 2003, generating \$214
 million in revenues, making online dating the most important
-subscription-based business on the Internet."[^01_intro_11].
+subscription-based business on the Internet."[^01_intro_11]
 
 ## Defining Online Courtship/Dating:
 
@@ -163,7 +163,7 @@ via the offered features of the medium that has the potential to lead to
 an offline interaction.
 
 A typical definition for online dating would only encompass the online
-dating sites and exclude all other online platforms[^01_intro_12]. This type of
+dating sites and exclude all other online platforms.[^01_intro_12] This type of
 definition leads to a problem as it is only focusing on the websites
 tailored for the purpose of online dating and excluding a vast majority
 of online courtship. The previous definitions fail to acknowledge other online venues and limit the boundaries of the field for research.
@@ -176,12 +176,12 @@ interactions of any kind also comes into the realm with us. Online
 studies in general have focused thus far on a variety of different
 issues and subjects such as online bullying[^01_intro_13], self-efficacy and
 motivation effects in online environments[^01_intro_14], YouTube studies[^01_intro_15],
-video spheres[^01_intro_16] and alternative social media institutions[^01_intro_17]. The
+video spheres[^01_intro_16] and alternative social media institutions.[^01_intro_17] The
 venue for studying online dating is fairly new to the field and previous
 studies on online dating focus on topics such as self-presentation and
 deception of online profiles[^01_intro_18],[^01_intro_19],[^01_intro_20], the match-making
 algorithm and process[^01_intro_21], homophily on online dating sites[^01_intro_22] and
-profile creation[^01_intro_23]. These various studies help define online
+profile creation.[^01_intro_23] These various studies help define online
 courtship as a field of research and acknowledge online courtship as an
 important part of online studies.
 
@@ -190,7 +190,7 @@ research. A good and functional definition of online dating sites is
 provided by Rosen et. al. as follows: "Online dating sites are all
 similarly structured. Participants provide a photograph and answer an
 array of questions including geographic location, age, weight or body
-type, education level, income, and other relevant demographics..."[^01_intro_24].
+type, education level, income, and other relevant demographics..."[^01_intro_24]
 The system is dependent on statistical codes running in the background
 that provide the 'perfect match' for the user by looking at the
 variables. As the sites rely on technology and the social context, the
@@ -213,7 +213,7 @@ Digital intimacy has become a normative mode of social interaction
 within other mediums online, such as SNS and mobile applications. Rosen
 et al. gives examples of studies that have found the increase in such
 online environments: an early study shows that 75% of online-formed
-relationships became 'proper relationships' [^01_intro_25]. As online dating
+relationships became 'proper relationships'.[^01_intro_25] As online dating
 becomes a prominent part of social life, it is even more crucial for
 social studies to research and analyze this phenomenon.
 
@@ -235,17 +235,17 @@ behaviors that, at times, maintain a hetero-normative hierarchy.
 Identity construction in online dating environments is impacted by
 social norms offline. Within the digital dating realm self-presentation
 and self-disclosure strategies are adapted to gain the attention of
-potential online daters[^01_intro_26]. Singles utilize online dating interfaces
+potential online daters.[^01_intro_26] Singles utilize online dating interfaces
 with preset attributes, creating their online identity with identity
 markers provided by the site. Online personal ads are user-generated
 dossiers aimed to construct online daters' identity. This scholarship
 examines online dating sites as social sites where technology sustains
 and reproduces existing gender roles. Recent online dating research also
 highlights the limitations of gender construction and the
-marginalization that occurs within hetero-normative dating spaces[^01_intro_27].
+marginalization that occurs within hetero-normative dating spaces.[^01_intro_27]
 
 Early Internet and gender identity research analyzed men and women
-experimenting with the gender roles of gaming avatars[^01_intro_28]. Online
+experimenting with the gender roles of gaming avatars.[^01_intro_28] Online
 daters have substituted avatars with profile pictures and personal
 summaries. Internet scholars are examining gender constructions in
 online spaces, more specifically within online dating environments.
@@ -414,7 +414,7 @@ building an image for a specific target audience and expectations from
 other parties compose the major framework of her analysis.
 
 The industry behind the online dating phenomenon is a large one. The online
-dating market has become a \$2 billion industry [^01_intro_29]. Pascal Lardellier
+dating market has become a \$2 billion industry.[^01_intro_29] Pascal Lardellier
 explores the political economy of dating sites in France and analyzes
 the underlying structures that are at play. The commodification of love
 now assisted by the computerized technology also takes away from the
@@ -437,11 +437,11 @@ of the subject in further studies.
 
 ## References:
 
-Barraket, Jo, and Millsom S. Henry-Waring. 'Getting it on (line)
+Barraket, Jo and Millsom S. Henry-Waring. 'Getting it on (line)
 Sociological perspectives on e-dating.' *Journal of Sociology* 44.2
 (2008): 149-165.
 
-J. A. Bargh and K. Y. McKenna, 'The Internet and social life.' *Annu.
+Bargh, J. A.  and K. Y. McKenna. 'The Internet and social life.' *Annu.
 Rev. Psychol.*, 55, (2004): 573-590.
 
 Bauman, Z. 'Liquid Modernity, Cambridge (Reino Unido), Polity Press,
@@ -450,7 +450,7 @@ Unido), Polity Press, 2003, por Jesus M. de Miguel y Jara D. Sanchez.'
 *Revista Espanola De Investiagiones Sociologicas – Spanish Edition*.
 (110), (2005): 239-256.
 
-A. Beaulieu, 'Mediating ethnography: objectivity and the making of
+Beaulieu, A. 'Mediating ethnography: objectivity and the making of
 ethnographies of the internet.' *Social Epistemology*, 18(2-3), (2004):
 139-163.
 
@@ -463,23 +463,23 @@ impressions online: Self‐presentation processes in the online dating
 environment.' *Journal of Computer‐Mediated Communication* 11.2 (2006):
 415-441.
 
-E. J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S. Sprecher,
+Finkel, E. J., P. W. Eastwick, B. R. Karney, H. T. Reis and S. Sprecher,
 'Online Dating A Critical Analysis From the Perspective of Psychological
 Science.' *Psychological Science in the Public Interest*, 13(1), (2012):
 3-66.
 
-Fiore, Andrew T., and Judith S. Donath. 'Homophily in online dating:
+Fiore, Andrew T. and Judith S. Donath. 'Homophily in online dating:
 when do you like someone like yourself?.' *CHI'05 Extended Abstracts on
 Human Factors in Computing Systems*. ACM, 2005.
 
-Lovink, Geert, and Sabine Niederer. *Video vortex reader: Responses to
+Lovink, Geert and Sabine Niederer. *Video vortex reader: Responses to
 YouTube*. Amsterdam: Institute of Network Cultures, 2008.
 
-Lovink, Geert, and Miriam Rasch. Unlike us reader: social media
+Lovink, Geert and Miriam Rasch. Unlike us reader: social media
 monopolies and their alternatives. No. 8. *Institute of Network Cultures*,
 2013.
 
-J. A. Hall, N. Park, H. Song and M. J. Cody, 'Strategic
+Hall, J. A., N. Park, H. Song and M. J. Cody. 'Strategic
 misrepresentation in online dating: The effects of gender,
 self-monitoring, and personality traits.' Journal of Social and Personal
 Relationships, 27(1), (2010): 117-135.J. T. Hancock and C. L. Toma,
@@ -490,33 +490,33 @@ Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. 'The truth about
 lying in online dating profiles.' *Proceedings of the SIGCHI conference
 on Human factors in computing systems*. ACM, 2007.
 
-G. J. Hitsch, A. Hortaçsu and D. Ariely, 'What makes you click: An
+Hitsch, Günter J., Ali Hortaçsu and D. Ariely. 'What makes you click: An
 empirical analysis of online dating.' 2005 Meeting Papers (Vol. 207).
 *Society for Economic Dynamics*. (2005).
 
 Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. 'Matching and sorting
 in online dating.' *The American Economic Review* (2010): 130-163.
 
-C. L. Hsu, and J. C. C. Lin, 'Acceptance of blog usage: The roles of
+Hsu, C.L. and J.C.C. Lin. 'Acceptance of blog usage: The roles of
 technology acceptance, social influence and knowledge sharing
 motivation.' *Information & Management*, 45(1), (2008): 65-74.
 
 Irizarry, Robert. 'Self-efficacy and motivation effects on online
 psychology student retention.' *Usdla Journal* 16.12 (2002): 55-64.
 
-Juvonen, Jaana, and Elisheva F. Gross. 'Extending the school
+Juvonen, Jaana and Elisheva F. Gross. 'Extending the school
 grounds?—Bullying experiences in cyberspace.' *Journal of School health*
 78.9 (2008): 496-505.
 
-L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, 'The impact of
+Rosen, L.D., N. A. Cheever, C. Cummings and J. Felt. 'The impact of
 emotionality and self-disclosure on online dating versus traditional
 dating.' *Computers in Human Behavior*, 24(5), (2008): 2124-2157.
 
-Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. 'The Social
+Sautter, Jessica M., Rebecca M. Tippett and S. Philip Morgan. 'The Social
 Demography of Internet Dating in the United States.' *Social Science
 Quarterly* 91.2 (2010): 554-575.
 
-A. Vasalou and A. N. Joinson, 'Me, myself and I: The role of
+Vasalou, A. and A. N. Joinson. 'Me, myself and I: The role of
 interactional context on self-presentation through avatars.' *Computers
 in Human Behavior*, 25(2), (2009): 510-520.
 
@@ -528,7 +528,7 @@ Toma, Catalina L., Jeffrey T. Hancock, and Nicole B. Ellison.
 self-presentation in online dating profiles.' *Personality and Social
 Psychology Bulletin* 34.8 (2008): 1023-1036.
 
-S. Woolgar, (Ed.). *Virtual Society?: Technology, Cyberhole, Reality*.
+Steve Woolgar, (Ed.). *Virtual Society?: Technology, Cyberhole, Reality*.
 Oxford: Oxford University Press. 2002.
 
 Huffington Post. <http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html>.
@@ -539,40 +539,40 @@ The Fiscal Times. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-
 
 The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>.
 
-[^01_intro_1]: E.J. Finkel, P. W. Eastwick, B. R. Karney, H. T. Reis and S.
+[^01_intro_1]: E.J. Finkel, P. W. Eastwick, B.R. Karney, H.T. Reis and S.
     Sprecher, 'Online Dating A Critical Analysis From the Perspective of
     Psychological Science.' *Psychological Science in the Public
     Interest*, 13(1), (2012): 3-66.
 
-[^01_intro_2]: J.A. Bargh and K. Y. McKenna, 'The Internet and social life.'
+[^01_intro_2]: J.A. Bargh and K.Y. McKenna, 'The Internet and social life.'
     *Annu. Rev. Psychol.*, 55, (2004): 573-590.
 
-[^01_intro_3]: CL. Hsu, and J. C. C. Lin, 'Acceptance of blog usage: The roles
+[^01_intro_3]: C.L. Hsu, and J.C.C. Lin, 'Acceptance of blog usage: The roles
     of technology acceptance, social influence and knowledge sharing
     motivation.' *Information & Management*, 45(1), (2008): 65-74.
 
-[^01_intro_4]: S. Woolgar, (Ed.). Virtual Society?: Technology, Cyberhole,
+[^01_intro_4]: S. Woolgar, (Ed.), Virtual Society?: Technology, Cyberhole,
     Reality. *Oxford University Press*. 2002.
 
 [^01_intro_5]: A. Beaulieu, 'Mediating ethnography: objectivity and the making of
     ethnographies of the internet.' *Social Epistemology*, 18(2-3),
     (2004): 139-163.
 
-[^01_intro_6]: Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan. 'The
+[^01_intro_6]: Jessica M. Sautter, Rebecca M. Tippett and S. Philip Morgan, 'The
     Social Demography of Internet Dating in the United States.' *Social
     Science Quarterly* 91.2 (2010): 554-575.
 
-[^01_intro_7]: Huffington Post. [http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html](http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\_b\_2561380.html).
+[^01_intro_7]: Huffington Post, <http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html>
 
-[^01_intro_8]: The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>
+[^01_intro_8]: The Gazette, <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/>
 
-[^01_intro_9]: N. B. Ellison, 'Social network sites: Definition, history, and
+[^01_intro_9]: N.B. Ellison, 'Social network sites: Definition, history, and
     scholarship.' *Journal of Computer Mediated Communication*, 13(1),
     (2007): 210-230.
 
-[^01_intro_10]: The Independent. <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
+[^01_intro_10]: The Independent, <http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html>.
 
-[^01_intro_11]: G. J. Hitsch, A. Hortaçsu and D. Ariely, 'What makes you click:
+[^01_intro_11]: G.J. Hitsch, A. Hortaçsu and D. Ariely, 'What makes you click:
     An empirical analysis of online dating.' 2005 Meeting Papers (Vol.
     207). *Society for Economic Dynamics*. (2005).
 
@@ -582,58 +582,59 @@ The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-d
     perspectives on e-dating.' *Journal of Sociology* 44.2 (2008):
     149-165.
 
-[^01_intro_13]: Juvonen, Jaana, and Elisheva F. Gross. 'Extending the school
+[^01_intro_13]: Jaana Juvonen and Elisheva F. Gross, 'Extending the school
     grounds?—Bullying experiences in cyberspace.' *Journal of School
     Health* 78.9 (2008): 496-505.
 
-[^01_intro_14]: Irizarry, Robert. 'Self-efficacy and motivation effects on online
+[^01_intro_14]: Robert Irizarry, 'Self-efficacy and motivation effects on online
     psychology student retention.' *Usdla Journal* 16.12 (2002): 55-64.
 
-[^01_intro_15]: Lovink, Geert, and Sabine Niederer. *Video vortex reader:
+[^01_intro_15]: Geert Lovink and Sabine Niederer, *Video vortex reader:
     Responses to YouTube*. Amsterdam: Institute of Network Cultures,
     2008.
 
-[^01_intro_16]: Treske, Andreas. The inner life of video sphere. *Institute of
+[^01_intro_16]: Andreas Treske, The inner life of video sphere. *Institute of
     Network Cultures*. 2013.
 
-[^01_intro_17]: Lovink, Geert, and Miriam Rasch. Unlike us reader: social media
+[^01_intro_17]: Geert Lovink and Miriam Rasch, Unlike us reader: social media
     monopolies and their alternatives. No. 8. *Institute of Network
     Cultures*, 2013.
 
-[^01_intro_18]: Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. 'Managing
+[^01_intro_18]: Nicole Ellison, Rebecca Heino, and Jennifer Gibbs, 'Managing
     impressions online: Self‐presentation processes in the online dating
     environment.' *Journal of Computer‐Mediated Communication* 11.2
     (2006): 415-441.
 
-[^01_intro_19]: Toma, Catalina L., Jeffrey T. Hancock, and Nicole B. Ellison.
+[^01_intro_19]: Catalina L. Toma, Jeffrey T. Hancock, and Nicole B. Ellison,
     'Separating fact from fiction: An examination of deceptive
     self-presentation in online dating profiles.' *Personality and
     Social Psychology Bulletin* 34.8 (2008): 1023-1036.
 
-[^01_intro_20]: Hancock, Jeffrey T., Catalina Toma, and Nicole Ellison. 'The
+[^01_intro_20]: Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison, 'The
     truth about lying in online dating profiles.' *Proceedings of the
     SIGCHI conference on Human factors in computing systems*. ACM, 2007.
 
-[^01_intro_21]: Hitsch, Günter J., Ali Hortaçsu, and Dan Ariely. 'Matching and
+[^01_intro_21]: Günter J. Hitsch, Ali Hortaçsu, and Dan Ariely, 'Matching and
     sorting in online dating.' *The American Economic Review* (2010):
     130-163.
 
-[^01_intro_22]: Fiore, Andrew T., and Judith S. Donath. 'Homophily in online
+[^01_intro_22]: Andrew T. Fiore and Judith S. Donath, 'Homophily in online
     dating: when do you like someone like yourself?.' *CHI'05 Extended
     Abstracts on Human Factors in Computing Systems*. ACM, 2005.
 
-[^01_intro_23]: Fiore, Andrew T., and Judith S. Donath. 'Homophily in online
-    dating: when do you like someone like yourself?.' *CHI'05 Extended
-    Abstracts on Human Factors in Computing Systems*. ACM, 2005.
+[^01_intro_23]: Andrew T. Fiore and Judith S. Donath, 'Homophily in online
+    dating'.
 
-[^01_intro_24]: L. D. Rosen, N. A. Cheever, C. Cummings and J. Felt, 'The impact
+[^01_intro_24]: L.D. Rosen, N.A. Cheever, C. Cummings and J. Felt, 'The impact
     of emotionality and self-disclosure on online dating versus
     traditional dating.' *Computers in Human Behavior*, 24(5), (2008):
     2124-2157.
 
-[^01_intro_25]: Ibid. p. 2124-2157.
+[^01_intro_25]: L.D. Rosen, N.A. Cheever, C. Cummings and J. Felt, 'The impact
+    of emotionality and self-disclosure on online dating versus
+    traditional dating.' p. 2124-2157.
 
-[^01_intro_26]: J. T. Hancock and C. L. Toma, 'Putting your best face forward:
+[^01_intro_26]: J.T. Hancock and C. L. Toma, 'Putting your best face forward:
     The accuracy of online dating photographs.' *Journal of
     Communication*, 59(2), (2009): 367-386.
 
@@ -646,11 +647,11 @@ The Gazette. <http://thegazette.com/2014/03/16/online-dating-still-stigmatized-d
     interactional context on self-presentation through avatars.'
     *Computers in Human Behavior*, 25(2), (2009): 510-520.
 
-[^01_intro_29]: S. Yoder, How Online Dating Became a $2 Billion Industry, Fiscal Times, 2014. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
+[^01_intro_29]: S. Yoder, How Online Dating Became a $2 Billion Industry, *Fiscal Times*, 2014. <http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry>.
 
 # The Pre-History of Print and Online Dating, c. 1690-1990
 
-### H. G Cocks
+### H.G. Cocks
 
 It is often argued that the rise of online dating reflects the
 increasing dominance of economic liberalism in western societies. This
@@ -1223,8 +1224,12 @@ Present, Oxford, Oxford University Press, 1985.
 Goody, Jack. The European Family: A Historico-Anthroplogical Essay,
 Oxford, Blackwell, 2000.
 
+*Jeffrey* no. 1 and no. 2 (1973), p. 22.
+
 Macfarlane, Alan. Marriage and Love in England, Modes of Reproduction
 1300-1840, Oxford, Blackwell, 1986.
+
+(Matrimonial Adlets), *The Sun*, 31 July 1893, p. 4.
 
 Matrimonial Advertisements, Private Collection, 1740-1859, British
 Library.
@@ -1242,20 +1247,15 @@ Quilter, Harry. (ed.) Is Marriage a Failure?, London, Swan Sonnenschein,
 Stone, Lawrence. The Family, Sex and Marriage in England 1500-1800,
 London, 1977.
 
+(The Alleged Matrimonial Frauds), *(London) Times*, 3 December 1895, p. 12; ‘Police’, Times, 1 January 1896, p. 14; Times,3, 18, 24 December 1895, 12; 8, 29, January; 29 February; 2 March 1896.
+
+(The Answer to the Marriage Muddle), Sunday Pictorial, 18 April 1948, p. 4.
+
+(Who Will Marry Phyllis Monkman, A Chance for Single Men), *Pearson’s Weekly*, 8 July 1916, p. 67.
+
 Wrigley, E. A., and R. S. Schofield. The Population 1541-1871, London,
 Edward Arnold, 1981.
 
-Newspapers and Periodicals
-
-Jeffrey
-
-Pearson’s Weekly (London)
-
-The Times (London)
-
-Sun (London)
-
-Sunday Pictorial (London)
 
 [^2_Cocks_Pre-History_1]: Lawrence Stone, *The Family, Sex and Marriage in England 1500-1800*,
     London: Weidenfeld & Nicolson, 1977; Alan Macfarlane, *Marriage and Love in England, Modes
@@ -1299,8 +1299,8 @@ Sunday Pictorial (London)
 
 [^2_Cocks_Pre-History_12]: On the German press see Karl-Christian Fuhrer, *Contradicting
     Nazi Propaganda: Classified Advertisements as Documents of Jewish
-    Life in Nazi Germany, 1933-1938*, Media History 18, 1 (February
-    2012): pp. 65-76.
+    Life in Nazi Germany, 1933-1938*, Media History 18:1 (February
+    2012): 65-76.
 
 [^2_Cocks_Pre-History_13]: Twenty-two different papers are listed in the British Library
     catalogue but others are mentioned in different sources, so the
@@ -1331,13 +1331,12 @@ Sunday Pictorial (London)
 [^2_Cocks_Pre-History_20]: ‘Friendship Clubs’, Mass Observation Archive, University of
     Sussex, TC 12 Box 16 File E.
 
-[^2_Cocks_Pre-History_21]: ‘The Answer to the Marriage Muddle,’ Sunday Pictorial, 18 April
-    1948, 4.
+[^2_Cocks_Pre-History_21]: ‘The Answer to the Marriage Muddle,’ Sunday Pictorial, 18 April 1948, p. 4.
 
 [^2_Cocks_Pre-History_22]: For instance in articles by Bernard Levin, Times, 21 and 22 June
     1972. See also “International Times”, NA UK, DPP 2/4338.
 
-[^2_Cocks_Pre-History_23]: *Jeffrey* no. 1 and no.2 (1973), p. 22.
+[^2_Cocks_Pre-History_23]: *Jeffrey* no. 1 and no. 2 (1973), p. 22.
 
 # Old and New Methods for Online Research: The Case of Online Dating
 
@@ -1361,18 +1360,18 @@ spaces function as courting places for millions. Yet these spaces are
 also flowing sites of information that present new practices and modes
 of existence for couples. Today online dating is a 100 million US\$
 industry operating worldwide, answering both general and niche demand
-for singles. Match.com’s own statistics estimate that about 10 percent
+for singles. Match.com's own statistics estimate that about 10 percent
 of all paying users find a partner within a year.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_2] Deborah Chambers
-states ‘the fluidity and choice apparently offered by online dating fits
-in neatly with today’s ethos of elective intimacy’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_3]
+states 'the fluidity and choice apparently offered by online dating fits
+in neatly with today's ethos of elective intimacy'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_3]
 
 What is done through online dating is a reflexive and self-engaged
 impression management. Singles using online dating services are
 project-managing the outcomes of their mediated romantic encounters.
 Dysfunctional behavior such as stalking is also encountered in this
-space. Teenagers and young people are now: ‘reconfiguring their notions
+space. Teenagers and young people are now: 'reconfiguring their notions
 of privacy and publicity and their concepts of personal and
-intimate’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_4] Chambers is surprised how conventional intimacy remains
+intimate'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_4] Chambers is surprised how conventional intimacy remains
 the same in new media. She states how the alienating pressures of work
 life are countered by online dating that allows people to relive romance
 in the most traditional way.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_5]
@@ -1414,7 +1413,7 @@ follow up interview with a small subsection of the people. The finding
 can reflect the current status of online courtship after the arrival of
 social networks today. The common similarities of online couples (circa
 1997) were age (late thirties), marital status (were married), education
-(at least a bachelor’s degree), offline meeting (4–7 months later),
+(at least a bachelor's degree), offline meeting (4-7 months later),
 distance (lived thousands of miles away), prior online relationships
 (females none, males had experience). Online nicknames, modes and
 content of communication, timing, and presentation of the photo have had
@@ -1432,7 +1431,7 @@ the study were age, education, income, dating anxiety and frequency of
 visit of dating sites. The study wanted to debunk the myth that only the
 shy use online dating; in fact the less shy had more frequency in
 attending these sites. The average age of the users was twenty-nine as
-opposed to the Baker study’s 35 and over.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_9]
+opposed to the Baker study's 35 and over.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_9]
 
 By 2010, the social demographic of Internet dating had changed. Sautter,
 Tippett and Morgan used a larger sample with quantitative methods.
@@ -1442,11 +1441,11 @@ yielded that sociodemographic factors have strong effects on Internet
 access and single status but weak effects on the use of Internet dating
 services. The presence of computer literate users in social networks
 increase the chances of Internet dating. The researchers found that
-Internet dating is a ‘common mate selection strategy among the highly
+Internet dating is a 'common mate selection strategy among the highly
 selective subpopulation of single Internet users and may continue to
 grow through social networks. Material and virtual elements of the
 digital divide have direct and indirect effects on Internet
-dating’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_10]
+dating'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_10]
 
 Case studies and qualitative analyses revealed that filtering process is
 developed by online users when it comes to online dating. Danielle Couch
@@ -1456,17 +1455,17 @@ results showed that nearly all participants used more than one dating
 site to seek partners. They also made use of email, chat and webcam to
 qualify their potential partners. They utilized a variety of filters and
 filtering processes before progressing to a face-to-face meeting.
-‘Participants filtered using the text, photographs, chat, and webcam
+'Participants filtered using the text, photographs, chat, and webcam
 opportunities available online, and followed progressive personalized
 steps in communication and engagement in the lead-up to meeting other
-online daters in person’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_11]
+online daters in person'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_11]
 
 Recent research reveals that online courtship has shifted to social
 networks such as Facebook among youth. Craig and Wright found that
-‘attitude similarity and social attraction may be important perceptions
+'attitude similarity and social attraction may be important perceptions
 that influence self-disclosure, and may eventually lead to
 predictability and interdependence, both important outcomes in terms of
-developing=maintaining relationships’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_12] Perceptions of similarity
+developing=maintaining relationships'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_12] Perceptions of similarity
 and attraction are found to be influencing two relational maintenance
 strategies (positivity and openness). They also found out that many
 Facebook users supplement their Facebook communications with
@@ -1477,12 +1476,12 @@ take care of any potential misunderstandings.
 
 Misrepresentation has been, and it still is the most studied phenomenon
 in online dating. Ellison et al explore how users conceptualize
-misrepresentation (their own and others’) in a specific genre of online
+misrepresentation (their own and others') in a specific genre of online
 self-presentation: the online dating profile. Using qualitative data
 collected from 37 online dating participants, the researchers tried to
-understand self-presentational practices ‘specifically how discrepancies
-between one’s online profile and offline presentation are constructed,
-assessed, and justified’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_13] New York City was chosen as the location
+understand self-presentational practices 'specifically how discrepancies
+between one's online profile and offline presentation are constructed,
+assessed, and justified'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_13] New York City was chosen as the location
 having access to a variety of online dating site users. Participants
 were invited through the *Village Voice* and Craigslist.com
 advertisements. Users of the most popular online dating sites (Yahoo!
@@ -1502,16 +1501,16 @@ interesting results:
 
 The end result showed that online daters used their profile as a promise
 when it came to creating their own online representation: The
-participants gave themselves ‘a flexible sense of identity that drew
+participants gave themselves 'a flexible sense of identity that drew
 upon past, present, and future selves. The profile as promise framework
 enables us to better understand these dynamics and to consider when a
 misrepresentation is a lie and when it is merely a promise that may soon
-be fulfilled’.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_15]
+be fulfilled'.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_15]
 
-Toma and Hancock (2010) examined the role of online daters’ deception in
+Toma and Hancock (2010) examined the role of online daters' deception in
 physical attractiveness in their profiles. Sixty-nine online daters
 identified the deceptions in their online dating profiles and had their
-photograph taken in the lab. Independent judges rated the online daters’
+photograph taken in the lab. Independent judges rated the online daters'
 physical attractiveness. Results showed that the online daters were to
 change their profile photographs and lie about their physical
 description (height, weight, age) when they had low self esteem. The
@@ -1521,11 +1520,11 @@ occupation, suggesting that their deceptions were limited and
 strategic.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_16]
 
 Uncertainty plays a role in building trust in intimacy. Toma and
-Hancock’s further study investigated whether deceptions in online dating
+Hancock's further study investigated whether deceptions in online dating
 profiles match what daters write about themselves in the text part of
 the profile. Computerized analyses found that deceptions showed
-themselves through linguistic cues pertaining to liars’ emotions and
-liars’ strategic efforts to manage their self-presentations. The
+themselves through linguistic cues pertaining to liars' emotions and
+liars' strategic efforts to manage their self-presentations. The
 findings add to the research base on deception, media, and
 self-presentation, and also show how writing style influences perceived
 trustworthiness.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_17]
@@ -1533,12 +1532,12 @@ trustworthiness.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_17]
 Toma, Hancock and Ellison (2008: 1023) examined self-presentation in
 online dating profiles using a novel cross-validation technique for
 establishing accuracy. Eighty online daters rated the accuracy of their
-online self-presentation. Information about participants’ physical
+online self-presentation. Information about participants' physical
 attributes was then collected (height, weight, and age) and compared
 with their online profile, revealing that deviations tended to be
 ubiquitous but small in magnitude. Men lied more about their height, and
 women lied more about their weight, with participants farther from the
-mean lying more. Participants’ self-ratings of accuracy were
+mean lying more. Participants' self-ratings of accuracy were
 significantly correlated with observed accuracy, suggesting that
 inaccuracies were intentional rather than self-deceptive. Overall,
 participants reported being the least accurate about their photographs
@@ -1547,8 +1546,8 @@ conflicts with previous studies that
 
 On the other hand, Deandrea et al confirmed that online daters lied
 about their weight and height not to create social desirability. The
-study found that ‘height/weight misstatements are self-serving but do
-not serve a social influence strategy to affect others’ impressions’.
+study found that 'height/weight misstatements are self-serving but do
+not serve a social influence strategy to affect others' impressions'.
 The self-deception literature shows that distorted self-presentations
 can represent simple ignorance about oneself, a strategic message to
 deceive others, or a self-directed response to self-affirmation or the
@@ -1560,9 +1559,9 @@ education, and health. The idea was to check if homogamy played an
 important role in the creation of intergroup social distance, inequality
 among families, and the intergenerational transmission of
 (dis)advantage.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_19] Hall et al examined factors found that seven
-categories of misrepresentation exist: ‘personal assets, relationship
+categories of misrepresentation exist: 'personal assets, relationship
 goals, personal interests, personal attributes, past relationships,
-weight, and age’. The study found that men are more likely to
+weight, and age'. The study found that men are more likely to
 misrepresent personal assets, relationship goals, personal interests,
 and personal attributes, whereas women are more likely to misrepresent
 weight.[^3_Akser_OldandNewMethodsforOnlineResearch-rev_20]
@@ -1583,16 +1582,16 @@ The future of online dating studies is yet to be determined by a new
 factor, the use of social networks. Such networks can change the
 assumptions and the actual uses of these sites in unpredictable ways.
 The online dating services are big, and the services they provide are on
-demand. The next decade of online dating research will questions today’s
+demand. The next decade of online dating research will questions today's
 assumptions and give way to a better understanding of online romance.
 
-## References:
+## References
 
-Arvidsson, Adam. ‘‘Quality singles’: Internet Dating and the Work of
-Fantasy’, *New Media & Society 8.4* (2006): 671-690.
+Arvidsson, Adam. ''Quality singles': Internet Dating and the Work of
+Fantasy', *New Media & Society 8.4* (2006): 671-690.
 
-Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and
-Connecting Online’, *CyberPsychology and Behavior*, 3.2 (2000): 237-242.
+Baker, Andrea. 'Two by Two in Cyberspace: Getting Together and
+Connecting Online', *CyberPsychology and Behavior*, 3.2 (2000): 237-242.
 
 Chambers, Deborah. *Social Media and Personal Relationships: Online
 Intimacies and Networked Friendship*, Basingstoke: Palgrave Macmillan,
@@ -1600,147 +1599,150 @@ Intimacies and Networked Friendship*, Basingstoke: Palgrave Macmillan,
 
 *Closer*. Mike Nichols. 2004. Film.
 
-Couch, Danielle, and Liamputtong, Pranee. ‘Online Dating and Mating: The
-Use of the Internet to Meet Sexual Partners’, *Qualitative Health
+Couch, Danielle, and Liamputtong, Pranee. 'Online Dating and Mating: The
+Use of the Internet to Meet Sexual Partners', *Qualitative Health
 Research* 18.2 (2008): 268-279.
 
-Craig, Elizabeth, and Wright, Kevin B. ‘Computer-mediated Relational
-Development and Maintenance on Facebook®’, *Communication Research
+Craig, Elizabeth, and Wright, Kevin B. 'Computer-mediated Relational
+Development and Maintenance on Facebook®', *Communication Research
 Reports* 29.2 (2012): 119-129.
 
-DeAndrea, David C., et al. ‘When Do People Misrepresent Themselves to
+DeAndrea, David C., et al. 'When Do People Misrepresent Themselves to
 Others? The Effects of Social Desirability, Ground Truth, and
-Accountability on Deceptive Self‐Presentations’, *Journal of
+Accountability on Deceptive Self‐Presentations', *Journal of
 Communication* 62.3 (2012): 400-417.
 
-Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. ‘Profile
+Ellison, Nicole B., Hancock, Jeffrey T., and Toma, Catalina L. 'Profile
 as Promise: A Framework for Conceptualizing Veracity in Online Dating
-Self-presentations’, *New Media & Society* 14.1 (2012): 45-62.
+Self-presentations', *New Media & Society* 14.1 (2012): 45-62.
 
-Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing
+Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. 'Managing
 Impressions Online: Self‐presentation Processes in the Online Dating
-Environment’, *Journal of Computer-Mediated Communication* 11.2 (2006):
+Environment', *Journal of Computer-Mediated Communication* 11.2 (2006):
 415-441.
 
-Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. ‘Dating
-Deception: Gender, Online Dating, and Exaggerated Self-presentation’,
+Guadagno, Rosanna E., Okdie, Bradley M., and Kruse, Sara A. 'Dating
+Deception: Gender, Online Dating, and Exaggerated Self-presentation',
 *Computers in Human Behavior* 28.2 (2012): 642-647.
 
-Hall, Jeffrey A., et al. ‘Strategic Misrepresentation in Online Dating:
-The Effects of Gender, Self-monitoring, and Personality Traits’, *Journal
+Hall, Jeffrey A., et al. 'Strategic Misrepresentation in Online Dating:
+The Effects of Gender, Self-monitoring, and Personality Traits', *Journal
 of Social and Personal Relationships* 27.1 (2010): 117-135.
 
-Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. ‘What Makes you Click?
-Mate Preferences in Online Dating’, *Quantitative Marketing and Economics*
+Hitsch, Günter J., Hortaçsu, Ali and Ariely, Dan. 'What Makes you Click?
+Mate Preferences in Online Dating', *Quantitative Marketing and Economics*
 8.4 (2010): 393-427.
 
-Kreager, Derek A., et al. ‘“Where Have All the Good Men Gone?” Gendered
-Interactions in Online Dating’, *Journal of Marriage and Family* 76.2
+Kreager, Derek A., et al. '"Where Have All the Good Men Gone?" Gendered
+Interactions in Online Dating', *Journal of Marriage and Family* 76.2
 (2014): 387-410.
 
 Orton-Johnson, K. and Prior, Nick. (eds). *Digital Sociology: Critical
 Perspectives*, Basingstoke: Palgrave Macmillan, 2013.
 
-Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. ‘The
-Social Demography of Internet Dating in the United States’, *Social
+Sautter, Jessica M., Rebecca M. Tippett, and S. Philip Morgan. 'The
+Social Demography of Internet Dating in the United States', *Social
 Science Quarterly* 91.2 (2010): 554-575.
 
 Toma, Catalina L., Hancock, Jeffrey T. and Ellison, Nicole B.
-‘Separating Fact from Fiction: An Examination of Deceptive
-Self-presentation in Online Dating Profiles’, *Personality and Social
+'Separating Fact from Fiction: An Examination of Deceptive
+Self-presentation in Online Dating Profiles', *Personality and Social
 Psychology Bulletin* 34.8 (2008): 1023-1036.
 
-Toma, Catalina L., and Hancock, Jeffrey T. ‘Looks and Lies: The Role of
+Toma, Catalina L., and Hancock, Jeffrey T. 'Looks and Lies: The Role of
 Physical Attractiveness in Online Dating Self-presentation and
-Deception’, *Communication Research* 37.3 (2010): 335-351.
+Deception', *Communication Research* 37.3 (2010): 335-351.
 
-\_\_\_\_\_\_. ‘What Lies Beneath: The Linguistic Traces of Deception in
-Online Dating Profiles’, *Journal of Communication* 62.1 (2012): 78-97.
+\_\_\_\_\_\_. 'What Lies Beneath: The Linguistic Traces of Deception in
+Online Dating Profiles', *Journal of Communication* 62.1 (2012): 78-97.
 
-Valkenburg, Patti M., and Peter, Jochen. ‘Who Visits Online Dating
-Sites? Exploring Some Characteristics of Online Daters’, *CyberPsychology
+Valkenburg, Patti M., and Peter, Jochen. 'Who Visits Online Dating
+Sites? Exploring Some Characteristics of Online Daters', *CyberPsychology
 & Behavior* 10.6 (2007): 849-852.
 
-Whitty, Monica, and Gavin, Jeff. ‘Age/sex/location: Uncovering the
-Social Cues in the Development of Online Relationships’, *CyberPsychology
+Whitty, Monica, and Gavin, Jeff. 'Age/sex/location: Uncovering the
+Social Cues in the Development of Online Relationships', *CyberPsychology
 & Behavior* 4.5 (2001): 623-630.
 
 Whitty, Monica T., & Carr, Adrian N. Cyberspace *Romance: The Psychology
 of Online Relationships*, Basingstoke: Palgrave Macmillan, 2010.
 
-Young, Dannagal Goldthwaite, and Caplan, Scott E. ‘Online Dating and
-Conjugal Bereavement’, *Death Studies* 34.7 (2010): 575-605.
+Young, Dannagal Goldthwaite, and Caplan, Scott E. 'Online Dating and
+Conjugal Bereavement', *Death Studies* 34.7 (2010): 575-605.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_1]: K. Orton-Johnson and Nick Prior (eds) *Digital Sociology: Critical
     Perspectives*, Basingstoke: Palgrave Macmillan, 2013, p. 4.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_2]: Arvidsson, Adam. ‘‘Quality Singles’: Internet Dating and the Work
-    of Fantasy’, *New Media & Society* 8.4 (2006): 686.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_2]: Arvidsson, Adam. ''Quality Singles': Internet Dating and the Work
+    of Fantasy', *New Media & Society* 8.4 (2006): 686.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_3]: Deborah Chamber, *Social Media and Personal Relationships: Online
     Intimacies and Networked Friendship*, Basingstoke: Palgrave Macmillan, 2013, p. 139.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_4]: İbid., p. 140.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_4]: Deborah Chamber, *Social Media and Personal Relationships*, p. 140.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_5]: Ibid., p. 141.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_5]: Deborah Chamber, *Social Media and Personal Relationships*, p. 141.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_6]: Dannagal Goldthwaite Young and Scott E. Caplan, ‘Online Dating and
-    Conjugal Bereavement’, *Death Studies* 34.7 (2010): 575.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_6]: Dannagal Goldthwaite Young and Scott E. Caplan, 'Online Dating and
+    Conjugal Bereavement', *Death Studies* 34.7 (2010): 575.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_7]: Andrea Baker, ‘Two by Two in Cyberspace: Getting Together and
-    Connecting online’, *CyberPsychology and Behavior*, 3.2 (2000):
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_7]: Andrea Baker, 'Two by Two in Cyberspace: Getting Together and
+    Connecting online', *CyberPsychology and Behavior*, 3.2 (2000):
     239-242.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_8]: Patti M. Valkenburg and Jochen Peter, ‘Who Visits Online Dating
-    Sites? Exploring Some Characteristics of Online Daters’,
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_8]: Patti M. Valkenburg and Jochen Peter, 'Who Visits Online Dating
+    Sites? Exploring Some Characteristics of Online Daters',
     *CyberPsychology & Behavior* 10.6 (2007): 849.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_9]: Ibid. p.850.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_9]: Patti M. Valkenburg and Jochen Peter, *Who Visits Online Dating
+    Sites?*, p. 850.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_10]: Jessica M. Sautter, Rebecca M. Tippett, and S. Philip Morgan.
-    ‘The Social Demography of Internet Dating in the United States’,
+    'The Social Demography of Internet Dating in the United States',
     *Social Science Quarterly* 91.2 (2010): 554.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_11]: Danielle Couch and Pranee Liamputtong, ‘Online Dating and Mating:
-    The Use of the Internet to Meet Sexual Partners’, *Qualitative Health
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_11]: Danielle Couch and Pranee Liamputtong, 'Online Dating and Mating:
+    The Use of the Internet to Meet Sexual Partners', *Qualitative Health
     Research* 18.2 (2008): 268.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_12]: Elizabeth Craig and Kevin B. Wright, ‘Computer-mediated
-    Relational Development and Maintenance on Facebook®’, *Communication
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_12]: Elizabeth Craig and Kevin B. Wright, 'Computer-mediated
+    Relational Development and Maintenance on Facebook®', *Communication
     Research Reports* 29.2 (2012): 119.
 
 [^3_Akser_OldandNewMethodsforOnlineResearch-rev_13]: Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma.
-    ‘Profile as Promise: A Framework for Conceptualizing Veracity in
-    Online Dating Self-presentations’, *New Media & Society* 14.1 (2012):
+    'Profile as Promise: A Framework for Conceptualizing Veracity in
+    Online Dating Self-presentations', *New Media & Society* 14.1 (2012):
     45.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_14]: Ibid. p.60
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_14]: Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma.
+    'Profile as Promise', p. 60.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_15]: Ibid.
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_15]: Nicole B. Ellison, Jeffrey T. Hancock, and Catalina L. Toma.
+    'Profile as Promise', p. 60.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_16]: Catalina L.Toma and Jeffrey T. Hancock. ‘Looks and lies: The role
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_16]: Catalina L.Toma and Jeffrey T. Hancock. 'Looks and lies: The role
     of Physical Attractiveness in Online Dating Self-presentation and
-    Deception’, *Communication Research* 37.3 (2010): 335.
+    Deception', *Communication Research* 37.3 (2010): 335.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_17]: Catalina L. Toma and Jeffrey T. Hancock. ‘What Lies Beneath: The
-    Linguistic Traces of Deception in Online Dating Profiles’,*Journal
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_17]: Catalina L. Toma and Jeffrey T. Hancock. 'What Lies Beneath: The
+    Linguistic Traces of Deception in Online Dating Profiles',*Journal
     of Communication* 62.1 (2012): 78.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_18]: David C. DeAndrea et al. ‘When Do People Misrepresent Themselves
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_18]: David C. DeAndrea et al. 'When Do People Misrepresent Themselves
     to Others? The Effects of Social Desirability, Ground Truth, and
-    Accountability on Deceptive Self‐Presentations’, *Journal of
+    Accountability on Deceptive Self‐Presentations', *Journal of
     Communication* 62.3 (2012): 415.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_19]: Derek A. Kreager et al. ‘“Where Have All the Good Men Gone?”
-    Gendered Interactions in Online Dating’, *Journal of Marriage and
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_19]: Derek A. Kreager et al. '"Where Have All the Good Men Gone?"
+    Gendered Interactions in Online Dating', *Journal of Marriage and
     Family* 76.2 (2014): 387.
 
-[^3_Akser_OldandNewMethodsforOnlineResearch-rev_20]: Jeffrey A. Hall et al. ‘Strategic Misrepresentation in Online
+[^3_Akser_OldandNewMethodsforOnlineResearch-rev_20]: Jeffrey A. Hall et al. 'Strategic Misrepresentation in Online
     Dating: The Effects of Gender, Self-monitoring, and Personality
-    Traits’, *Journal of Social and Personal Relationships* 27.1 (2010):
+    Traits', *Journal of Social and Personal Relationships* 27.1 (2010):
     117-118.
 
-# Dating Maps. Mapping Love in Online Dating Communities
+# Dating Maps: Mapping Love in Online Dating Communities
 
 ### Ramón Reichert
 
@@ -2315,26 +2317,23 @@ Graphics’, IEEE Transactions 12.5 (2006): 677-684.
 Nomata, Yuya and Hoshino, Junichi. ‘Social Landscapes: Visual Interface
 to Improve Awareness in Human Relationships on Social Networking Sites’.
 ICEC, Volume 4161, Lecture Notes in Computer Science. Ed. Richard
-Harper, Matthias Rauterberg, Marco Combetto, New York, Springer, 2006,
-pp.350-353.
+Harper, Matthias Rauterberg, Marco Combetto, New York, Springer, 2006.
 
 Reichert, Ramón. *Amateure im Netz. Selbstmanagement und Wissenstechnik
 im Web 2.0*, Bielefeld: transcript, 2008.
 
 Reichert, Ramón. ‘Social Media Storytelling’, in: Bernd Kracke, Marc
-Ries (eds.): *Expanded Narration*, Bielefeld: transcript, 2013, pp.
-341-358.
+Ries (eds.): *Expanded Narration*, Bielefeld: transcript, 2013.
 
 Strathern, Marilyn. *Audit Cultures: Anthropological Studies in
 Accountability, Ethics and the Academy*, London: Routledge, 2000.
 
 Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
 2014.
-<http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/>
+<http://www.medienkunstnetz.de/themen/mapping_und_text/jenseits-des-archivs/>.
 
-[^4_Reichert_Dating_Maps_1]: Wolfgang Ernst. Jenseits des Archivs: Bit Mapping.
-    <http://www.medienkunstnetz.de/themen/mapping\_und\_text/jenseits-des-archivs/>
-    2007
+[^4_Reichert_Dating_Maps_1]: Wolfgang Ernst, Jenseits des Archivs: Bit Mapping, 2007.
+    <http://www.medienkunstnetz.de/themen/medienkunst_im_ueberblick/>
 
 [^4_Reichert_Dating_Maps_2]: Ramón Reichert, *Amateure im Netz. Selbstmanagement und
     Wissenstechnik im Web 2.0*, Bielefeld: transcript, 2008, pp. 124-129.
@@ -2378,10 +2377,10 @@ Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
 
 [^4_Reichert_Dating_Maps_13]: Ramón Reichert, ‘Social Media Storytelling’. Expanded Narration.
     Ed. Bernd Kracke, Marc Ries, Bielefeld: transcript, 2013,
-    pp.341-358.
+    pp. 341-358.
 
 [^4_Reichert_Dating_Maps_14]: Michel Foucault,*Dits et écrits IV*, Paris: Gallimard, 1994,
-    p.237.
+    p. 237.
 
 [^4_Reichert_Dating_Maps_15]: Matthew Causey, *Theatre and Performance in Digital Culture: From
     Simulation to Embeddedness*, London/New York: Routledge, 2006.
@@ -2987,7 +2986,7 @@ tecnologías de la comunicación y la información’, in Urresti, Marcelo
     apropiaciones de Facebook en sectores populares de la Ciudad de
     Buenos Aires.
 
-# “Dating” or “Escaping”? Cuban Profiles in Dating Websites
+# 'Dating' or 'Escaping'? Cuban Profiles in Dating Websites
 
 ### Lázaro M. Bacallao Pino
 
@@ -3086,7 +3085,7 @@ inclusion will allow us to have a case to compare Cuban profiles in
 dating websites with listings of contact with a more explicit sexual
 purpose, which is relevant for the analysis of the first.
 
-## Mediation of “the Cuban condition” in Profiles from Cuba in Dating Websites
+## Mediation of 'the Cuban Condition' in Profiles from Cuba in Dating Websites
 
 Relationships between real and virtual worlds -or, better, between the
 social, cultural, economic and political context of individuals and
@@ -3217,7 +3216,7 @@ me to be bothered by Cubans. Besides, nobody will call to Cuba from
 abroad if he has no real interest, because phone calls are very
 expensive”.[^6_Pino_Dating_or_Escaping_23]
 
-The Cuban condition -mainly its technological dimension and the
+The Cuban condition - mainly its technological dimension and the
 difficult Internet access- becomes this way a source of safety, at least
 in the opinion of the subjects. But, while some individuals make public
 their private data, other ones even prefer not to publish his/her
@@ -3706,12 +3705,12 @@ interpersonal, and hyperpersonal interaction', *Communication Research* 23
      <http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls>.
 
 [^6_Pino_Dating_or_Escaping_4]: United Nations, Indicators of the Millennium Development Goals,
-    2013, <http://unstats.un.org/unsd/mdg/Data.aspx>
+    2013, <http://unstats.un.org/unsd/mdg/Data.aspx>.
 
 [^6_Pino_Dating_or_Escaping_5]: Pedro Oliva, *‘International Internet Connectivity (IIC) -
     Individual Country and Organization Experiences’*, Geneva, January
     23-24, 2012,
-    <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>
+    <http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf>.
 
 [^6_Pino_Dating_or_Escaping_6]: Maye Primera, ‘Internet cubano a precios del “imperio”’, *El
     País*, June 5, 2013,
@@ -3919,7 +3918,7 @@ tremendous change in society. It could be argued that the Internet has
 brought about societal implications to the magnitude of the industrial
 revolution or the printing press.[^7_Casimiro_2] Not only does the Internet pursue
 organizational and commercial purposes, but its sociability and
-communication features - “the *relational* Internet”: practices in which
+communication features - "the *relational* Internet": practices in which
 people engage to interact and share information and meaning[^7_Casimiro_3] - are
 high and will likely increase.[^7_Casimiro_4]
 
@@ -3934,9 +3933,9 @@ dating sites claim a prominent role in the social and love life of
 millions of individuals in many different countries.
 
 Over the past few years, networking sites and particularly cyberdating,
-“the process of getting to know someone online via the Internet before
+"the process of getting to know someone online via the Internet before
 transferring the relationship to offline or face-to-face
-interaction”,[^7_Casimiro_7] have been a growing area of research. Scholars from a
+interaction",[^7_Casimiro_7] have been a growing area of research. Scholars from a
 variety of academic disciplines such as communication studies,
 psychology and sociology, making use of distinct approaches, models and
 theories, have shown interest for the analysis of a myriad of issues
@@ -3972,13 +3971,13 @@ Millions of people across the globe know, by personal experience,
 something that the literature confirms: the Internet is a valid mean of
 initiating intimate, romantic and personally fulfilling
 relationships.[^7_Casimiro_10] In fact, online dating, more particularly in the
-U.S. but in the future, possibly, in the rest of the Western world as
+US but in the future, possibly, in the rest of the Western world as
 well, is becoming one of the most common ways of meeting potential love
 partners. The Internet has been gaining ground on more traditional forms
 of meeting romantic partners such as friends, family, school or
-neighborhood. Rosenfeld and Thomas, have found that “for heterosexual
+neighborhood. Rosenfeld and Thomas, have found that "for heterosexual
 couples who met in 2009, the Internet was the third most likely way of
-meeting.”[^7_Casimiro_11] Also in the U.S. context, the study of Cacioppo et
+meeting."[^7_Casimiro_11] Also in the US context, the study of Cacioppo et
 al.[^7_Casimiro_12], using a representative sample of 19,131 respondents, married
 between the years 2005 and 2012, concluded that more than one third of
 North American marriages start now online.
@@ -3988,12 +3987,12 @@ to, online dating sites; internet classifieds; chat rooms; instant
 messaging; online games; and social networking websites. Forms of
 finding romantic or sexual partners, beyond the traditional ways,
 namely, the use of matrimonial advertisements, date back to the end of
-the 17^th^ century. “By the early eighteen century, matrimonial
+the 17^th^ century. "By the early eighteen century, matrimonial
 advertising was booming, along with the expansion of print and the
-proliferation of newspapers, pamphlets and periodicals.”[^7_Casimiro_13] And around
+proliferation of newspapers, pamphlets and periodicals."[^7_Casimiro_13] And around
 the 19^th^ century there are records of the phenomenon of mail-order
 brides and matchmaker services among certain religious groups in the
-Northwest of the U.S.[^7_Casimiro_14]
+Northwest of the US[^7_Casimiro_14]
 
 It may be said that love has no price. However, it can - and it was -
 transformed and developed into a highly profitable business: dating
@@ -4004,8 +4003,8 @@ from the way partners met through matrimonial ads posted in newspapers
 and magazines in old times, the internet became from the outset a way
 for people to browse hundreds of databases with millions of users,
 filtering them by age, location, physical attractiveness, income, etc.
-They did it in the search for “Mr. or Ms. Right”.[^7_Casimiro_15] Then, in the
-beginning of the 21^st^ century, with the advent of more sophisticated
+They did it in the search for "Mr. or Ms. Right".[^7_Casimiro_15] Then, in the
+beginning of the 21st century, with the advent of more sophisticated
 computer software, began the age of the algorithm, allowing partners to
 find more compatible matches. The popularity of online dating sites
 seems to represent an unexpected and truly magical instrument to open up
@@ -4014,10 +4013,10 @@ recent article from Forbes Magazine:
 
 > The pool has deepened such that around half of all single people use
 > online dating services at some point, and the algorithms that power
-> them have gotten about as smart as they’re going to get for the time
-> being. What users want isn’t more or better matches on the screen (…).
+> them have gotten about as smart as they're going to get for the time
+> being. What users want isn't more or better matches on the screen (…).
 > What they want is an easier and faster way to meet them IRL - in real
-> life. “The big thing now is offline”[^7_Casimiro_16]
+> life. "The big thing now is offline"[^7_Casimiro_16]
 
 ##Possible selves: managing online presentations
 
@@ -4051,19 +4050,19 @@ Occasionally, in order to attract others, daters lie about themselves.
 Those lies, usually, are not perceived as factual lies. More than having
 to do with intrinsic personal features, they have to do with external
 ones (e.g. age, height – normally men lie more about this item then
-women –, weight – women tend to lie more about this characteristic -,
-smoking habits, or number of children). Hence, deviations tend “to be
-ubiquitous but small in magnitude”.[^7_Casimiro_20] As Ellison et al. argue “the
-notion that people frequently, explicitly, and intentionally ‘lie’
-online is simplistic and inaccurate”.[^7_Casimiro_21] Self-presentation and the
+women, weight – women tend to lie more about this characteristic,
+smoking habits, or number of children). Hence, deviations tend "to be
+ubiquitous but small in magnitude".[^7_Casimiro_20] As Ellison et al. argue "the
+notion that people frequently, explicitly, and intentionally 'lie'
+online is simplistic and inaccurate".[^7_Casimiro_21] Self-presentation and the
 construction of an online Profile can be a complex process mixing
-different domains: “Real-I”, “Social-I” and “Ideal-I”.[^7_Casimiro_22] That is not
-necessarily bad, since “possible selves”[^7_Casimiro_23] may act as an important
-element of one’s self-knowledge.
+different domains: "Real-I", "Social-I" and "Ideal-I".[^7_Casimiro_22] That is not
+necessarily bad, since "possible selves"[^7_Casimiro_23] may act as an important
+element of one's self-knowledge.
 
 > Giddens (1990) argues that one important aspect of identity in
-> modernity is the ability to self-narrate (….). Those who actively
-> engage in the ‘reflexive project of the self’ (…) that is, rewriting
+> modernity is the ability to self-narrate… Those who actively
+> engage in the 'reflexive project of the self' (…) that is, rewriting
 > the personal narrative as identity construction, can presumably
 > function well in the modern world, and as a corollary through online
 > spheres that cater for these narrative constructions of self.[^7_Casimiro_24]
@@ -4104,9 +4103,9 @@ subsistence, authority and leadership.[^7_Casimiro_25]
 
 > We have been witnessing a growing sentimentalisation, privatisation,
 > secularisation and individualisation of families that transformed
-> people’s family lives into more plural and diverse combinations,
+> people's family lives into more plural and diverse combinations,
 > particularly when compared with much more homogeneous models from the
-> past. Nowadays, in family context, there’s a greater importance given
+> past. Nowadays, in family context, there's a greater importance given
 > to gender equality but also to the sentimental aspect of
 > relationships, in so far it carries the sense of greater
 > accomplishment and personal well-being.[^7_Casimiro_26]
@@ -4142,7 +4141,7 @@ Portugal, a nation still with a conservative dimension, was regarded as
 one of the countries where gender stereotypes were more
 accentuated.[^7_Casimiro_28] Traditionalist patterns of male dominance over women,
 especially regarding the division of housework and child care, are still
-felt in Portugal. Those patterns influence men’s and women’s behavior.
+felt in Portugal. Those patterns influence men's and women's behavior.
 Women, in particular, activate "dispositions they have been inculcated
 with" and continue to respond to the "traditionalist expectations for
 the performance of roles in our society."[^7_Casimiro_29]
@@ -4172,7 +4171,7 @@ in all contexts is far from meaning, with obvious evidence, its
 eradication. For the author, the principles of the dominant view - those
 of male domination - remain active even if they are embedded "in the
 form of schemes of perception and appreciation hardly accessible to
-consciousness.”[^7_Casimiro_33] Still, along with the reproduction of gender
+consciousness."[^7_Casimiro_33] Still, along with the reproduction of gender
 stereotypes the issue of the equalization of gender also emerges.
 Tradition and modernity coexist. To state it in a simplified way, in
 this matter of gender, change does not occur as it is expected, change,
@@ -4187,7 +4186,7 @@ newspapers and magazines, and more recently also on the Internet, namely
 in dating sites, indicates that gender stereotypes influence the way men
 and women describe the ideal partner and also the way they define
 themselves in order to attract potential partners. Gender does influence
-self-presentation characteristics: men’s personal Profiles are more
+self-presentation characteristics: men's personal Profiles are more
 likely to offer instrumental traits (education, career, financial
 status, socioeconomic position), and to request expressive qualities in
 women; whereas women offer physical attractiveness, personality
@@ -4201,9 +4200,9 @@ with some puzzling results. Men may also be looking for financially
 independent, successful and ambitious women[^7_Casimiro_35]; and women, on their
 hand, relative to the opposite sex, are starting to emphasize
 commitment, communication and the ability to express feelings. Also they
-appear to be looking in male Profiles for “characteristics like warmth
-and kindness, and attractiveness”.[^7_Casimiro_36] In sum, research may be pointing
-to a “gender-specific decline in mate value”.[^7_Casimiro_37]
+appear to be looking in male Profiles for "characteristics like warmth
+and kindness, and attractiveness".[^7_Casimiro_36] In sum, research may be pointing
+to a "gender-specific decline in mate value".[^7_Casimiro_37]
 
 The construction of online dating Profiles tries to fit with what is
 considered socially acceptable in the dominant culture. Therefore, it is
@@ -4219,9 +4218,9 @@ In Portugal, printed dating ads have been studied, namely from a major
 daily Portuguese newspaper,[^7_Casimiro_38] but online dating is severely lacking
 academic research. In 2002, Cardoso showed that, in the context of
 Portuguese Internet mediated communication (IMC) users, it was possible
-to see “the formation of stable environments of intimate ties,
+to see "the formation of stable environments of intimate ties,
 prolonging themselves outside the environment of IMC towards the offline
-spaces”.[^7_Casimiro_39] These intimate ties, concerned, among others, friendship
+spaces".[^7_Casimiro_39] These intimate ties, concerned, among others, friendship
 (30,2%) and friendship and love (2,3%), and in a recent report that
 explores the relation of Portuguese people with the internet, the same
 author mentions that 78,7% of internet users adhere to social networking
@@ -4229,10 +4228,10 @@ in order to meet new people.[^7_Casimiro_40] Who are these users, what motivates
 them to meet new people, who do they meet and what kind of relationships
 are established, that is still unknown.
 
-Digital literacy in Portugal grew exponentially from the late 1990’s to
+Digital literacy in Portugal grew exponentially from the late 1990's to
 the end of the last decade and the Internet gradually emerged as a
-“community of chronic communicators.”[^7_Casimiro_41] By the end of the 1990’s the
-use of the Internet as a ‘social technology’ for communication among
+"community of chronic communicators."[^7_Casimiro_41] By the end of the 1990's the
+use of the Internet as a 'social technology' for communication among
 individuals was still the object of some apprehension[^7_Casimiro_42] but in 2009,
 Portugal was already the European country with the third highest number
 of users accessing social networking sites – after the UK and
@@ -4275,7 +4274,7 @@ site in Europe; secondly, it was the first dating site to appear in
 Portugal (in 2005); and, thirdly, it is relatively widespread, recording
 the most registered users.
 
-The user’s Profiles were selected according to 5 criteria: firstly,
+The user's Profiles were selected according to 5 criteria: firstly,
 there was a photograph and a self-presentation ad; secondly, they were
 between 25 and 60 years old; thirdly, they lived in Portugal; fourth,
 they lived in Lisbon; and finally, they lived within a 30km radius of
@@ -4284,9 +4283,9 @@ appearance, marital status, etc.) the random effect was maintained. The
 sample was limited to heterosexuals (women seeking men and men seeking
 women). The 200 Profiles were proportionally selected among these age
 groups with most registered users in the site, according to the above-
-mentioned criteria (men: 17 aged 25–30 years; 39 aged 31-40 years; 30
-aged 41-50 years; 14 aged 51-60 / women: 13 aged 25–30 years; 30 aged
-31-40 years; 36 aged 41-50 years; 21 aged 51-60).
+mentioned criteria (men: 17 aged 25 – 30 years; 39 aged 31 - 40 years; 30
+aged 41 - 50 years; 14 aged 51 - 60 / women: 13 aged 25 – 30 years; 30 aged
+31 - 40 years; 36 aged 41 - 50 years; 21 aged 51 - 60).
 
 The Profiles in the dating site Meetic.pt include several items: a space
 to upload images; a space where users are encouraged to write a
@@ -4302,22 +4301,22 @@ individual files in the computer and then analyze all the items with the
 exception of the fourth - the questionnaire with pre-defined yes/no
 questions. Regarding the third item, only some specific elements of the
 self-questionnaire with pre-defined questions were studied: physical
-attributes (“aspect”, “silhouette” and “the most attractive in me”);
-socioeconomic traits (“qualifications”, “profession” and “income”); and
+attributes ("aspect", "silhouette" and "the most attractive in me");
+socioeconomic traits ("qualifications", "profession" and "income"); and
 personality/psychological characteristics.
 
 Self-presentation messages and the selected items of the
 self-questionnaire with pre-defined questions were analyzed using a
 thematic and summative content analysis methodology[^7_Casimiro_49] and employing
-techniques of the grounded theory that Larossa defines as a “valuable
+techniques of the grounded theory that Larossa defines as a "valuable
 set of procedures for thinking about theoretically textual
-materials”.[^7_Casimiro_50] A semi-inductive approach, qualitative and
+materials".[^7_Casimiro_50] A semi-inductive approach, qualitative and
 interpretative, was followed in the search for unexpected data that
 would contribute substantially to the construction of hypotheses in a
 dialectical relationship between theoretical reflection and
 reality.[^7_Casimiro_51] From an analysis of the 200 presentation messages of both
 males and females, "thematic files" or "category files"[^7_Casimiro_52] were
-created for both sexes. In each of these files, excerpts of the user’s
+created for both sexes. In each of these files, excerpts of the user's
 most significant descriptions were labeled and the words most often used
 counted. The content analysis of the messages was guided by the main
 research question and required an observation grid containing some
@@ -4327,17 +4326,17 @@ years have been discussing the topic of stereotypes and presenting lists
 of traits and attributes commonly considered typically masculine or
 feminine.
 
-For the study of Profile photographs Bell’s methodology - content
-analysis of visual images - was followed: “an empirical (observational)
-and objective procedure for quantifying recorded ‘audio-visual’ (…)
-representation using reliable, explicitly defined categories”.[^7_Casimiro_53]
+For the study of Profile photographs Bell's methodology - content
+analysis of visual images - was followed: "an empirical (observational)
+and objective procedure for quantifying recorded 'audio-visual' (…)
+representation using reliable, explicitly defined categories".[^7_Casimiro_53]
 Bearing in mind the research questions, the first goal was to discover
 the categories, common themes and subthemes emerging across the male and
 female Profile photos, and also to note the different or unique pictures
-appearing in the Profiles. In the content analysis of visual images “the
+appearing in the Profiles. In the content analysis of visual images "the
 researcher is usually interested in whether, say, women are depicted
 more or less frequently than men in relation to some variable or
-quality”.[^7_Casimiro_54] Thus, each Profile was coded for the number of photos
+quality".[^7_Casimiro_54] Thus, each Profile was coded for the number of photos
 uploaded, number of photos with face shots, and number of photos showing
 things other than the user (for instance, animals, places, cities, and
 objects) and the circumstances in which they appear. The number of
@@ -4345,12 +4344,12 @@ photos where users exhibited parts of their body (what parts, in which
 positions), and the clothing they were wearing (clothing, for example,
 was coded on the dimensions of color and kind of clothing – sportswear,
 formal wear, casual wear, etc.) were also taken into account. A close
-reading of the images, in-depth scrutiny and “treating the visual as
-problematic”[^7_Casimiro_55] was the next step.
+reading of the images, in-depth scrutiny and "treating the visual as
+problematic"[^7_Casimiro_55] was the next step.
 
 ##Are Men from Mars and Women from Venus?
 
-The idea that men and women belong to “distinct planets” and that the
+The idea that men and women belong to "distinct planets" and that the
 differences between them are a consequence of inner psychological
 differences between the genders has long been widespread. There is a
 belief that each gender can be understood in terms of distinct ways of
@@ -4363,8 +4362,8 @@ over time.
 > Discourses are conceptualized as instances of continuous production of
 > gender. This means that it is recognized that individual discourses
 > are structured largely by relatively stable symbolic systems that give
-> (asymmetric) meanings to the categories of femininity and masculinity
-> (...). Discourses on gender do not merely reflect a pre-existing
+> (asymmetric) meanings to the categories of femininity and masculinity ...
+> Discourses on gender do not merely reflect a pre-existing
 > differentiation, they actively contribute to the construction of this
 > differentiation and, thus, they "do gender".[^7_Casimiro_56]
 
@@ -4394,28 +4393,28 @@ finally, age preferences of the potencial partner.
 
 Comparing to men, women fill out more the physical traits of the
 closed-ended questionnaire that characterizes users. By physical traits,
-it is meant: “aspect”, “silhouette” and what is considered “the most
-attractive in me”. But the difference is not astonishing: 69% of the 100
+it is meant: "aspect", "silhouette" and what is considered "the most
+attractive in me". But the difference is not astonishing: 69% of the 100
 men fill out these items against a little bit more of women: 74%. What
-is more notable is that 47% of women, when filling the item “aspect”, by
-choosing options like “not bad”, “attractive”, “very attractive” and “an
-authentic model” stress much more than men (only 26% choosing these
+is more notable is that 47% of women, when filling the item "aspect", by
+choosing options like "not bad", "attractive", "very attractive" and "an
+authentic model" stress much more than men (only 26% choosing these
 elements), their presumable beautiful and charming look. The least
 filled in of all items of the questionnaire, included in this major item
-of the “Physical attributes”, is “the most attractive in me” - perhaps
+of the "Physical attributes", is "the most attractive in me" - perhaps
 because it is the third on the list of all the items to be filled in by
 the users when completing their online profile. It is curious, though,
-that regarding the “silhouette” item, the second one, there are 18% of
-women choosing the option “with graceful curves” and only two percent of
+that regarding the "silhouette" item, the second one, there are 18% of
+women choosing the option "with graceful curves" and only two percent of
 men choosing this option.
 
 Women have managed to free themselves from the stereotype of woman and
 wife. However, despite all the battle, what these results may indicate
 is that Portuguese women still have internalized the stereotypes from 50
-years ago, but now also carrying the “heightened sexuality, one of the
+years ago, but now also carrying the "heightened sexuality, one of the
 burdens of the post sexual revolution society that freed the chains that
-bound the women’s desires, but brought to the spotlight the female body
-in advertising and on the media in general”[^7_Casimiro_58], thus contributing for
+bound the women's desires, but brought to the spotlight the female body
+in advertising and on the media in general"[^7_Casimiro_58], thus contributing for
 the reproduction of the female stereotype as a sex symbol.
 
 ##Socioeconomic Capital
@@ -4424,12 +4423,12 @@ The most salient result that emerges when analyzing the data relating
 the socioeconomic capital of the individuals that compose the sample of
 this research is that neither men nor women seem to feel very
 comfortable with the filling of these aspects. The percentage of users
-that do not fill in the items of “qualifications”, “profession” and
-“income” are high, particularly when compared to other elements of the
+that do not fill in the items of "qualifications", "profession" and
+"income" are high, particularly when compared to other elements of the
 closed-ended questionnaire. Nonetheless, there are a few more men (67%)
 than women (51%) doing it. Furthermore, it can be stressed that,
 although the numbers are not high, still, 19% of men disclose
-information about their “income” whereas only six percent of women fill
+information about their "income" whereas only six percent of women fill
 in this element.
 
 Although the recent literature on the European family lives, notably,
@@ -4469,9 +4468,9 @@ more (re)produced by female online daters (see Figure 1.).
 
 ![Figure 1](imgs/c-casimiro-images/C_Casimiro_image1_Female_Stereotypes.tif)
 
-**Figure 1. Female stereotypes**
+Figure 1. Female stereotypes
 
-As figure 1 show, it is quite significant the number of women choosing
+As Figure 1 show, it is quite significant the number of women choosing
 words such as: affable, instinctive, caring, sensitive, dreamy,
 conciliatory, and generous for their self-presentations. Also, it can be
 underlined that some words are exclusively used by women: feminine,
@@ -4491,8 +4490,8 @@ all, courteous (see Figure 2).
 > than, dominant over, and more powerful than women (…). Thus, an act of
 > common courtesy may be viewed by some as a political statement
 > designed to perpetuate traditional views of masculinity and femininity
-> (…) and may sometimes serve as ‘a way of preserving the inequities
-> between the sexes’ (…).[^7_Casimiro_60]
+> (…) and may sometimes serve as 'a way of preserving the inequities
+> between the sexes' (…).[^7_Casimiro_60]
 
 Also, it is possible to detect words solely employed by men, such as:
 perseverant, prudent, responsible, ambitious, rational and mature.
@@ -4533,8 +4532,8 @@ administration, namely in Portugal, it is known that women employ
 specific strategies that enable them to be accepted as leaders and
 integrate teams.[^7_Casimiro_61] It is highly probable that if they had to fill out
 a profile for an application to integrate a big company they would
-rather opt to use self-descriptive words like “active”, “perseverant”,
-“independent”, “responsible” and “mature”. Similarly, in the particular
+rather opt to use self-descriptive words like "active", "perseverant",
+"independent", "responsible" and "mature". Similarly, in the particular
 situation of online dating, recent American literature has shown that in
 the beginning of the 21^st^ century, contrary to prior researches, there
 are women already describing themselves as financially independent,
@@ -4545,9 +4544,9 @@ themselves as lovely, very attractive and slim.[^7_Casimiro_62]
 ##Age Preferences of the Potential Partner
 
 Love without social constraint is a myth. The Sociology of the family,
-have shown, for decades, that couples tend to be homogamous, “that is,
+have shown, for decades, that couples tend to be homogamous, "that is,
 individuals are attracted to persons who are similar on one or more
-characteristics”.[^7_Casimiro_63] Homogamy is a social proximity that may be based
+characteristics".[^7_Casimiro_63] Homogamy is a social proximity that may be based
 on culture, class, religion, economic status or age: the so-called age
 homogamy. On the Internet the possibilities of meeting someone that
 otherwise would never be met are high. This means that the chances of
@@ -4592,7 +4591,7 @@ The results of this research indicate that age preferences, likewise in
 the offline environment, shift with age (and presumably – like in the
 Portuguese context happens - with the marital status). But these
 preferences are not random: gender does in fact matter. As they age, men
-prefer younger women, whereas women’s partners’ preferred age becomes
+prefer younger women, whereas women's partners' preferred age becomes
 more diverse.
 
 ##And What about the Portraits?
@@ -4602,19 +4601,19 @@ several times more the chances of matching. Meetic.pt encourages users
 to do so. Of those who comply, many explicitly mention the importance of
 a photograph in the Profile:
 
-> “*Profiles with no photographs are like books without a cover*”
+> "*Profiles with no photographs are like books without a cover*"
 >
 > [woman, single, 39 years]
 >
-> “*Profiles without photos, no thanks: if you go fishing you've got to
-> get wet*”
+> "*Profiles without photos, no thanks: if you go fishing you've got to
+> get wet*"
 >
 > [man, separated, 41 years]
 >
-> "*Please, those of you that don’t show their image do not contact me.
-> Although ‘what is essential is invisible to the eye’ I’m not
-> interested in those who haven’t got the courage to show up! I will
-> respect them but I will not answer. Thank you.*”
+> "*Please, those of you that don't show their image do not contact me.
+> Although 'what is essential is invisible to the eye' I'm not
+> interested in those who haven't got the courage to show up! I will
+> respect them but I will not answer. Thank you.*"
 >
 > [woman, divorced, 39 years]
 
@@ -4671,7 +4670,7 @@ Freitas, in a research that undertook the analysis of perfume magazine
 ads concluded that:
 
 > There seems to be an emphasis on themes such as sports and
-> business/professions in men’s perfume ads, whereas women’s fragrances
+> business/professions in men's perfume ads, whereas women's fragrances
 > tend to be advertised through motifs such as love, eroticism, glamour
 > and fashion. (…) The depiction of women models is still more frequent,
 > and that nudity and the erotic depiction of women participants
@@ -4683,16 +4682,16 @@ to observe that there is not even one photograph posted by a woman
 representing her workplace or some scenario that could indicate her
 professional occupation. By contrast, eleven photos of men, though a
 residual number in the 485 uploaded by them, were nonetheless classified
-as “workplace” in the thematic files created when analyzing photographs.
+as "workplace" in the thematic files created when analyzing photographs.
 Those pictures show men working as architects at a drawing table, as
 civil engineers inspecting works, with a helmet on, as aircraft pilots,
 policemen or firemen, in uniform, or at the office, sitting at the
 computer, amid papers and files. This result is consistent with what
 Neto and Pinto found when analyzing gender stereotypes in Portuguese
-television advertisements a few years ago: “significant differences,
+television advertisements a few years ago: "significant differences,
 with proportionally more females (35%) being portrayed in the home than
 males (12.7%) and more males being portrayed in occupational settings
-(37.7%) than females (22.0%).”[^7_Casimiro_67]
+(37.7%) than females (22.0%)."[^7_Casimiro_67]
 
 Still, one of the more significant and explicit gender difference, if
 not the most, was found in the material category. In this case, men
@@ -4713,7 +4712,7 @@ that are going to portray them and potentially attract dating partners.
 Daters do not present themselves randomly or carelessly. On the
 contrary, there is a notable attempt to please potential partners. These
 findings extend those of other researches confirming that by a
-“selective self-presentation”[^7_Casimiro_68], Portuguese men and women registered
+"selective self-presentation"[^7_Casimiro_68], Portuguese men and women registered
 in the dating site Meetic.pt try to manage impressions and promote the
 relationships desired.
 
@@ -4726,21 +4725,21 @@ women activating ancient dispositions that have been inculcated with,
 value their emotional, and affective facets, and their inclination to
 dream. Women also emphasize their physical attributes more than men. The
 findings of the current study are consistent with others who found that
-“when selling the self, men market their financial and occupational
+"when selling the self, men market their financial and occupational
 resources, whereas women offer physical attractiveness and appealing
-body shape”.[^7_Casimiro_69]
+body shape".[^7_Casimiro_69]
 
 On one hand, it is possible to detect certain clues pointing toward
 modern gender roles. Men describe their emotional and relationship
 skills, their generosity and sensitivity, which reveals their
-“orientation towards a sense of belonging and intimacy”[^7_Casimiro_70]. Some women
+"orientation towards a sense of belonging and intimacy"[^7_Casimiro_70]. Some women
 refer to their active and independent facets allied to some traits of
 self-confidence mentioning, for instances, the importance of the hard
 work. On the other hand, men and women tend to offer complementary
 gender-based characteristics. Gender stereotypes perdure when male
 daters reinforce the instrumental role and female daters accentuate the
-expressive role. It seems, thus, that “rather than *being* modern, the
-Portuguese like the *idea* of being modern.”[^7_Casimiro_71]
+expressive role. It seems, thus, that "rather than *being* modern, the
+Portuguese like the *idea* of being modern."[^7_Casimiro_71]
 
 It also possible to conclude that the positive attributes men and women
 project fall into social norms around what is considered feminine and
@@ -4750,8 +4749,8 @@ values about gender and they contribute to the predominance of online
 stereotypical gender identities. The association of women to the world
 of reproduction and of men to the world of production has not been
 completely fractured, and important traits of conventional gender
-relations still persist today.[^7_Casimiro_72] Or, at least, “traditionalist
-expectations for the performance of roles in our society”[^7_Casimiro_73] seem to
+relations still persist today.[^7_Casimiro_72] Or, at least, "traditionalist
+expectations for the performance of roles in our society"[^7_Casimiro_73] seem to
 be still present.
 
 It is clear that gender stereotypes persist along with social changes in
@@ -4817,7 +4816,7 @@ funded by a grant from the Foundation for Science and Technology - FCT
 
 ## References
 
-Aboim, Sofia. ‘Género, família e mudança em Portugal’, in Karin Wall et
+Aboim, Sofia. 'Género, família e mudança em Portugal', in Karin Wall et
 al. (eds) *A Vida Familiar no Masculino. Negociando Velhas e Novas
 Masculinidades*, Lisboa: Comissão para a Igualdade no Trabalho e no
 Emprego, 2010, pp. 39-66.
@@ -4825,51 +4824,51 @@ Emprego, 2010, pp. 39-66.
 Amâncio, Lígia. *Masculino e Feminino. A Construção Social da Diferença*,
 Porto: Edições Afrontamento, 1994.
 
-Bak, Peter Michael. ‘Sex Differences in the Attractiveness Halo Effect
-in the Online Dating Environment’, *Journal of Business and Media Psychology* 1 (2010): 1-7.
+Bak, Peter Michael. 'Sex Differences in the Attractiveness Halo Effect
+in the Online Dating Environment', *Journal of Business and Media Psychology* 1 (2010): 1-7.
 
-Baker, Andrea J. ‘Cyberdating’, in Karen Christensen and David Levinson
+Baker, Andrea J. 'Cyberdating', in Karen Christensen and David Levinson
 (eds) *Encyclopedia of Community: From the Village to the Virtual World*,
 Thousand Oaks, CA: Sage Publications, 2003, pp. 372-373.
 
 Bardin, Laurence. *L'analyse de Contenu*, Paris: Presses Universitaires de
 France, 2007.
 
-Bell, Philip. ‘Content Analysis of Visual Images’. In Theo Van Leeuwen
+Bell, Philip. 'Content Analysis of Visual Images'. In Theo Van Leeuwen
 and Carey Jewitt (eds) *Handbook of Visual Analysis*, Thousand Oaks, CA:
 Sage, 2001, pp. 10-34.
 
-Bercovici, Jeff. ‘Love On The Run: The Next Revolution in
-Online Dating’, Forbes.com
+Bercovici, Jeff. 'Love On The Run: The Next Revolution in
+Online Dating', Forbes.com
 <http://www.forbes.com/sites/jeffbercovici/2014/02/14/love-on-the-run-the-next-revolution-in-online-dating/>.
 
 Bourdieu, Pierre. *La Domination Masculine*, Paris: Éditions du Seuil,
 1998.
 
-Cacioppo, John T. et al. ‘Marital Satisfaction and Break-ups differ
-Across On-line and Off-line Meeting Venues’, Proceedings of the National
+Cacioppo, John T. et al. 'Marital Satisfaction and Break-ups differ
+Across On-line and Off-line Meeting Venues', Proceedings of the National
 Academy of the United States of America, Published online before print,
 June 3 (2013),
 <http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf>.
 
-Cardoso, Gustavo. ‘Contributos Para uma Sociologia do Ciberespaço’.
+Cardoso, Gustavo. 'Contributos Para uma Sociologia do Ciberespaço'.
 Biblioteca on-line de Ciências da Comunicação (1998),
 <http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html>.
 
-Cardoso, Gustavo. ‘Feel Like Going Online?’ Internet Mediated
-Communication in Portugal’, Information, *Communication & Society* 5.4
+Cardoso, Gustavo. 'Feel Like Going Online?' Internet Mediated
+Communication in Portugal', Information, *Communication & Society* 5.4
 (2002): 529-550.
 
-Cardoso, Gustavo and Nascimento, Susana. ‘Online/Offline: Can You Tell
-the difference? Portuguese Views on Internet Mediated Communication’,
+Cardoso, Gustavo and Nascimento, Susana. 'Online/Offline: Can You Tell
+the difference? Portuguese Views on Internet Mediated Communication',
 Comunicazioni Sociali - Rivista di Media, *Spettacolo e Studi Culturali*
 XXIV.1 (2002): 41-50.
 
 Cardoso, Gustavo et al. *World Wide Internet: Changing Societies,
 Economies and Cultures*, China: University of Macau, 2009.
 
-Cardoso, Gustavo et al. ‘A Sociedade em Rede. A Internet em Portugal,
-2012’, OberCom - Observatório da Comunicação (2012): 1-35,
+Cardoso, Gustavo et al. 'A Sociedade em Rede. A Internet em Portugal,
+2012', OberCom - Observatório da Comunicação (2012): 1-35,
 <http://www.obercom.pt/client/?newsId=548&fileName=sociedadeRede2012.pdf>.
 
 Castells, Manuel. *The Network Society: A Cross-cultural Perspective*,
@@ -4878,61 +4877,61 @@ Cheltenham, UK: Edward Elgar, 2004.
 Cocks, Harry G. *Classified: The Secret History of the Personal Column*,
 UK: Random House, 2009.
 
-Degim, I. Alev. ‘Identity Construction in Facebook: A Lacanian Analysis
-of Profiles and Facebook Generated Games’, in U. Onen. Andreas Treske,
+Degim, I. Alev. 'Identity Construction in Facebook: A Lacanian Analysis
+of Profiles and Facebook Generated Games', in U. Onen. Andreas Treske,
 Bestem Büyüm and I. Alev Degim (eds) Image, Time and Motion: New media
 Critique from Turkey, *Institute of Network Cultures*, n.7, 2011, pp.
 111-124,
 <http://networkcultures.org/wpmu/portal/publication/no-07-image-time-and-motion-new-media-critique-from-turkey/>.
 
-Dutton, William H. et al. ‘The Role of the Internet in Reconfiguring
-Marriages: A Cross-national Study’, *Interpersona* 3.2 (2009): 3-18.
+Dutton, William H. et al. 'The Role of the Internet in Reconfiguring
+Marriages: A Cross-national Study', *Interpersona* 3.2 (2009): 3-18.
 
-Ellison, Nicole. ‘Managing Impressions Online: Self-Presentation
-Processes in the Online Dating Environment’, *Journal of
+Ellison, Nicole. 'Managing Impressions Online: Self-Presentation
+Processes in the Online Dating Environment', *Journal of
 Computer-Mediated Communication* 11.2 (2006): 415-441.
 
-Furnham, Adrian and Twiggy, Mak. ‘Sex-Role Stereotyping in Television
+Furnham, Adrian and Twiggy, Mak. 'Sex-Role Stereotyping in Television
 Commercials: A Review and Comparison of Fourteen Studies Done on Five
-Continents Over 25 Years’, *Sex Roles* 41.5 (1999): 513-537.
+Continents Over 25 Years', *Sex Roles* 41.5 (1999): 513-537.
 
-Fiore, Andrew T. et al. ‘Assessing Attractiveness in Online Dating
-Profiles’, *Proceeding of the twenty-sixth annual SIGCHI conference on
+Fiore, Andrew T. et al. 'Assessing Attractiveness in Online Dating
+Profiles', *Proceeding of the twenty-sixth annual SIGCHI conference on
 Human factors in computing systems*, ACM Press, (2008): 797-806.
 
-Freitas, Simone. ‘A Bela e a Fera’, II Congresso Internacional
+Freitas, Simone. 'A Bela e a Fera', II Congresso Internacional
 Comunicación 3.0 - Libro Nuevos Medios, Nueva Comunicación, Universidad
 de Salamanca, 4 y 5 de Octobre, (2010): 1-18.
 
 Goffman, Erving. *The Presentation of Self in Everyday Life*, New York:
 Anchor, 1959.
 
-Gunter, Barrie. “The Study of Online Relationships and Dating”, in
+Gunter, Barrie. "The Study of Online Relationships and Dating", in
 William H. Dutton (ed.) *The Oxford Handbook of Internet Studies*, Oxford: Oxford
 University Press, 2013, pp. 173-193.
 
-Hahn, Jennifer and Blass, Thomas. ‘Dating Partner Preferences: A
-Function of Similarity of Love Styles’, *Journal of Social Behavior &
+Hahn, Jennifer and Blass, Thomas. 'Dating Partner Preferences: A
+Function of Similarity of Love Styles', *Journal of Social Behavior &
 Personality* 12.3 (1997): 595-610.
 
-Harris, Mary B. ‘When Courtesy Fails: Gender Roles and Polite
-Behaviors’, *Journal of Applied Social Psychology* 22.18 (1992):
+Harris, Mary B. 'When Courtesy Fails: Gender Roles and Polite
+Behaviors', *Journal of Applied Social Psychology* 22.18 (1992):
 1399-1416.
 
-Henry-Waring, Millsom and Barraket, Jo. ‘Dating & Intimacy in the 21st
-Century: The Use of Online Dating Sites in Australia’, International
+Henry-Waring, Millsom and Barraket, Jo. 'Dating & Intimacy in the 21st
+Century: The Use of Online Dating Sites in Australia', International
 *Journal of Emerging Technologies and Society* 6.1 (2008): 14-33.
 
-Hsieh, Hsiu-Fang and Shannon, Sarah E. ‘Three Approaches to Qualitative
-Content Analysis’, *Qualitative Health Research* 15. 9 (2005): 1277-1288.
+Hsieh, Hsiu-Fang and Shannon, Sarah E. 'Three Approaches to Qualitative
+Content Analysis', *Qualitative Health Research* 15. 9 (2005): 1277-1288.
 
-Humphreys, Lee. ‘Photographs and the Presentation of Self through Online
-Dating Services’, in Paul Messaris and Lee Humphreys (eds) *Digital
+Humphreys, Lee. 'Photographs and the Presentation of Self through Online
+Dating Services', in Paul Messaris and Lee Humphreys (eds) *Digital
 Media: Transformations in Human Communication*, New York: Peter Lang.
 2006, pp. 39-49.
 
-Jagger, Elizabeth. ‘Marketing Molly and Melville: Dating in a
-Postmodern, Consumer Society’, *Sociology* 35.1 (2001): 39-57.
+Jagger, Elizabeth. 'Marketing Molly and Melville: Dating in a
+Postmodern, Consumer Society', *Sociology* 35.1 (2001): 39-57.
 
 Jorge, Filipa. A Apresentação do Eu em Plataformas de Comunicação
 On-line, Tese de Mestrado, Departamento de Comunicação e Arte,
@@ -4941,51 +4940,51 @@ Universidade de Aveiro, 2011.
 Kimmel, Michael. *The Gendered Society*, Oxford: Oxford University Press,
 2004.
 
-Kisilevich, Slava and Last Mark. ‘Exploring Gender Differences in Member
-Profiles of an Online Dating Site Across 35 Countries’, Lecture Notes in
+Kisilevich, Slava and Last Mark. 'Exploring Gender Differences in Member
+Profiles of an Online Dating Site Across 35 Countries', Lecture Notes in
 Computer Science 6904 (2011): 57-78,
 <http://bib.dbvis.de/uploadedFiles/359.pdf>.
 
-Kelly, Kevin. “We Are the Web”, *Wired*, August 2005,
+Kelly, Kevin. "We Are the Web", *Wired*, August 2005,
 <http://www.wired.com/wired/archive/13.08/tech.html>.
 
-Larossa, Ralph. ‘Grounded theory methods and qualitative family
-research’, *Journal of Marriage and Family* 67.4 (2005): 837–857.
+Larossa, Ralph. 'Grounded theory methods and qualitative family
+research', *Journal of Marriage and Family* 67.4 (2005): 837–857.
 
-Lievrouw, Leah A. ‘The Next Decade in Internet Time’, Information,
+Lievrouw, Leah A. 'The Next Decade in Internet Time', Information,
 *Communication & Society* 15.5 (2012): 616-638.
 
-Lopes, Liliana. ‘Diagnóstico e Implementação da Igualdade de Género na
+Lopes, Liliana. 'Diagnóstico e Implementação da Igualdade de Género na
 Escola Superior de Educação: Apontamentos pelos Trilhos da
-Igualdade...’, Projeto Diagnóstico e Implementação da Igualdade de
+Igualdade...', Projeto Diagnóstico e Implementação da Igualdade de
 Género na Escola Superior de Educação (2013): 1-3.
 
-Loureiro, Paulo and Cardoso, Carlos Cabral. ‘O Género e os Estereótipos
-na Gestão’, Tékhne - Revista de Estudos Politécnicos VI. 10 (2008):
+Loureiro, Paulo and Cardoso, Carlos Cabral. 'O Género e os Estereótipos
+na Gestão', Tékhne - Revista de Estudos Politécnicos VI. 10 (2008):
 221-238.
 
-Morgan, Elizabeth et al. ‘Comparing Narratives of Personal and Preferred
-Partner Characteristics in Online Dating Advertisements’, *Computers in
+Morgan, Elizabeth et al. 'Comparing Narratives of Personal and Preferred
+Partner Characteristics in Online Dating Advertisements', *Computers in
 Human Behavior*, 26.5 (2010): 883-888.
 
-Markus, Hazel and Nurius, Paula. ‘Possible Selves’, *American
+Markus, Hazel and Nurius, Paula. 'Possible Selves', *American
 Psychologist* 41.9 (1986): 954-969.
 
-Miranda, Patrícia. ‘A Construção Social das Identidades de Género nas
-Crianças: um Estudo Intensivo em Viseu’, VI Congresso Português de
+Miranda, Patrícia. 'A Construção Social das Identidades de Género nas
+Crianças: um Estudo Intensivo em Viseu', VI Congresso Português de
 Sociologia: "Mundos Sociais: Saberes e Práticas", Universidade Nova de
 Lisboa, Faculdade de Ciências Sociais e Humanas, 25 a 28 de Junho,
 (2008): 1-12.
 
-Nascimento, Susana. ‘Para uma compreensão sociológica das identidades na
-CMC’, Biblioteca online de Ciências da Comunicação (2001): 1-13,
+Nascimento, Susana. 'Para uma compreensão sociológica das identidades na
+CMC', Biblioteca online de Ciências da Comunicação (2001): 1-13,
 <http://www.bocc.ubi.pt/pag/nascimento-susana-identidades-cmc.pdf>.
 
-Neto, Félix. ‘Sex differences in Portuguese Lonely Hearts
-Advertisements’, *Perceptual and Motor Skills* 101.2 (2005): 393-400.
+Neto, Félix. 'Sex differences in Portuguese Lonely Hearts
+Advertisements', *Perceptual and Motor Skills* 101.2 (2005): 393-400.
 
-Neto, Félix and Pinto, Isabel. ‘Gender Stereotypes in Portuguese
-Television Advertisements’, *Sex Roles* 39.1-2 (1998): 153-164.
+Neto, Félix and Pinto, Isabel. 'Gender Stereotypes in Portuguese
+Television Advertisements', *Sex Roles* 39.1-2 (1998): 153-164.
 
 Pais, José Machado. *Nos Rastos da Solidão. Deambulações Sociológicas*,
 Porto: Âmbar, 2006.
@@ -4993,19 +4992,19 @@ Porto: Âmbar, 2006.
 Parsons, Talcott and Bales, Robert F. Family, *Socialization and the
 Interaction Process*, New York: MacMillan, 1955.
 
-Pereira, Francisco Costa and Veríssimo, Jorge. ‘A Mulher na Publicidade
-e os Estereótipos de Género’, *Observatorio* 5 (2008): 281-296,
+Pereira, Francisco Costa and Veríssimo, Jorge. 'A Mulher na Publicidade
+e os Estereótipos de Género', *Observatorio* 5 (2008): 281-296,
 <http://obs.obercom.pt/index.php/obs/article/view/120>.
 
-Pereira, Maria do Mar. ‘Os discursos de Género: Mudança e Continuidade
+Pereira, Maria do Mar. 'Os discursos de Género: Mudança e Continuidade
 nas Narrativas sobre Diferenças, Semelhanças e (Des)igualdade entre
-Mulheres e Momens’, in Karin Wall, Sofia Aboim and Vanessa Cunha (eds)
+Mulheres e Momens', in Karin Wall, Sofia Aboim and Vanessa Cunha (eds)
 *Vida Familiar no Masculino: Negociando Velhas e Novas Masculinidades*,
 Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego,
 (2010), pp. 225-261.
 
-Prosser, Jon. ‘Researching with visual images: Some guidance notes and a
-glossary for beginners’, ESRC National Centre for Research Methods,
+Prosser, Jon. 'Researching with visual images: Some guidance notes and a
+glossary for beginners', ESRC National Centre for Research Methods,
 Working Paper Series 6/06, 2006,
 <http://eprints.ncrm.ac.uk/481/1/0606_researching_visual_images.pdf>.
 
@@ -5013,43 +5012,43 @@ Rosa, Rodrigo. Escolha do Cônjuge e Modos de Construção Social no Casal.
 Tese de Doutoramento, Instituto Superior de Ciências do Trabalho e da
 Empresa, 2008.
 
-Rosenfeld, Michael J. and Thomas, Reuben J. ‘Searching for a Mate: The
-Rise of the Internet as a Social Intermediary’, *American Sociological
+Rosenfeld, Michael J. and Thomas, Reuben J. 'Searching for a Mate: The
+Rise of the Internet as a Social Intermediary', *American Sociological
 Review* 77.4 (2012): 523-547.
 
-Ryan, Gery W. et al. ‘Techniques to identify themes’, *Field Methods* 15.1
+Ryan, Gery W. et al. 'Techniques to identify themes', *Field Methods* 15.1
 (2003): 85-109.
 
 Santos, Ana Alexandra Carvalheira. *Relaciones Interpersonales y
 Comportamientos Sexuales Através de Internet*, Tesis Doctoral, Facultad
 de Psicologia, Universidad de Salamanca, 2005.
 
-Skopek, Jan, et al. ‘The Gendered Dynamics of Age Preferences –
-Empirical Evidence from Online Dating’, *Journal of Family Research* 23.3
+Skopek, Jan, et al. 'The Gendered Dynamics of Age Preferences –
+Empirical Evidence from Online Dating', *Journal of Family Research* 23.3
 (2011): 267-290.
 
-Smith, Lauren Reichart and Cooley, Skye C. ‘Presenting Me! An
-Examination of Self-Presentation in U.S. and Russian Online Social
-Networks’, *Russian Journal of Communication* 5.5 (2013): 176-190.
+Smith, Lauren Reichart and Cooley, Skye C. 'Presenting Me! An
+Examination of Self-Presentation in US and Russian Online Social
+Networks', *Russian Journal of Communication* 5.5 (2013): 176-190.
 
-Strangelove, Michael. ‘The Internet, Electric Gaia and the Rise of the
-Uncensored Self’, Computer-Mediated Communication Magazine (1994):
+Strangelove, Michael. 'The Internet, Electric Gaia and the Rise of the
+Uncensored Self', Computer-Mediated Communication Magazine (1994):
 11-14, <http://www.ibiblio.org/cmc/mag/1994/sep/self.html>.
 
-Strassberg, Donald S. and Holty, Stephen. ‘An Experimental Study of
-Women's Internet Personal Ads’, *Archives of Sexual Behavior* 32.3 (2003):
+Strassberg, Donald S. and Holty, Stephen. 'An Experimental Study of
+Women's Internet Personal Ads', *Archives of Sexual Behavior* 32.3 (2003):
 253–260.
 
 Strauss, Anselm C. and Corbin, Juliet. *Basics of Qualitative Research:
 Techniques and Procedures for Developing Grounded Theory*, London: Sage
 Publications, 1990.
 
-Toma, Catalina L. et al. ‘Separating Fact From Fiction: An Examination
-of Deceptive Self-Presentation in Online Dating Profiles’, *Personality
+Toma, Catalina L. et al. 'Separating Fact From Fiction: An Examination
+of Deceptive Self-Presentation in Online Dating Profiles', *Personality
 and Social Psychology Bulletin* 34.8 (2008): 1023-1036.
 
-Torres, Anália. ‘Casamento e Gênero: Mudanças nas Famílias
-Contemporâneas a partir do Caso Português’, Interseções 3.2 (2001):
+Torres, Anália. 'Casamento e Gênero: Mudanças nas Famílias
+Contemporâneas a partir do Caso Português', Interseções 3.2 (2001):
 53-70,
 <http://analiatorres.com/pdf/Casamento_e_%20genero_mudancas_%20nas_%20famlias.pdf>.
 
@@ -5058,156 +5057,156 @@ Torres, Anália. *Vida Conjugal e Trabalho*, Oeiras: Celta Editora, 2004.
 Torres, Anália et al. *Homens e Mulheres entre Família e Trabalho*,
 Lisboa: CITE, Comissão para a Igualdade no Trabalho e no Emprego, 2004.
 
-Torres, Anália et al. ‘Gender, work and family: balancing central
-dimensions in individuals’ lives’, Sociologia Online - Revista da
+Torres, Anália et al. 'Gender, work and family: balancing central
+dimensions in individuals' lives', Sociologia Online - Revista da
 Associação Portuguesa de Sociologia 2 (April 2011): 11-37,
 <http://revista.aps.pt/cms/files/artigos_pdf/ART4dc283b2a4084.pdf>.
 
-Torres, Anália et al. ‘A Mysterious European Threesome: Workcare
-Regimes, Policies and Gender’, *International and Multidisciplinary
+Torres, Anália et al. 'A Mysterious European Threesome: Workcare
+Regimes, Policies and Gender', *International and Multidisciplinary
 Journal of Social Sciences* 1.1 (2012): 31-61.
 \<http://www.analiatorres.com/pdf/AMysteriousEuropeanThreesome.pdf\>.
 
-Tuna, Sandra and Freitas, Elsa. ‘Gendered adverts: an analysis of female
-and male images in contemporary perfume ads’, *Comunicação & Sociedade* 21
+Tuna, Sandra and Freitas, Elsa. 'Gendered adverts: an analysis of female
+and male images in contemporary perfume ads', *Comunicação & Sociedade* 21
 (2012): 95-107.
 
-Walker, Jill. ‘Mirrors and Shadows: The Digital Aestheticisation of
-Oneself’, Digital Arts & Culture Conference Proceedings, Copenhagen,
+Walker, Jill. 'Mirrors and Shadows: The Digital Aestheticisation of
+Oneself', Digital Arts & Culture Conference Proceedings, Copenhagen,
 December (2005): 1-7,
 <https://bora.uib.no/bitstream/handle/1956/1136/mirrorsandshadows-final.pdf?sequence=1>.
 
 Wall, Karin and Amâncio, Lígia. *Família e Género em Portugal e na
 Europa*, Lisboa: Imprensa de Ciências Sociais, 2007.
 
-Walther, Joseph B. (2007). ‘Selective Self-Presentation in
+Walther, Joseph B. (2007). 'Selective Self-Presentation in
 Computer-Mediated Communication: Hyperpersonal Dimensions of Technology,
-Language, and Cognition’, *Computers in Human Behavior* 23.5 (2007):
+Language, and Cognition', *Computers in Human Behavior* 23.5 (2007):
 2538–2557.
 
-Walther, Joseph B. et al. ‘Is a Picture Worth a Thousand words?
+Walther, Joseph B. et al. 'Is a Picture Worth a Thousand words?
 Photographic Images in Long-Term and Short-Term Computer-Mediated
-Communication’, *Communication Research* 28.1 (2001): 105-134.
+Communication', *Communication Research* 28.1 (2001): 105-134.
 
-Whitty, Monica. ‘Revealing the ‘Real’ Me, Searching for the ‘Actual’
-You: Presentations of Self on an Internet Dating Site’, *Computers in
+Whitty, Monica. 'Revealing the 'Real' Me, Searching for the 'Actual'
+You: Presentations of Self on an Internet Dating Site', *Computers in
 Human Behavior* 24.4 (2008): 1707–1723.
 
 Whitty, Monica and Joinson, Adam. *Truth, Lies and Trust on the Internet*,
 London: Routledge, 2008.
 
-Woll, Stanley B. and Young, Peter. ‘Looking for Mr. or Ms. Right:
-Self-Presentation in Videodating’, *Journal of Marriage and the Family*
+Woll, Stanley B. and Young, Peter. 'Looking for Mr. or Ms. Right:
+Self-Presentation in Videodating', *Journal of Marriage and the Family*
 51.2 (1989): 483-488.
 
-[^7_Casimiro_1]: Kevin Kelly, 'We Are the Web', *Wired*, August 2005, <http://archive.wired.com/wired/archive/13.08/tech.html>
+[^7_Casimiro_1]: Kevin Kelly, 'We Are the Web', *Wired*, August 2005, <http://archive.wired.com/wired/archive/13.08/tech.html>.
 
 [^7_Casimiro_2]: Gustavo Cardoso et al. (eds) *World Wide Internet: Changing
     Societies, Economies and Culture*. China: University of Macau, 2009,
     p. 4.
 
-[^7_Casimiro_3]: Leah A. Lievrouw, ‘The Next Decade in Internet Time’, *Information,
+[^7_Casimiro_3]: Leah A. Lievrouw, 'The Next Decade in Internet Time', *Information,
     Communication & Society* (2012): 616.
 
-[^7_Casimiro_4]: Millsom S. Henry-Waring and Jo Barraket, ‘Dating & Intimacy in the
-    21st Century: The Use of Online Dating Sites in Australia’,
+[^7_Casimiro_4]: Millsom S. Henry-Waring and Jo Barraket, 'Dating & Intimacy in the
+    21st Century: The Use of Online Dating Sites in Australia',
     *International Journal of Emerging Technologies and Society* 6 (1):
     14-33.
 
 [^7_Casimiro_5]: Manuel Castells, *The Network Society: A Cross-Cultural
     Perspective, Cheltenham*, UK: Edward Elgar Pub, 2004.
 
-[^7_Casimiro_6]: Gustavo Cardoso, ‘Feel Like Going Online?’ Internet Mediated
-    Communication in Portugal’, *Information, Communication & Society* 5.4
+[^7_Casimiro_6]: Gustavo Cardoso, 'Feel Like Going Online?' Internet Mediated
+    Communication in Portugal', *Information, Communication & Society* 5.4
     (2002): 529.
 
-[^7_Casimiro_7]: Andrea J. Baker, ‘Cyberdating’, in Karen Christensen and David
+[^7_Casimiro_7]: Andrea J. Baker, 'Cyberdating', in Karen Christensen and David
     Levinson (eds) *Encyclopedia of Community: From the Village to the
     Virtual World*, Thousand Oaks, CA: Sage Publications, 2003, p. 372.
 
 [^7_Casimiro_8]: For a selection of bibliography about these topics, see: Barrie
-    Gunter, ‘The Study of Online Relationships and Dating’, in William
+    Gunter, 'The Study of Online Relationships and Dating', in William
     H. Dutton (ed.) *The Oxford Handbook of Internet Studies*, Oxford: Oxford
     University Press, 2013, pp. 173-193 and Monica Whitty and Adam
     Joinson, Truth, *Lies and Trust on the Internet*, London: Routledge, 2008.
 
-[^7_Casimiro_9]: Lee Humphreys, ‘Photographs and the Presentation of Self through
-    Online Dating Services’, in Paul Messaris and Lee Humphreys (eds)
+[^7_Casimiro_9]: Lee Humphreys, 'Photographs and the Presentation of Self through
+    Online Dating Services', in Paul Messaris and Lee Humphreys (eds)
     *Digital Media: Transformations in Human Communication*, New York:
     Peter Lang, 2006, pp. 39-49.
 
-[^7_Casimiro_10]: William H. Dutton et al., ‘The Role of the Internet in
-    Reconfiguring Marriages: A Cross-national Study’, *Interpersona* 3.2
+[^7_Casimiro_10]: William H. Dutton et al., 'The Role of the Internet in
+    Reconfiguring Marriages: A Cross-national Study', *Interpersona* 3.2
     (2009): 3-18.
 
-[^7_Casimiro_11]: Michael J. Rosenfeld and Reuben J. Thomas, ‘Searching for a Mate:
-    The Rise of the Internet as a Social Intermediary’, American
+[^7_Casimiro_11]: Michael J. Rosenfeld and Reuben J. Thomas, 'Searching for a Mate:
+    The Rise of the Internet as a Social Intermediary', American
     Sociological Review 77.4 (2012): 531.
 
-[^7_Casimiro_12]: John T. Cacioppo et al., ‘Marital Satisfaction and Break-ups
-    differ across On-line and Off-line Meeting Venues’, Proceedings of
+[^7_Casimiro_12]: John T. Cacioppo et al., 'Marital Satisfaction and Break-ups
+    differ across On-line and Off-line Meeting Venues', Proceedings of
     the National Academy of the United States of America, Published
     online before print, (June 3 2013).
 
 [^7_Casimiro_13]: Harry G. Cocks, Classified: The Secret History of the Personal
     Column. UK: Random House, 2009, p. viii-ix.
 
-[^7_Casimiro_14]: Elizabeth Jagger, ‘Marketing Molly and Melville: Dating in a
-    Postmodern, Consumer Society’, Sociology 35.1 (2001): 39.
+[^7_Casimiro_14]: Elizabeth Jagger, 'Marketing Molly and Melville: Dating in a
+    Postmodern, Consumer Society', Sociology 35.1 (2001): 39.
 
-[^7_Casimiro_15]: Stanley B. Woll and Peter Young, ‘Looking for Mr. or Ms. Right:
-    Self-Presentation in Videodating’, Journal of Marriage and the
+[^7_Casimiro_15]: Stanley B. Woll and Peter Young, 'Looking for Mr. or Ms. Right:
+    Self-Presentation in Videodating', Journal of Marriage and the
     Family 51.2 (1989): 483-488.
 
-[^7_Casimiro_16]: Jeff Bercovici, ‘Love On The Run: The Next Revolution In Online Dating’, <http://www.Forbes.com>.
+[^7_Casimiro_16]: Jeff Bercovici, 'Love On The Run: The Next Revolution In Online Dating', <http://www.Forbes.com>.
 
 [^7_Casimiro_17]: From the famous cartoon of Steiner published on The New Yorker,
-    in 1993: ‘On the Internet nobody knows you’re a dog’
+    in 1993: 'On the Internet nobody knows you're a dog'
     <http://www.unc.edu/depts/jomc/academics/dri/idog.html>,
-    times have changed to: “Damn webcam! Know everyone knows I’m a dog!”
+    times have changed to: "Damn webcam! Know everyone knows I'm a dog!"
     <http://www.andertoons.com/dog/cartoon/6205/damn-webcam-now-everyone-knows-im-dog>.
 
-[^7_Casimiro_18]: Joseph B. Walther et al. ‘Is a Picture Worth a Thousand Words?
+[^7_Casimiro_18]: Joseph B. Walther et al. 'Is a Picture Worth a Thousand Words?
     Photographic Images in Long-Term and Short-Term Computer-Mediated
-    Communication’, Communication Research 28.1 (2001): 105-134.
+    Communication', Communication Research 28.1 (2001): 105-134.
 
 [^7_Casimiro_19]: Erving Goffman, The Presentation of Self in Everyday Life, New
     York: Anchor, 1959.
 
-[^7_Casimiro_20]: Catalina L. Toma et al. ‘Separating Fact From Fiction: An
+[^7_Casimiro_20]: Catalina L. Toma et al. 'Separating Fact From Fiction: An
     Examination of Deceptive Self-Presentation in Online Dating
-    Profiles’, Personality and Social Psychology Bulletin 34.8 (2008):
+    Profiles', Personality and Social Psychology Bulletin 34.8 (2008):
     1023.
 
-[^7_Casimiro_21]: Nicole Ellison et al., ‘Managing Impressions Online:
-    Self-Presentation Processes in the Online Dating Environment’,
+[^7_Casimiro_21]: Nicole Ellison et al., 'Managing Impressions Online:
+    Self-Presentation Processes in the Online Dating Environment',
     Journal of Computer-Mediated Communication 11.2 (2006): 431.
 
-[^7_Casimiro_22]: I. Alev Degim, ‘Identity Construction in Facebook: A Lacanian
-    Analysis of Profiles and Facebook Generated Games’, in Andreas
+[^7_Casimiro_22]: I. Alev Degim, 'Identity Construction in Facebook: A Lacanian
+    Analysis of Profiles and Facebook Generated Games', in Andreas
     Treske et al. (eds) Image, Time and Motion: New Media Critique from
     Turkey, Institute of Network Cultures, n.7, 2011, p. 112.
 
-[^7_Casimiro_23]: Hazel Markus and Paula Nurius, ‘Possible Selves’, American
+[^7_Casimiro_23]: Hazel Markus and Paula Nurius, 'Possible Selves', American
     Psychologist 41.9 (1986): 954-969.
 
-[^7_Casimiro_24]: I. Alev Degim, ‘Identity Construction in Facebook: A Lacanian
-    Analysis of Profiles and Facebook Generated Games’, in Andreas
+[^7_Casimiro_24]: I. Alev Degim, 'Identity Construction in Facebook: A Lacanian
+    Analysis of Profiles and Facebook Generated Games', in Andreas
     Treske et al. (eds) Image, Time and Motion: New media Critique from
     Turkey, Institute of Network Cultures, n.7, 2011, p. 114.
 
 [^7_Casimiro_25]: Talcott Parsons and Robert F. Bales, Family, Socialization and
     the Interaction Process, New York: MacMillan, 1955.
 
-[^7_Casimiro_26]: Anália Torres et al. ‘Gender, Work and Family: Balancing Central
-    Dimensions in Individuals’ Lives’, Sociologia Online - Revista da
+[^7_Casimiro_26]: Anália Torres et al. 'Gender, Work and Family: Balancing Central
+    Dimensions in Individuals' Lives', Sociologia Online - Revista da
     Associação Portuguesa de Sociologia 2 (April, 2011): 12.
 
 [^7_Casimiro_27]: Michael Kimmel, The Gendered Society, Oxford: Oxford University
     Press, 2004.
 
-[^7_Casimiro_28]: Furnham Apud Francisco Costa Pereira and Jorge Veríssimo, ‘A
-    Mulher na Publicidade e os Estereótipos de Género’, Observatorio 5
+[^7_Casimiro_28]: Furnham Apud Francisco Costa Pereira and Jorge Veríssimo, 'A
+    Mulher na Publicidade e os Estereótipos de Género', Observatorio 5
     (2008): 281-296.
 
 [^7_Casimiro_29]: Anália Torres et al., Homens e Mulheres entre Família e Trabalho,
@@ -5216,27 +5215,27 @@ Self-Presentation in Videodating’, *Journal of Marriage and the Family*
 
 [^7_Casimiro_30]: Lígia Amâncio, Masculino e Feminino. A Construção Social da
     Diferença, Porto: Edições Afrontamento, 1994: p. 63; Adrian Furnham
-    and Mak Twiggy, ‘Sex-Role Stereotyping in Television Commercials: A
+    and Mak Twiggy, 'Sex-Role Stereotyping in Television Commercials: A
     Review and Comparison of Fourteen Studies Done on Five Continents
-    Over 25 Years’, Sex Roles 41.5 (1999): 524-525; Liliana Lopes,
-    ‘Diagnóstico e Implementação da Igualdade de Género na Escola
-    Superior de Educação: Apontamentos pelos Trilhos da igualdade...’,
+    Over 25 Years', Sex Roles 41.5 (1999): 524-525; Liliana Lopes,
+    'Diagnóstico e Implementação da Igualdade de Género na Escola
+    Superior de Educação: Apontamentos pelos Trilhos da igualdade...',
     Projeto Diagnóstico e Implementação da Igualdade de Género na Escola
-    Superior de Educação (2013): 1-2; Patrícia Miranda, ‘A Construção
+    Superior de Educação (2013): 1-2; Patrícia Miranda, 'A Construção
     Social das Identidades de Género nas Crianças: um Estudo Intensivo
-    em Viseu’, VI Congresso Português de Sociologia: ‘Mundos Sociais:
-    Saberes e Práticas’, Universidade Nova de Lisboa, Faculdade de
+    em Viseu', VI Congresso Português de Sociologia: 'Mundos Sociais:
+    Saberes e Práticas', Universidade Nova de Lisboa, Faculdade de
     Ciências Sociais e Humanas, 25 a 28 de Junho, (2008): 9; Francisco
-    Costa Pereira and Jorge Veríssimo, ‘A Mulher na Publicidade e os
-    Estereótipos de Género’, Observatorio 5 (2008): 293; Simone Freitas,
-    ‘A Bela e a Fera’, II Congresso Internacional Comunicación 3.0 -
+    Costa Pereira and Jorge Veríssimo, 'A Mulher na Publicidade e os
+    Estereótipos de Género', Observatorio 5 (2008): 293; Simone Freitas,
+    'A Bela e a Fera', II Congresso Internacional Comunicación 3.0 -
     Libro Nuevos Medios, Nueva Comunicación, Universidad de Salamanca, 4
-    y 5 de Octobre, (2010): 7; Anália Torres, ‘Casamento e Gênero:
-    Mudanças nas Famílias Contemporâneas a partir do Caso Português’,
+    y 5 de Octobre, (2010): 7; Anália Torres, 'Casamento e Gênero:
+    Mudanças nas Famílias Contemporâneas a partir do Caso Português',
     Interseções 3.2 (2001): 58.
 
-[^7_Casimiro_31]: Francisco Costa Pereira and Jorge Veríssimo, ‘A Mulher na
-    Publicidade e os Estereótipos de Género’, Observatorio 5: (2008):
+[^7_Casimiro_31]: Francisco Costa Pereira and Jorge Veríssimo, 'A Mulher na
+    Publicidade e os Estereótipos de Género', Observatorio 5: (2008):
     281-296.
 
 [^7_Casimiro_32]: Karin Wall and Lígia Amâncio, Família e Género em Portugal e na
@@ -5245,54 +5244,54 @@ Self-Presentation in Videodating’, *Journal of Marriage and the Family*
 [^7_Casimiro_33]: Pierre Bourdieu, La Domination Masculine, Paris: Éditions du
     Seuil, 1998: 102.
 
-[^7_Casimiro_34]: Peter Michael Bak, ‘Sex Differences in the Attractiveness Halo
-    Effect in the Online Dating Environment’, Journal of Business and
-    Media Psychology 1 (2010): 1-7; Morgan, Elizabeth et al. ‘Comparing
+[^7_Casimiro_34]: Peter Michael Bak, 'Sex Differences in the Attractiveness Halo
+    Effect in the Online Dating Environment', Journal of Business and
+    Media Psychology 1 (2010): 1-7; Morgan, Elizabeth et al. 'Comparing
     Narratives of Personal and Preferred Partner Characteristics in
-    Online Dating Advertisements’, Computers in Human Behavior, 26.5
+    Online Dating Advertisements', Computers in Human Behavior, 26.5
     (2010): 883-888.
 
-[^7_Casimiro_35]: Donald S. Strassberg and Stephen Holty, ‘An Experimental Study of
-    Women’s Internet Personal Ads’, Archives of Sexual Behavior 32.3
+[^7_Casimiro_35]: Donald S. Strassberg and Stephen Holty, 'An Experimental Study of
+    Women's Internet Personal Ads', Archives of Sexual Behavior 32.3
     (2003): 253-260.
 
-[^7_Casimiro_36]: Andrew T. Fiore et al. ‘Assessing Attractiveness in Online Dating
-    Profiles’, Proceeding of the Twenty-sixth Annual SIGCHI Conference
+[^7_Casimiro_36]: Andrew T. Fiore et al. 'Assessing Attractiveness in Online Dating
+    Profiles', Proceeding of the Twenty-sixth Annual SIGCHI Conference
     on Human Factors in Computing Systems. ACM Press, (2008): 804.
 
-[^7_Casimiro_37]: Skopek, Jan, et al. ‘The Gendered Dynamics of Age Preferences –
-    Empirical Evidence from Online Dating’, Journal of Family Research
+[^7_Casimiro_37]: Skopek, Jan, et al. 'The Gendered Dynamics of Age Preferences –
+    Empirical Evidence from Online Dating', Journal of Family Research
     23.3 (2011): 267.
 
-[^7_Casimiro_38]: Félix Neto, ‘Sex differences in Portuguese Lonely Hearts
-    Advertisements’, Perceptual and Motor Skills 101.2 (2005): 393-400.
+[^7_Casimiro_38]: Félix Neto, 'Sex differences in Portuguese Lonely Hearts
+    Advertisements', Perceptual and Motor Skills 101.2 (2005): 393-400.
 
-[^7_Casimiro_39]: Gustavo Cardoso, ‘‘Feel Like Going Online?’ Internet Mediated
-    Communication in Portugal’, Information, Communication & Society 5.4
+[^7_Casimiro_39]: Gustavo Cardoso, ''Feel Like Going Online?' Internet Mediated
+    Communication in Portugal', Information, Communication & Society 5.4
     (2002): 548.
 
-[^7_Casimiro_40]: Gustavo Cardoso et al. ‘A Sociedade em Rede. A Internet em
-    Portugal, 2012’, OberCom - Observatório da Comunicação (2012): 29.
+[^7_Casimiro_40]: Gustavo Cardoso et al. 'A Sociedade em Rede. A Internet em
+    Portugal, 2012', OberCom - Observatório da Comunicação (2012): 29.
 
-[^7_Casimiro_41]: Michael Strangelove, ‘The Internet, Electric Gaia and the Rise of
-    the Uncensored Self’, Computer-Mediated Communication Magazine
+[^7_Casimiro_41]: Michael Strangelove, 'The Internet, Electric Gaia and the Rise of
+    the Uncensored Self', Computer-Mediated Communication Magazine
     (1994): 13.
 
-[^7_Casimiro_42]: Gustavo Cardoso, ‘Contributos para uma Sociologia do
-    Ciberespaço’, Biblioteca on-line de Ciências da Comunicação (1998).
+[^7_Casimiro_42]: Gustavo Cardoso, 'Contributos para uma Sociologia do
+    Ciberespaço', Biblioteca on-line de Ciências da Comunicação (1998).
 
 [^7_Casimiro_43]: comScore, Inc. Social Networking Has Banner Year in France,
     Growing 45 Percent 2009.
     \<http://www.comscore.com/por/Insights/Press\_Releases/2009/2/Social\_Networking\_France\>.
 
-[^7_Casimiro_44]: Susana Nascimento, ‘Para uma compreensão sociológica das
-    identidades na CMC’, Biblioteca online de Ciências da Comunicação
+[^7_Casimiro_44]: Susana Nascimento, 'Para uma compreensão sociológica das
+    identidades na CMC', Biblioteca online de Ciências da Comunicação
     (2001) 1-13; José Machado Pais, Nos Rastos da Solidão, Deambulações
     Sociológicas, Porto: Âmbar, 2006.
 
-[^7_Casimiro_45]: Gustavo Cardoso and Susana Nascimento, ‘Online/Offline: Can You
+[^7_Casimiro_45]: Gustavo Cardoso and Susana Nascimento, 'Online/Offline: Can You
     Tell the Difference? Portuguese Views on Internet Mediated
-    Communication’, Comunicazioni Sociali - Rivista di Media, Spettacolo
+    Communication', Comunicazioni Sociali - Rivista di Media, Spettacolo
     e Studi Culturali. XXIV.1 (2002): 41-50.
 
 [^7_Casimiro_46]: Ana Alexandra Carvalheira Santos. Relaciones Interpersonales y
@@ -5310,96 +5309,96 @@ Self-Presentation in Videodating’, *Journal of Marriage and the Family*
 
 [^7_Casimiro_49]: Laurence Bardin, L'analyse de Contenu, Paris: Presses
     Universitaires de France, 2007; Hsiu-Fang Hsieh and Sarah E.
-    Shannon, ‘Three Approaches to Qualitative Content Analysis’,
+    Shannon, 'Three Approaches to Qualitative Content Analysis',
     Qualitative Health Research 15. 9 (2005): 1277-1288.
 
-[^7_Casimiro_50]: Ralph Larossa, ‘Grounded theory methods and qualitative family
-    research’, Journal of Marriage and Family 67.4 (2005): 838.
+[^7_Casimiro_50]: Ralph Larossa, 'Grounded theory methods and qualitative family
+    research', Journal of Marriage and Family 67.4 (2005): 838.
 
 [^7_Casimiro_51]: Anselm C. Strauss and Juliet Corbin, Basics of Qualitative
     Research: Techniques and Procedures for Developing Grounded Theory,
     London: Sage Publications, 1990.
 
-[^7_Casimiro_52]: Gery Ryan et al., ‘Techniques to identify themes’, Field Methods
+[^7_Casimiro_52]: Gery Ryan et al., 'Techniques to identify themes', Field Methods
     15.1 (2003): 85-109.
 
-[^7_Casimiro_53]: Philip Bell, ‘Content Analysis of Visual Images’ in Theo Van
+[^7_Casimiro_53]: Philip Bell, 'Content Analysis of Visual Images' in Theo Van
     Leeuwen and Carey Jewitt (eds) Handbook of Visual Analysis, Thousand
     Oaks, CA: Sage, 2001, p. 13.
 
-[^7_Casimiro_54]: Ibid, p. 14.
+[^7_Casimiro_54]: Philip Bell, 'Content Analysis of Visual Images', p. 14.
 
-[^7_Casimiro_55]: Jon Prosser, ‘Researching With Visual Images: Some Guidance Notes
-    and a Glossary for Beginners’, ESRC National Centre for Research
+[^7_Casimiro_55]: Jon Prosser, 'Researching With Visual Images: Some Guidance Notes
+    and a Glossary for Beginners', ESRC National Centre for Research
     Methods, Working Paper Series 6/06, 2006.
 
-[^7_Casimiro_56]: West and Zimmerman, apud, Maria do Mar Pereira, ‘Os Discursos de
+[^7_Casimiro_56]: West and Zimmerman, apud, Maria do Mar Pereira, 'Os Discursos de
     Género: Mudança e Continuidade nas Narrativas sobre Diferenças,
-    Semelhanças e (Des)igualdade entre Mulheres e Homens’, in Karin Wall
+    Semelhanças e (Des)igualdade entre Mulheres e Homens', in Karin Wall
     et al. (eds) Vida Familiar no Masculino: Negociando Velhas e Novas
     Masculinidades, Lisboa: CITE, Comissão para a Igualdade no Trabalho
     e no Emprego, 2010, pp. 226-227.
 
-[^7_Casimiro_57]: Monica Whitty, ‘Revealing the ‘Real’ Me, Searching for the
-    ‘Actual’ You: Presentations of Self on an Internet Dating Site’.
+[^7_Casimiro_57]: Monica Whitty, 'Revealing the 'Real' Me, Searching for the
+    'Actual' You: Presentations of Self on an Internet Dating Site'.
     Computers in Human Behavior 24.4 (2008): 1707–1723.
 
-[^7_Casimiro_58]: Simone Freitas, ‘A Bela e a Fera’, II Congresso Internacional
+[^7_Casimiro_58]: Simone Freitas, 'A Bela e a Fera', II Congresso Internacional
     Comunicación 3.0 - Libro Nuevos Medios, Nueva Comunicación,
     Universidad de Salamanca, 4 y 5 de Octobre, (2010): 16.
 
-[^7_Casimiro_59]: Anália Torres et al. ‘A Mysterious European Threesome: Workcare
-    Regimes, Policies and Gender’, International and Multidisciplinary
+[^7_Casimiro_59]: Anália Torres et al. 'A Mysterious European Threesome: Workcare
+    Regimes, Policies and Gender', International and Multidisciplinary
     Journal of Social Sciences 1.1 (2012): 46.
 
-[^7_Casimiro_60]: Mary B. Harris, ‘When Courtesy Fails: Gender Roles and Polite
-    Behaviors’, Journal of Applied Social Psychology 22.18 (1992):
+[^7_Casimiro_60]: Mary B. Harris, 'When Courtesy Fails: Gender Roles and Polite
+    Behaviors', Journal of Applied Social Psychology 22.18 (1992):
     1399-1400.
 
-[^7_Casimiro_61]: Paulo Loureiro and Carlos Cabral Cardoso, ‘O Género e os
-    Estereótipos na Gestão’, Tékhne - Revista de Estudos Politécnicos
+[^7_Casimiro_61]: Paulo Loureiro and Carlos Cabral Cardoso, 'O Género e os
+    Estereótipos na Gestão', Tékhne - Revista de Estudos Politécnicos
     VI. 10 (2008): 221-238.
 
-[^7_Casimiro_62]: Donald S. Strassberg and Stephen Holty, ‘An Experimental Study of
-    Women's Internet Personal Ads’, Archives of Sexual Behavior 32.3
+[^7_Casimiro_62]: Donald S. Strassberg and Stephen Holty, 'An Experimental Study of
+    Women's Internet Personal Ads', Archives of Sexual Behavior 32.3
     (2003): 253-260.
 
-[^7_Casimiro_63]: Jennifer Hahn and Thomas Blass, ‘Dating Partner Preferences: A
-    Function of Similarity of Love Styles’, Journal of Social Behavior &
+[^7_Casimiro_63]: Jennifer Hahn and Thomas Blass, 'Dating Partner Preferences: A
+    Function of Similarity of Love Styles', Journal of Social Behavior &
     Personality 12.3 (1997): 595.
 
-[^7_Casimiro_64]: William H. Dutton et al. ‘The Role of the Internet in
-    Reconfiguring Marriages: A Cross-national Study’, Interpersona 3.2
+[^7_Casimiro_64]: William H. Dutton et al. 'The Role of the Internet in
+    Reconfiguring Marriages: A Cross-national Study', Interpersona 3.2
     (2009): 3-18.
 
 [^7_Casimiro_65]: Rodrigo Rosa, Escolha do Cônjuge e Modos de Construção Social no
     Casal. Tese de Doutoramento, Instituto Superior de Ciências do
     Trabalho e da Empresa, 2008, p. 156.
 
-[^7_Casimiro_66]: Sandra Tuna and Elsa Freitas, ‘Gendered adverts: an analysis of
-    female and male images in contemporary perfume ads’, Comunicação &
+[^7_Casimiro_66]: Sandra Tuna and Elsa Freitas, 'Gendered adverts: an analysis of
+    female and male images in contemporary perfume ads', Comunicação &
     Sociedade 21 (2012): 104-105.
 
-[^7_Casimiro_67]: Félix Neto and Isabel Pinto, ‘Gender Stereotypes in Portuguese
-    Television Advertisements’, Sex Roles 39.1-2 (1998): 158.
+[^7_Casimiro_67]: Félix Neto and Isabel Pinto, 'Gender Stereotypes in Portuguese
+    Television Advertisements', Sex Roles 39.1-2 (1998): 158.
 
-[^7_Casimiro_68]: Joseph B. Walther, ‘Selective Self-Presentation in
+[^7_Casimiro_68]: Joseph B. Walther, 'Selective Self-Presentation in
     Computer-Mediated Communication: Hyperpersonal Dimensions of
-    Technology, Language, and Cognition’, Computers in Human Behavior
+    Technology, Language, and Cognition', Computers in Human Behavior
     23.5 (2007): 2538–2557.
 
-[^7_Casimiro_69]: Elizabeth Jagger, ‘Marketing Molly and Melville: Dating in a
-    Postmodern, Consumer Society’, Sociology 35.1 (2001): 39.
+[^7_Casimiro_69]: Elizabeth Jagger, 'Marketing Molly and Melville: Dating in a
+    Postmodern, Consumer Society', Sociology 35.1 (2001): 39.
 
-[^7_Casimiro_70]: Anália Torres et al., ‘Gender, Work and Family: Balancing Central
-    Dimensions in Individuals’ Lives’, Sociologia Online - Revista da
+[^7_Casimiro_70]: Anália Torres et al., 'Gender, Work and Family: Balancing Central
+    Dimensions in Individuals' Lives', Sociologia Online - Revista da
     Associação Portuguesa de Sociologia 2 (April, 2011): 16.
 
-[^7_Casimiro_71]: Anália Torres, ‘Casamento e Gênero: Mudanças nas Famílias
-    Contemporâneas a partir do Caso Português’, Interseções 3.2 (2001):
+[^7_Casimiro_71]: Anália Torres, 'Casamento e Gênero: Mudanças nas Famílias
+    Contemporâneas a partir do Caso Português', Interseções 3.2 (2001):
     62.
 
-[^7_Casimiro_72]: Sofia Aboim, ‘Género, família e mudança em Portugal’, in Karin
+[^7_Casimiro_72]: Sofia Aboim, 'Género, família e mudança em Portugal', in Karin
     Wall et al. (eds) A Vida Familiar no Masculino. Negociando Velhas e
     Novas Masculinidades, Lisboa: Comissão para a Igualdade no Trabalho
     e no Emprego, 2010, pp. 39-66.
@@ -5407,16 +5406,16 @@ Self-Presentation in Videodating’, *Journal of Marriage and the Family*
 [^7_Casimiro_73]: Anália Torres, Vida Conjugal e Trabalho, Oeiras: Celta Editora,
     2004, p. 132.
 
-[^7_Casimiro_74]: Lauren Reichart Smith and Skye C. Cooley, ‘Presenting Me! An
-    Examination of Self-Presentation in U.S. and Russian Online Social
-    Networks’, Russian Journal of Communication 5.5 (2013): 176-190.
+[^7_Casimiro_74]: Lauren Reichart Smith and Skye C. Cooley, 'Presenting Me! An
+    Examination of Self-Presentation in US and Russian Online Social
+    Networks', Russian Journal of Communication 5.5 (2013): 176-190.
 
-[^7_Casimiro_75]: Slava Kisilevich and Mark Last, ‘Exploring Gender Differences in
-    Member Profiles of an Online Dating Site Across 35 Countries’,
+[^7_Casimiro_75]: Slava Kisilevich and Mark Last, 'Exploring Gender Differences in
+    Member Profiles of an Online Dating Site Across 35 Countries',
     Lecture Notes in Computer Science 6904 (2011): 57-78.
 
-[^7_Casimiro_76]: Jill Walker, ‘Mirrors and Shadows: The Digital Aestheticisation
-    of Oneself’, Digital Arts & Culture Conference Proceedings,
+[^7_Casimiro_76]: Jill Walker, 'Mirrors and Shadows: The Digital Aestheticisation
+    of Oneself', Digital Arts & Culture Conference Proceedings,
     Copenhagen (December, 2005): 6-7.
 
 # Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age
@@ -5425,13 +5424,13 @@ Self-Presentation in Videodating’, *Journal of Marriage and the Family*
 
 ## Introduction
 
-The Internet and dating websites have had a strong impact on the nature
+The internet and dating websites have had a strong impact on the nature
 of seductive relationships over a short period of time. This statement,
 which is not strictly deterministic, is based on a series of
 observations. Over the last 15 years or so, new means of meeting,
 flirting and falling in love have appeared -- all behind multiple
 screens. The traditional methods and timescale of seduction have been
-turned upside down. On the Internet you become acquainted with others
+turned upside down. On the internet you become acquainted with others
 from the inside out and many fall in love with these ‘strangers.’ In
 1998, the movie *You’ve Got Mail* very explicitly put a story and
 images to this new phenomenon.
@@ -5440,13 +5439,13 @@ In 2012, the American actor-director John Malkovich pitched a
 contemporary production of the famous novel of Choderlos de Laclos,
 *Liaisons dangereuses*, in Paris. Malkovich, who in 1989 played the
 Vicomte de Valmont for producer Stephan Frears, has adapted this classic
-piece to the Internet generation. In this production, social networks
+piece to the internet generation. In this production, social networks
 (Facebook, Twitter), smartphones, and texting all play important roles.
 It is always interesting to observe the impact of different technical
 interfaces on the way we fall in love. Each historical period brings its
 own combination of its values and approaches to love. Malkovich’s
 Parisian adaptation shows that the role of the written word in seduction
-and relationships is reinforced through the use of the Internet. Of
+and relationships is reinforced through the use of the internet. Of
 course, as in the ‘classic’ age of love, we still find cynicism,
 hypocrisy, lies, and manipulation. But now, they are all technologically
 assisted.
@@ -5459,7 +5458,7 @@ marketing”.
 This chapter will begin by analyzing the manner in which liberalism has
 established itself as the dominant new ideology of postmodern
 romantic/seductive relationships. Liberalism is implicitly present in
-the discourse of those on the Internet as much as it is in their online
+the discourse of those on the internet as much as it is in their online
 habits. This observation is based on surveys conducted on the subject by
 the author, in the French-speaking world, over the past ten years. The
 chapter will then discuss this phenomenon in the light of more general
@@ -5481,7 +5480,7 @@ developed by the author, who has experience working in this field.
 ## The Victory of Liberalism in Romantic Relationships
 
 First of all, it should be remembered that romantic/seductive
-relationships on the Internet have notable differences from those in
+relationships on the internet have notable differences from those in
 real life. Online, you do not see who you are speaking to, and you do
 not know him or her because he or she is hidden behind a pseudonym and a
 screen. Likewise, things often move faster than in real life, where the
@@ -5489,11 +5488,11 @@ temporality of seduction is often rather slow. In recent years, many
 authors have noted that digitized relationships are becoming subject to
 liberalism[^8_Lardellier_2] considered both as an economic doctrine and as a
 collection of values and ideology. They see relationships in the
-Internet age as commodities, governed by the principles of
+internet age as commodities, governed by the principles of
 utilitarianism. To say that this economic theory is gaining the domain
 of human relationships is more than just a metaphor. If we take certain
 expressions literally, they can be incidentally revealing. On the
-subject of dating websites, the Internet users interviewed spontaneously
+subject of dating websites, the internet users interviewed spontaneously
 alluded to: a “shopping for love,” a “supermarket,” “business and
 commerce,” “unrestrained sexual consumption,” and a “store front window
 for singles.” There are many who said that they choose a partner “like
@@ -5501,7 +5500,7 @@ you would pick a yogurt, or any product, shopping cart in hand.” In
 short, “people have the impression of becoming merchandise” once they
 sign up for a dating website. Some, disappointed by these sites, even
 mention prostitution, “since you pay to have relationships with a
-stranger”…. These lexical clichés from the users themselves are all
+stranger”… These lexical clichés from the users themselves are all
 inspired by their experiences on existing dating websites.
 
 Romantic encounters have thus become a market selling singles the
@@ -5526,7 +5525,7 @@ market appeared to have split. It began to offer websites based on
 certain criteria such as ethnicity, religion, sociocultural status, and
 socioeconomic background.
 
-Likewise, on the Internet, relationships are liberalized. We see all
+Likewise, on the internet, relationships are liberalized. We see all
 major principles of economic markets: an abundance of offers,
 rationalization of the search for love, selective targeting, the ability
 to choose from many offers, and the standardization of ‘products.’
@@ -5619,7 +5618,7 @@ a digital exit does not cost anything in terms of face. However, there
 is fierceness in competition that is not specific to the virtual world
 and that can cause what psychoanalysts call a narcissistic injury: the
 feeling you are left with after an emotionally-invested relationship is
-terminated. But the Internet allows you to “move on to the next one.”
+terminated. But the internet allows you to “move on to the next one.”
 
 It is the overall system of dating sites which causes this consumption
 trend. You make the most rational and judicious choice, generate traffic
@@ -5697,9 +5696,9 @@ globalization of the dating market could have notable results. Western
 women already have a difficult time finding men who fulfill their
 expectations. As for Western men, even though they are seduced by
 dynamic women, some may prefer a woman who is not too demanding to
-ensure calm on the home front and thus […] turn towards the
+ensure calm on the home front and thus (…) turn towards the
 international market to buy submission, youth, and beauty, ignoring the
-independent, degree-bearing women in their country. […] However, the
+independent, degree-bearing women in their country. (…) However, the
 poor men in the West are still having a difficult time finding
 spouses.”[^8_Lardellier_7] The global singles market was created by dating sites and
 founded on economic principles. Feelings are not completely absent, but
@@ -5710,7 +5709,7 @@ set to remain a global game.
 
 This part of the chapter will expand the frame of analysis so as to
 offer more general sociological and philosophical considerations about
-the new types of couples found in the Internet era.
+the new types of couples found in the internet era.
 
 ### Singles Enduring Paradoxical Tensions
 
@@ -5734,7 +5733,7 @@ registered for dating sites.
 
 ### The Traditional Couple Transformed by Information and Communication Technologies
 
-In all cases, Internet suitors conform to a procedure which, for the
+In all cases, internet suitors conform to a procedure which, for the
 first time ever, reverses the chronology of events: they become
 acquainted with one another before meeting, thus discovering each other
 from the inside out. When they meet, they sleep together very quickly if
@@ -5744,21 +5743,21 @@ traditional points of reference. They have to invent a new relationship
 code, an unprecedented feat in the history of humanity as well as that
 of romantic relationships.
 
-The Internet offers a solution for finding your soulmate, but on
+The internet offers a solution for finding your soulmate, but on
 condition that you can escape being caught in the fringe. You frequently
 move to the other side of the screen. Remember that in Ovid’s
 *Metamorphosis,* Pygmalion commits himself to a virtual relationship
 (even then!), with his beautiful statue, Galatea. From one illusion to
 another, Narcissus prefers himself over even the tender love of the muse
 Echo, until his self-admiration becomes his own death. And how many are
-there on the Internet who put on this performance and who gaze at the
+there on the internet who put on this performance and who gaze at the
 raving comments and gratification of others? “A relationship put in the
-public eye via the Internet can allow someone to be satisfied with more
+public eye via the internet can allow someone to be satisfied with more
 or less success than the profound human need of having relationships and
 simultaneously promoting, in his or her own mind, a paranoid withdrawal,
 thus avoiding all forms of intersubjective commitment.”[^8_Lardellier_8] This is true
 because the web is all-powerful and allows you to fight against
-anxieties and frustrations. An Internet connection can be compared to an
+anxieties and frustrations. An internet connection can be compared to an
 umbilical cord; it nourishes, calms, and relies on reassurance. New
 technologies, in a broad sense, have become the preferred source of
 pleasure for people from 25-49, even before sex.[^8_Lardellier_9]
@@ -5772,7 +5771,7 @@ Significantly over half of romantic encounters among thirty-year-olds
 are arranged by websites.
 
 The model of the traditional couple is called into question by
-information and communication technologies. Clearly, the Internet
+information and communication technologies. Clearly, the internet
 ‘produces’ a good amount of couples. But, as a consequence, it also
 produces ‘defeats,’ as digital suitors reconnect for digital adultery,
 polygamy and ‘sexfriending.’ These sites have given birth to a type of
@@ -5782,7 +5781,7 @@ cynical – and occasionally hurtful in this regard. Our current era is
 one of mass sexual and romantic consumption. We take, we make the most
 of things, we enjoy those things, and we throw those things away. Of
 course, we must not forget the numerous beautiful love stories which
-also have their origin the Internet. However, those involved in these
+also have their origin the internet. However, those involved in these
 stories often encountered disappointment and suffering before finally
 finding a soulmate. This is due to the prevailing cynicism and the
 unpleasant impression of being referred to like a supermarket product,
@@ -5790,7 +5789,7 @@ as others flip through a thick catalog full of people to be ‘consumed.’
 
 We do not look at it all in a moral sense: there is not only frustration
 or disgust in romantic and sexual consumption being industrialized by
-the Internet. There are many who take great pleasure in the Internet and
+the internet. There are many who take great pleasure in the internet and
 use it for adventures and sexual experimentation. They live in ‘sensual
 parentheses,’ filled with pleasure in order to break away from the
 monotony of life. Since you can seduce or be seduced online, and almost
@@ -5800,7 +5799,7 @@ amount of time, it does not mean that it will exist forever. After
 experimenting with the first option of dating sites, sex, many users set
 their hearts on the second promise: to find ‘true love.’
 
-But even in this case, it becomes complicated, since the Internet
+But even in this case, it becomes complicated, since the internet
 creates stress but also reassures. Matchmaking technology has
 effectively opened an era of interchangeable options for romance. Not
 one, not ten, but hundreds or even thousands have found their
@@ -5809,7 +5808,7 @@ there, additionally, who brag and count their dozens of simultaneous
 affairs and hundreds of ‘one night stands’? “If the abundance of
 possibilities can be reassuring, it can also take on the form of an
 indefinite, never-ending quest. You are compulsively drawn back to the
-Internet, in a kind of stressful addiction. That is to say that you
+internet, in a kind of stressful addiction. That is to say that you
 embark upon a quest which is not only continuous, but one in which what
 you do not always know what you are searching for.”[^8_Lardellier_10]
 
@@ -5819,11 +5818,11 @@ Nowadays, love is a fixed-term contract. But couples who have signed a
 permanent contract can also fall apart due to the arrival of information
 and communication technologies. These technologies could, at any moment,
 bring about unsettling news, requests, or make you want to discretely
-have a look around the Internet. We have never previously had to see our
+have a look around the internet. We have never previously had to see our
 exes and teen romances again as much as now, in an era where we can find
 them three clicks and a few seconds later.
 
-The Internet has introduced a sovereign restlessness to couples, most
+The internet has introduced a sovereign restlessness to couples, most
 notably in couples who met online. A little flaw in your partner? A bug,
 an argument? Hit a rough spot? Well, there is now the enormous
 temptation to reconnect so as to restart the search for virtual
@@ -5839,13 +5838,13 @@ Marcel Proust, in his novel *Albertine disparue*, exemplifies this idea:
 had been in another city when we met, if we had walked in another
 neighborhood, if we had gone to another salon. Do we really think that
 she is unique? She is just one of countless many”…and how many are there
-on the Internet, sending notifications to others about going out for a
+on the internet, sending notifications to others about going out for a
 coffee, a drink, or going on a date, and never seeing this person again?
-On the Internet, many romances end every day before even starting.
+On the internet, many romances end every day before even starting.
 Singles who try to pick up others online know this after having come
 across many people with whom a nice love story would have been possible.
 Multiply this by millions, and this sensation contributes to making the
-generation of Internet lovers nostalgic, yet disillusioned in facing the
+generation of internet lovers nostalgic, yet disillusioned in facing the
 brutality of technologically advanced and liberalized relationships.
 They face so many failures, and do this all while confronting the
 fragility of connections and the difficulty of creating a strong couple
@@ -5858,10 +5857,10 @@ in a period of change. From Ovid’s *The Art of Love*, a straightforward
 manual on how to pick up others, to Plato’s *Symposium* and its origin
 in tight-bonded relationships and hesitant love -- choosing one shortly
 after the other, even if they were not necessarily accepted in their
-eras. The Internet and dating sites have allowed us to opt for the
+eras. The internet and dating sites have allowed us to opt for the
 sentimental-sexual model of interchangeability and ‘getting around,’ but
 only for a certain time. Despite the cynics and those who’ve been
-disappointed, a lot of singles on the Internet are convinced that a
+disappointed, a lot of singles on the internet are convinced that a
 special person is hidden just behind a screen and that they will finally
 be in contact, like the androgynous couples of Plato. We finally see
 that the liberal ideology that we find on dating sites is
@@ -5871,80 +5870,79 @@ influence.
 In 2014, those searching for love try to catch Venus or Cupid, the
 mythical gods of desire and love, thanks to technology. And indeed, they
 occasionally offer love to those who are constantly looking for it.
-Then, it is left to the Internet lovers to learn how to work together
+Then, it is left to the internet lovers to learn how to work together
 until they become a real couple. Thus, the most difficult part begins.
-The Internet, which allows us to quickly create a bond with others, can
+The internet, which allows us to quickly create a bond with others, can
 even more abruptly break this same bond. And so we see the history of
 romantic relationships: never ending, always reinvented, continuing to
 write itself.
 
 ## References
 
-Zygmunt Bauman, *Liquid Love: On the Frailty of Human Bonds*, Cambridge: Polity Press,
-2003.
+Bauman, Zygmunt. *Liquid Love: On the Frailty of Human Bonds*, Cambridge: Polity Press, 2003.
 
-Dominique Baqué, Paris, *E-Love. Petit marketing de la rencontre*, Anabet,
+Baqué, Dominique. *E-Love. Petit marketing de la rencontre*, Paris: Anabet,
 2008.
 
-Marie Bergström, ‘La loi du Supermarché? Sites de Rencontres et
+Bergström, Marie. ‘La loi du Supermarché? Sites de Rencontres et
 Représentations de L'amour ‘, P.U.F. *Ethnologie Française*, 3. 43, (2013:
 )433- 442.
 
-Elisabeth Bernstein, *Temporarily Yours. Intimacy, Authenticity and the
+Bernstein, Elisabeth. *Temporarily Yours. Intimacy, Authenticity and the
 Commerce of Sex*, Chicago: University of Chicago Press, 2007.
 
-Gargi Bhattacharyya, *Sexuality and Society. An Introduction*, London/New York: Routledge, 2002.
+Bhattacharyya, Gargi. *Sexuality and Society. An Introduction*, London/New York: Routledge, 2002.
 
-Serge Chaumier, *La Déliaison Amoureuse. De la Fusion Romantique au Désir
+Chaumier, Serge. *La Déliaison Amoureuse. De la Fusion Romantique au Désir
 D’indépendance*, Paris: Armand Colin, 1999.
 
-Philippe Combessie, Sibylla Mayer, ‘Une Nouvelle économie des Relations
-Sexuelles?’ Ethnologie Française, Sexualités Négociées, Presses
-Universitaires de France, 2013.
+Combessie, Philippe and Sibylla Mayer, ‘Une Nouvelle économie des Relations
+Sexuelles?’ Ethnologie Française, Sexualités Négociées, *Presses
+Universitaires de France*, 2013.
 
-John Gagnon and William Simon, *Sexual Conduct. The Social Sources of
+Gagnon, John and William Simon, *Sexual Conduct. The Social Sources of
 Human Sexuality*, Chicago: Aldine, 1973.
 
-Anthony Giddens, *The Transformation of Intimacy : Sexuality, Love and
+Giddens, Anthony. *The Transformation of Intimacy : Sexuality, Love and
 Eroticism in Modern Societies*, Stanford, CA: Stanford University Press, 1992, 2004.
 
-Mark Granovetter, ‘The Strength of Weak Ties :A Network Theory
+Granovetter, Mark. ‘The Strength of Weak Ties :A Network Theory
 Revisited’, *Sociological Theory* 1. (1983): 201-233.
 
-Eva Illouz, *Consuming the Romantic Utopia: Love and the Cultural
+Illouz, Eva. *Consuming the Romantic Utopia: Love and the Cultural
 Contradictions of Capitalism*, Berkeley: University of California Press,
 1997.
 
-Eva Illouz, *Why Love Hurts : A Sociological Explanation*, Cambridge: Polity Press, 2011.
+Illouz, Eva. *Why Love Hurts : A Sociological Explanation*, Cambridge: Polity Press, 2011.
 
-Eva Illouz, ‘Réseaux Amoureux sur Internet’, *Réseaux* 138. 2006:
+Illouz, Eva. ‘Réseaux Amoureux sur Internet’, *Réseaux* 138. 2006:
 269-272.
 
-Eva Illouz, *Cold Intimacies : The Making of Emotional Capitalism*,
+Illouz, Eva. *Cold Intimacies : The Making of Emotional Capitalism*,
 Cambridge: Polity Press, 2007.
 
-Jean-Claude Kaufmann, *Sex@mour*, Paris: Armand Colin, 2010.
+Kaufmann, Jean-Claude. *Sex@mour*, Paris: Armand Colin, 2010.
 
-Emmanuel Kessous, ‘L’amour en Projet. Internet et les Conventions de la
+Kessous, Emmanuel. ‘L’amour en Projet. Internet et les Conventions de la
 Rencontre Amoureuse’, *Réseaux* 166. (2011) : 191-223.
 
-Pascal Lardellier. ‘De la Consommation Sentimentale et Sexuelle de Masse
+Lardellier, Pascal. ‘De la Consommation Sentimentale et Sexuelle de Masse
 à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), @mours
 virtuelles. Conjugalité et Internet, Louvain-la-Neuve,
 Academia-Bruylandt, (2009): 17-41.
 
-Pascal Lardellier, Le coeur Net. Célibat et @mours sur le Web, Paris,
+Lardellier, Pascal. Le coeur Net. Célibat et @mours sur le Web, Paris,
 Belin, 2004.
 
-Pascal Lardellier, Les Réseaux du Cœur. Sexe, Amour et Séduction sur
+Lardellier, Pascal. Les Réseaux du Cœur. Sexe, Amour et Séduction sur
 Internet, Paris, François Bourin, 2012.
 
-Niklas Luhmann, *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
+Luhmann, Niklas. *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
 
-Marc Parmentier, ‘Philosophie des sites de rencontres’, Hermès.
+Parmentier, Marc. ‘Philosophie des sites de rencontres’, Hermès.
 59.(2011) : 173-178, 2011.
 
-Martin King, *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
+King, Martin. *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
 
 [^8_Lardellier_1]: *cf*. bibliography, Lardellier
 
@@ -5969,7 +5967,7 @@ Martin King, *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter,
 
 [^8_Lardellier_7]: J.- C. Kaufmann, *Sex@mour*, Albin Michel, 2010, Paris, p. 192.
 
-[^8_Lardellier_8]: Michael Civin, Psychanalyse du Net, *op. cit*. p. 46-47.
+[^8_Lardellier_8]: Michael Civin, Psychanalyse du Net, *op. cit*. pp. 46-47.
 
 [^8_Lardellier_9]: According to an Ipsos Survey, quoted by *Télérama* n° 3072,
     November 2008, the main source of pleasure for 39% of respondents is
@@ -6561,9 +6559,9 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 [^9_Wen-Final_12]: Navigation website refers to a collection of many web sites, to
     classify the websites according to certain conditions.
 
-[^9_Wen-Final_13]: Lei Li. ‘Dating Sites Started the New User Battle’.
+[^9_Wen-Final_13]: Lei Li, ‘Dating Sites Started the New User Battle’.
 
-[^9_Wen-Final_14]: Xiaobo Chen. ‘The Micro Film: A Visual Culture Transmutation of
+[^9_Wen-Final_14]: Xiaobo Chen, ‘The Micro Film: A Visual Culture Transmutation of
     Concept First’, Contemporary Cinema, 10(2013): 199.
 
 [^9_Wen-Final_15]: A line in the ad.
@@ -7416,10 +7414,7 @@ Rao, V.V. Prakasa and Rao, V. Nandini. *Marriage, the Family, and Women
 in India*, Delhi: Heritage, 1982.
 
 SAALT, ‘A Demographic Snapshot of South Asians in the United States’,
-July 2012.
-
-Retrieved from
-[*http://saalt.org/wp-content/uploads/2012/09/Demographic-*](http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf).
+July 2012. Retrieved from <http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf>.
 
 Seth, Nainika and Patnayakuni, Ravi. ‘Online Matrimonial Sites and the
 Transformation of Arranged Marriage in India’, in Celia Romm Livermo
@@ -7427,24 +7422,20 @@ Transformation of Arranged Marriage in India’, in Celia Romm Livermo
 Relationships*, Hershey, PA: IGI Global, 2011, pp. 272-93.
 
 US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved
-from
-
-[*http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf*](http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf)
+from <http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf>.
 
 [^10_Raja-Renninger_1]: Arjun Appudarai, *Modernity at Large: Cultural Dimensions of
     Globalization*, Minneapolis: University of Minnesota, 1996.
 
-[^10_Raja-Renninger_2]: Ibid.
+[^10_Raja-Renninger_2]: Arjun Appudarai, *Modernity at Large: Cultural Dimensions of
+    Globalization*.
 
 [^10_Raja-Renninger_3]: Stephanie Coontz, *Marriage, a History: How Love Conquered
     Marriage*, New York: Viking, 2005.
 
-[^10_Raja-Renninger_4]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and
-    the Transformation of Arranged Marriage in India’, in Celia Romm
-    Livermo (ed) *Gender and Social Computing: Interactions, Differences,
-    and Relationships*, Hershey, PA: IGI Global, 2011, p. 276.
+[^10_Raja-Renninger_4]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) *Gender and Social Computing: Interactions, Differences and Relationships*, Hershey, PA: IGI Global, 2011, p. 276.
 
-[^10_Raja-Renninger_5]: Ibid.
+[^10_Raja-Renninger_5]: Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’.
 
 [^10_Raja-Renninger_6]: Narayan Gopalkrishnan and Hurriyet Babacan, ‘Ties That Bind:
     Marriage and Partner Choice in the Indian Community in Australia in
@@ -7598,16 +7589,17 @@ religion. Now there is love, love-arranged, arranged-love, inter-caste,
 inter-religion, court-marriage and live-in relationship. Moreover, most
 of these marriages are arranged online.
 
-The chapter addressed the following research questions: (1) What is the
+This chapter addressed the following research questions: 
+1. What is the
 magnitude of modern technology against the societal traditions in India?
 Especially, on these three online matrimonial sites, how do they
 penetrate in the complex social practices confrontational or
 supplementary to old traditional searching practices?
 
-\(2) How do family and individual differ in their opinions for searching
+2. How do family and individual differ in their opinions for searching
 a partner?
 
-\(3) What technological, individual, and family factors are associated
+3. What technological, individual, and family factors are associated
 with the online searching practices?
 
 This study has three components: a. Assessing trends and patterns of
@@ -7708,9 +7700,9 @@ opportunities to meet people they would not have otherwise met.”[^11_Dwivedi_1
 Online partner searchers on matrimonial sites are of six types: married,
 divorced, single, widowed, awaiting divorce, and annulled.
 
-**Figure 1** Online partner searchers
 
 ![Figure 1](imgs/Dwivedi-marriagetypes-01.jpg)
+Figure 1 Online partner searchers
 
 The online matrimonial sites work as a bridge in their search to place
 them from a stage without a partner to where they have a partner. The
@@ -7839,7 +7831,7 @@ pay the refund of entire fee without question. The customers can also
 follow the CEO on Twitter and on his blog. The SSL[^11_Dwivedi_25] encryption
 technology secures the payment transactions and makes the customer’s
 buying experience easier and more enjoyable. The plans start from three
-months for \$ 62 to one year for \$ 170.
+months for \$62 to one year for \$170.
 
 BharatMatrimony.com was probably the first to provide community-specific
 searching experience in regional languages. Established in 1997,
@@ -7854,7 +7846,7 @@ according to the Brand Trust Report 2014.[^11_Dwivedi_27] It has launched two ne
 sections, namely assisted matrimony, a personalized match making
 service, and elite matrimony, for the rich and affluent, to serve and
 cover all types of online searchers. There are various paid packages
-ranging from \$ 62 to \$ 615 with duration from three to nine months.
+ranging from \$62 to \$615 with duration from three to nine months.
 The website directs various payment options, for example, credit card,
 debit card, net banking, and free door step collection. This matrimonial
 site provides free SMS alerts and voice messages.
@@ -7862,15 +7854,15 @@ site provides free SMS alerts and voice messages.
 It is a recent venture of a job searching site *Naukari.com,* initiated
 in September 2004, to serve northern and western Indian communities.
 Jeevansathi.com provides up to one-year paid packages services starting
-from US\$ 50 to US\$ 500. The company, along with regular registered
+from US\$50 to US\$500. The company, along with regular registered
 account, also advertizes the profiles of HIV positives, Thalassemia
 Major, physically handicapped, and cancer survivors, for whom searching
 a life partner is a challenge. This indicates how deeply technology
 penetrates in the complex social structures.
 
-**Table 1 Popularity of Matrimonial Sites in India**[^11_Dwivedi_28]
 
 ![Figure 2](imgs/Dwivedi-matrimonysite-table-02.jpg)
+Table 1 Popularity of Matrimonial Sites in India[^11_Dwivedi_28]
 
 ## Methodology
 
@@ -7894,8 +7886,7 @@ the author resides. This research also makes use of
 participant-observation[^11_Dwivedi_30] method in the study. The data were
 collected through 150 feedbacks, mostly testimonies of the users; and
 content, such as 50 personal profiles, and 50 language samples on
-matrimonial sites. The participants in the study had income between US\$
-1, 500 and US\$ 5, 000 per month. The interpretation of data was based
+matrimonial sites. The participants in the study had income between US\$1,500 and US\$5,000 per month. The interpretation of data was based
 on how the use of new technology depends on the interaction between the
 technology, the user and the organizational environment.
 
@@ -7946,8 +7937,8 @@ updating option never allows the information shared by the users to
 become obsolete. The searchers can get more detailed information about
 the prospective partner.
 
-*I got his request, saw the profile … … … Our families met and by the
-end of our third meeting we did *roka**[^11_Dwivedi_32] *… … … on 27th feb 2014.
+*I got his request, saw the profile… Our families met and by the
+end of our third meeting we did *roka*[^11_Dwivedi_32]… on 27th feb 2014.
 Very happy to have found him.*
 
 Another profile says:
@@ -8105,8 +8096,6 @@ the users of the matrimonial sites were not satisfied. Table 2
 summarizes the differences between online and offline partner search
 practices.
 
-**Table 2** Comparing offline generation to online generation in partner
-search
 
 Characteristics | Offline Generation | Online Generation
 --- | --- | --- 
@@ -8127,6 +8116,8 @@ Ties (Caste and Religion) | Rigid | Flexible
 Chances of understanding each other before marriage | Less | More
 Participation | Less | More
 
+**Table 2** Comparing offline generation to online generation in partner
+search
 
 ## Limitations
 
@@ -8290,7 +8281,7 @@ Human Behavior, 2007: 1-17.
 [^11_Dwivedi_24]: Jiban K. Pal, ‘Social Networks Enabling Matrimonial Information
     Services in India’.
 
-[^11_Dwivedi_25]: Secure Sockets Layer
+[^11_Dwivedi_25]: Secure Sockets Layer.
 
 [^11_Dwivedi_26]: Bharat Matrimony, 2014.
 
@@ -8314,7 +8305,7 @@ Human Behavior, 2007: 1-17.
     of relationship between the two families. It includes the family
     members and close relatives of the prospective bride and groom.
 
-[^11_Dwivedi_33]: A connotation in Indian English means ‘not virtuous.’
+[^11_Dwivedi_33]: A connotation in Indian English means 'not virtuous'.
 
 [^11_Dwivedi_34]: Women generally go for economically secure groom while men want a
     beautiful wife. Women want a groom working in either Indian
@@ -8439,10 +8430,7 @@ with the interactional arrangement that institutionalizes the event:
 which participants employ in order to attain the ends, *norms* -
 which determine the relations between participants and can project on
 the *key and instrumentalities* associated with the atmosphere in
-which they partake.
-
-*The eighth element* - i.e., the genre that the event is categorized by;
-encompassing all features of the event with a generalizing definition
+which they partake. *The eighth element* - i.e., the genre that the event is categorized by; encompassing all features of the event with a generalizing definition
 that attributes the event to a given category.
 
 Studies into e-dating referred to this model. It usually refers to this
@@ -13059,8 +13047,8 @@ text —writing on the screen— has radically altered the ontology of text
 as had existed before in the print cultures, by depriving it of its
 authoritative permanence, destabilizing it and making it dynamic,
 ever-changing, and temporal. Up until recently, because of a variety of
-technological limitations, this ‘instantaneousness’ remained confined to
-the exchange of this new kind of (electronic) ‘text’. Although digital
+technological limitations, this 'instantaneousness' remained confined to
+the exchange of this new kind of (electronic) 'text'. Although digital
 media platforms and networks had the potential to connect distant
 people, locations and events, not only textually but audio-visually as
 well, this potential has been limited by availability of access to the
@@ -13073,25 +13061,25 @@ This development has an obvious practical impact primarily on
 face-to-face communications: Skyping, using Facetime, and video chatting
 increasingly substitute or supplement face-to-face communications in
 general. However, the potential of webcam for one-to-many
-communications, as a ‘broadcasting’ device, is still neglected or
+communications, as a 'broadcasting' device, is still neglected or
 unfulfilled, and this is largely due to the economic logic of media
-industries rather than technological limitations. ‘Televisuality’—that
+industries rather than technological limitations. 'Televisuality'—that
 is, the immediate and live transmission of events, which has been the
 definitive power of TV - still remains under the monopoly of television
 networks. The emergence of the webcam as a technological form only
 marginally challenges the monopoly of television in defining social time
-and collective temporality. ‘Real-time,’ as a term that refers to a
-computer’s capacity to render image streams continuously while they are
+and collective temporality. 'Real-time,' as a term that refers to a
+computer's capacity to render image streams continuously while they are
 being displayed on the monitor (or, any other process in which the
 tangible results/effects of the process is simultaneously displayed),
 emerged with the introduction of digital media technologies to
 distinguish this new form of temporal immediacy from the latency of
-print cultures. Yet, the ‘real-time’ of social life in general
+print cultures. Yet, the 'real-time' of social life in general
 ironically remained associated with television. Television networks
 sustained their monopoly over the information regarding what is
 happening at that very moment. So far, except substituting face-to-face
 communications, the Internet has provided a vast archive of past
-‘moments’ of collectively experienced ‘real-time,’ in the form of
+'moments' of collectively experienced 'real-time,' in the form of
 digital video recordings, shared and made available online on YouTube,
 Vimeo or other social media networks. The instant availability of such a
 wide video archive had been a fascination in new media studies during
@@ -13103,23 +13091,23 @@ depths apart from the hegemonic time regimes constructed and sustained
 by television networks. What I am going to discuss in this article, live
 webcam sex channels, is one of these marginal instances in which online
 video challenges television in its own realm, and claims the rights over
-‘live-ness.’ I will argue that the ‘live-ness’ of the webcam constitutes
+'live-ness.' I will argue that the 'live-ness' of the webcam constitutes
 a new type of reality effect, which I will provisionally call
-‘realness.’ In the last part of the article, I will analyze a particular
+'realness.' In the last part of the article, I will analyze a particular
 interaction that occurs in Turkish live webcam sex channels as a result
 of such realness, in which feminine desire falls into confrontation with
 patriarchal moralism, which leads to a productive crisis that makes
 enjoyment impossible.
 
-## “I see, therefore I am”: The Ontology of Televisuality
+## "I See, Therefore I Am": The Ontology of Televisuality
 
 The ontology of the webcam is that of television on a minor scale; it
-possesses the same ‘live-ness’ and ‘immediacy.’ ‘Live-ness’ of the
+possesses the same 'live-ness' and 'immediacy.' 'Live-ness' of the
 televisual image, as pointed out by many media theorists from Raymond
 Williams to Mary Ann Doane, provides television with a unique potential
 for relating to the event it presents. In this respect, the televisual
-image has an ‘ontic’ condition, in Heidegger’s terms. Martin Heidegger
-used ‘ontic’ in reference to the undeniable existential quality of
+image has an 'ontic' condition, in Heidegger's terms. Martin Heidegger
+used 'ontic' in reference to the undeniable existential quality of
 being, of things and events, which surpass any ontological inquiry.[^16_Ozgun-Talking_2]
 We can inquire into how we perceive the outside world, how we gather our
 knowledge of things and events, but we cannot deny the existence of
@@ -13128,18 +13116,18 @@ Heidegger.
 
 The tense of the image, its perpetual reference to the present,
 distinguishes the iconic signifier of television from that of cinema and
-photograph. The ‘live-ness’ of the televisual image transfers the ontic
+photograph. The 'live-ness' of the televisual image transfers the ontic
 quality of the things and events it depicts to the screen they appear
 on; the televisual image thus possesses undeniable presence of the
 outside world it shows. We can always question how things and events are
 represented to us on the television screen; we can always associate
 particular instances of such representation with ideological
 constructions beyond epistemological questions; we can always remain
-doubtful about the “truth value” of these representations and question
+doubtful about the 'truth value' of these representations and question
 what is really happening there; but we can never deny that what
 television shows us does exist somewhere at that very moment. The
-“truth” of the televisual representation is primarily the event itself;
-that something happens at that very moment. “What happened, really?” is
+'truth' of the televisual representation is primarily the event itself;
+that something happens at that very moment. "What happened, really?" is
 a posterior concern.
 
 The webcam image claims the same ontic quality in a similar way; the
@@ -13156,14 +13144,14 @@ the world, somewhere that exists beyond our sight at that very moment.
 Against the hyper-realism of larger-than-life LCD billboards,
 multi-monitor TV walls, high-precision satellite imagery and HD
 projections on every facade, the tiny pixelated webcam image offered the
-realism of a ‘trace’ rather than a map, of a silhouette rather than a
+realism of a 'trace' rather than a map, of a silhouette rather than a
 portrait. The uncanny truth of the jerky video stream recalled a
-Vertovian dream amid the spectacle of high-tech visual media: ‘life as
-it is,’ at that very moment. What becomes clearly expressed in the
+Vertovian dream amid the spectacle of high-tech visual media: 'life as
+it is,' at that very moment. What becomes clearly expressed in the
 intensified eroticism of live webcam sex channels, in their seductive
 power, as I will try to explain below, is this temporal reference—the
 extended sight that simply registers what exists there at that moment,
-beyond any question regarding its ‘representation.’
+beyond any question regarding its 'representation.'
 
 After the proliferation of bandwidth and camera equipped computers, a
 17-year-old Russian high school student, Andrey Ternovsky, cultivated
@@ -13173,25 +13161,25 @@ interactivity. The algorithm Ternovsky deployed on the site he founded,
 Chatroulette, allowed the users to randomly connect to other users
 through their webcams. In complete anonymity, users could video chat
 with others, perform acts for complete strangers, just look at each
-other, or try to catch another’s attention before he or she clicked on
-the ‘next’ button - or if all failed, to just hit the ‘next’ button and
-jump to another random user’s webcam. Without any advertisement, the
-users of Ternovsky’s Chatroulette exponentially grew; when the site
+other, or try to catch another's attention before he or she clicked on
+the 'next' button - or if all failed, to just hit the 'next' button and
+jump to another random user's webcam. Without any advertisement, the
+users of Ternovsky's Chatroulette exponentially grew; when the site
 launched in November 2009, it initially drew 500 visitors per day.
 Within a month, there were fifty thousand daily users, and Chatroulette
 is still one of the top five video chat sites in the world. [^16_Ozgun-Talking_3]
 
 The popularity of Chatroulette revealed the erotic potential of the
 medium. According to an informal study published in 2010, hitting the
-“next” button on Chatroulette yielded a 1 in 8 chance of seeing someone
+'next' button on Chatroulette yielded a 1 in 8 chance of seeing someone
 apparently naked, exposing themselves or engaging in a sexual act, a
-considerable chance of seeing a ‘show your tits’ sign, and a
+considerable chance of seeing a 'show your tits' sign, and a
 considerably lesser chance of seeing actual female flashers.[^16_Ozgun-Talking_4] The
 amount of users seeking erotic pleasure and anonymously exhibiting
 themselves on the site eventually generated a series of public
 controversies, to the degree that Ternovsky finally had to modify the
-website’s program to detect skin tone and block nudity, and employ users
-with ‘moderator’ privileges to filter out obscenity.
+website's program to detect skin tone and block nudity, and employ users
+with 'moderator' privileges to filter out obscenity.
 
 Webcam sex sites that appeared in the recent years were built on the
 idea of providing an open space for what has been excluded from
@@ -13205,14 +13193,14 @@ membership as well as advertisement revenues.[^16_Ozgun-Talking_5] Any adult Int
 user (or, in fact, any Internet user who confirms that she or he is over
 18 years old) can access the sites and follow the broadcasts. The
 members whose webcams are open, who are visible to other viewers, are
-marked as ‘broadcasting.’ The use of the term ‘broadcasting,’ a term
+marked as 'broadcasting.' The use of the term 'broadcasting,' a term
 borrowed from television in this context, once again reminds us the
 closeness between TV and the webcam as a technological form. The
 broadcasting members are listed according to their self-declared sexual
 preferences, under the sections: female, male, transsexual and couples
 (not necessarily heterosexual). Different sites offer different extra
-categories, such as the ‘party’ category on cam4.com (in which a group
-of people gather in front of the webcam), or ‘featured broadcasts’
+categories, such as the 'party' category on cam4.com (in which a group
+of people gather in front of the webcam), or 'featured broadcasts'
 (which include the performers selected by the sites administrators). The
 listings of members performing/broadcasting at that moment in each
 section of the sites are displayed in order of popularity—meaning that
@@ -13220,7 +13208,7 @@ the performers with more viewers are displayed on the top of list. On
 cam4.com and chaturbate.com, top-ranking performers can draw an audience
 of a few thousand members depending on the time of day. Membership,
 although free, is a requirement for broadcasting. Members can also
-purchase ‘tokens,’ which can be offered and transferred to other
+purchase 'tokens,' which can be offered and transferred to other
 members. Members who receive tokens from other members can convert these
 tokens to cash, and the site operators cut a commission from this
 exchange. Token exchange sustains the economy of the sites as well as
@@ -13229,14 +13217,14 @@ facilitating the sex work they provide.
 My interest is not in the economic aspects of the sex work on these
 channels. The income derived from performing sex work on webcam must
 differ hugely from performer to performer, and it is difficult to
-estimate it without an in-depth analysis of overall exchange. As I’ll
+estimate it without an in-depth analysis of overall exchange. As I'll
 try to explain later, the fact that not all performers seek sex work,
 plus the fact that sex work and erotic pleasure become almost
 indistinguishable on these sites, makes it difficult to analyze the
 volume and intensity of the sex work without referring to the site
-operators’ records. While pointing to the erosion of the perceivable
+operators' records. While pointing to the erosion of the perceivable
 difference between sex work and erotic play, I also acknowledge the fact
-that these are already fluid and problematic categories, and I don’t
+that these are already fluid and problematic categories, and I don't
 intend to espouse a clear-cut, hierarchical distinction based on moral
 standards between these. My interest is in the psychodynamics and
 sociodynamics of this particular form of communication, in which further
@@ -13252,7 +13240,7 @@ webcam offers certain conveniences, such as providing a safe space for
 the expression of uncommon forms of desire in respect to erotic
 imagination, and in respect to sex work. Additionally, one does not have
 to leave home to watch a strip show, nor does a performer need to drive
-to a different city’s strip club to avoid being recognized by their
+to a different city's strip club to avoid being recognized by their
 neighbors.
 
 Anonymity is not only something convenient for circumventing the moral
@@ -13266,14 +13254,14 @@ seductive power.
 The first layer of indiscernibility is between the performers and the
 audience: audience members turn on their cameras and perform too while
 watching each other performing; performers sometimes participate in each
-other’s sessions; and performers can turn on the viewers’ cam and make
+other's sessions; and performers can turn on the viewers' cam and make
 them a part of the performance as such. In this respect, webcam channels
-resemble the form of a ‘carnival’ in the Bakhtinian sense. Russian
+resemble the form of a 'carnival' in the Bakhtinian sense. Russian
 Formalist literary theorist and philosopher Mikhail Bakhtin was pointing
 to the carnival form in his analysis of polyphony and dialogism in
 narratives: As a non-scripted event that is constituted by its
 participants, a carnival can only be experienced through participation
-as such, and does not leave any space for passive “spectatorship.” [^16_Ozgun-Talking_6]
+as such, and does not leave any space for passive 'spectatorship.' [^16_Ozgun-Talking_6]
 
 Another layer of indiscernibility, which I find to be even more
 important for constructing the seductive power of the medium, appears
@@ -13285,44 +13273,44 @@ is this layer of indiscernibility that blurs the distinction between sex
 work and erotic thrill and provides the perfect ground for fantasy,
 giving the webcam its seductive power.
 
-We can see this at work when we look at the most popular performers’
+We can see this at work when we look at the most popular performers'
 channels. Contrary to the common wisdom, the rankings that are apparent
 in the listings show that the popularity of the performers does not
 directly correlate with their physical attractiveness or attributes (in
 other words, the conformity of their physical appearance with the
-hegemonic conventions of ‘beauty’), or how much nudity they display, or
+hegemonic conventions of 'beauty'), or how much nudity they display, or
 how explicit their broadcast is and to what distances they go to satisfy
 their audience.
 
-## ‘Realness’ of the Webcam Image: Benefit of the Doubt
+## 'Realness' of the Webcam Image: Benefit of the Doubt
 
 Oftentimes the popularity of performers is related to their ability to
-construct ‘verisimilitude’ - an effect that I will provisionally call
-‘realness.’ ‘Realness’ is an immediate effect of a direct, unprocessed,
+construct 'verisimilitude' - an effect that I will provisionally call
+'realness.' 'Realness' is an immediate effect of a direct, unprocessed,
 unscripted and unedited visual reference - something with which we are
 now becoming familiar, by the multitude of cell phone and amateur video
 images we are being exposed to in our everyday communication
-environment. What I call ‘realness’ here is, on one hand, a certain kind
-of ‘reality effect’ that is somehow different from and opposed to what
+environment. What I call 'realness' here is, on one hand, a certain kind
+of 'reality effect' that is somehow different from and opposed to what
 we find in Hollywood narratives, and, on the other hand, a strategy that
 is born out of such layers of indiscernibility that is inherent to this
 particular form of communication.
 
-‘Realness,’ as such, is embedded in the ‘live-ness’ of the webcam.
-‘Live-ness’ appears to be an integral part of the erotic pleasure, to
-the degree that, although the streaming of a "pre-recorded" video feed
+'Realness,' as such, is embedded in the 'live-ness' of the webcam.
+'Live-ness' appears to be an integral part of the erotic pleasure, to
+the degree that, although the streaming of a 'pre-recorded' video feed
 to the site (instead of the live video image from the webcam) is
-technically and practically possible, this is considered ‘cheating’ and
+technically and practically possible, this is considered 'cheating' and
 it is highly undesirable among webcam users. The sites are therefore
 designed with a particular administrative attention to sustain
-‘live-ness’; the audience is given the chance to mark the performers’
-feeds that they determine to be “recorded" and these channels appear
-marked as such on the listing page. ‘Live-ness’ is an essential element
-for the ‘realness’ of the webcam, to the effect that ‘recorded’ is a
-synonym for ‘fake.’
+'live-ness'; the audience is given the chance to mark the performers'
+feeds that they determine to be 'recorded' and these channels appear
+marked as such on the listing page. 'Live-ness' is an essential element
+for the 'realness' of the webcam, to the effect that 'recorded' is a
+synonym for 'fake.'
 
-The ‘live-ness’ of the performance includes (or, it is constructed
-through) the performer’s interaction with the audience. This interaction
+The 'live-ness' of the performance includes (or, it is constructed
+through) the performer's interaction with the audience. This interaction
 does not merely consist of passively responding to the demands of the
 audience to perform sexual acts, but largely, and more profoundly, and
 sometimes counterintuitively, sustained by talking with them, engaging
@@ -13331,10 +13319,10 @@ from passive communication (such as "hey joe, you are here again?") to
 in-depth, intimate personal conversations that do not necessarily
 revolve around sexual topics.
 
-Such conversations construct the ‘realness’ of the performer as an
+Such conversations construct the 'realness' of the performer as an
 individual, as a social subject, as a desiring subject, and not as a sex
-worker who submits herself to her customers’ desires. At the moment that
-such ‘realness’ is constructed by the performer, the difference between
+worker who submits herself to her customers' desires. At the moment that
+such 'realness' is constructed by the performer, the difference between
 erotic play and sex work becomes indiscernible, and the flow of desire,
 the erotic exchange, appears to be authentic.
 
@@ -13347,7 +13335,7 @@ reality of the sex work. But no matter how good-looking these women are
 and what sort of challenges they undertake, what often draws more
 audience are the female performers who appear at home, on a laptop
 computer in their bed, or at work, in rather casual situations,
-interacting with their audience ‘as they are.’
+interacting with their audience 'as they are.'
 
 A cam4.com member, Shygirl652, regularly broadcasts from a library.
 Without showing her face, she places the camera between her legs and
@@ -13360,37 +13348,37 @@ the shop when the street is empty. A few performers regularly broadcast
 discreetly from their workplaces while doing their day jobs, and their
 discretion while exposing themselves to the webcam becomes a part of the
 thrill for the audience as well. Yet, all these performers accept
-tokens, and the ‘realness’ of the ‘coworker exposing herself’ shatters
-only if the audience is presented with a ‘workspace’ composed of a desk
+tokens, and the 'realness' of the 'coworker exposing herself' shatters
+only if the audience is presented with a 'workspace' composed of a desk
 in an empty room and the performer does not do any work other than
 exposing herself and asking for tokens.
 
 Exchange of tokens, and the performers demand for tokens for continuing
 the show can be considered as a marker of sex work. But even this is not
 a clear marker, since it is possible to see the sex workers appearing on
-their channel declaring they are not ‘working,’ they are just there to
-‘talk,’ and socialize with their audience. In some cases, the performers
-who don’t accept tokens - and therefore appear as they are only
+their channel declaring they are not 'working,' they are just there to
+'talk,' and socialize with their audience. In some cases, the performers
+who don't accept tokens - and therefore appear as they are only
 interested in erotic pleasure - draw their audience to other sources of
 commercial exchange. For example, *BusinessLady* describes herself as a
 sexually active financially secure professional businesswoman who is
 seeking erotic thrill on chaturbate.com.[^16_Ozgun-Talking_7] She writes on her profile
-page; “I work hard and have way too much stress in my life… I do this
+page; "I work hard and have way too much stress in my life… I do this
 for fun. I don't get to read much of the screen because I am busy
 pleasuring myself… If you join my room and I do not seem to be putting
 on a show, it is because I am resting. I may work on cam, and have even
 read articles aloud to viewers. It may be boring, so change the
-channel.” She explains the fact that she accepts token as: “Any tokens /
+channel." She explains the fact that she accepts token as: "Any tokens /
 tips are donated to a respected 501(c)(3) animal rescue charity. I wish
-I could prove this, but it really is the truth.” But her profile page
+I could prove this, but it really is the truth." But her profile page
 directs her more than 6,500 followers to her personal blog on Blogspot,
 where she shares her experiences and fantasies in writing, and also
-offers a paid membership for her fan club that gives free “phone sex in
-every other month” and privileged treatment for “free private 1 on 1
-camera time.”
+offers a paid membership for her fan club that gives free "phone sex in
+every other month" and privileged treatment for "free private 1 on 1
+camera time."
 
 *Vnmses*, who is one of the most popular performers on that same site,
-whenever she is online, gives us one of the best examples of ‘realness’
+whenever she is online, gives us one of the best examples of 'realness'
 as such.[^16_Ozgun-Talking_8] Her performances are almost intimate live-broadcasts of the
 everyday life of a dissatisfied suburban American teenager. In contrast
 with the heavy makeup and forced welcoming smile of the third-world sex
@@ -13398,7 +13386,7 @@ workers on the site, whenever she turns it on, *Vnmses* looks through
 her webcam with curious big eyes, and a serious face that searches for a
 smile. She talks to her audience/friends before she goes to sleep and
 when she wakes up, while she hangs out naked around her suburban house,
-while she steals her mother’s wine from the fridge, when she lounges in
+while she steals her mother's wine from the fridge, when she lounges in
 the yard. She keeps broadcasting when she occasionally goes out to
 shopping with her girlfriends, and introduces the boys she occasionally
 picked up before they had sex in front of the webcam. The parallel scars
@@ -13408,80 +13396,80 @@ music, movies and anything that can be a subject of mundane
 conversation. She also shares her intimate stories: Her first boyfriend
 was black, and because she was being raised by her conservative
 grandparents, and because she and her boyfriend were stupid enough to
-try, they started with having only anal sex —”God, that was so
-painful!”. And then, when they got caught by Grandpa together in the
+try, they started with having only anal sex —"God, that was so
+painful!". And then, when they got caught by Grandpa together in the
 shower, things became obvious. Her masturbation sessions in front of the
 webcam seem more to be curious experiments to overcome the profound
 boredom that she shares with her audience, than a service to them.
 Excess and mundane, boredom and orgasm, friends and audience mix into
-each other in *Vnmses*’ broadcasts. She does not appear as a sex worker
+each other in *Vnmses*' broadcasts. She does not appear as a sex worker
 trying to satisfy an audience, but as a twenty-something punk seeking
 satisfaction in her life with them. She never asks for tokens, but takes
 them as they come, plentifully.
 
 In the case of *Xaida*, a chaturbate.com member, who often broadcasted
 in highly professional, Hollywood-grade zombie makeup and outfit during
-2012, her makeup and outfit did not appear to jeopardize her ‘realness,’
-but on the contrary, offered proof of authenticity: Sex workers don’t
-look like zombies, and aren’t assumed to know much about the zombie
+2012, her makeup and outfit did not appear to jeopardize her 'realness,'
+but on the contrary, offered proof of authenticity: Sex workers don't
+look like zombies, and aren't assumed to know much about the zombie
 literature either, therefore sophisticated makeup and costuming
 establishes the fact that the performer is a female artist seeking
 erotic thrill rather than a sex worker seeking customers.
 
-This is what I refer to ‘realness as a strategy’ as well as an effect.
+This is what I refer to 'realness as a strategy' as well as an effect.
 As much as the female performer on the webcam can really be a
-‘housewife,’ a ‘coworker,’ or a ‘bored teenager’ seeking erotic thrill,
+'housewife,' a 'coworker,' or a 'bored teenager' seeking erotic thrill,
 she could be a sex worker presenting a carefully and meticulously
 constructed fantasy. So, any fantasy as such that is presented with
 sufficient believability, lacking any other reference, receives the
-power of ‘real’ by having the effect of ‘real.’ I choose to use the term
-‘realness’ in order to distinguish this form from other kinds of reality
-effects. What we register as ‘real’ often appears to us as a whole,
+power of 'real' by having the effect of 'real.' I choose to use the term
+'realness' in order to distinguish this form from other kinds of reality
+effects. What we register as 'real' often appears to us as a whole,
 verifiable and perpetual discursive construction, whereas the
 verisimilitude of the webcam is a temporal effect sustained by its
 partial and unverifiable image. Its irrefutable partiality also
-distinguishes the webcam image from the ‘illusion of reality’ that is
-aimed at achieving cinematic realism. ‘Illusion of reality’ in cinema is
-an effect of ‘realistic fiction,’ whereas a webcam bears no script and
-it is decidedly not fiction. Rather than an ‘illusion of reality,’ a
+distinguishes the webcam image from the 'illusion of reality' that is
+aimed at achieving cinematic realism. 'Illusion of reality' in cinema is
+an effect of 'realistic fiction,' whereas a webcam bears no script and
+it is decidedly not fiction. Rather than an 'illusion of reality,' a
 webcam, like an illusionist, inspires us to accept what it presents: it
 is impossible not to believe what happens before your eyes, although
-your logic tells you that a rabbit wouldn’t fit into that hat.
+your logic tells you that a rabbit wouldn't fit into that hat.
 
-‘Realness’ in this sense also differs from what Baudrillard calls
+'Realness' in this sense also differs from what Baudrillard calls
 simulation: simulation, in his terminology, refers to an artificially
 constructed event that assumes the authority of the real, and
 substitutes the real without having any reference to it. By contrast,
-‘realness’ asserts an ambiguity by being partial, its verisimilitude
+'realness' asserts an ambiguity by being partial, its verisimilitude
 stems from its lack, its vagueness, in contrast with the overarching
-narrative of the simulation; it doesn’t project the whole that envelopes
+narrative of the simulation; it doesn't project the whole that envelopes
 the present in the way Baudrillard problematizes.
 
-‘Realness’ in this sense, resonates more with what Gilles Deleuze
-describes as “virtual” at various points of his philosophical inquiries
+'Realness' in this sense, resonates more with what Gilles Deleuze
+describes as 'virtual' at various points of his philosophical inquiries
 (from his early work in Difference and Repetition, to his late works on
-Cinema).[^16_Ozgun-Talking_9] Virtual, in his terminology, is not something “unreal,” or
-“opposite of real,” but a “potential,” a “nebulous state” of the real
-that constantly becomes “actualized.” For Deleuze, “reality” is the
-outcome of the dynamic passages between the “virtual” and “actual” state
-of events and things. The “actual” here, what becomes “actualized” in
-the context of webcam sex, is the erotic desire. Therefore “realness” is
-the “virtual” constitution of the desiring subject on/through the
+Cinema).[^16_Ozgun-Talking_9] Virtual, in his terminology, is not something 'unreal,' or
+'opposite of real,' but a 'potential,' a 'nebulous state' of the real
+that constantly becomes 'actualized.' For Deleuze, 'reality' is the
+outcome of the dynamic passages between the 'virtual' and 'actual' state
+of events and things. The 'actual' here, what becomes 'actualized' in
+the context of webcam sex, is the erotic desire. Therefore 'realness' is
+the 'virtual' constitution of the desiring subject on/through the
 webcam. With no reference to the past or the future, with no other
 identifiers or discursive elements apart from (or use: beyond) the image
-itself, a webcam virtually constructs and affirms the “desiring
-subject,” purely within the temporality of that moment. “Realness,” the
-power of the webcam to virtually construct a “desiring subject” as such,
+itself, a webcam virtually constructs and affirms the 'desiring
+subject', purely within the temporality of that moment. 'Realness', the
+power of the webcam to virtually construct a 'desiring subject' as such,
 is therefore the constitutive element of the medium, and it is directly
-related with ‘live-ness.’
+related with 'live-ness.'
 
-‘Live-ness,’ the temporality of the webcam, then, brings about a double
+'Live-ness,' the temporality of the webcam, then, brings about a double
 transgression. On the one hand, it imposes the transgression of the sex
-work by blurring the markers between “desire” and “work,” and amplifies
-the core erotic fantasy by unhinging it from its subordination to “sex
-work.” The female performer, as non-sex-worker, ordinary woman - a
+work by blurring the markers between 'desire' and 'work', and amplifies
+the core erotic fantasy by unhinging it from its subordination to 'sex
+work'. The female performer, as non-sex-worker, ordinary woman - a
 desiring subject - becomes more desirable as she fulfills the fantasy
-perfectly with her “realness.” By appearing as a “desiring subject,” the
+perfectly with her 'realness'. By appearing as a 'desiring subject', the
 female performer fulfills the underlying fantasy, and calls for active
 participation from the other party, who has to respond in kind and join
 the game by generating his own desires, just like the erotic play in
@@ -13493,7 +13481,7 @@ the webcam is closely related with this two-fold transgression that
 stems from indiscernibility, which becomes the definitive characteristic
 of the webcam image.
 
-## Fear and Loathing on Live Webcam Sex: The “Turkish” Case
+## Fear and Loathing on Live Webcam Sex: The "Turkish" Case
 
 The suspension of physical distances leads to a truly international
 audience in live webcam sex channels. Yet this international audience is
@@ -13522,7 +13510,7 @@ surrounding these channels, not only conservative social norms and but
 also Internet regulations in Turkey, the presence of such a community
 may be seen as highly unusual. Unlike in other countries that compose
 other linguistic spheres, live webcam sex sites are entirely banned in
-Turkey together with other pornographic and “harmful” sites. Since 2007,
+Turkey together with other pornographic and 'harmful' sites. Since 2007,
 the Telecommunication and Transmission Authority in Turkey has been able
 to impose bans on Internet sites without prior judicial approval,
 through an IP filtering system. This IP filtering system is installed on
@@ -13531,12 +13519,12 @@ displaying a generic error page that informs the user that the website
 is blocked. The nature of such Internet censorship and the controversies
 surrounding the regulations are also somehow related with the
 nationalist political culture that becomes crystalized in the
-Turkish-speaking male audience’s interaction with female performers.
+Turkish-speaking male audience's interaction with female performers.
 
 The sites that are banned by the Turkish Telecommunication and
 Transmission Authority include some of the highly popular social media
 sites such as YouTube, because of a particular statement in Turkish
-criminal law that prohibits “insulting Turkishness.” The vagueness of
+criminal law that prohibits 'insulting Turkishness'. The vagueness of
 the legal term, the extra-judiciary power of the censorship authority,
 and the technicalities of the IP filtering system (which does not only
 censor the particular prohibited content on the sites, but blocks access
@@ -13545,8 +13533,8 @@ censorship practices over the past years. In the face of the huge
 controversy resulting from the censoring of some of the most popular
 sites, Turkish Prime Minister, still not willing to ease the censorship
 regulations formally, yet still trying to uphold his populist image,
-famously declared: “My people know how to circumvent the censorship if
-they want to, and to access to the sites they want”. So, while a huge
+famously declared: "My people know how to circumvent the censorship if
+they want to, and to access to the sites they want". So, while a huge
 number of Internet sites (including the webcam sex sites) are still
 banned in Turkey, various types of easily available technological
 devices (such as proxy servers, IP tunneling applications or DNS
@@ -13562,10 +13550,10 @@ In addition, the size of this audience is unexpectedly large,
 considering the circumstances. One can often see audience members with
 Turkish nicknames watching performers from other linguistic spheres,
 quietly enjoying the performances. There are few Turkish performers
-present under the “male” category at any time of the day. But the real
+present under the 'male' category at any time of the day. But the real
 size and dynamics of the Turkish audience become apparent as soon as a
 Turkish-speaking female performer starts broadcasting. The
-Turkish-speaking male audience immediately crowds the performer’s
+Turkish-speaking male audience immediately crowds the performer's
 channel, and the number of attendees becomes large enough to push the
 ranking of the performer quickly to among the top viewed. The popularity
 of any Turkish-speaking performer is so readily guaranteed that it is
@@ -13581,23 +13569,23 @@ between the national identity (which is a product of nationalist
 fantasy) and erotic fantasy—the essential seductive power of the medium.
 
 Quite often we find Turkish-speaking transexual sex workers performing
-under the “female” category in these live webcam sex sites-—although, as
+under the 'female' category in these live webcam sex sites-—although, as
 I mentioned, the sites are organized according to sexual preferences and
-there is a separate section for “transexual” performers. These
+there is a separate section for 'transexual' performers. These
 performers do not hide their transsexuality or sex work, although they
 do not tend to directly disclose or forefront these either-—these become
 apparent very soon in the course of their performance, and go
 unquestioned. The appearance of transexual performers under female
 category as such does not seem to be an issue for the Turkish-speaking
 male audience; on the contrary, they participate in the performance as
-aware of the performers’ transsexuality and sex work, and their
+aware of the performers' transsexuality and sex work, and their
 interaction with the performers shows that some of the audience members
 are regulars, followers, and even fans of the performers.
 
 A similar negotiation applies to Turkish female performers. The
 overwhelming majority of Turkish female performers we find on live sex
 channels don't show their faces, or choose to wear a mask. A male
-partner often accompanies them (who also doesn’t show his face). They do
+partner often accompanies them (who also doesn't show his face). They do
 interact with their audience, and while they play out the fantasy —of
 the bored housewife, or the sexually adventurous couple—the female
 performer openly demands tokens/rewards for acting out the acts her
@@ -13607,8 +13595,8 @@ of sex work. The settings of the webcam show are always in a domestic
 space, seldom revealing identifying markers. The interaction with the
 audience almost never involves personal details or depth, and often
 remains at the level of seduction-oriented small talk, or trivial
-coquetry. Any details revealing hints of identity (such as a performer’s
-location, her “job” etc.) appear blatantly fake - oftentimes such
+coquetry. Any details revealing hints of identity (such as a performer's
+location, her 'job' etc.) appear blatantly fake - oftentimes such
 details echo very common clichés of the Turkish erotic imagination: if
 she is a bored housewife or secretary, she is always from lzmir, which
 is an Aegean town famous in the rest of the country for its good-looking
@@ -13616,11 +13604,11 @@ libertine women; if she is a student, she is always from Ankara, the
 capital city, which is also the home of some famous universities; if
 it's a couple looking for sexual adventure, or a transsexual sex worker,
 they are always from famously decadent lstanbul. All these clichés, and
-the performers’ insistent demand for tokens/rewards to continue with the
+the performers' insistent demand for tokens/rewards to continue with the
 show or in performing the acts her audience asks for, clearly reveal the
 fact that the performance is a part of sex work. The interaction and
-exchange is not intended to build up a “realistic fantasy” (or
-“realness”), but function as a “protocol,” a mutually agreed convention
+exchange is not intended to build up a 'realistic fantasy' (or
+'realness'), but function as a 'protocol,' a mutually agreed convention
 through which the parties declare their positions and agree on the
 nature of the exchange; the common clichés presented by the performers
 about themselves do not reveal anything other than reifying their
@@ -13629,41 +13617,41 @@ in other linguistic spheres, the inept visibility, or direct disclosure
 of sex work in Turkish linguistic sphere is not a turn-off. On the
 contrary, in fact, it is almost a requirement.
 
-Occasionally, a Turkish-speaking female performer who doesn’t observe
+Occasionally, a Turkish-speaking female performer who doesn't observe
 this mutually agreed-upon convention will appear on these channels. Her
 broadcasts immediately receive the same attention as for the performers
-that “play the game.” But, at the moment the Turkish-speaking male
+that 'play the game'. But, at the moment the Turkish-speaking male
 audience members gather the clues that the performer may indeed be a
-“real" housewife or a student, a “real” woman just seeking erotic thrill
-by playing out a sexual fantasy or by exposing herself, or just “talking
-to strangers” of the opposite sex, they respond with a particular
-reaction. If the performer is not asking for “tokens,” if she seems to
+'real' housewife or a student, a 'real' woman just seeking erotic thrill
+by playing out a sexual fantasy or by exposing herself, or just 'talking
+to strangers' of the opposite sex, they respond with a particular
+reaction. If the performer is not asking for 'tokens', if she seems to
 be hesitant to respond to their insistent demands for showing more
 flesh, or performing the acts they desire, the doubts of the audience
 grow. They resist buying the idea that they are actually interacting
 with a woman who is not doing sex work but just seeking erotic thrill.
-The audience first starts to question the authenticity (the “realness”)
+The audience first starts to question the authenticity (the 'realness')
 of the performer, often claiming that the performance is fake or
-recorded. If the performer proves that the performance is a “live
-broadcast” (by spontaneously responding to her audience’s comments), and
+recorded. If the performer proves that the performance is a 'live
+broadcast' (by spontaneously responding to her audience's comments), and
 she confirms that she is really there talking to them, the reaction of
 the audience becomes more aggressive. Their demands to see more flesh in
 exchange for tokens become more insistent. If the performer continues to
 ignore their demands and imposes her own will, which proves that she is
 not interested in rewards, she is not a sex worker, she is just a woman
 looking for erotic thrill, the tension turns into a crisis. The
-“realness” of the performer in other linguistic spheres, which serves to
+'realness' of the performer in other linguistic spheres, which serves to
 amplify her seductive power in this medium, is enhanced by her
 disambiguating herself from sex workers; in the Turkish sphere, however,
-this would function in the opposite way, with such “realness” creating a
+this would function in the opposite way, with such 'realness' creating a
 sober repulsion in Turkish-speaking male audience members. Confronted
-with proof of such “realness,” the only response left for the audience
+with proof of such 'realness,' the only response left for the audience
 is the denial of enjoyment through a moral reaffirmation that is
-attached to the nationalist fantasy. “This woman can’t be Turkish…!” the
-audience cries, “She is either Armenian, or Kurdish, or Greek perhaps?”
+attached to the nationalist fantasy. 'This woman can't be Turkish…!' the
+audience cries, 'She is either Armenian, or Kurdish, or Greek perhaps?'
 And before the frustrated woman finally decides to end her show, we
 often see remarks about how bad this webcam is for Turkish culture, how
-it corrupts the social values. “These things are not good for us!” the
+it corrupts the social values. "These things are not good for us!" the
 Turkish speaking male audience concludes.
 
 This pattern repeats itself almost every time a Turkish-speaking female
@@ -13680,11 +13668,11 @@ things at once: First of all, it displays a patriarchal fantasy that
 intends to confine female sexuality into the service of male desire; sex
 work is negotiated and accepted, but feminine sexual desire that seeks
 and imposes its own satisfaction is not. Then, when this patriarchal
-fantasy is shattered by an insistent “realness” of the feminine desire,
+fantasy is shattered by an insistent 'realness' of the feminine desire,
 the Turkish male audience responds by escaping to a larger fantasy - the
 fantasy of nationalism, and reestablishes the moral ground on that
-front: “She can be a real woman, but in that case she can’t be a Turkish
-woman.” National identity, as imagined as it is - as a purely modern
+front: "She can be a real woman, but in that case she can't be a Turkish
+woman." National identity, as imagined as it is - as a purely modern
 fantasy in the case of Turkish identity - offers a last refuge for
 patriarchy that female desire cannot enter and cannot lay claim to.
 
@@ -13705,12 +13693,12 @@ not with national identities. In the Turkish case, the nationalism that
 expresses itself so schizophrenically at this moment has been cultivated
 for decades in popular culture. Turkish national identity was a fiction
 that enabled the foundation of modern Turkish Republic, and became an
-ideal model (rather than an existing “type”) for molding its modern
+ideal model (rather than an existing 'type') for molding its modern
 social subjects. Militarism, authoritarianism, and patriarchy became
-interrelated components of the political culture of “modern” Turkey, as
-the previously non-existing “Turkish identity” was built by embodiment
-of these notions. After 1980’s military coup, a “national culture
-industry” emerged, emphasizing the same notions that are now seen in a
+interrelated components of the political culture of 'modern' Turkey, as
+the previously non-existing 'Turkish identity' was built by embodiment
+of these notions. After 1980's military coup, a 'national culture
+industry' emerged, emphasizing the same notions that are now seen in a
 liberal market environment. This national and nationalist culture
 industry started to dominate the local cultural markets particularly
 with the emergence of private TV channels by the 1990s. Since the early
@@ -13738,62 +13726,56 @@ Heidegger, Martin. Being and Time, trans. John Macquarrie and Edward
 Robinson, Harper and Row Publishers, 1962.
 
 Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male, 47
-Percent American, And 13 Percent Perverts.” TechCrunch,
+Percent American, And 13 Percent Perverts". TechCrunch,
 *http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/*
 
-[^16_Ozgun-Talking_1]: RSS stands for “Rich Site Summary”, and refers to the automatic
+[^16_Ozgun-Talking_1]: RSS stands for 'Rich Site Summary', and refers to the automatic
     syndication of data between publishers, which also enables the users
-    receive timely updates
+    receive timely updates.
 
 [^16_Ozgun-Talking_2]: Martin Heidegger, Being and Time, trans. John Macquarrie and
     Edward Robinson, Harper and Row Publishers, 1962.
 
-[^16_Ozgun-Talking_3]: Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male,
-    47 Percent American, And 13 Percent Perverts.” TechCrunch. Retrieved
-    2010-05-14.
+[^16_Ozgun-Talking_3]: Robert J. Moore, (2010-03-16). "Chatroulette Is 89 Percent Male, 47 Percent American, And 13 Percent Perverts." TechCrunch. Retrieved <http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/>
+    14-05-2010.
 
-    [*http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/*](../customXml/item1.xml)
+[^16_Ozgun-Talking_4]: Robert J. Moore, (2010-03-16).
 
-[^16_Ozgun-Talking_4]: 
-
-[^16_Ozgun-Talking_5]: In fact, there are also sites that offer commercial “live webcam
-    sex shows,” not unlike online peep-shows, which are performed by sex
+[^16_Ozgun-Talking_5]: In fact, there are also sites that offer commercial "live webcam
+    sex shows," not unlike online peep-shows, which are performed by sex
     workers to an adult audience for a fee. The dynamics that I want to
-    draw attention in this article are found on “open” sites such as
+    draw attention in this article are found on "open" sites such as
     cam4.com, chaturbate.com, myfreecams.com etc., in which everybody
     who connects to the sites with a webcam can broadcast themselves and
     there is not a clear distinction between performer and audience, nor
     between sex work and erotic pleasure.
 
-[^16_Ozgun-Talking_6]: Mikhail Bakhtin, Rabelais and His World, Bloomington, IN: Indiana
-    University Press, 1984.
+[^16_Ozgun-Talking_6]: Mikhail Bakhtin, *Rabelais and His World*, Bloomington, IN: Indiana University Press, 1984.
 
-[^16_Ozgun-Talking_7]: http://chaturbate.com/businesslady/ (1.15.2014)
+[^16_Ozgun-Talking_7]: See <http://chaturbate.com/businesslady/> (1.15.2014)
 
-[^16_Ozgun-Talking_8]: http://chaturbate.com/vnmses/ (4.7.2012)
+[^16_Ozgun-Talking_8]: See <http://chaturbate.com/vnmses/> (4.7.2012)
 
 [^16_Ozgun-Talking_9]: Gilles Deleuze, Difference and Repetition, Columbia University
-    Press, 1995.
-
-    Gilles Deleuze, Cinema 2: The Time-Image, University Of Minnesota
+    Press, 1995. Gilles Deleuze, Cinema 2: The Time-Image, University Of Minnesota
     Press, 1989.
 
 [^16_Ozgun-Talking_10]: Now, I will refer to this particular audience as the
-    “Turkish-speaking audience”, since, contrary to the assumptions of
+    "Turkish-speaking audience", since, contrary to the assumptions of
     the nationalist fantasy I will discuss later, speaking Turkish
-    language is not necessarily an indicator of “Turkish” national
+    language is not necessarily an indicator of "Turkish" national
     identity. Ethnic and cultural minorities in Anatolia (such as
     Kurdish people, or various non-Muslim minorities) also speak Turkish
     along with their native language, and a considerable number of
     people, such as myself, refuse to associate themselves with a
-    national identity, as “Turks,” for ideological reasons. The
+    national identity, as "Turks," for ideological reasons. The
     problematic occurrence of the nationalist fantasy I will discuss
     later also confirms that speaking Turkish is not an indicator of
     national identity. Therefore, in this article, I will refer to this
-    audience as “Turkish-speaking” with reference to language, rather
-    than “Turks” or “Turkish people,” which denotes national identity.
-    As the case I will discuss eventually confirms, it is a “linguistic
-    sphere” rather than a “national identity.”
+    audience as "Turkish-speaking" with reference to language, rather
+    than "Turks" or "Turkish people," which denotes national identity.
+    As the case I will discuss eventually confirms, it is a "linguistic
+    sphere" rather than a "national identity."
 
 # Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites
 
@@ -13804,7 +13786,7 @@ Percent American, And 13 Percent Perverts.” TechCrunch,
 Last year, one in ten Americans reported using online dating; I am one
 of these many users.[^17_Lindsay_1] Dating websites are intended to mediate a space
 for meeting new people and provide access to a dating market.[^17_Lindsay_2] The
-site’s culture and design offer suggestions about how to find a partner
+site's culture and design offer suggestions about how to find a partner
 through optimal dating presentation. In turn the site subtly suggest
 ways to construct a personal identity, including gender presentation.
 When I participated in online dating, I struggled with how to present my
@@ -13813,7 +13795,7 @@ Specifically, how could I shape my dating profile to represent a virtual
 extension of myself? I hypothesize, describe, and reflect on how a woman
 can present herself as a feminist in a manner that avoids the stigma
 associated with the term, through autoethnographic methods. In fact,
-many women do not associate with the term “feminist,” and I ultimately
+many women do not associate with the term "feminist," and I ultimately
 conclude that creating an authentic personality using online dating
 websites is difficult and dehumanizing for men and women based on
 restrictive traditional gender performances. When asking Internet users
@@ -13826,8 +13808,8 @@ women and men and by the new approaches afforded by
 technology.[^17_Lindsay_3] [^17_Lindsay_4] [^17_Lindsay_5] It should be the responsibility of both
 men and women to negotiate the new possibilities (specifically new norms
 and expectations around courtship) afforded in dating relationships,
-“but the media would certainly have us think that . . . women must
-figure it out before we end up desperate and alone”.[^17_Lindsay_5] To add to the
+"but the media would certainly have us think that . . . women must
+figure it out before we end up desperate and alone".[^17_Lindsay_5] To add to the
 complication, online dating sites, despite their potentially alternative
 media form, further perpetuate a traditional view of love and romance.
 The websites present narrow examples of user narratives that fit what
@@ -13841,13 +13823,13 @@ constraints/affordances that are shaping identity for heterosexual
 dating experiences. In applying the work of Judith Butler[^17_Lindsay_6], the
 performative acts of gender will be considered both in my personal
 process and choices and in the way that online dating sites encouraged
-me to behave. What began as a study of “objective” observations of the
+me to behave. What began as a study of "objective" observations of the
 pedagogical aspects of dating websites, particularly Match.com and
 Okcupid.com, evolved into a weaving of my own personal story about the
 informal learning that happens in these spaces. While autoethnography is
 a less traditional method, using my own experiences and observations
 from participating in several online dating sites was selected as an
-ethical approach for respecting others’ online dating experiences and
+ethical approach for respecting others' online dating experiences and
 provided a great deal of information.[^17_Lindsay_7],[^17_Lindsay_8],[^17_Lindsay_9] I will use
 reflexive practices to examine how popular commercial dating sites play
 a pivotal role in shaping and re-shaping my online identity choices.
@@ -13860,9 +13842,9 @@ qualities, such as morality and passion, were frequently mentioned by
 both men and women.[^17_Lindsay_10] Some male profiles emphasized certain masculine
 qualities that were less traditional; presenting a new more polished
 modern man who was in touch with certain aspects of his own
-femininity.[^17_Lindsay_10] Yet, the men’s profiles did not abandon all tradition
+femininity.[^17_Lindsay_10] Yet, the men's profiles did not abandon all tradition
 and certain qualities, especially work and the ability to provide, were
-highlighted in the virtual self. Women’s profiles that were analyzed
+highlighted in the virtual self. Women's profiles that were analyzed
 also performed gender scripts to a degree; certain profiles mentioned
 sexuality but in an illusive way, in contrast the male profiles more
 explicitly talked about sex. Women online who were older than 40, and
@@ -13872,32 +13854,32 @@ that while individuals may show nuance, more often than not, familiar
 gender performances are used for constructing virtual selves.
 [^17_Lindsay_3],[^17_Lindsay_4],[^17_Lindsay_10],[^17_Lindsay_11]
 
-Contemporary dating relationships provide individuals’ an opportunity to
+Contemporary dating relationships provide individuals' an opportunity to
 personally define relationship needs and seek partners according to
 these needs.[^17_Lindsay_12] Previous research documents that the combination of
 casual and loosely defined relationships, with the onset of online
 dating and personal advertisements in print newspapers, lead to a dating
 industry. [^17_Lindsay_13] The dating industry helps people become objects or
-products within the dating space, “Science and commerce are entwined in
+products within the dating space, "Science and commerce are entwined in
 the relationship-scientific endeavors of these \[online dating\]
-organizations.”[^17_Lindsay_13] Before online dating began men and women would use
+organizations."[^17_Lindsay_13] Before online dating began men and women would use
 print advertisements to market themselves in order to entice other
-singles.[^17_Lindsay_14] In Jagger’s content analysis of dating newspaper
+singles.[^17_Lindsay_14] In Jagger's content analysis of dating newspaper
 advertisements she concludes this is consumerism at work, and to be
 marketable as a dater one many daters relied on mentioning their
 physical attractiveness and likability.[^17_Lindsay_14] In the conclusion Jagger
 describes how gender performances remain present, but are being
 redefined based on new masculinities and femininities.[^17_Lindsay_14] Daters must
 present themselves as attractive products, and identify a target
-market.[^17_Lindsay_14] In an experiment by Yang and Chiou, adolescents’ were asked
+market.[^17_Lindsay_14] In an experiment by Yang and Chiou, adolescents' were asked
 to select dating preferences off a checklist; then the participants were
 given an opportunity to scroll through potential dates online. The
 results demonstrated that the more options available, the more young
 people would become distracted and abandon their original
 preferences.[^17_Lindsay_15] The medium of online advertisements could potentially
-influence daters’ rational dating process, making it increasingly
+influence daters' rational dating process, making it increasingly
 difficult to stand out among other daters. Based on previous online
-dating literature many individuals’ perform heterosexual gendered
+dating literature many individuals' perform heterosexual gendered
 scripts, potentially to attract a target audience. Using autoethnography
 to describe the online dating experience from the perspective of the
 dater I will discuss at length how I navigated these
@@ -13906,35 +13888,35 @@ spaces.[^17_Lindsay_3],[^17_Lindsay_4],[^17_Lindsay_9],[^17_Lindsay_10],[^17_Lin
 ## Methodology
 
 The analyses and information offered in this auto-ethnography are based
-on my experiences as an online dater as interpreted using Foucault’s
+on my experiences as an online dater as interpreted using Foucault's
 discourse analysis theory. [^17_Lindsay_16] Foucault describes how large
 institutions create predefined roles, and members of the institution
 select a role they associate with while a member of the institution.
-Thus, the “institution” defines the roles in order to maintain a
+Thus, the "institution" defines the roles in order to maintain a
 position of power over individuals, yet those individuals believe they
 are creating a unique and individual representation of themselves.[^17_Lindsay_17]
-Applying Foucault’s theory, I will attempt to determine if users can
-create an individual and complex identity within the sponsoring site’s
-structure. I will focus particularly on whether a site’s pedagogy
-inhibits individuals’ from establishing a nuanced gender identity by
+Applying Foucault's theory, I will attempt to determine if users can
+create an individual and complex identity within the sponsoring site's
+structure. I will focus particularly on whether a site's pedagogy
+inhibits individuals' from establishing a nuanced gender identity by
 limiting their responses to an abstract assortment of predetermined
 roles.
 
 During the first phase of the discourse analysis, I will analyze the
-content of the websites based on the “site of the image” as well as the
-“textual materials, both visual and written.” [^17_Lindsay_16] Although it may seem
+content of the websites based on the "site of the image" as well as the
+"textual materials, both visual and written." [^17_Lindsay_16] Although it may seem
 that using one technique or methodology may offer a clearer
 understanding, the complexity of the sites requires using both methods.
 When setting up a dating profile, there are specific templates provided
 for users to create a unique dating profile. I will examine these
 templates to determine what the site defines as necessary dating
 information. This examination will be useful in identifying how the
-website shapes a user’s dating experience and how gender roles are
-integrated into the site’s structure. The visual context and culture of
-the Internet is different than traditional media; “users of the Internet
+website shapes a user's dating experience and how gender roles are
+integrated into the site's structure. The visual context and culture of
+the Internet is different than traditional media; "users of the Internet
 collaboratively produce digital images of the body – very particular
 things for very particular uses – in the context of racial and gender
-identity formation”.[^17_Lindsay_18] This analysis will demonstrate how my
+identity formation".[^17_Lindsay_18] This analysis will demonstrate how my
 individual experience was a constant interplay between the institution
 of commercial dating sites and user-created material.[^17_Lindsay_4] It will detail
 how web designers create the choices that its users may select to
@@ -13943,7 +13925,7 @@ between user and creator sets Internet studies apart from traditional
 media studies.[^17_Lindsay_18]
 
 The second portion of the discourse analysis will seek to explain how
-“the institution\[s\] put\[s\] images to work,” and the dating site
+"the institution\[s\] put\[s\] images to work," and the dating site
 users hold up the websites expectations. [^17_Lindsay_16] Images are a powerful way
 to promote a message. An institution can promote certain types of images
 to present an idea to its members. In this way, the site is used to
@@ -13964,38 +13946,38 @@ encounters with potential partners.
 Lastly, throughout this paper I plan to use reflexivity. In discussion
 of the relevance of previous research findings, I will analyze my
 experiences participating in online dating. Previous research describes
-what reflexivity is and why we may use it: “The ability of humans to
+what reflexivity is and why we may use it: "The ability of humans to
 reflect (on the past and the future) has a long intellectual history and
 heritage growing out of Enlightenment belief in the ability of (wo)man
 to reason in a reasonable manner about his(her) fate, impact the future,
-and transcend the present”[^17_Lindsay_20] In order to demonstrate how the sites
+and transcend the present"[^17_Lindsay_20] In order to demonstrate how the sites
 interact with the users, I will discuss my dating experience using both
 Okcupid, and Match.com. The use of ethnographic methods in virtual
-worlds is useful because it can “explore beliefs and practices within
-and between cultures, linking together materials…“[^17_Lindsay_9]
+worlds is useful because it can "explore beliefs and practices within
+and between cultures, linking together materials…"[^17_Lindsay_9]
 
-I did receive approval from my institution’s IRB before creating a faux
+I did receive approval from my institution's IRB before creating a faux
 profile to make observations about how Match.com and Okcupid operates
-and communicates with members. My “research profile” informed users I
+and communicates with members. My "research profile" informed users I
 was observing the site and encouraged users to contact me if they had
 questions or concerns. No users contacted my research profile. I then
 decided to research the site as a consumer of its product instead of
-making inferences about other individuals’ experiences. The examples
+making inferences about other individuals' experiences. The examples
 given are based on my experiences. Ethnography methods commonly present
-“key critical cases, incidents, stories, or events to illustrate
-patterns”[^17_Lindsay_9]. The description is intended to resonate the cultural
+"key critical cases, incidents, stories, or events to illustrate
+patterns"[^17_Lindsay_9]. The description is intended to resonate the cultural
 experience of online dating rather than give a factual accounting of
-individual behaviors.[^17_Lindsay_7],[^17_Lindsay_8] “We must take into consideration possible
+individual behaviors.[^17_Lindsay_7],[^17_Lindsay_8] "We must take into consideration possible
 harm or embarrassment that can be brought about through romantic,
-sexual, and intimate activities.” [^17_Lindsay_9] While I considered doing
-interviews and providing information from others’ profiles as part of
+sexual, and intimate activities." [^17_Lindsay_9] While I considered doing
+interviews and providing information from others' profiles as part of
 the data within the paper, this practice seemed deceptive since I knew
 during the early phases of my research that I was on both sites as a
 researcher and as a dater. For this reason, specific examples are
 fictionalized to protect the privacy of other daters with whom I had
 interactions. This protection is two fold; first, I intend to reshape
 certain phrases and words so that in an era of search engines no other
-daters’ information could be directly linked back to them. Secondly, I
+daters' information could be directly linked back to them. Secondly, I
 believe most interactions unfolded as a sincere and honest attempt to
 reach out to me as a dater and not as a researcher. To unveil these
 potentially intimate moments word-for-word felt like a breach of ethics
@@ -14019,8 +14001,8 @@ reminding me to check, update, and attend to my profile. The faux
 research profile I had created received several notifications; between
 March 27th and May 9th, the site generated 68 emails, an average of two
 per day, encouraging my participation even though I rarely logged in and
-no other daters had contacted me. The emails suggested “potential
-matches” and encouraged me to contact them. Love, it seemed, was
+no other daters had contacted me. The emails suggested "potential
+matches" and encouraged me to contact them. Love, it seemed, was
 available only for the most active users. But the constant suggestion to
 look more, click more, and send more messages is dangerous. Men may feel
 justified in unwanted pursuit, and women, who are traditionally
@@ -14036,7 +14018,7 @@ men still have an expectation of making first contact. When engaging in
 a site specifically designed to (re)create dating opportunities, I felt
 it necessary to craft an image that was at least moderately compliant
 with gender norms. Match.com, knowing prevailing cultural dating
-practices, was “offering available norms for the act of recognition.”
+practices, was "offering available norms for the act of recognition."
 [^17_Lindsay_21] Match.com never stated explicitly on the website when a wink
 should be used, but a mediating flirt option seems to be a convenient
 way for women to indicate interest without seeming aggressive. People
@@ -14055,20 +14037,20 @@ enough in my picture to click to my page. Every time I logged into these
 sites, it was difficult not to view these numbers as a report of my
 success. During my youth, I can recount numerous occasions where young
 men described how they ranked women. The woman became an object in this
-rating game, an exercise in who deserves a man’s attention. The higher
+rating game, an exercise in who deserves a man's attention. The higher
 the number, the more desirable she was considered. In the 11th grade,
-Shane told me that on a scale of one to ten, I was a “six” because I
-wore my hair short, and my chest was too small. My anxiety about “low
-numbers” was fostered from an awareness that my ability to find a
+Shane told me that on a scale of one to ten, I was a "six" because I
+wore my hair short, and my chest was too small. My anxiety about "low
+numbers" was fostered from an awareness that my ability to find a
 partner was hinging on my ability to compete with other women, and
 again, here was my score right in front of me. According to the site,
 this is how the world of dating goes for everybody. As stated upfront in
-one Okcupid.com blog, “we all know that beautiful people are more
-successful daters”[^17_Lindsay_22] However, different from men, women at a much
+one Okcupid.com blog, "we all know that beautiful people are more
+successful daters"[^17_Lindsay_22] However, different from men, women at a much
 earlier age internalize the messages that their inherent value to other
 people comes first from their attractiveness and their ability to secure
 a partner.[^17_Lindsay_23] Men do have to compete based on looks; yet just based on
-the use of women’s modeling photo’s or professional pictures as their
+the use of women's modeling photo's or professional pictures as their
 dating profile icon, my impression was their pressure did not come with
 the same intensity.
 
@@ -14089,14 +14071,14 @@ person.
 ## Marketing Tools
 
 Both Match.com and Okcupid.com provided information that instructed
-daters on different ways to present themselves. Match.com has an “advice
-center” that gives direction on how to write the perfect first email,
+daters on different ways to present themselves. Match.com has an "advice
+center" that gives direction on how to write the perfect first email,
 pick out the perfect outfit, be sensual on the first date, and win
 anyone over. To illustrate, according to Match.com, to write the perfect
 email: 1) keep it simple, 2) be honest, 3) mention something specific
-from the person’s profile, 4) let your voice come through, 5) have fun
+from the person's profile, 4) let your voice come through, 5) have fun
 with the format, and 6) check your spelling. However, daters should not:
-1) focus on your match’s looks, 2) go on and on via email, 3) ask too
+1) focus on your match's looks, 2) go on and on via email, 3) ask too
 many questions, 4) use edgy humor, 5) send multiple users the same
 message, or 6) rely on sexual innuendo. Essentially the site attempts to
 teach people to be polite and avoid taking risks. According to online
@@ -14107,47 +14089,47 @@ off-putting characteristics so that potentially more users could relate
 to you.
 
 Match.com also promotes certain dating behaviors with its online
-magazine, “Happen.” [^17_Lindsay_24] Just as it is stated in the slogan, “because
-love doesn’t come with instructions,” is telling, The magazine includes
+magazine, "Happen." [^17_Lindsay_24] Just as it is stated in the slogan, "because
+love doesn't come with instructions," is telling, The magazine includes
 articles such as:
 
--   “8 things that make women crave sex”
+-   "8 things that make women crave sex"
 
--   “Dating when you are a parent”
+-   "Dating when you are a parent"
 
--   “6 bad traits that make him a good partner”
+-   "6 bad traits that make him a good partner"
 
--   “7 text messages that scare men off”
+-   "7 text messages that scare men off"
 
--   “Women’s 5 biggest dating lies”
+-   "Women's 5 biggest dating lies"
 
 The magazine reinforced the notion that there were limitless
 opportunities for a social connection, and if I failed at love, I must
-have done something wrong. As another example, in the article “Women’s 5
-biggest dating lies,” women are berated for having low self-esteem.
-“Sure, it’s normal to have a few negative thoughts (which Ahlers\[life
-couch\] refers to as “Big Fat Lies”) while you’re dating, but what’s not
+have done something wrong. As another example, in the article "Women's 5
+biggest dating lies," women are berated for having low self-esteem.
+"Sure, it's normal to have a few negative thoughts (which Ahlers\[life
+couch\] refers to as "Big Fat Lies") while you're dating, but what's not
 OK is allowing that mindset to prevent you from finding real, true love.
 According to the online life coach, women should simply stop any
 negative self-talk because it prevents us from dating.[^17_Lindsay_25] The article
 never mentions where self-doubt comes from, or how consumerism and
 gendered scripts being reiterated through the site may contribute to
 feelings of inadequacy. The article asks women to question their inner
-critic (e.g., “too fat compared to whom?”). Additionally, the article
-never addresses the website’s role of mediating the dating space.
+critic (e.g., "too fat compared to whom?"). Additionally, the article
+never addresses the website's role of mediating the dating space.
 Instead, all responsibility for success or failure was squarely placed
 on my shoulders. It seems Match.com perpetuated an overarching message:
 love is for all people, and if you market your online profile just
 right, you too can find love.
 
 Okcupid.com matches potential daters according to test results. The site
-informs users that it will “do the math” as you look for a partner.
+informs users that it will "do the math" as you look for a partner.
 Additionally, Okcupid.com offers many blog entries where general trends
 are presented as info-graphics, charts, and quantified information. At
 the bottom of the homepage, the OkTrends section reports on a number of
-topics, similar to Match.com’s online magazine.[^17_Lindsay_26]The content is
-comparable; “Don’t be ugly by accident,” and “Exactly what to say in a
-first message” instruct users on what tone to use when writing and how
+topics, similar to Match.com's online magazine.[^17_Lindsay_26]The content is
+comparable; "Don't be ugly by accident," and "Exactly what to say in a
+first message" instruct users on what tone to use when writing and how
 to pick the best image for their profile picture. Okcupid.com attempts
 to use a casual, humorous tone, which suggests their willingness to help
 a user find whatever they are looking for at the moment. For example,
@@ -14165,8 +14147,8 @@ it can match you based on science, which implies love is based on a
 formula or algorithm. If the users have a successful relationship, it
 supports the rhetoric; love is logic. Historically, relying on math,
 abstract logic, and traditional sciences has been categorized as male in
-nature and superior to female ways of knowing. [^17_Lindsay_27] Okcupid.com’s
-discourse has a subtle but powerful implication; don’t rely on your
+nature and superior to female ways of knowing. [^17_Lindsay_27] Okcupid.com's
+discourse has a subtle but powerful implication; don't rely on your
 intuition or heart. Use logic, science, and authority for best results
 during online dating.
 
@@ -14174,14 +14156,14 @@ An interesting feature found only on Okcupid.com is the use of
 crowdsourcing. As previously mentioned, site members can upload their
 own tests to the website, giving other daters an opportunity to measure
 features not covered by the tests offered on the site. Users can also
-submit photos to “My Best Face,” a program that allows daters to rate
-the attractiveness of other users’ photographs. Crowdsourcing acts, such
+submit photos to "My Best Face," a program that allows daters to rate
+the attractiveness of other users' photographs. Crowdsourcing acts, such
 as My Best Face, are a perfect example of how online dating can
 construct online spaces in conjunction with the designers. [^17_Lindsay_19]
 Previously, researchers have demonstrated how commercial images are so
-common place in our day-to-day lives, that often times individuals’
+common place in our day-to-day lives, that often times individuals'
 mimic or recreate the images on their one. [^17_Lindsay_28]Despite the opportunity
-for freedom of expression, users’ ranking patterns matched those images
+for freedom of expression, users' ranking patterns matched those images
 which are typically considered commercially attractive.[^17_Lindsay_28] Recently,
 WIRED magazine was given permission by Okcupid.com and Match.com to use
 their data and determine, on average, what attracts daters. For
@@ -14194,12 +14176,12 @@ through the site as well as broader society; each individual profile
 actively shapes and conforms to the culture.[^17_Lindsay_19] Men and women seem to
 rely on the social context of the site to define gender roles and
 self-presentation. This includes the visual culture, and that culture
-still promotes the idea that a woman’s ultimate value is in her
+still promotes the idea that a woman's ultimate value is in her
 looks.[^17_Lindsay_28] Match.com and Okcupid.com subtly promote bodies as
 advertisements. A reoccurring advertisement on my page was for Weight
 Watchers. The ad featured a petite blonde and, given my recent
 understanding that my looks mattered most, suggested to me the idea that
-“thin” is a desirable attribute. The message seemed clear. Consumer
+"thin" is a desirable attribute. The message seemed clear. Consumer
 culture emphasizes thin, small, docile bodies as a representation of
 true femininity.[^17_Lindsay_28] Many men and women wanted a model like date, and in
 order to find love, I should look like one, or so I was told.
@@ -14220,18 +14202,18 @@ fresh marketing approach, and even though the environment has changed,
 your appearance is still a strong (perhaps the strongest) indicator of
 your chances for love.
 
--   “1 in 5 relationships start online. And more of them start at Match
-    than any other site.”
+-   "1 in 5 relationships start online. And more of them start at Match
+    than any other site."
 
--   “Find Love. Guaranteed.”
+-   "Find Love. Guaranteed."
 
--   “Your interests change, so should your profile.”
+-   "Your interests change, so should your profile."
 
--   “Attract 15x more attention. Add a photo.”
+-   "Attract 15x more attention. Add a photo."
 
 Regarding performativity, the act of gender is not a role, it is a
-series of acts. [^17_Lindsay_6] Thus, if the site or its users’ minimizes the
-importance of a woman’s career, other users may begin to minimize their
+series of acts. [^17_Lindsay_6] Thus, if the site or its users' minimizes the
+importance of a woman's career, other users may begin to minimize their
 career to remain an acceptable woman based on the standards of the
 site.[^17_Lindsay_6] Since the site, and users who maintain the culture within the
 site, strongly emphasize physical attractiveness, than the users are
@@ -14264,38 +14246,38 @@ advantages, being young and white are both highly competitive in online
 dating space.[^17_Lindsay_31] Would taking advantage of certain selling points,
 attract the type of person I would really want to be with?
 
-I reviewed other females’ profile to decide how I wanted to portray
+I reviewed other females' profile to decide how I wanted to portray
 myself. Just like real or offline dating, to some degree I would be
 competing with other women, or at the very least our online
 presentations would be compared.[^17_Lindsay_32] Some of the content I saw was
 worth mimicking; such as offering a practical reason using the site i.e.
 moving to a new city. Other portrayals seemed so cliché that they failed
 to provide any sense of the person outside of their ability to perform
-gender. Usernames like “ms.cherrypie” or “bubbleycutie” made me wonder
+gender. Usernames like "ms.cherrypie" or "bubbleycutie" made me wonder
 if these women chose youthful personas intentionally, or were these
 women just doing what was needed in order to compete for attention in
-the dating market? Other usernames hyper-sexualized a woman’s persona
-such as “pullmyhair” or “bombasticblondie” or “vampirehottie”. There was
+the dating market? Other usernames hyper-sexualized a woman's persona
+such as "pullmyhair" or "bombasticblondie" or "vampirehottie". There was
 a wide range of usernames, but culture is influenced by these extreme
 presentations of womanhood. I was having a hard time feelings like an
 individual when some of the women seemed to be presenting identities
 that positively reinforced the acting out of gendered scripts.[^17_Lindsay_6],[^17_Lindsay_11] I
 chose an androgynous username, mlindsa3, because neutrality felt safer
-than having every email message start with the line, ‘Hello naughty4you’
-or ‘Hi sweety14’.
+than having every email message start with the line, 'Hello naughty4you'
+or 'Hi sweety14'.
 
 Another interest I had was related to the way in which women presented
 careers, ambitions and goals.Match.com has an online dating community
 where individuals presented traditional gender scripts such as
 traditional pursuit or heteronormative family roles. Arguments made for
-the “naturalness” of gendered identities are based in the perceived need
+the "naturalness" of gendered identities are based in the perceived need
 for society to create a proper family unit.[^17_Lindsay_6] Women in their
 childbearing years are expected to publicly display and justify their
 choices for reproduction.[^17_Lindsay_6],[^17_Lindsay_11] While not scientific, I tallied the
 education preferences of fifty men and fifty women and noticed a telling
 pattern. Men and women tended to emphasize traditional gender roles
 within the structure of the family. For example, men commonly listed
-their education but had no preference for their partner’s education.[^17_Lindsay_10]
+their education but had no preference for their partner's education.[^17_Lindsay_10]
 Yet, women commonly preferred a partner with a higher education.[^17_Lindsay_10] I
 began to wonder if my commitment to higher education was a disposable
 quality to men, or at least something I should be clear would not
@@ -14307,8 +14289,8 @@ present themselves as the breadwinner, and women emphasized their
 qualities as a homemaker. [^17_Lindsay_1],[^17_Lindsay_10],[^17_Lindsay_11]
 
 My opening paragraph needed to be interesting and authentic but somehow
-stand out among many profiles. “Reciprocity takes the form of
-self-promotion. Culture is to become precisely nothing but advertising.”
+stand out among many profiles. "Reciprocity takes the form of
+self-promotion. Culture is to become precisely nothing but advertising."
 [^17_Lindsay_33] I wondered if it was better to be cute or smart. Was there room in
 the online dating world to be both? I consider my stubbornness,
 independence, out-spoken nature, logic, and sarcastic sense of humor my
@@ -14325,7 +14307,7 @@ to be vague about some things such as my career plans and my love of
 politics. Acting cute appeared the best way to get noticed. Here is what
 I posted:
 
-“I just moved to Phoenix this year. I am doing grad school here and I
+"I just moved to Phoenix this year. I am doing grad school here and I
 really love it so far. I am pretty ambitious about career goals and
 decided in the new year I should be more social. I have some old fashion
 values about family, but overall I would say I am a pretty modern woman.
@@ -14337,21 +14319,19 @@ I can be very sarcastic and argue at times, but I am very much a people
 person and I enjoy socializing. If you are looking for a girl who will
 follow, that isn't me- eek sorry. I am very interested in making
 friends, and don't mind a more casual get together. I only date people
-who really stand out to me.”
+who really stand out to me."
 
 The problem of presenting a feminist self is not a unique problem:
 
-> “To count as a girl today appears to require this kind of ritualistic
+> "To count as a girl today appears to require this kind of ritualistic
 > denunciation, which in turn suggests that one strategy in the
 > disempowering of feminism includes it being historicised and
-> generationalised and thus easily rendered out of date.”
->
-> McRobbie (2007) (p. 258)
+> generationalised and thus easily rendered out of date."[17_Lindsay_5]
 
 An online persona has the potential for self-expression, at the time I
 felt it was necessary to qualify my own behavior and minimize certain
 characteristics. When retrospectively analyzing my own content I felt
-some shock and embarrassment. In my attempt to follow the “norms”, I
+some shock and embarrassment. In my attempt to follow the "norms", I
 found myself apologizing for my strengths. I wanted to present a strong
 feminist identity but feared the stereotypes that would be unnecessarily
 placed on me. Personality traits, which may be authentic, can be
@@ -14360,33 +14340,33 @@ to reduce my complicated essence to something simpler, an
 advertisement…a potential date.
 
 I had other opportunities to present my persona to potential dates. I
-could check off interests from the site’s predetermined checklist. I had
-numerous options, such as reading, hiking, working out, travel, “hot”
+could check off interests from the site's predetermined checklist. I had
+numerous options, such as reading, hiking, working out, travel, "hot"
 spots, and other options for first date topics. I quickly learned that
 the topics were broad enough to match me with almost anyone. Certain
 leisure activities and consumer behaviors nearly all members were
 included.[^17_Lindsay_14] For example, I can assume nearly all men are interested in
 weight lifting because that always came up as a common interest. This
-simplification of people is dangerous because, “…that reduction of life
+simplification of people is dangerous because, "…that reduction of life
 is what gets broadcasted between friends \[daters\] all the time. What
 is communicated between people eventually becomes their truth.
-Relationships take on the trouble of software engineering”. [^17_Lindsay_33]
+Relationships take on the trouble of software engineering". [^17_Lindsay_33]
 Reducing ones self means that other daters viewing your profile are
 relying on limited information, largely based on consumer behaviors, and
-have no way of knowing how important a person’s interest is based on a
+have no way of knowing how important a person's interest is based on a
 checkmark.[^17_Lindsay_14] The checklist is left open for interpretation, and if a
 woman selects an activity, her identity is decided for her by that
 checkmark.
 
-For example, a user might “like” dancing. I chose this category because
+For example, a user might "like" dancing. I chose this category because
 I was a dance instructor and still enjoy attending classes occasionally.
 However, this could easily be construed as dancing in nightclubs, which
 I also enjoy, but does not accurately represent what I meant when I
-selected “dancing.” Further, dancing and nightclubs and are typically
-associated with “bad girl behavior.” Thus, reduction to a category
-brings with it the performativity of other woman’s behaviors and
+selected "dancing." Further, dancing and nightclubs and are typically
+associated with "bad girl behavior." Thus, reduction to a category
+brings with it the performativity of other woman's behaviors and
 choices, now on the dating site, and throughout history. [^17_Lindsay_6] The
-selection of “dancing” or any other behavior becomes redefined by the
+selection of "dancing" or any other behavior becomes redefined by the
 male reader and conformed to his assumptions about women who enjoy
 dancing. Interestingly, after my experience on Match.com I decided that
 for Okcupid I would I only post a picture. I did not include a bio or
@@ -14426,58 +14406,58 @@ continue in this space. However, just as in the offline world, women are
 supposed to be flattered and intrigued by all offers. [^17_Lindsay_6]
 
 The first example is a fabricated account based on a real email exchange
-between myself and a potential suitor: “You know, you look better as a
-brunette.” At first I could not figure out why would a complete stranger
+between myself and a potential suitor: "You know, you look better as a
+brunette." At first I could not figure out why would a complete stranger
 felt compelled to critique me without ever having spoken any other words
-to me? My initial thought was, “Who does he think he is?!” I replied, “I
-don’t ask or take advice from complete strangers.” Within minutes I got
-another reply. “Wow. I was just trying to be helpful. No wonder you are
-single— you cunt.” The majority of the I met online did not make such
-bold moves. However, I couldn’t help but wonder if the rejection he felt
+to me? My initial thought was, "Who does he think he is?!" I replied, "I
+don't ask or take advice from complete strangers." Within minutes I got
+another reply. "Wow. I was just trying to be helpful. No wonder you are
+single— you cunt." The majority of the I met online did not make such
+bold moves. However, I couldn't help but wonder if the rejection he felt
 was enhanced because in an online space people are supposed to treat one
 another as products. And especially, myself as a female dater should
 have been grateful and receptive to his feedback as a consumer.
 
-By emphasizing traffic, the site clouds users’ judgments about the
+By emphasizing traffic, the site clouds users' judgments about the
 purpose of online dating. The site teaches users to value consumption by
 measuring success as the number of views your profile receives, and in
-the age of hook-up culture I wonder if people don’t see this endless
+the age of hook-up culture I wonder if people don't see this endless
 pool of daters as a means of shuffling different partners in and out
 with efficiency. The second example I offer is a fabricated version of a
 very common text conversation I had with many daters.
 
-Suitor: “Hey, whats up?”
+Suitor: "Hey, whats up?"
 
-Me: “Hi, not much, how are you? This is Mike, right?”
+Me: "Hi, not much, how are you? This is Mike, right?"
 
-Suitor: “Yeah, it’s Mike. I’m good.”
+Suitor: "Yeah, it's Mike. I'm good."
 
-Me: “Sweet. So what are you up to?”
+Me: "Sweet. So what are you up to?"
 
-Suitor: “Nothing really, just watching TV relaxing a little bit.”
+Suitor: "Nothing really, just watching TV relaxing a little bit."
 
-Me: “Nice.”
+Me: "Nice."
 
-Suitor: “Wanna send me a pic?”
+Suitor: "Wanna send me a pic?"
 
-Me: “No thanks, I don’t really do that.”
+Me: "No thanks, I don't really do that."
 
-Suitor: “You don’t have to take your clothes off! Lol.”
+Suitor: "You don't have to take your clothes off! Lol."
 
-Me: “Oh I know, I just don’t really like send pics to people I have
-never met. Lol. I know it might seem strange, but I just don’t do that.”
+Me: "Oh I know, I just don't really like send pics to people I have
+never met. Lol. I know it might seem strange, but I just don't do that."
 
-Suitor: “Oh common, why not? You must be trying to hide something.”
+Suitor: "Oh common, why not? You must be trying to hide something."
 
-Me: “Lol, nope. I just feel weird sending an image or picture of myself
-to a complete stranger. Its always been my policy. Don’t worry!”
+Me: "Lol, nope. I just feel weird sending an image or picture of myself
+to a complete stranger. Its always been my policy. Don't worry!"
 
-Suitor: “So you really won’t send one at all?”
+Suitor: "So you really won't send one at all?"
 
-Me: “No, nothing personal.”
+Me: "No, nothing personal."
 
-Suitor: “K. I’m not sure if I want to meet up then, unless you will send
-the picture.”
+Suitor: "K. I'm not sure if I want to meet up then, unless you will send
+the picture."
 
 As previously discussed there is great emphasis on attractiveness. The
 more you are viewed, the better your chances, and the more gender
@@ -14509,15 +14489,15 @@ would often discuss quickly, even before actually meeting me, topics of
 sexuality and physical intimacy. Here is an example of a fabricated
 conversation with a man met online, but not in person.
 
-Suitor: “Hi there beautiful. How have you been?”
+Suitor: "Hi there beautiful. How have you been?"
 
-Me: “Good, how are you doing?”
+Me: "Good, how are you doing?"
 
-Suitor: “I’m great, just kinda lonely.”
+Suitor: "I'm great, just kinda lonely."
 
-Me: “Lol, oh yeah? You are lonely?”
+Me: "Lol, oh yeah? You are lonely?"
 
-Suitor: “Ok, well I’m actually horny. Ha. Wanna hang out?”
+Suitor: "Ok, well I'm actually horny. Ha. Wanna hang out?"
 
 Research is still developing theories and hypotheses around intimacy the
 perceived meaning, influences, and changes brought on through new
@@ -14532,10 +14512,10 @@ perceived, especially text messaging and direct messaging through chat,
 could evoke feelings of intimacy that lead to conversation about sex
 more quickly. The topic is certainly a part of contemporary dating
 experiences, and sexual practices within relationships could be
-influenced by online dating culture. “In online life, the pace of
+influenced by online dating culture. "In online life, the pace of
 relationships speeds up. One quickly moves from infatuation to
 disillusionment and back. And the moment one grows even slightly bored,
-there is easy access to someone new”[^17_Lindsay_35] People already use online space
+there is easy access to someone new"[^17_Lindsay_35] People already use online space
 to find casual sex, but in the near future I wonder how as users we will
 keep casual sexual networks separate from dating relationship networks.
 In my own experience the boundaries between these two spaces is already
@@ -14577,44 +14557,44 @@ Method, Princeton: Princeton University Press, 2012.
 Bordo, Susan. Unbearable Weight: Feminism, Western culture, and the
 Body, Berkley: University of California Press, 1993.
 
-Butler, Judith. ‘Performative Acts and Gender Constitution: An Essay in
-Phenomenology and Feminist Theory’, Theatre Journal, Washington, D.C.,
+Butler, Judith. 'Performative Acts and Gender Constitution: An Essay in
+Phenomenology and Feminist Theory', Theatre Journal, Washington, D.C.,
 40, (1988): 519-531.
 
 \_\_\_\_\_\_. Giving an Account of Oneself, Fordham University Press,
 2005.
 
-Ellison, Nicole B., Jeffrey T. Hancock, and Catalina L. Toma. ‘Profile
+Ellison, Nicole B., Jeffrey T. Hancock, and Catalina L. Toma. 'Profile
 as Promise: A Framework for Conceptualizing Veracity in Online Dating
-Self-Presentations’, New Media & Society 14 (2012): 45-62.
+Self-Presentations', New Media & Society 14 (2012): 45-62.
 
-Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. ‘Managing
+Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. 'Managing
 Impressions Online: Self- Presentation Processes in the Online Dating
-Environment’, Journal of Computer Mediated Communication, 11 (2006):
+Environment', Journal of Computer Mediated Communication, 11 (2006):
 415-441.
 
-Frohlick, Susan, and Paula Migliardi. ‘Heterosexual Profiling: Online
-Dating and ‘Becoming’ Heterosexualities for Women Aged 30 and Older in
-the Digital Era’, Australian Feminist Studies 26.67 (2010): 73-88.
+Frohlick, Susan, and Paula Migliardi. 'Heterosexual Profiling: Online
+Dating and 'Becoming' Heterosexualities for Women Aged 30 and Older in
+the Digital Era', Australian Feminist Studies 26.67 (2010): 73-88.
 
-Fuchs, Christian. ‘The Internet as Self-organizing Socio-technological
-Systems’, Cybernetics and Human Knowing 3 (2004): 57-88.
+Fuchs, Christian. 'The Internet as Self-organizing Socio-technological
+Systems', Cybernetics and Human Knowing 3 (2004): 57-88.
 
-Fullick, Melonie. ‘ “Gendering” the Self in Online Dating Discourse’,
+Fullick, Melonie. ' "Gendering" the Self in Online Dating Discourse',
 Canadian Journal of Communication 38.4 (2013): 545-562.
 
-Hardey, Michael. ‘Mediated Relationships’, Information, Communication &
+Hardey, Michael. 'Mediated Relationships', Information, Communication &
 Society, 7 (2004): 207-222.
 
 Happen Magazine, <http://www.match.com/magazine/>.
 
-Hill, Sarah E., and Kristina M. Durante. ‘Courtship, Competition, and
+Hill, Sarah E., and Kristina M. Durante. 'Courtship, Competition, and
 the Pursuit of Attractiveness: Mating Goals Facilitate Health-related
-Risk Taking and Strategic Risk Suppression in Women’, Personality and
+Risk Taking and Strategic Risk Suppression in Women', Personality and
 Social Psychology Bulletin 37.3 (2011): 383-394.
 
-Jagger, Elizabeth. ‘Marketing the Self, Buying an Other: Dating in a
-Post Modern, Consumer Society’, Sociology 32.4 (1998): 795-814.
+Jagger, Elizabeth. 'Marketing the Self, Buying an Other: Dating in a
+Post Modern, Consumer Society', Sociology 32.4 (1998): 795-814.
 
 Kaplan, Chelsea.
 <http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/>.
@@ -14623,25 +14603,25 @@ Lanier, Jaron. You are not a Gadget: A Manifesto, Vintage Press, New
 York: 2010.
 
 Mahalik, James R., Elisabeth B. Morray, Aimée Coonerty-Femiano, Larry H.
-Ludlow, Suzanne M. Slattery, and Andrew Smiler. ‘Development of the
-conformity to feminine norms inventory’, Sex Roles 52 (2005): 417-435.
+Ludlow, Suzanne M. Slattery, and Andrew Smiler. 'Development of the
+conformity to feminine norms inventory', Sex Roles 52 (2005): 417-435.
 
-Manning, Wendy. D., Longmore, M. A., and Giordano, P. C. ‘The Changing
-Institution of Marriage: Adolescents’ Expectations to Cohabit and to
-Marry’, Journal of Marriage and Family 69.3 (2007): 559-575.
+Manning, Wendy. D., Longmore, M. A., and Giordano, P. C. 'The Changing
+Institution of Marriage: Adolescents' Expectations to Cohabit and to
+Marry', Journal of Marriage and Family 69.3 (2007): 559-575.
 
 Mario Tronti, ʻThe Strategy of Refusalʼ, trans. Red Notes, in Sylvère
 Lotringer and Christian Marazzi (eds) Italy: Autonomia, Post­Political
 Politics, New York: Semiotext(e), 1980, pp. 28­35.
 
-Markham, Annette. ‘Ethic as Method, Method as Ethic: A Case for
-Reflexivity in Qualitative ICT Research’, Journal of Information Ethics
+Markham, Annette. 'Ethic as Method, Method as Ethic: A Case for
+Reflexivity in Qualitative ICT Research', Journal of Information Ethics
 15 (2006): 37-54.
 
-\_\_\_\_\_\_. ‘Fabrication as Ethical Practice’, Information,
+\_\_\_\_\_\_. 'Fabrication as Ethical Practice', Information,
 Communication & Society 15 (2012): 334-353.
 
-McRobbie, Angela. ‘Post-feminism and Popular Culture’, Feminist Media
+McRobbie, Angela. 'Post-feminism and Popular Culture', Feminist Media
 Studies 4 (2004): 255-264.
 
 Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet,
@@ -14655,16 +14635,16 @@ Okcupid trends: <http://blog.okcupid.com/>.
 Oktrends,
 <http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/>.
 
-Pillow, Wanda. ‘Confession, Catharsis, or Cure? Rethinking the Uses of
-Reflexivity as Methodological Power in Qualitative Research’,
+Pillow, Wanda. 'Confession, Catharsis, or Cure? Rethinking the Uses of
+Reflexivity as Methodological Power in Qualitative Research',
 International Journal of Qualitative Studies in Education 16.2 (2003):
 175-196.
 
 Roper, Caitlin.
 <http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/>.
 
-Roscoe, Philip, and Shiona Chillas. ‘The State of Affairs: Critical
-Performativity and the Online Dating Industry,’ Organization (2013):
+Roscoe, Philip, and Shiona Chillas. 'The State of Affairs: Critical
+Performativity and the Online Dating Industry,' Organization (2013):
 1-24. <http://org.sagepub.com/content/early/2013/05/01/1350508413485497>.
 
 Rose, Gillian. Visual Methodologies: An Introduction to Researching with
@@ -14677,39 +14657,39 @@ Internet & American Life Project. 21 October 2013,
 Turkle, Sherry. Alone Together: Why We Expect More from Technology and
 Less from Each Other, Yew York: Basic Books, 2011.
 
-Walther, Joseph. B. ‘Computer-mediated Communication Impersonal,
-Interpersonal, and Hyperpersonal Interaction’, Communication Research
+Walther, Joseph. B. 'Computer-mediated Communication Impersonal,
+Interpersonal, and Hyperpersonal Interaction', Communication Research
 23.1 (1996): 3-43.
 
-Yang, Mu-Li, and Wen-Bin Chiou. ‘Looking Online for the Best Romantic
+Yang, Mu-Li, and Wen-Bin Chiou. 'Looking Online for the Best Romantic
 Partner Reduces Decision Quality: The Moderating Role of Choice-making
-Strategies’, Cyberpsychology, Behavior, and Social Networking 3.2
+Strategies', Cyberpsychology, Behavior, and Social Networking 3.2
 (2010): 207-210.
 
 [^17_Lindsay_1]: Smith, Aaron, and Maeve Duggan.Online Dating & Relationships. Pew
     Internet & American Life Project. 21 October 2013,
     <http://www.pewinternet.org/Reports/2013/Online-Dating.aspx>.
 
-[^17_Lindsay_2]: Michael Hardey, ‘Mediated relationships’, Information,
+[^17_Lindsay_2]: Michael Hardey, 'Mediated relationships', Information,
     Communication & Society, 11, 2004.
 
-[^17_Lindsay_3]: Nicole B Ellison et al. ‘Profile as Promise: A Framework for
-    Conceptualizing Veracity in Online Dating Self Presentations’, New
+[^17_Lindsay_3]: Nicole B Ellison et al. 'Profile as Promise: A Framework for
+    Conceptualizing Veracity in Online Dating Self Presentations', New
     Media & Society. 2012.
 
-[^17_Lindsay_4]: Nicole B Ellison et al. ‘Managing impressions online:
-    Self-presentation processes in the online dating environment’,
+[^17_Lindsay_4]: Nicole B Ellison et al. 'Managing impressions online:
+    Self-presentation processes in the online dating environment',
     Journal of Computer Mediated Communication, 2006.
 
-[^17_Lindsay_5]: Angela McRobbie ‘Post‐feminism and popular culture.’ Feminist
+[^17_Lindsay_5]: Angela McRobbie 'Post‐feminism and popular culture.' Feminist
     Media Studies, 2004.
 
-[^17_Lindsay_6]: Judith Butler, ‘Performative Acts and Gender Constitution: An
-    Essay in Phenomenology and Feminist Theory’, Theatre Journal (1988):
+[^17_Lindsay_6]: Judith Butler, 'Performative Acts and Gender Constitution: An
+    Essay in Phenomenology and Feminist Theory', Theatre Journal (1988):
     519-531.
 
-[^17_Lindsay_7]: Annette Markham, ‘Ethic as Method, Method as Ethic: A Case for
-    Reflexivity in Qualitative ICT Research’, Journal of
+[^17_Lindsay_7]: Annette Markham, 'Ethic as Method, Method as Ethic: A Case for
+    Reflexivity in Qualitative ICT Research', Journal of
     Information Ethics. 2006.
 
 [^17_Lindsay_8]: Annette Markham. "Fabrication as ethical practice: Qualitative
@@ -14720,57 +14700,56 @@ Strategies’, Cyberpsychology, Behavior, and Social Networking 3.2
     (2012). *Ethnography and virtual worlds: A handbook of method*.
     Princeton University Press.
 
-[^17_Lindsay_10]: Melonie Fullick, ‘’Gendering’ the Self in Online Dating
-    Discourse,’ Canadian Journal of Communication, 2013.
+[^17_Lindsay_10]: Melonie Fullick, ''Gendering' the Self in Online Dating
+    Discourse,' Canadian Journal of Communication, 2013.
 
-[^17_Lindsay_11]: Susan Frohlick, and Paula Migliardi ‘Heterosexual Profiling:
-    Online Dating and ‘Becoming’ Heterosexualities for Women Aged 30 and
-    Older in the Digital Era’ Australian Feminist Studies, 2010.
+[^17_Lindsay_11]: Susan Frohlick, and Paula Migliardi 'Heterosexual Profiling:
+    Online Dating and 'Becoming' Heterosexualities for Women Aged 30 and
+    Older in the Digital Era' Australian Feminist Studies, 2010.
 
-[^17_Lindsay_12]: Wendy Manning et al., ‘The Changing Institution of Marriage:
-    Adolescents’ Expectations to Cohabit and to Marry’, Journal of
+[^17_Lindsay_12]: Wendy Manning et al., 'The Changing Institution of Marriage:
+    Adolescents' Expectations to Cohabit and to Marry', Journal of
     Marriage and Family, 2007.
 
-[^17_Lindsay_13]: Phillip Roscoe and Shiona Chillas, ‘The State of Affairs:
-    Critical Performativity and the Online Dating Industry’,
+[^17_Lindsay_13]: Phillip Roscoe and Shiona Chillas, 'The State of Affairs:
+    Critical Performativity and the Online Dating Industry',
     Organization, 2013.
     <http://org.sagepub.com/content/early/2013/05/01/1350508413485497>.
 
-[^17_Lindsay_14]: Elizabeth Jagger, ‘Marketing the Self, Buying an Other: Dating in
-    a Post Modern, Consumer Society’, Sociology, 1998.
+[^17_Lindsay_14]: Elizabeth Jagger, 'Marketing the Self, Buying an Other: Dating in
+    a Post Modern, Consumer Society', Sociology, 1998.
 
-[^17_Lindsay_15]: Mu-Li Yang and When-Bin Chiou, ‘Looking Online for the Best
+[^17_Lindsay_15]: Mu-Li Yang and When-Bin Chiou, 'Looking Online for the Best
     Romantic Partner Reduces Decision Quality: The Moderating Role of
-    Choice-making Strategies’, Cyberpsychology, Behavior, and Social
+    Choice-making Strategies', Cyberpsychology, Behavior, and Social
     Networking, 2010.
 
 [^17_Lindsay_16]: For more on this theory, see Gillian Rose, Visual Methodologies:
     An Introduction to Researching with Visual Materials, Sage
     Publications Limited, 2011.
 
-[^17_Lindsay_17]: Scott Yates and David Hiles, ‘Towards a “Critical Ontology of
-    Ourselves”? Foucault, Subjectivity and Discourse Analysis’, Theory &
-    Psychology, 2010.
+[^17_Lindsay_17]: Scott Yates and David Hiles, 'Towards a "Critical Ontology of
+    Ourselves"? Foucault, Subjectivity and Discourse Analysis', *Theory &
+    Psychology*, 2010.
 
 [^17_Lindsay_18]: Lisa Nakumara, Digitizing Race: Visual Cultures of the Internet,
     Minneapolis: University of Minnesota Press, 2008.
 
-[^17_Lindsay_19]: Christian Fuchs, ‘The Internet as Self-organizing
-    Aocio-technological Systems’, Cybernetics and Human Knowing, 2004.
+[^17_Lindsay_19]: Christian Fuchs, 'The Internet as Self-organizing
+    Aocio-technological Systems', Cybernetics and Human Knowing, 2004.
 
-[^17_Lindsay_20]: Wanada Pillow, ‘Confession, Catharsis, or Cure? Rethinking the
+[^17_Lindsay_20]: Wanada Pillow, 'Confession, Catharsis, or Cure? Rethinking the
     Uses of Reflexivity as Methodological Power in Qualitative
-    Research’, International Journal of Qualitative Studies in
+    Research', International Journal of Qualitative Studies in
     Education, 2003.
 
 [^17_Lindsay_21]: Judith Butler, Giving an Account of Oneself, Fordham University
     Press, 2005. p. 22.
 
-[^17_Lindsay_22]: Okcupid,
-    <http://blog.okcupid.com/index.php/your-looks-and-online-dating/>.
+[^17_Lindsay_22]: Okcupid, <http://blog.okcupid.com/index.php/your-looks-and-online-dating/>.
 
-[^17_Lindsay_23]: James Mahalik, et al. ‘Development of the Conformity to Feminine
-    Norms Inventory’, Sex Roles, 2005.
+[^17_Lindsay_23]: James Mahalik, et al. 'Development of the Conformity to Feminine
+    Norms Inventory', Sex Roles, 2005.
 
 [^17_Lindsay_24]: Happen Magazine,
     <http://www.match.com/magazine/>.
@@ -14790,28 +14769,28 @@ Strategies’, Cyberpsychology, Behavior, and Social Networking 3.2
 [^17_Lindsay_29]: Caitlin Roper,
     <http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/>.
 
-[^17_Lindsay_30]: Amber McRobbie, ‘Post‐feminism and Popular Culture’, Feminist
-    Media Studies, 2004.
+[^17_Lindsay_30]: Amber McRobbie, 'Post‐feminism and Popular Culture', *Feminist
+    Media Studies*, 2004.
 
 [^17_Lindsay_31]: Oktrends,
     <http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/>.
 
-[^17_Lindsay_32]: Sara Hill et al., ‘Courtship, Competition, and the Pursuit of
+[^17_Lindsay_32]: Sara Hill et al., 'Courtship, Competition, and the Pursuit of
     Attractiveness: Mating Goals Facilitate Health-related Risk Taking
-    and Strategic Risk Suppression in Women’, Personality and Social
-    Psychology Bulletin, 2011.
+    and Strategic Risk Suppression in Women', *Personality and Social
+    Psychology Bulletin*, 2011.
 
-[^17_Lindsay_33]: Jaron Lanier Lanier, J. You are not a Gadget: A Manifesto,
+[^17_Lindsay_33]: Jaron Lanier, *You are not a Gadget: A Manifesto*,
     Vintage Press, New York: 2010.
 
-[^17_Lindsay_34]: Joseph Walther, ‘Computer-mediated Communication Impersonal,
-    Interpersonal, and Hyperpersonal Interaction’, Communication
+[^17_Lindsay_34]: Joseph Walther, 'Computer-mediated Communication Impersonal,
+    Interpersonal, and Hyperpersonal Interaction', Communication
     Research 23.1 (1996): 3-43.
 
 [^17_Lindsay_35]: Sherry Turkle, Alone Together: Why We Expect More from Technology
     and Less from Each Other, Yew York: Basic Books, 2011.
 
-# Media’s Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium
+# Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium
 
 ### Enver Ozustun
 
@@ -14862,35 +14841,35 @@ that have long screen time. Leading audience to complain about the
 omnipresence of the marriage shows in every channel they watch.
 
 While this is the strategic point in the high ratings of marriage shows,
-we should not skip the audience’s interest. Values that form the
+we should not skip the audience's interest. Values that form the
 traditional structure of Turkish society are still largely a taboo and
 have an untouchable status. Everything related with marriage is a
 curious subject in Turkish society. To put it short, these shows contain
-interesting elements worthy of audiences’ attention.
+interesting elements worthy of audiences' attention.
 
 In conclusion, networks are being managed in a way that keep their
 audience interested to a delicate subject by utilizing their affiliated
-networks’ advertisement power and it’s capabilities.
+networks' advertisement power and it's capabilities.
 
-While the power of media can be debated, let’s open a parenthesis; it is
-power originates from its ability to present “things” to its audience.
-This “power” shapes around 2 aspects. First one is “choosing” and the
-second is “presenting as you like”. Roles of the television and other
+While the power of media can be debated, let's open a parenthesis; it is
+power originates from its ability to present "things" to its audience.
+This "power" shapes around 2 aspects. First one is "choosing" and the
+second is "presenting as you like". Roles of the television and other
 mass communication methods are being increasingly questioned as society
 begins to examine the ethics of how this power is being wielded.
 
 Ratings of programs being broadcasted on television have an important
 aspect in the public relations with the media, investment in its
 infrastructures and its perceived cultural value. As the government
-monopoly of the mass media declined after Turkey’s moved towards free
+monopoly of the mass media declined after Turkey's moved towards free
 market economy, the notion that a public service is being performed by
 television broadcasters declined, while they began to be solely
 perceived as a commercial entity. These changes shaped the contents of
 broadcasts. Higher ratings results in increased advertisement of the
 shows; popular shows get more screen time for higher ratings, leading to
 a positive feedback loop. As Korkmaz Alemdar and İrfan Erdoğan puts it,
-“Popular culture is not a consumption. It is the active building and
-distribution of meanings and pleasures in the social system”. [^18_TVshows-ozustun-Final_1]
+"Popular culture is not a consumption. It is the active building and
+distribution of meanings and pleasures in the social system". [^18_TVshows-ozustun-Final_1]
 
 On top of the dubious economic relationship between political powers and
 media bosses, controversy have arisen on the heavy influence of the
@@ -14912,7 +14891,7 @@ effect on society or not and how successful they are, we should ponder
 about impact of televisions.
 
 Rather than assessing the direct impact marriage shows broadcasted on
-Turkish television has on it’s audience or it’s indirect impact on
+Turkish television has on it's audience or it's indirect impact on
 society, this study aims to figure out the purpose of these shows. In
 order to do this, a wider perspective is needed.
 
@@ -14928,14 +14907,12 @@ it was prepared under for these heavily criticized shows on the
 headlines listed below.
 
 -Neo-Liberal Order and Social Engineering
-
 -Marriage in the Structure of Turkish Society
-
 -Mass Communication Devices, Media and Its Effects
 
-## 1- ABOUT MICROSTRUCTURE/MACROSTRUCTURE 
+## ABOUT MICROSTRUCTURE/MACROSTRUCTURE 
 
-### 1.1 Neo-Liberal Order and Social Engineering
+### Neo-Liberal Order and Social Engineering
 
 People in Anatolia, usually dubbed as Turks, are traditional and
 sentimental. Neo-liberal policies imposed after the military coup in
@@ -14944,13 +14921,13 @@ interesting case study for sociologists.
 
 The magnitude of changes, which had occurred were large enough to spark
 off conspiracy theories. A change that traditional Turkish-Islamic
-structure and Anatolia’s multi-cultural nature left marks on its
+structure and Anatolia's multi-cultural nature left marks on its
 culture. It was a period where spiritual values got replaced with
 material values.
 
 Foundations of this change had been set with a strikingly hasty manner
 with pro-liberal Anavatan Partisi (ANAP) coming to power shortly after
-1982. Following governments didn’t see any hindrances building up their
+1982. Following governments didn't see any hindrances building up their
 policies upon this understanding. The most important aspect of the era
 was the social construct, subjected to change by the force of the newly
 created free market economy. Closed and financially self-sustained
@@ -14958,7 +14935,7 @@ construct left its place to a relatively pro-liberty and a market where
 capitals roam freely.
 
 While liberal policies created the middle class and designed to continue
-it’s existence, middle class was trying to make easy profit. Through
+it's existence, middle class was trying to make easy profit. Through
 privatization of public properties, mining rights, civil construction
 industry and projects; a socio-economic imbalance was created. No longer
 was social status to be measured with education or ethics, it was now
@@ -14972,28 +14949,28 @@ socio-economic and political state, if we were to discuss how much of
 these were natural and how much of these were results of those policies
 with the data we have.
 
-It wouldn’t be unrealistic to say all this strategic undertaking was for
-the reconstruction of the country’s political environment and social
+It wouldn't be unrealistic to say all this strategic undertaking was for
+the reconstruction of the country's political environment and social
 construct. Without a shadow of a doubt, there was a big effort to create
 a country that was prepared for the new socio-economic and political
 landscape. Here, we have the chance to observe and study a large-scale
 usage of social engineering, a term that we hear often.
 
 Social engineering is described as a job that can manipulate the
-identity of the society, it’s social texture and control it’s reactions,
+identity of the society, it's social texture and control it's reactions,
 desires, passions and hatred.
 
 Social engineering can be done by other professions with the help of
 financial support, communication and various other assistances. Also
 local supporters are produced. Like Tunç Sipahi emphasized on, cultural
 codes being inherited from family and learned from social circles
-doesn’t change the fact that they are produced. ‘Consent’ is produced
-and masses are established in order to achieve transition of ‘power’ to
+doesn't change the fact that they are produced. 'Consent' is produced
+and masses are established in order to achieve transition of 'power' to
 them.
 
 In this context, neo-liberal system could not ignore a tool such as the
 mass media considering it used all its resources towards that goal. In
-the first half of 1990’s, private stations started broadcasting without
+the first half of 1990's, private stations started broadcasting without
 any government license; in fact, the governments of that period had
 preferred to turned a blind eye and at times, even supported the illegal
 broadcasts, meant the missing part of social engineering was starting to
@@ -15010,33 +14987,33 @@ shows, if we think about how much social support is needed for an
 understanding that supports conservatism in social life and free market
 in economy.
 
-“Marriage Shows” are another product of this lower quality circle.
+"Marriage Shows" are another product of this lower quality circle.
 However, before we move on to the contents of these shows, we should
 take a look at the institution of marriage in the typical Turkish family
 structure.
 
-### 1.2 Marriage in the Structure of Turkish Society
+### Marriage in the Structure of Turkish Society
 
 Anatolia, home to a mixture of cultural values, has a dominant Turkish
 identity in its geopolitical structure.
 
 In his book, *Türkçülüğün Esasları*, Ziya Gökalp, named the Turkish
-nation as “Not as a union of race, tribe, geography, politics or
+nation as "Not as a union of race, tribe, geography, politics or
 volition but as a community of people that received the same teachings
-of language, religion, ethics and sense of aesthetics”. Yusuf Akçura,
-did not use the word “race” as in the biological definition but as a
+of language, religion, ethics and sense of aesthetics". Yusuf Akçura,
+did not use the word "race" as in the biological definition but as a
 sense of culture, custom and a partnership of history.[^18_TVshows-ozustun-Final_2]
 
 Historian Karal [^18_TVshows-ozustun-Final_3], voiced his opinion in the foreword of Yusuf
-Akçura’s essay “Üç Tarz-ı Siyaset” with: “With the proposal of creating
+Akçura's essay "Üç Tarz-ı Siyaset" with: "With the proposal of creating
 a middle class, Yusuf Akçura had more influence on Turkish Revolutionary
-movement than Ziya Gökalp”.
+movement than Ziya Gökalp".
 
 Turkish Revolution, under the leadership of Mustafa Kemal Atatürk was
 founded on these principles; this gave people from different cultures in
 Anatolia with an official identity.
 
-Even with it’s many local properties, institution of marriage that has
+Even with it's many local properties, institution of marriage that has
 been built around this common understanding continues to this day.
 Although Turkish Revolution ensured many rights for women, the
 institution of marriage remained patriarchal.
@@ -15059,24 +15036,24 @@ institution of marriage. While conflicting with individualism, this
 institution founded on heterosexual values, transfers the conservative
 values to the next generation. This is the reason why political
 authorities support and defend the institution of marriage. If we
-evaluate marriage over Gramsci’s [^18_TVshows-ozustun-Final_4] hegemony concept, it would be
+evaluate marriage over Gramsci's [^18_TVshows-ozustun-Final_4] hegemony concept, it would be
 clear why the authorities are putting so much importance to this
 institution.
 
 So far, we have come up with a framework for generations we define as
-the middle age. With the parents’ power of influence over their
+the middle age. With the parents' power of influence over their
 children, we can safely assume that the framework we mentioned will have
 an effect on the next generation.
 
 In order to analyze young generations thoughts on life and marriage
-better, Nazmi Avcı’s “Toplumsal Değerler ve Gençlik“[^18_TVshows-ozustun-Final_5] study has much
+better, Nazmi Avcı's "Toplumsal Değerler ve Gençlik"[^18_TVshows-ozustun-Final_5] study has much
 to offer.
 
 This study has been made on young people receiving education in Süleyman
-Demirel University’s faculties and two-year programs in Isparta during
+Demirel University's faculties and two-year programs in Isparta during
 the years 2005 and 2006. Accordingly;
 
-Most important sense of value according to subjects’ native region:
+Most important sense of value according to subjects' native region:
 
 East-Southeast Anatolia: 48.4% a beautiful world, 46.6 percent having a
 place in heaven
@@ -15087,13 +15064,13 @@ Central Anatolia: 54% a beautiful world
 
 Mediterranean : 39.8% a beautiful world, 35.7% a comfortable life
 
-Subjects’ biggest desires
+Subjects' biggest desires
 
 Financial Independence : 44.9%
 
 To Have a Nice Family : 26.9%
 
-Note: 81% of female students differ from males’ by concentrating on
+Note: 81% of female students differ from males' by concentrating on
 expectations other than (house, car; being the first in every field;
 financial independence) having a nice family.
 
@@ -15117,7 +15094,7 @@ It is unnecessary : 21.4%
 It is necessary : 30.2%
 
 It is clear as the results of this study show that new generation has
-conflicted views on marriage. Youth’s biggest concern being uncertainty
+conflicted views on marriage. Youth's biggest concern being uncertainty
 in their future, they tend to steer for financial independence. With the
 current world order and liberal economy, building up a traditional
 family with what little money they earn seems impossible even without
@@ -15138,7 +15115,7 @@ As the mass media is one of these areas, looking at its attitude on this
 matter, will without a doubt give us a new perspective to comprehend the
 subject.
 
-### 1.3 Mass Communication Devices, Media and Its Effects
+### Mass Communication Devices, Media and Its Effects
 
 Debates about mass communication devices started in the 1920s, during
 the rise of popular press along with the cinema and radio. Many
@@ -15146,25 +15123,25 @@ empirical studies were conducted in the 1930s followed by other studies
 over the years.
 
 Lazarsfeld and Merton with their publications in 1948, Horkheimer and
-Adorno[^18_TVshows-ozustun-Final_6] with “ Dialectic of Enlightenment” in 1947, Marshall McLuhan
-from Canada with “Understanding Media” in 1964, F.R. Leavis often
-remembered from Leavivism from 1960’s United Kingdom, Stuart Hall after
-Raymond Williams with his published work “Communications” and French
+Adorno[^18_TVshows-ozustun-Final_6] with " Dialectic of Enlightenment" in 1947, Marshall McLuhan
+from Canada with "Understanding Media" in 1964, F.R. Leavis often
+remembered from Leavivism from 1960's United Kingdom, Stuart Hall after
+Raymond Williams with his published work "Communications" and French
 philosopher Jean Baudrillard on the other hand are the first names come
 to mind.
 
-These studies, containing quite different approaches to the media’s
-power and effect on an era’s social structure, tried to solve the
+These studies, containing quite different approaches to the media's
+power and effect on an era's social structure, tried to solve the
 relation between media and society like today.
 
 Neil Postman summarized the influence of television on its audience in
-his book[^18_TVshows-ozustun-Final_7]^2^ (Amusing Ourselves to Death, Public Discourse in the Age
-of Show Business) in these words; “Because there are better ways to
+his book[^18_TVshows-ozustun-Final_7] (Amusing Ourselves to Death, Public Discourse in the Age
+of Show Business) in these words; "Because there are better ways to
 learn the truth, they would have a healthier influence on cultures that
 adopt them. My actual aim is to convince you that the decline of an
 epistemology based on printed words with connection to the rise of an
 epistemology based on television causes serious results for public life,
-stupefying us more every passing minute.”
+stupefying us more every passing minute."
 
 Communication between individuals and industrial society changes the
 status of social-political structure profoundly, and because of this it
@@ -15177,21 +15154,21 @@ television for this reason.
 
 Producers who work in television aim to make the best of this
 invitation. To stay long in a place you have been invited, requiring
-knowledge of what the homeowner wants. We call this the ‘production
-approach’.
+knowledge of what the homeowner wants. We call this the 'production
+approach'.
 
 Production approach contains two elements: determining the content of
-program and its technique. These can be named as ‘Content Approach’ and
-‘Effect to Purpose Approach’.
+program and its technique. These can be named as 'Content Approach' and
+'Effect to Purpose Approach'.
 
-‘Content Approach’ is unique to public broadcasting and ignores the
+'Content Approach' is unique to public broadcasting and ignores the
 demand of audience. Producer turns the information received from experts
 to television shows, abiding television production principles. Purpose
 of this approach is to raise awareness among people about their basic
 rights and freedoms, therefore providing a better understanding of the
 world.
 
-‘Effect to Purpose Approach’ is unique to commercial broadcasting. It
+'Effect to Purpose Approach' is unique to commercial broadcasting. It
 dwells on how viewers will experience the message and what their
 reactions are going to be more than content. Producer creates the
 program while keeping the message in mind.
@@ -15207,9 +15184,9 @@ information, importance, values, reality, curiosity, innovation.
 Television programs are increasing their ratings through these codes,
 making them popular thus sustaining their visibility.
 
-Whether a television program’s has an economic, political, or
+Whether a television program's has an economic, political, or
 ideological agenda, increasing its ratings will always be one of the
-primary objectives. Higher the program’s ratings, the higher percentage
+primary objectives. Higher the program's ratings, the higher percentage
 of the population it reaches, this will enable its agenda to permeate
 into others people in the society, affecting much wider social and
 political areas. The goal is to create an area of effect, not to give
@@ -15221,17 +15198,17 @@ content of television programs.
 
 These are:
 
-1 - Cognitive demand: Viewers demand to receive information about the
+1. Cognitive demand: Viewers demand to receive information about the
 society they live in and around the world.
 
-2 - Looking for an escape: The desire of the people to look for an
+2. Looking for an escape: The desire of the people to look for an
 escape from the stress of their daily lives and to have a pleasant time.
 
-3- Identification Function: Viewers emphasizing on something from their
+3. Identification Function: Viewers emphasizing on something from their
 lives or status.
 
-This study is insufficient in the separation of the audience’s demands
-for present day. For what is information and what is entertainment isn’t
+This study is insufficient in the separation of the audience's demands
+for present day. For what is information and what is entertainment isn't
 so clear anymore as lines are blurred. Even worse, concepts switched
 places. Of course no concept is pure; and have practical transitive
 properties. However if these transitive properties start to keep
@@ -15241,11 +15218,11 @@ demands of ruling structure, even moving together with them. In order to
 do this, the bourgeois tend to use every mechanism they have to
 something other than its intended use.
 
-Based on the last sentence; let’s look at how marriage shows manage to
-invade so much broadcast time and our agenda even though they don’t have
+Based on the last sentence; let's look at how marriage shows manage to
+invade so much broadcast time and our agenda even though they don't have
 high ratings and an important presence in the advertisement revenues.
 
-## 2. MARRIAGE SHOWS ON TURKISH TELEVISION
+## MARRIAGE SHOWS ON TURKISH TELEVISION
 
 Instead of democratization of producing information and its spread, with
 the commercialization of media, we see that it has become easier to
@@ -15257,41 +15234,33 @@ Advertisement pie in Turkey is shared between a couple big media groups.
 As an example, only five television channels in Turkey hold the 68% of
 total revenues from advertisements since 2010. These are:
 
-Doğan Medya Grubu- Kanal D (24%)
+-Doğan Medya Grubu- Kanal D (24%)
+-Turkuvaz Medya-ATV (20%)
+-Doğan Medya Grubu-Star TV (9%)
+-Çukurova Grubu-Show TV(9%)
+-FOX (7%)
 
-Turkuvaz Medya-ATV (20%)
-
-Doğan Medya Grubu-Star TV (9%)
-
-Çukurova Grubu-Show TV(9%)
-
-FOX (7%)
-
-The most sought out advertisement period in television is ‘prime-time’
-when the viewer count is at it’s highest. Advertisement competition
+The most sought out advertisement period in television is 'prime-time'
+when the viewer count is at it's highest. Advertisement competition
 mostly occurs during this time period. According to this, we can assume
 shows broadcast during this period are the most preferred types by the
 viewers.
 
-Media Monitoring Center’s research in 2008 indicated domestic soap
+Media Monitoring Center's research in 2008 indicated domestic soap
 operas have an eye-catching dominance in genres that get the most
 advertisements.
 
 According to the research by İstanbul Chamber of Certified Public
 Accountants (İSMMMO) when we look at prime time and outside prime-time
 data, soap operas have 40 percent; news programs have 29 percent and
-women’s programs have 6 percent viewing rates. Revenues of soap operas
-broadcast on prime time and women’s programs broadcast outside prime
+women's programs have 6 percent viewing rates. Revenues of soap operas
+broadcast on prime time and women's programs broadcast outside prime
 time differ greatly. For example, 70 percent of advertising revenues of
-ATV in Turkey come from soap operas, while women’s shows are the closest
+ATV in Turkey come from soap operas, while women's shows are the closest
 contender with only 16 percent.
 
-Most important viewers of these shows are women. Purposes of women’s
+Most important viewers of these shows are women. Purposes of women's
 television usage shows proportional differences compared to males.
-
-> WHY DO YOU WATCH TELEVISION?
-
-DISTRIBUTION BY GENDER
 
   ------------------ ------------ ----------
                      **Female**   **Male**
@@ -15302,6 +15271,8 @@ DISTRIBUTION BY GENDER
   Total              100.0%       100.0%
   ------------------ ------------ ----------
 
+Why Do You Watch Television? (Distribution by Gender)
+
 As we can see in the statistics above, television is a source of
 entertainment for women, in addition to benefit the flow of
 news-information and education processes. So the line between
@@ -15311,15 +15282,15 @@ presents as information.
 
 While Turkish people got introduced to reality shows quite late, it is
 quite early for private television networks. Shortly after private
-networks started broadcasting, reality shows like “Biri Bizi
-Gözetliyor”(Big Brother), “Evcilik Oyunu”(Playing House),
-“Gelin-Kaynana”(Bride vs. Mother-in-law) launched and marriage shows of
+networks started broadcasting, reality shows like "Biri Bizi
+Gözetliyor"(Big Brother), "Evcilik Oyunu"(Playing House),
+"Gelin-Kaynana"(Bride vs. Mother-in-law) launched and marriage shows of
 today followed.
 
 First marriage show on private networks was a production presented by
-Ebru Akel named ‘…’. Successors followed such as “Evlen Benimle” (Marry
-Me) in ATV, “Ne Çıkarsa Bahtına” in Flash TV, “Su Gibi” in Fox TV,
-“Desti İzdivaç” in Star TV.
+Ebru Akel named '…'. Successors followed such as "Evlen Benimle" (Marry
+Me) in ATV, "Ne Çıkarsa Bahtına" in Flash TV, "Su Gibi" in Fox TV,
+"Desti İzdivaç" in Star TV.
 
 In conclusion, contrary to popular opinion, although marriage shows
 invade a wide period of time, they have low advertising revenues and
@@ -15331,26 +15302,26 @@ from these programs staying on air all week against all objections?
 Before we try to find an answer, we should take a look at which elements
 marriage shows are prepared with and what considerations they have.
 
-### 2.1 Sociological Analysis of the Shows
+### Sociological Analysis of the Shows
 
-For most of us marriage shows are “a waste of time”; however, it is a
+For most of us marriage shows are "a waste of time"; however, it is a
 great research opportunity for sociologists with its subject,
 participants and affairs around the marriage concept. Can these shows
-give us an idea about Turkish society’s approach to marriage?
+give us an idea about Turkish society's approach to marriage?
 
 Because of their participants, diversity and an open attendance, we have
 an important sample group. Still, would these data be enough for us to
 make correct observations? In the end we are talking about a television
-show. So, let’s write down the subjects below in order to make healthy
+show. So, let's write down the subjects below in order to make healthy
 observations and analysis.
 
 1.  Representative properties of the participants of the show, meaning
     their ability to represent their society.
 
-2.  Participants’ sincerity to show their true characters and
+2.  Participants' sincerity to show their true characters and
     identities.
 
-Let’s not forget that every television show has a design and every
+Let's not forget that every television show has a design and every
 design has a team working behind it. The purpose of this team is to
 introduce projects suited to network broadcasting policies with the goal
 of staying on air as long as possible with high ratings.
@@ -15377,12 +15348,12 @@ shows.
 2.  It contains an important part of characteristics of the women in its
     society. We can list these as; women seeing marriage as a salvation,
     having no financial freedom as the employment of women is
-    inadequate, feeling the need to go under someone else’s authority
+    inadequate, feeling the need to go under someone else's authority
     instead of being an individual, to have a chance to start a new life
     or even changing their social status.
 
 3.  In these shows, family establishment is encouraged with conservatism
-    instead of ‘sexual revolution’ that signals a new social order.
+    instead of 'sexual revolution' that signals a new social order.
     Prof. Dr. İsmail Hakki Ünal, member of Board of Religious Affairs,
     comments are supporting this claim by saying, that it is a good
     thing marriage shows are encouraging people to marry and create
@@ -15397,10 +15368,10 @@ shows.
     unwillingness to provide social security for women. Women see their
     husbands as a social security, not their jobs, skills or government.
     Women are encouraged to be employed by their husband by not working,
-    thus leaving them to their husband’s mercy.
+    thus leaving them to their husband's mercy.
 
 6.  Other than government, it is an important result that shows us how
-    inadequate these non-governmental organizations are about woman’s
+    inadequate these non-governmental organizations are about woman's
     rights. Apparently civil organizations have failed their duties, if
     we look at these shows.
 
@@ -15414,7 +15385,7 @@ shows.
     certain lines, thus standardizing family. While women search for a
     man that can take care of her and her kids, who will be good with
     her family and a husband that has to have a job and a house, while
-    the men’s look for a woman who is well manicured, tame and who can
+    the men's look for a woman who is well manicured, tame and who can
     look after his kids and housework even if she has a job. In short,
     television shows, display marriage as a shelter.
 
@@ -15428,18 +15399,18 @@ ensure its continuation. Television turns this into the accepted culture
 for masses, therefore creating a reference for the public to reproduce
 their own popular culture.
 
-On the other hand, show doesn’t ignore social changes while bringing the
+On the other hand, show doesn't ignore social changes while bringing the
 traditional values to the screen. These shows have women approaching
 men, asking questions and declining them. So, while they still hold
 traditional values, they also have more current values. While they
 increase their viewer base, they can take advantage of the conflict of
 romantic and reality and be the center of discussions.
 
-Now, let’s look at how marriage shows are adapted to television under
+Now, let's look at how marriage shows are adapted to television under
 the guidelines above. This adaptation contains the properties that make
 the show watched and debated in various parts of society.
 
-### 2.2 Components of the Show and Keeping Audience Interested
+### Components of the Show and Keeping Audience Interested
 
 There are two main components needed to make a show. One of these is the
 subject of the show, idea-product and the other is the suitors, meaning
@@ -15449,7 +15420,7 @@ Products of the show is the participants who wanted to marry someone,
 suitors is the audience watching curiously what is happening.
 
 Subject of the show is open to manipulation in every way. This
-accordance is a system that doesn’t require coercion. This is a system
+accordance is a system that doesn't require coercion. This is a system
 formed because of the desire people have, finding a suitable partner.
 Conflicts generated by this desire, carries an invaluable television
 material. If we add the fact that this process is much more conflicting
@@ -15457,7 +15428,7 @@ in conservative societies, we can say that social interest to this will
 be much more higher.
 
 On the other hand, even though finding a partner is a private matter, it
-doesn’t only concern you. There are always other relevant individuals.
+doesn't only concern you. There are always other relevant individuals.
 Like a stone dropped in water, ripples it generates will get bigger as
 you move forward; meaning, curiosity, excitement, interest, faith,
 desire, disappointment. Everyone who adds a feeling to this event will
@@ -15465,14 +15436,14 @@ witness this excitement, live it.
 
 Finding a partner stays as a topic until after getting married and
 having kids. So, that troubles in family, events and developments are
-followed with interest. If the relationship didn’t end in marriage,
+followed with interest. If the relationship didn't end in marriage,
 rumors will spread, until finding a new candidate.
 
 In short, source material itself is so powerful, variable and from life
 itself, only thing left to do is to make it suitable for television
 format.
 
-Second element is the suitors, which is the audience. Audience isn’t
+Second element is the suitors, which is the audience. Audience isn't
 only the witness to what they watch, they are also the intelligent
 participant of it. Situations, comments about people who are exposed to
 it, highly anticipated decisions, results of these decisions everything
@@ -15494,7 +15465,7 @@ the audience and couples by making right comments and giving good
 directions.
 
 Process is very simple and clear; a presenter represents authority and
-directs the whole thing. Participants are under presenter’s full control
+directs the whole thing. Participants are under presenter's full control
 and they bow down to it. This presenter-director represents the fair
 order.
 
@@ -15502,11 +15473,11 @@ Show also has lawyers, psychologists and sociologists. Instead of using
 their knowledge and information, these people prefer to hide behind
 their titles and talk big words. So, knowledge get sacrificed for
 ignorance once again. Here intuition is used instead of mind. While
-keeping in mind it’s target audience presenter tones simple words by
-fluctuating them, grabbing you; it’s like a friend came to visit you, a
+keeping in mind it's target audience presenter tones simple words by
+fluctuating them, grabbing you; it's like a friend came to visit you, a
 neighbor or even a close relative. There is also a hidden authority
-behind the presenter’s warm approach like; do me a wrong and you will
-pay for it. Presenter’s authority on the candidates and thoughts on them
+behind the presenter's warm approach like; do me a wrong and you will
+pay for it. Presenter's authority on the candidates and thoughts on them
 is a reason itself to watch the show.
 
 Orchestra plays appropriate music for the show and its audience,
@@ -15557,7 +15528,7 @@ women is just a gold-digger...
 When the base material is so rich and ready to put mental processes in
 motion, this game looks like it will stay on television for years to
 come. Television using its own narrative to recreate this process,
-reveals a colossal drama when its’ combined with the obligatory nature
+reveals a colossal drama when its' combined with the obligatory nature
 of marriage. For those who accept it… We are living in a reality, where
 an old social event shaped by traditional values is presented with its
 design on television.
@@ -15565,15 +15536,15 @@ design on television.
 So much so, life of what is real, switch places with what should be and
 stands before us as the true real. To put it briefly, our sense of
 reality gets re-established. If we push a bit harder, we are going to be
-able to believe a frog can turn into a prince when it’s kissed.
+able to believe a frog can turn into a prince when it's kissed.
 
-But the story doesn’t end here - it is just starting. How so?
+But the story doesn't end here - it is just starting. How so?
 
-## 3. CLAIMS
+## CLAIMS
 
 Readings made about television ratings, shows that women programs are
 watched around 6% mark. Whereas it has very striking figures on
-occupying society’s agenda. It becomes a topic in daily life
+occupying society's agenda. It becomes a topic in daily life
 conversations, gets written and argued about because of its participants
 or because of something they did on the show. Even commented by
 politicians.
@@ -15581,9 +15552,7 @@ politicians.
 Broadcasted marriage shows in Turkey get criticism especially for:
 
 -   For hurting the values of the marriage institution,
-
 -   Causing insecurity with participants,
-
 -   Taking up long screen times during daytime.
 
 Against all criticism, another matter we should stand on, Esra Erol
@@ -15593,7 +15562,7 @@ followers on her Facebook page.
 What this format appeals to, what it affects and exploits is rather
 obvious.
 
-The television producers’ job is to make money. Producing a show that is
+The television producers' job is to make money. Producing a show that is
 watched for 4 hours with little cost is a big achievement, even a
 victory, from a commercial perspective.
 
@@ -15609,18 +15578,18 @@ There are many examples of these with concrete evidence. Like some of
 the participants rumored to be seen as extras in soap operas quite
 often.
 
-Likewise, officials of Turkey’s first and only marriage agency said they
+Likewise, officials of Turkey's first and only marriage agency said they
 declined an offer from the producers requesting access to their
 portfolio.
 
-Even though every TV show is a design, it shouldn’t contradict with its
+Even though every TV show is a design, it shouldn't contradict with its
 claim. Marriage shows claim they set out from the attendance of real
-people planning their futures’, however there are rumors going around
+people planning their futures', however there are rumors going around
 contradicting that. There is a fiction here with every aspect of it.
 This fiction is aimed to keep these shows on air as long as possible.
 
-Serap Öztürk’s article has this to say about “Evlilik
-Programları/Show’ları” (Marriage Programs/Shows) “This staged show
+Serap Öztürk's article has this to say about "Evlilik
+Programları/Show'ları" (Marriage Programs/Shows) "This staged show
 receiving disapproval from the individuals of the society continues to
 be a point of interest. Comments from the audience and the experts of
 the fiction and nonfiction concept, adds life to the show. Life is the
@@ -15628,14 +15597,14 @@ experience of past things. It is possible to determine this clash of
 personal differences concept on screen is more damaging than any good.
 Is it impossible to understand the participants extra time to free time?
 To think staged scenes reflect the reality of life is the real
-inexperience.”[^18_TVshows-ozustun-Final_9]
+inexperience."[^18_TVshows-ozustun-Final_9]
 
 As this is the situation, we can say effort to maintain these program
 are not in line with their ratings and advertising revenues.
 
 ### Parallels Between the TV Show and Online Dating Sites in Turkey
 
-## 4. CONCLUSION
+## CONCLUSION
 
 In the beginning of the article we proposed that it is difficult to
 understand the subject of marriage shows without examining the topics,
@@ -15643,15 +15612,15 @@ institution of marriage in Turkish society, media influence and the
 restructuring of society.
 
 We will continue to have different results as long as new data, on the
-effect of media on society, is gathered. As ‘New Media’ enters the lives
+effect of media on society, is gathered. As 'New Media' enters the lives
 of younger people as a more decisive and an effective communication
 model this is especially true. However, it is an irrefutable fact that
-society’s mutual cultural values have a much higher priority to set its
+society's mutual cultural values have a much higher priority to set its
 own level of consciousness.
 
 As the understanding, thought, belief, tradition, cultural remains of
-old way of producing loses their dominance, they don’t go away and they
-haven’t.[^18_TVshows-ozustun-Final_10]
+old way of producing loses their dominance, they don't go away and they
+haven't.[^18_TVshows-ozustun-Final_10]
 
 Sovereign powers have many practical strategies for their own
 management, to gain the consent of people under their dominance. We call
@@ -15674,10 +15643,6 @@ of Turkish society.
 Results of the survey are very striking and contradictory to what is
 being claimed on television.
 
-> OPINIONS ABOUT THE PRESERVATION OF CULTURAL VALUES THAT CONSTITUTE THE
-> MUTUAL IDENTITY OF TURKISH SOCIETY IN TURKEY
-
-(WHICH OF THE TWO OPTIONS ARE CLOSER TO YOUR OPINIONS BELOW?)
 
   ------------------------------------------------------------------------------------------------------------ -------- ------------
                                                                                                                Number   Percentage
@@ -15687,16 +15652,13 @@ being claimed on television.
   Total                                                                                                        2727     %100
   ------------------------------------------------------------------------------------------------------------ -------- ------------
 
+Opinions About the Preservation of Cultural Values that Constitute the Mutual Identity of Turkish Society in Turkey (Which of the Two Options are Closer to Your Opinions Below?)
 Source : Seta, October 2011
 
 * While 91,3 percentage of the total subjects think cultural values that
 constitute the mutual identity of society in Turkey should be preserved,
 2,9 percentage think there is no need for it.
 
-> OPINIONS ABOUT THE PRESERVATION OF CULTURAL VALUES THAT CONSTITUTE THE
-> MUTUAL IDENTITY OF TURKISH SOCIETY IN TURKEY
->
-> (DISTRIBUTION BY LEVEL OF EDUCATION)
 
   ------------------------------------------------------------------------------------------------------------ ----------- -------------- ------------
                                                                                                                Low Level   Medium Level   High Level
@@ -15706,6 +15668,8 @@ constitute the mutual identity of society in Turkey should be preserved,
   Total                                                                                                        %100        %100           %100
   ------------------------------------------------------------------------------------------------------------ ----------- -------------- ------------
 
+
+Opinions About the Preservation of Cultural Values that Constitute the Mutual Identity of Turkish Society in Turkey (Distribution by Level of Education)
 Source : Seta, October 2011
 
 * While 90,6% of the participants who have low level education, think
@@ -15729,49 +15693,40 @@ gets more popular as the level of education increases.
 Again, from the same survey, it becomes clear that the Turkish people
 have a negative opinion about marriage shows.
 
-OPINIONS ABOUT THE EFFECTS OF MARRIAGE SHOWS ON FAMILY STRUCTURE AND
-MARITAL RELATIONSHIPS
-
-> (WHICH OF THE TWO OPTIONS ARE CLOSER TO YOUR OPINIONS BELOW?)
 
   ------------------------------------------------------------------------------------------------------------------ -------- ------------
                                                                                                                      Number   Percentage
   I think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.         2156     %79,1
-  I don’t think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.   395      %14,5
+  I don't think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.   395      %14,5
   No opinion.                                                                                                        177      %6,5
   Total.                                                                                                             2727     %100
   ------------------------------------------------------------------------------------------------------------------ -------- ------------
 
+Opinions About the Effects of Marriage Shows on Family Structure and Marital Relationships (Which of the Two Options are Closer to Your Opinions Below?)
 Source : Seta, October 2011
 
-OPINIONS ABOUT THE EFFECTS OF MARRIAGE SHOWS ON FAMILY STRUCTURE AND
-MARITAL RELATIONSHIPS
-
-> (DISTRIBUTION BY GENDER).
 
   ------------------------------------------------------------------------------------------------------------------ -------- -------
                                                                                                                      Female   Male
   I think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.         %76,7    %81,5
-  I don’t think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.   %15      %12,9
+  I don't think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.   %15      %12,9
   No opinion.                                                                                                        %7,3     %5,6
   Total.                                                                                                             2727     100,0
   ------------------------------------------------------------------------------------------------------------------ -------- -------
 
+Opinions About the Effects of Marriage Shows on Family Structure and Marital Relationships (Distribution by Gender)
 Source : Seta, October 2011
 
-OPINIONS ABOUT THE EFFECTS OF MARRIAGE SHOWS ON FAMILY STRUCTURE AND
-MARITAL RELATIONSHIPS
-
-> (DISTRIBUTION BY LEVEL OF EDUCATION)
 
   ------------------------------------------------------------------------------------------------------------------ ----------- -------------- ------------
                                                                                                                      Low Level   Medium Level   High Level
   I think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.         %77,5       %80,1          %88,8
-  I don’t think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.   %15,5       %13,2          %9,3
+  I don't think, marriage shows on TV has a negative effect on Turkish family structure and marital relationships.   %15,5       %13,2          %9,3
   No opinion.                                                                                                        %7,0        %6,7           %1,9
   Total.                                                                                                             %100        %100           %100
   ------------------------------------------------------------------------------------------------------------------ ----------- -------------- ------------
 
+Opinions About the Effects of Marriage Shows on Family Structure and Marital Relationships (Distribution by Level of Education)
 Source : Seta, October 2011
 
 • 77,5% of low level educated, 80,1% of medium level educated and 88,8%
@@ -15792,10 +15747,10 @@ correlation between higher education and awareness, that this percentage
 is very low.
 
 Expert Psychologist Çiğdem Demirsoy, gave a statement in Yeni Şafak
-newspaper about marriage shows claiming, “Perception and expectations
+newspaper about marriage shows claiming, "Perception and expectations
 about marriage are shaped by family and close social circles. That is
-why I don’t believe these shows have a direct impact on the institution
-of marriage and the establishment of family”. Therefore stating,
+why I don't believe these shows have a direct impact on the institution
+of marriage and the establishment of family". Therefore stating,
 marriage shows have no interest in claiming or presenting anything
 different about couples meeting and getting married.
 
@@ -15804,7 +15759,7 @@ them breaking the structure of society. It seems no one intends to
 change the definitive structure and the traditional rules of marriage,
 against these fears. Any sexual revolution that hints at a new form of
 social structure looks to be far away for now. Besides, softened corners
-of marriage with accordance to today’s conditions are far from the level
+of marriage with accordance to today's conditions are far from the level
 of fiction in marriage shows.
 
 Participants of these shows are thought to be uneducated, desperate,
@@ -15824,7 +15779,7 @@ Then, if we combine these together with the effort to put these shows on
 air, even with low advertisement revenues and ratings, same question
 emerges. What could be the reason for this effort?
 
-Answer of this question, should be given with the shows that couldn’t be
+Answer of this question, should be given with the shows that couldn't be
 broadcasted. How so? The real impact these shows have on society is to
 generate distrust. Real trust issue here, lies with the media imposing
 shows with questionable content to people instead of informing people to
@@ -15833,23 +15788,23 @@ media, which uses its resources to steal your time and ask for your
 money in return.
 
 Media, wants us to accept the featureless content by broadcasting shows
-that people wouldn’t request back and fade away from memory if they get
+that people wouldn't request back and fade away from memory if they get
 cancelled. However the no matter the age, gender and level of education,
-audience is well aware of everything; to not to trust “what should be
-trusted” is what is being tried to be created. In short, media wants us
-to become “things”.
+audience is well aware of everything; to not to trust "what should be
+trusted" is what is being tried to be created. In short, media wants us
+to become "things".
 
-As Terry Eagleton said, “Reification fragments and dislocates our social
+As Terry Eagleton said, "Reification fragments and dislocates our social
 experience, so that under its influence we forget that society is a
 collective process and come see it instead merely as this or that
-isolated object or institution”. [^18_TVshows-ozustun-Final_11]
+isolated object or institution". [^18_TVshows-ozustun-Final_11]
 
 While Turkish televisions reserve an important part of their broadcast
 hours to these hollow shows even though there is no demand, news
 programs are spreading disinformation, doing their part of the society
-engineering so to speak. In June’s great resistance, “Revolution will
-not be televised” slogan people wrote on walls shows the current state
-of Turkish television. Public couldn’t watch a big uprising from their
+engineering so to speak. In June's great resistance, "Revolution will
+not be televised" slogan people wrote on walls shows the current state
+of Turkish television. Public couldn't watch a big uprising from their
 television, CNN Türk showed a penguin documentary instead of
 broadcasting this big event. In the long run, marriage shows are doing
 what that penguin documentary did. What this policy has under it is the
@@ -15859,7 +15814,7 @@ is restored.
 The media tycoons know doing their responsibilities would make it
 difficult for the capitalist system to continue, so they put
 sensationalist shows on air, keeping people busy thus putting what
-shouldn’t be to the place of what should be. These shows are not the
+shouldn't be to the place of what should be. These shows are not the
 only option. Numbers indicate that these shows are not bringing revenues
 or ratings as they make it out to be.
 
@@ -15869,18 +15824,18 @@ and under the light of modernity. Every part of society actually knows
 the media and not their minds are stealing their time. Media is stubborn
 and determined to steal this time. The breaking point starts here; this
 point is the distrust, media causes by abusing their authority,
-demanding your time and money. Others will replace today’s marriage
+demanding your time and money. Others will replace today's marriage
 shows. It is a fully intentional policy of media to ignore the
 political, social and economic conflicts and follow a straight path.
 
-It is clear as day that people who watch these shows won’t set their
+It is clear as day that people who watch these shows won't set their
 future accordingly and take what is happening there as a reference and
 the media tycoons are aware of that. Yet the sociological implication
 the TV shows set for the type of atmosphere has also seeped into the
 online dating and marriage websites. The marriage websites are designed
 exactly like the programs; <http://www.evlilikmerkezi.com> states on its
-welcome page: “… our biggest advantage is that all our users are here to
-get married”. This statement was also uttered in the opening of almost
+welcome page: "… our biggest advantage is that all our users are here to
+get married". This statement was also uttered in the opening of almost
 all the TV shows.
 
 Another similarity of the TV shows with the marriage websites is the
@@ -15896,7 +15851,7 @@ according to the standards set by the marriage TV shows.
 
 ## REFERENCES
 
-Alemdar, Korkmaz-Erdoğan, İrfan, ‘Popüler Kültür ve İletişim’, Ankara,
+Alemdar, Korkmaz-Erdoğan, İrfan, 'Popüler Kültür ve İletişim', Ankara,
 Ümit Yayıncılık, 1994.
 
 Avcı, Nazmi. Toplumsal değerler ve Gençlik. Siyasal Kitabevi, 2007.
@@ -15910,25 +15865,23 @@ Gramsci, Antonio. *Prison Notebooks. Vol. 2*. Columbia: Columbia University Pres
 Horkheimer, Max, and Theodor W. Adorno. *Dialectic of enlightenment:
 Philosophical fragments*. Stanford: Stanford University Press, 2002.
 
-Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and
-gratifications research.’ *Public Opinion Quarterly* (1973): 509-523.
+Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. 'Uses and
+gratifications research.' *Public Opinion Quarterly* (1973): 509-523.
 
-Postman, Neil, *‘Televizyon: Öldüren Eğlence, Gösteri Çağında Kamusal
-Söylem’*, Osman Akınhay (trans.), İstanbul: Ayrıntı Yayınları, 1985, p.
+Postman, Neil, *'Televizyon: Öldüren Eğlence, Gösteri Çağında Kamusal
+Söylem'*, Osman Akınhay (trans.), İstanbul: Ayrıntı Yayınları, 1985, p.
 34.
 
-Yusuf Akçura, A. Kemal and A. Ferit. ‘Üç tarz-ı siyaset’ (Vol. 73). Türk
+Yusuf Akçura, A. Kemal and A. Ferit. 'Üç tarz-ı siyaset' (Vol. 73). Türk
 Tarih Kurumu Basımevi. 1976.
 
 Oncevatan. <http://www.oncevatan.com.tr/>.
 
-[^18_TVshows-ozustun-Final_1]: Alemdar, Korkmaz-Erdoğan, İrfan, ‘Popüler Kültür ve İletişim’,
-    Ankara, Ümit Yayıncılık, 1994, p.149.
+[^18_TVshows-ozustun-Final_1]: Alemdar, Korkmaz-Erdoğan, İrfan, 'Popüler Kültür ve İletişim', Ankara, Ümit Yayıncılık, 1994, p. 149.
 
-[^18_TVshows-ozustun-Final_2]: Yusuf Akçura, A. Kemal and A. Ferit. ‘Üç tarz-ı siyaset’ (Vol.
-    73). Türk Tarih Kurumu Basımevi. 1976.
+[^18_TVshows-ozustun-Final_2]: Yusuf Akçura, A. Kemal and A. Ferit. 'Üç tarz-ı siyaset' (Vol. 73). Türk Tarih Kurumu Basımevi. 1976.
 
-[^18_TVshows-ozustun-Final_3]: Ibid.
+[^18_TVshows-ozustun-Final_3]: Yusuf Akçura, A. Kemal and A. Ferit. 'Üç tarz-ı siyaset'.
 
 [^18_TVshows-ozustun-Final_4]: Gramsci, Antonio. Prison Notebooks. Vol. 2. Columbia University
     Press, 1996.
@@ -15940,16 +15893,16 @@ Oncevatan. <http://www.oncevatan.com.tr/>.
     enlightenment: Philosophical fragments. Stanford University Press,
     2002.
 
-[^18_TVshows-ozustun-Final_7]: Postman, Neil, ‘Televizyon: Öldüren Eğlence, Gösteri Çağında
-    Kamusal Söylem’, Osman Akınhay (trans.), İstanbul: Ayrıntı
+[^18_TVshows-ozustun-Final_7]: Postman, Neil, 'Televizyon: Öldüren Eğlence, Gösteri Çağında
+    Kamusal Söylem', Osman Akınhay (trans.), İstanbul: Ayrıntı
     Yayınları, 1985, p. 34
 
-[^18_TVshows-ozustun-Final_8]: Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and
-    gratifications research.’ Public opinion quarterly (1973): 509-523.
+[^18_TVshows-ozustun-Final_8]: Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. 'Uses and
+    gratifications research.' Public opinion quarterly (1973): 509-523.
 
 [^18_TVshows-ozustun-Final_9]: Oncevatan. <http://www.oncevatan.com.tr/>.
 
-[^18_TVshows-ozustun-Final_10]: Alemdar, Korkmaz-Erdoğan, İrfan, ‘Popüler Kültür ve İletişim’,
+[^18_TVshows-ozustun-Final_10]: Alemdar, Korkmaz-Erdoğan, İrfan, 'Popüler Kültür ve İletişim',
     Ankara, Ümit Yayıncılık, 1994, p. 263
 
 [^18_TVshows-ozustun-Final_11]: Eagleton, Terry, İdeoloji (Ideology; An Introduction) (Trans

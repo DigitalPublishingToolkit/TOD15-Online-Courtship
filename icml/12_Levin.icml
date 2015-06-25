@@ -482,10 +482,8 @@
     <Content>key and instrumentalities</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> associated with the atmosphere in which they partake.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+    <Content> associated with the atmosphere in which they partake. </Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>The eighth element</Content>
   </CharacterStyleRange>
