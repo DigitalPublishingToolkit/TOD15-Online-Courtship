@@ -33,8 +33,8 @@ text —writing on the screen— has radically altered the ontology of text
 as had existed before in the print cultures, by depriving it of its
 authoritative permanence, destabilizing it and making it dynamic,
 ever-changing, and temporal. Up until recently, because of a variety of
-technological limitations, this ‘instantaneousness’ remained confined to
-the exchange of this new kind of (electronic) ‘text’. Although digital
+technological limitations, this 'instantaneousness' remained confined to
+the exchange of this new kind of (electronic) 'text'. Although digital
 media platforms and networks had the potential to connect distant
 people, locations and events, not only textually but audio-visually as
 well, this potential has been limited by availability of access to the
@@ -47,25 +47,25 @@ This development has an obvious practical impact primarily on
 face-to-face communications: Skyping, using Facetime, and video chatting
 increasingly substitute or supplement face-to-face communications in
 general. However, the potential of webcam for one-to-many
-communications, as a ‘broadcasting’ device, is still neglected or
+communications, as a 'broadcasting' device, is still neglected or
 unfulfilled, and this is largely due to the economic logic of media
-industries rather than technological limitations. ‘Televisuality’—that
+industries rather than technological limitations. 'Televisuality'—that
 is, the immediate and live transmission of events, which has been the
 definitive power of TV - still remains under the monopoly of television
 networks. The emergence of the webcam as a technological form only
 marginally challenges the monopoly of television in defining social time
-and collective temporality. ‘Real-time,’ as a term that refers to a
-computer’s capacity to render image streams continuously while they are
+and collective temporality. 'Real-time,' as a term that refers to a
+computer's capacity to render image streams continuously while they are
 being displayed on the monitor (or, any other process in which the
 tangible results/effects of the process is simultaneously displayed),
 emerged with the introduction of digital media technologies to
 distinguish this new form of temporal immediacy from the latency of
-print cultures. Yet, the ‘real-time’ of social life in general
+print cultures. Yet, the 'real-time' of social life in general
 ironically remained associated with television. Television networks
 sustained their monopoly over the information regarding what is
 happening at that very moment. So far, except substituting face-to-face
 communications, the Internet has provided a vast archive of past
-‘moments’ of collectively experienced ‘real-time,’ in the form of
+'moments' of collectively experienced 'real-time,' in the form of
 digital video recordings, shared and made available online on YouTube,
 Vimeo or other social media networks. The instant availability of such a
 wide video archive had been a fascination in new media studies during
@@ -77,23 +77,23 @@ depths apart from the hegemonic time regimes constructed and sustained
 by television networks. What I am going to discuss in this article, live
 webcam sex channels, is one of these marginal instances in which online
 video challenges television in its own realm, and claims the rights over
-‘live-ness.’ I will argue that the ‘live-ness’ of the webcam constitutes
+'live-ness.' I will argue that the 'live-ness' of the webcam constitutes
 a new type of reality effect, which I will provisionally call
-‘realness.’ In the last part of the article, I will analyze a particular
+'realness.' In the last part of the article, I will analyze a particular
 interaction that occurs in Turkish live webcam sex channels as a result
 of such realness, in which feminine desire falls into confrontation with
 patriarchal moralism, which leads to a productive crisis that makes
 enjoyment impossible.
 
-## “I see, therefore I am”: The Ontology of Televisuality
+## "I See, Therefore I Am": The Ontology of Televisuality
 
 The ontology of the webcam is that of television on a minor scale; it
-possesses the same ‘live-ness’ and ‘immediacy.’ ‘Live-ness’ of the
+possesses the same 'live-ness' and 'immediacy.' 'Live-ness' of the
 televisual image, as pointed out by many media theorists from Raymond
 Williams to Mary Ann Doane, provides television with a unique potential
 for relating to the event it presents. In this respect, the televisual
-image has an ‘ontic’ condition, in Heidegger’s terms. Martin Heidegger
-used ‘ontic’ in reference to the undeniable existential quality of
+image has an 'ontic' condition, in Heidegger's terms. Martin Heidegger
+used 'ontic' in reference to the undeniable existential quality of
 being, of things and events, which surpass any ontological inquiry.[^16_Ozgun-Talking_2]
 We can inquire into how we perceive the outside world, how we gather our
 knowledge of things and events, but we cannot deny the existence of
@@ -102,18 +102,18 @@ Heidegger.
 
 The tense of the image, its perpetual reference to the present,
 distinguishes the iconic signifier of television from that of cinema and
-photograph. The ‘live-ness’ of the televisual image transfers the ontic
+photograph. The 'live-ness' of the televisual image transfers the ontic
 quality of the things and events it depicts to the screen they appear
 on; the televisual image thus possesses undeniable presence of the
 outside world it shows. We can always question how things and events are
 represented to us on the television screen; we can always associate
 particular instances of such representation with ideological
 constructions beyond epistemological questions; we can always remain
-doubtful about the “truth value” of these representations and question
+doubtful about the 'truth value' of these representations and question
 what is really happening there; but we can never deny that what
 television shows us does exist somewhere at that very moment. The
-“truth” of the televisual representation is primarily the event itself;
-that something happens at that very moment. “What happened, really?” is
+'truth' of the televisual representation is primarily the event itself;
+that something happens at that very moment. "What happened, really?" is
 a posterior concern.
 
 The webcam image claims the same ontic quality in a similar way; the
@@ -130,14 +130,14 @@ the world, somewhere that exists beyond our sight at that very moment.
 Against the hyper-realism of larger-than-life LCD billboards,
 multi-monitor TV walls, high-precision satellite imagery and HD
 projections on every facade, the tiny pixelated webcam image offered the
-realism of a ‘trace’ rather than a map, of a silhouette rather than a
+realism of a 'trace' rather than a map, of a silhouette rather than a
 portrait. The uncanny truth of the jerky video stream recalled a
-Vertovian dream amid the spectacle of high-tech visual media: ‘life as
-it is,’ at that very moment. What becomes clearly expressed in the
+Vertovian dream amid the spectacle of high-tech visual media: 'life as
+it is,' at that very moment. What becomes clearly expressed in the
 intensified eroticism of live webcam sex channels, in their seductive
 power, as I will try to explain below, is this temporal reference—the
 extended sight that simply registers what exists there at that moment,
-beyond any question regarding its ‘representation.’
+beyond any question regarding its 'representation.'
 
 After the proliferation of bandwidth and camera equipped computers, a
 17-year-old Russian high school student, Andrey Ternovsky, cultivated
@@ -147,25 +147,25 @@ interactivity. The algorithm Ternovsky deployed on the site he founded,
 Chatroulette, allowed the users to randomly connect to other users
 through their webcams. In complete anonymity, users could video chat
 with others, perform acts for complete strangers, just look at each
-other, or try to catch another’s attention before he or she clicked on
-the ‘next’ button - or if all failed, to just hit the ‘next’ button and
-jump to another random user’s webcam. Without any advertisement, the
-users of Ternovsky’s Chatroulette exponentially grew; when the site
+other, or try to catch another's attention before he or she clicked on
+the 'next' button - or if all failed, to just hit the 'next' button and
+jump to another random user's webcam. Without any advertisement, the
+users of Ternovsky's Chatroulette exponentially grew; when the site
 launched in November 2009, it initially drew 500 visitors per day.
 Within a month, there were fifty thousand daily users, and Chatroulette
 is still one of the top five video chat sites in the world. [^16_Ozgun-Talking_3]
 
 The popularity of Chatroulette revealed the erotic potential of the
 medium. According to an informal study published in 2010, hitting the
-“next” button on Chatroulette yielded a 1 in 8 chance of seeing someone
+'next' button on Chatroulette yielded a 1 in 8 chance of seeing someone
 apparently naked, exposing themselves or engaging in a sexual act, a
-considerable chance of seeing a ‘show your tits’ sign, and a
+considerable chance of seeing a 'show your tits' sign, and a
 considerably lesser chance of seeing actual female flashers.[^16_Ozgun-Talking_4] The
 amount of users seeking erotic pleasure and anonymously exhibiting
 themselves on the site eventually generated a series of public
 controversies, to the degree that Ternovsky finally had to modify the
-website’s program to detect skin tone and block nudity, and employ users
-with ‘moderator’ privileges to filter out obscenity.
+website's program to detect skin tone and block nudity, and employ users
+with 'moderator' privileges to filter out obscenity.
 
 Webcam sex sites that appeared in the recent years were built on the
 idea of providing an open space for what has been excluded from
@@ -179,14 +179,14 @@ membership as well as advertisement revenues.[^16_Ozgun-Talking_5] Any adult Int
 user (or, in fact, any Internet user who confirms that she or he is over
 18 years old) can access the sites and follow the broadcasts. The
 members whose webcams are open, who are visible to other viewers, are
-marked as ‘broadcasting.’ The use of the term ‘broadcasting,’ a term
+marked as 'broadcasting.' The use of the term 'broadcasting,' a term
 borrowed from television in this context, once again reminds us the
 closeness between TV and the webcam as a technological form. The
 broadcasting members are listed according to their self-declared sexual
 preferences, under the sections: female, male, transsexual and couples
 (not necessarily heterosexual). Different sites offer different extra
-categories, such as the ‘party’ category on cam4.com (in which a group
-of people gather in front of the webcam), or ‘featured broadcasts’
+categories, such as the 'party' category on cam4.com (in which a group
+of people gather in front of the webcam), or 'featured broadcasts'
 (which include the performers selected by the sites administrators). The
 listings of members performing/broadcasting at that moment in each
 section of the sites are displayed in order of popularity—meaning that
@@ -194,7 +194,7 @@ the performers with more viewers are displayed on the top of list. On
 cam4.com and chaturbate.com, top-ranking performers can draw an audience
 of a few thousand members depending on the time of day. Membership,
 although free, is a requirement for broadcasting. Members can also
-purchase ‘tokens,’ which can be offered and transferred to other
+purchase 'tokens,' which can be offered and transferred to other
 members. Members who receive tokens from other members can convert these
 tokens to cash, and the site operators cut a commission from this
 exchange. Token exchange sustains the economy of the sites as well as
@@ -203,14 +203,14 @@ facilitating the sex work they provide.
 My interest is not in the economic aspects of the sex work on these
 channels. The income derived from performing sex work on webcam must
 differ hugely from performer to performer, and it is difficult to
-estimate it without an in-depth analysis of overall exchange. As I’ll
+estimate it without an in-depth analysis of overall exchange. As I'll
 try to explain later, the fact that not all performers seek sex work,
 plus the fact that sex work and erotic pleasure become almost
 indistinguishable on these sites, makes it difficult to analyze the
 volume and intensity of the sex work without referring to the site
-operators’ records. While pointing to the erosion of the perceivable
+operators' records. While pointing to the erosion of the perceivable
 difference between sex work and erotic play, I also acknowledge the fact
-that these are already fluid and problematic categories, and I don’t
+that these are already fluid and problematic categories, and I don't
 intend to espouse a clear-cut, hierarchical distinction based on moral
 standards between these. My interest is in the psychodynamics and
 sociodynamics of this particular form of communication, in which further
@@ -226,7 +226,7 @@ webcam offers certain conveniences, such as providing a safe space for
 the expression of uncommon forms of desire in respect to erotic
 imagination, and in respect to sex work. Additionally, one does not have
 to leave home to watch a strip show, nor does a performer need to drive
-to a different city’s strip club to avoid being recognized by their
+to a different city's strip club to avoid being recognized by their
 neighbors.
 
 Anonymity is not only something convenient for circumventing the moral
@@ -240,14 +240,14 @@ seductive power.
 The first layer of indiscernibility is between the performers and the
 audience: audience members turn on their cameras and perform too while
 watching each other performing; performers sometimes participate in each
-other’s sessions; and performers can turn on the viewers’ cam and make
+other's sessions; and performers can turn on the viewers' cam and make
 them a part of the performance as such. In this respect, webcam channels
-resemble the form of a ‘carnival’ in the Bakhtinian sense. Russian
+resemble the form of a 'carnival' in the Bakhtinian sense. Russian
 Formalist literary theorist and philosopher Mikhail Bakhtin was pointing
 to the carnival form in his analysis of polyphony and dialogism in
 narratives: As a non-scripted event that is constituted by its
 participants, a carnival can only be experienced through participation
-as such, and does not leave any space for passive “spectatorship.” [^16_Ozgun-Talking_6]
+as such, and does not leave any space for passive 'spectatorship.' [^16_Ozgun-Talking_6]
 
 Another layer of indiscernibility, which I find to be even more
 important for constructing the seductive power of the medium, appears
@@ -259,44 +259,44 @@ is this layer of indiscernibility that blurs the distinction between sex
 work and erotic thrill and provides the perfect ground for fantasy,
 giving the webcam its seductive power.
 
-We can see this at work when we look at the most popular performers’
+We can see this at work when we look at the most popular performers'
 channels. Contrary to the common wisdom, the rankings that are apparent
 in the listings show that the popularity of the performers does not
 directly correlate with their physical attractiveness or attributes (in
 other words, the conformity of their physical appearance with the
-hegemonic conventions of ‘beauty’), or how much nudity they display, or
+hegemonic conventions of 'beauty'), or how much nudity they display, or
 how explicit their broadcast is and to what distances they go to satisfy
 their audience.
 
-## ‘Realness’ of the Webcam Image: Benefit of the Doubt
+## 'Realness' of the Webcam Image: Benefit of the Doubt
 
 Oftentimes the popularity of performers is related to their ability to
-construct ‘verisimilitude’ - an effect that I will provisionally call
-‘realness.’ ‘Realness’ is an immediate effect of a direct, unprocessed,
+construct 'verisimilitude' - an effect that I will provisionally call
+'realness.' 'Realness' is an immediate effect of a direct, unprocessed,
 unscripted and unedited visual reference - something with which we are
 now becoming familiar, by the multitude of cell phone and amateur video
 images we are being exposed to in our everyday communication
-environment. What I call ‘realness’ here is, on one hand, a certain kind
-of ‘reality effect’ that is somehow different from and opposed to what
+environment. What I call 'realness' here is, on one hand, a certain kind
+of 'reality effect' that is somehow different from and opposed to what
 we find in Hollywood narratives, and, on the other hand, a strategy that
 is born out of such layers of indiscernibility that is inherent to this
 particular form of communication.
 
-‘Realness,’ as such, is embedded in the ‘live-ness’ of the webcam.
-‘Live-ness’ appears to be an integral part of the erotic pleasure, to
-the degree that, although the streaming of a "pre-recorded" video feed
+'Realness,' as such, is embedded in the 'live-ness' of the webcam.
+'Live-ness' appears to be an integral part of the erotic pleasure, to
+the degree that, although the streaming of a 'pre-recorded' video feed
 to the site (instead of the live video image from the webcam) is
-technically and practically possible, this is considered ‘cheating’ and
+technically and practically possible, this is considered 'cheating' and
 it is highly undesirable among webcam users. The sites are therefore
 designed with a particular administrative attention to sustain
-‘live-ness’; the audience is given the chance to mark the performers’
-feeds that they determine to be “recorded" and these channels appear
-marked as such on the listing page. ‘Live-ness’ is an essential element
-for the ‘realness’ of the webcam, to the effect that ‘recorded’ is a
-synonym for ‘fake.’
+'live-ness'; the audience is given the chance to mark the performers'
+feeds that they determine to be 'recorded' and these channels appear
+marked as such on the listing page. 'Live-ness' is an essential element
+for the 'realness' of the webcam, to the effect that 'recorded' is a
+synonym for 'fake.'
 
-The ‘live-ness’ of the performance includes (or, it is constructed
-through) the performer’s interaction with the audience. This interaction
+The 'live-ness' of the performance includes (or, it is constructed
+through) the performer's interaction with the audience. This interaction
 does not merely consist of passively responding to the demands of the
 audience to perform sexual acts, but largely, and more profoundly, and
 sometimes counterintuitively, sustained by talking with them, engaging
@@ -305,10 +305,10 @@ from passive communication (such as "hey joe, you are here again?") to
 in-depth, intimate personal conversations that do not necessarily
 revolve around sexual topics.
 
-Such conversations construct the ‘realness’ of the performer as an
+Such conversations construct the 'realness' of the performer as an
 individual, as a social subject, as a desiring subject, and not as a sex
-worker who submits herself to her customers’ desires. At the moment that
-such ‘realness’ is constructed by the performer, the difference between
+worker who submits herself to her customers' desires. At the moment that
+such 'realness' is constructed by the performer, the difference between
 erotic play and sex work becomes indiscernible, and the flow of desire,
 the erotic exchange, appears to be authentic.
 
@@ -321,7 +321,7 @@ reality of the sex work. But no matter how good-looking these women are
 and what sort of challenges they undertake, what often draws more
 audience are the female performers who appear at home, on a laptop
 computer in their bed, or at work, in rather casual situations,
-interacting with their audience ‘as they are.’
+interacting with their audience 'as they are.'
 
 A cam4.com member, Shygirl652, regularly broadcasts from a library.
 Without showing her face, she places the camera between her legs and
@@ -334,37 +334,37 @@ the shop when the street is empty. A few performers regularly broadcast
 discreetly from their workplaces while doing their day jobs, and their
 discretion while exposing themselves to the webcam becomes a part of the
 thrill for the audience as well. Yet, all these performers accept
-tokens, and the ‘realness’ of the ‘coworker exposing herself’ shatters
-only if the audience is presented with a ‘workspace’ composed of a desk
+tokens, and the 'realness' of the 'coworker exposing herself' shatters
+only if the audience is presented with a 'workspace' composed of a desk
 in an empty room and the performer does not do any work other than
 exposing herself and asking for tokens.
 
 Exchange of tokens, and the performers demand for tokens for continuing
 the show can be considered as a marker of sex work. But even this is not
 a clear marker, since it is possible to see the sex workers appearing on
-their channel declaring they are not ‘working,’ they are just there to
-‘talk,’ and socialize with their audience. In some cases, the performers
-who don’t accept tokens - and therefore appear as they are only
+their channel declaring they are not 'working,' they are just there to
+'talk,' and socialize with their audience. In some cases, the performers
+who don't accept tokens - and therefore appear as they are only
 interested in erotic pleasure - draw their audience to other sources of
 commercial exchange. For example, *BusinessLady* describes herself as a
 sexually active financially secure professional businesswoman who is
 seeking erotic thrill on chaturbate.com.[^16_Ozgun-Talking_7] She writes on her profile
-page; “I work hard and have way too much stress in my life… I do this
+page; "I work hard and have way too much stress in my life… I do this
 for fun. I don't get to read much of the screen because I am busy
 pleasuring myself… If you join my room and I do not seem to be putting
 on a show, it is because I am resting. I may work on cam, and have even
 read articles aloud to viewers. It may be boring, so change the
-channel.” She explains the fact that she accepts token as: “Any tokens /
+channel." She explains the fact that she accepts token as: "Any tokens /
 tips are donated to a respected 501(c)(3) animal rescue charity. I wish
-I could prove this, but it really is the truth.” But her profile page
+I could prove this, but it really is the truth." But her profile page
 directs her more than 6,500 followers to her personal blog on Blogspot,
 where she shares her experiences and fantasies in writing, and also
-offers a paid membership for her fan club that gives free “phone sex in
-every other month” and privileged treatment for “free private 1 on 1
-camera time.”
+offers a paid membership for her fan club that gives free "phone sex in
+every other month" and privileged treatment for "free private 1 on 1
+camera time."
 
 *Vnmses*, who is one of the most popular performers on that same site,
-whenever she is online, gives us one of the best examples of ‘realness’
+whenever she is online, gives us one of the best examples of 'realness'
 as such.[^16_Ozgun-Talking_8] Her performances are almost intimate live-broadcasts of the
 everyday life of a dissatisfied suburban American teenager. In contrast
 with the heavy makeup and forced welcoming smile of the third-world sex
@@ -372,7 +372,7 @@ workers on the site, whenever she turns it on, *Vnmses* looks through
 her webcam with curious big eyes, and a serious face that searches for a
 smile. She talks to her audience/friends before she goes to sleep and
 when she wakes up, while she hangs out naked around her suburban house,
-while she steals her mother’s wine from the fridge, when she lounges in
+while she steals her mother's wine from the fridge, when she lounges in
 the yard. She keeps broadcasting when she occasionally goes out to
 shopping with her girlfriends, and introduces the boys she occasionally
 picked up before they had sex in front of the webcam. The parallel scars
@@ -382,80 +382,80 @@ music, movies and anything that can be a subject of mundane
 conversation. She also shares her intimate stories: Her first boyfriend
 was black, and because she was being raised by her conservative
 grandparents, and because she and her boyfriend were stupid enough to
-try, they started with having only anal sex —”God, that was so
-painful!”. And then, when they got caught by Grandpa together in the
+try, they started with having only anal sex —"God, that was so
+painful!". And then, when they got caught by Grandpa together in the
 shower, things became obvious. Her masturbation sessions in front of the
 webcam seem more to be curious experiments to overcome the profound
 boredom that she shares with her audience, than a service to them.
 Excess and mundane, boredom and orgasm, friends and audience mix into
-each other in *Vnmses*’ broadcasts. She does not appear as a sex worker
+each other in *Vnmses*' broadcasts. She does not appear as a sex worker
 trying to satisfy an audience, but as a twenty-something punk seeking
 satisfaction in her life with them. She never asks for tokens, but takes
 them as they come, plentifully.
 
 In the case of *Xaida*, a chaturbate.com member, who often broadcasted
 in highly professional, Hollywood-grade zombie makeup and outfit during
-2012, her makeup and outfit did not appear to jeopardize her ‘realness,’
-but on the contrary, offered proof of authenticity: Sex workers don’t
-look like zombies, and aren’t assumed to know much about the zombie
+2012, her makeup and outfit did not appear to jeopardize her 'realness,'
+but on the contrary, offered proof of authenticity: Sex workers don't
+look like zombies, and aren't assumed to know much about the zombie
 literature either, therefore sophisticated makeup and costuming
 establishes the fact that the performer is a female artist seeking
 erotic thrill rather than a sex worker seeking customers.
 
-This is what I refer to ‘realness as a strategy’ as well as an effect.
+This is what I refer to 'realness as a strategy' as well as an effect.
 As much as the female performer on the webcam can really be a
-‘housewife,’ a ‘coworker,’ or a ‘bored teenager’ seeking erotic thrill,
+'housewife,' a 'coworker,' or a 'bored teenager' seeking erotic thrill,
 she could be a sex worker presenting a carefully and meticulously
 constructed fantasy. So, any fantasy as such that is presented with
 sufficient believability, lacking any other reference, receives the
-power of ‘real’ by having the effect of ‘real.’ I choose to use the term
-‘realness’ in order to distinguish this form from other kinds of reality
-effects. What we register as ‘real’ often appears to us as a whole,
+power of 'real' by having the effect of 'real.' I choose to use the term
+'realness' in order to distinguish this form from other kinds of reality
+effects. What we register as 'real' often appears to us as a whole,
 verifiable and perpetual discursive construction, whereas the
 verisimilitude of the webcam is a temporal effect sustained by its
 partial and unverifiable image. Its irrefutable partiality also
-distinguishes the webcam image from the ‘illusion of reality’ that is
-aimed at achieving cinematic realism. ‘Illusion of reality’ in cinema is
-an effect of ‘realistic fiction,’ whereas a webcam bears no script and
-it is decidedly not fiction. Rather than an ‘illusion of reality,’ a
+distinguishes the webcam image from the 'illusion of reality' that is
+aimed at achieving cinematic realism. 'Illusion of reality' in cinema is
+an effect of 'realistic fiction,' whereas a webcam bears no script and
+it is decidedly not fiction. Rather than an 'illusion of reality,' a
 webcam, like an illusionist, inspires us to accept what it presents: it
 is impossible not to believe what happens before your eyes, although
-your logic tells you that a rabbit wouldn’t fit into that hat.
+your logic tells you that a rabbit wouldn't fit into that hat.
 
-‘Realness’ in this sense also differs from what Baudrillard calls
+'Realness' in this sense also differs from what Baudrillard calls
 simulation: simulation, in his terminology, refers to an artificially
 constructed event that assumes the authority of the real, and
 substitutes the real without having any reference to it. By contrast,
-‘realness’ asserts an ambiguity by being partial, its verisimilitude
+'realness' asserts an ambiguity by being partial, its verisimilitude
 stems from its lack, its vagueness, in contrast with the overarching
-narrative of the simulation; it doesn’t project the whole that envelopes
+narrative of the simulation; it doesn't project the whole that envelopes
 the present in the way Baudrillard problematizes.
 
-‘Realness’ in this sense, resonates more with what Gilles Deleuze
-describes as “virtual” at various points of his philosophical inquiries
+'Realness' in this sense, resonates more with what Gilles Deleuze
+describes as 'virtual' at various points of his philosophical inquiries
 (from his early work in Difference and Repetition, to his late works on
-Cinema).[^16_Ozgun-Talking_9] Virtual, in his terminology, is not something “unreal,” or
-“opposite of real,” but a “potential,” a “nebulous state” of the real
-that constantly becomes “actualized.” For Deleuze, “reality” is the
-outcome of the dynamic passages between the “virtual” and “actual” state
-of events and things. The “actual” here, what becomes “actualized” in
-the context of webcam sex, is the erotic desire. Therefore “realness” is
-the “virtual” constitution of the desiring subject on/through the
+Cinema).[^16_Ozgun-Talking_9] Virtual, in his terminology, is not something 'unreal,' or
+'opposite of real,' but a 'potential,' a 'nebulous state' of the real
+that constantly becomes 'actualized.' For Deleuze, 'reality' is the
+outcome of the dynamic passages between the 'virtual' and 'actual' state
+of events and things. The 'actual' here, what becomes 'actualized' in
+the context of webcam sex, is the erotic desire. Therefore 'realness' is
+the 'virtual' constitution of the desiring subject on/through the
 webcam. With no reference to the past or the future, with no other
 identifiers or discursive elements apart from (or use: beyond) the image
-itself, a webcam virtually constructs and affirms the “desiring
-subject,” purely within the temporality of that moment. “Realness,” the
-power of the webcam to virtually construct a “desiring subject” as such,
+itself, a webcam virtually constructs and affirms the 'desiring
+subject', purely within the temporality of that moment. 'Realness', the
+power of the webcam to virtually construct a 'desiring subject' as such,
 is therefore the constitutive element of the medium, and it is directly
-related with ‘live-ness.’
+related with 'live-ness.'
 
-‘Live-ness,’ the temporality of the webcam, then, brings about a double
+'Live-ness,' the temporality of the webcam, then, brings about a double
 transgression. On the one hand, it imposes the transgression of the sex
-work by blurring the markers between “desire” and “work,” and amplifies
-the core erotic fantasy by unhinging it from its subordination to “sex
-work.” The female performer, as non-sex-worker, ordinary woman - a
+work by blurring the markers between 'desire' and 'work', and amplifies
+the core erotic fantasy by unhinging it from its subordination to 'sex
+work'. The female performer, as non-sex-worker, ordinary woman - a
 desiring subject - becomes more desirable as she fulfills the fantasy
-perfectly with her “realness.” By appearing as a “desiring subject,” the
+perfectly with her 'realness'. By appearing as a 'desiring subject', the
 female performer fulfills the underlying fantasy, and calls for active
 participation from the other party, who has to respond in kind and join
 the game by generating his own desires, just like the erotic play in
@@ -467,7 +467,7 @@ the webcam is closely related with this two-fold transgression that
 stems from indiscernibility, which becomes the definitive characteristic
 of the webcam image.
 
-## Fear and Loathing on Live Webcam Sex: The “Turkish” Case
+## Fear and Loathing on Live Webcam Sex: The "Turkish" Case
 
 The suspension of physical distances leads to a truly international
 audience in live webcam sex channels. Yet this international audience is
@@ -496,7 +496,7 @@ surrounding these channels, not only conservative social norms and but
 also Internet regulations in Turkey, the presence of such a community
 may be seen as highly unusual. Unlike in other countries that compose
 other linguistic spheres, live webcam sex sites are entirely banned in
-Turkey together with other pornographic and “harmful” sites. Since 2007,
+Turkey together with other pornographic and 'harmful' sites. Since 2007,
 the Telecommunication and Transmission Authority in Turkey has been able
 to impose bans on Internet sites without prior judicial approval,
 through an IP filtering system. This IP filtering system is installed on
@@ -505,12 +505,12 @@ displaying a generic error page that informs the user that the website
 is blocked. The nature of such Internet censorship and the controversies
 surrounding the regulations are also somehow related with the
 nationalist political culture that becomes crystalized in the
-Turkish-speaking male audience’s interaction with female performers.
+Turkish-speaking male audience's interaction with female performers.
 
 The sites that are banned by the Turkish Telecommunication and
 Transmission Authority include some of the highly popular social media
 sites such as YouTube, because of a particular statement in Turkish
-criminal law that prohibits “insulting Turkishness.” The vagueness of
+criminal law that prohibits 'insulting Turkishness'. The vagueness of
 the legal term, the extra-judiciary power of the censorship authority,
 and the technicalities of the IP filtering system (which does not only
 censor the particular prohibited content on the sites, but blocks access
@@ -519,8 +519,8 @@ censorship practices over the past years. In the face of the huge
 controversy resulting from the censoring of some of the most popular
 sites, Turkish Prime Minister, still not willing to ease the censorship
 regulations formally, yet still trying to uphold his populist image,
-famously declared: “My people know how to circumvent the censorship if
-they want to, and to access to the sites they want”. So, while a huge
+famously declared: "My people know how to circumvent the censorship if
+they want to, and to access to the sites they want". So, while a huge
 number of Internet sites (including the webcam sex sites) are still
 banned in Turkey, various types of easily available technological
 devices (such as proxy servers, IP tunneling applications or DNS
@@ -536,10 +536,10 @@ In addition, the size of this audience is unexpectedly large,
 considering the circumstances. One can often see audience members with
 Turkish nicknames watching performers from other linguistic spheres,
 quietly enjoying the performances. There are few Turkish performers
-present under the “male” category at any time of the day. But the real
+present under the 'male' category at any time of the day. But the real
 size and dynamics of the Turkish audience become apparent as soon as a
 Turkish-speaking female performer starts broadcasting. The
-Turkish-speaking male audience immediately crowds the performer’s
+Turkish-speaking male audience immediately crowds the performer's
 channel, and the number of attendees becomes large enough to push the
 ranking of the performer quickly to among the top viewed. The popularity
 of any Turkish-speaking performer is so readily guaranteed that it is
@@ -555,23 +555,23 @@ between the national identity (which is a product of nationalist
 fantasy) and erotic fantasy—the essential seductive power of the medium.
 
 Quite often we find Turkish-speaking transexual sex workers performing
-under the “female” category in these live webcam sex sites-—although, as
+under the 'female' category in these live webcam sex sites-—although, as
 I mentioned, the sites are organized according to sexual preferences and
-there is a separate section for “transexual” performers. These
+there is a separate section for 'transexual' performers. These
 performers do not hide their transsexuality or sex work, although they
 do not tend to directly disclose or forefront these either-—these become
 apparent very soon in the course of their performance, and go
 unquestioned. The appearance of transexual performers under female
 category as such does not seem to be an issue for the Turkish-speaking
 male audience; on the contrary, they participate in the performance as
-aware of the performers’ transsexuality and sex work, and their
+aware of the performers' transsexuality and sex work, and their
 interaction with the performers shows that some of the audience members
 are regulars, followers, and even fans of the performers.
 
 A similar negotiation applies to Turkish female performers. The
 overwhelming majority of Turkish female performers we find on live sex
 channels don't show their faces, or choose to wear a mask. A male
-partner often accompanies them (who also doesn’t show his face). They do
+partner often accompanies them (who also doesn't show his face). They do
 interact with their audience, and while they play out the fantasy —of
 the bored housewife, or the sexually adventurous couple—the female
 performer openly demands tokens/rewards for acting out the acts her
@@ -581,8 +581,8 @@ of sex work. The settings of the webcam show are always in a domestic
 space, seldom revealing identifying markers. The interaction with the
 audience almost never involves personal details or depth, and often
 remains at the level of seduction-oriented small talk, or trivial
-coquetry. Any details revealing hints of identity (such as a performer’s
-location, her “job” etc.) appear blatantly fake - oftentimes such
+coquetry. Any details revealing hints of identity (such as a performer's
+location, her 'job' etc.) appear blatantly fake - oftentimes such
 details echo very common clichés of the Turkish erotic imagination: if
 she is a bored housewife or secretary, she is always from lzmir, which
 is an Aegean town famous in the rest of the country for its good-looking
@@ -590,11 +590,11 @@ libertine women; if she is a student, she is always from Ankara, the
 capital city, which is also the home of some famous universities; if
 it's a couple looking for sexual adventure, or a transsexual sex worker,
 they are always from famously decadent lstanbul. All these clichés, and
-the performers’ insistent demand for tokens/rewards to continue with the
+the performers' insistent demand for tokens/rewards to continue with the
 show or in performing the acts her audience asks for, clearly reveal the
 fact that the performance is a part of sex work. The interaction and
-exchange is not intended to build up a “realistic fantasy” (or
-“realness”), but function as a “protocol,” a mutually agreed convention
+exchange is not intended to build up a 'realistic fantasy' (or
+'realness'), but function as a 'protocol,' a mutually agreed convention
 through which the parties declare their positions and agree on the
 nature of the exchange; the common clichés presented by the performers
 about themselves do not reveal anything other than reifying their
@@ -603,41 +603,41 @@ in other linguistic spheres, the inept visibility, or direct disclosure
 of sex work in Turkish linguistic sphere is not a turn-off. On the
 contrary, in fact, it is almost a requirement.
 
-Occasionally, a Turkish-speaking female performer who doesn’t observe
+Occasionally, a Turkish-speaking female performer who doesn't observe
 this mutually agreed-upon convention will appear on these channels. Her
 broadcasts immediately receive the same attention as for the performers
-that “play the game.” But, at the moment the Turkish-speaking male
+that 'play the game'. But, at the moment the Turkish-speaking male
 audience members gather the clues that the performer may indeed be a
-“real" housewife or a student, a “real” woman just seeking erotic thrill
-by playing out a sexual fantasy or by exposing herself, or just “talking
-to strangers” of the opposite sex, they respond with a particular
-reaction. If the performer is not asking for “tokens,” if she seems to
+'real' housewife or a student, a 'real' woman just seeking erotic thrill
+by playing out a sexual fantasy or by exposing herself, or just 'talking
+to strangers' of the opposite sex, they respond with a particular
+reaction. If the performer is not asking for 'tokens', if she seems to
 be hesitant to respond to their insistent demands for showing more
 flesh, or performing the acts they desire, the doubts of the audience
 grow. They resist buying the idea that they are actually interacting
 with a woman who is not doing sex work but just seeking erotic thrill.
-The audience first starts to question the authenticity (the “realness”)
+The audience first starts to question the authenticity (the 'realness')
 of the performer, often claiming that the performance is fake or
-recorded. If the performer proves that the performance is a “live
-broadcast” (by spontaneously responding to her audience’s comments), and
+recorded. If the performer proves that the performance is a 'live
+broadcast' (by spontaneously responding to her audience's comments), and
 she confirms that she is really there talking to them, the reaction of
 the audience becomes more aggressive. Their demands to see more flesh in
 exchange for tokens become more insistent. If the performer continues to
 ignore their demands and imposes her own will, which proves that she is
 not interested in rewards, she is not a sex worker, she is just a woman
 looking for erotic thrill, the tension turns into a crisis. The
-“realness” of the performer in other linguistic spheres, which serves to
+'realness' of the performer in other linguistic spheres, which serves to
 amplify her seductive power in this medium, is enhanced by her
 disambiguating herself from sex workers; in the Turkish sphere, however,
-this would function in the opposite way, with such “realness” creating a
+this would function in the opposite way, with such 'realness' creating a
 sober repulsion in Turkish-speaking male audience members. Confronted
-with proof of such “realness,” the only response left for the audience
+with proof of such 'realness,' the only response left for the audience
 is the denial of enjoyment through a moral reaffirmation that is
-attached to the nationalist fantasy. “This woman can’t be Turkish…!” the
-audience cries, “She is either Armenian, or Kurdish, or Greek perhaps?”
+attached to the nationalist fantasy. 'This woman can't be Turkish…!' the
+audience cries, 'She is either Armenian, or Kurdish, or Greek perhaps?'
 And before the frustrated woman finally decides to end her show, we
 often see remarks about how bad this webcam is for Turkish culture, how
-it corrupts the social values. “These things are not good for us!” the
+it corrupts the social values. "These things are not good for us!" the
 Turkish speaking male audience concludes.
 
 This pattern repeats itself almost every time a Turkish-speaking female
@@ -654,11 +654,11 @@ things at once: First of all, it displays a patriarchal fantasy that
 intends to confine female sexuality into the service of male desire; sex
 work is negotiated and accepted, but feminine sexual desire that seeks
 and imposes its own satisfaction is not. Then, when this patriarchal
-fantasy is shattered by an insistent “realness” of the feminine desire,
+fantasy is shattered by an insistent 'realness' of the feminine desire,
 the Turkish male audience responds by escaping to a larger fantasy - the
 fantasy of nationalism, and reestablishes the moral ground on that
-front: “She can be a real woman, but in that case she can’t be a Turkish
-woman.” National identity, as imagined as it is - as a purely modern
+front: "She can be a real woman, but in that case she can't be a Turkish
+woman." National identity, as imagined as it is - as a purely modern
 fantasy in the case of Turkish identity - offers a last refuge for
 patriarchy that female desire cannot enter and cannot lay claim to.
 
@@ -679,12 +679,12 @@ not with national identities. In the Turkish case, the nationalism that
 expresses itself so schizophrenically at this moment has been cultivated
 for decades in popular culture. Turkish national identity was a fiction
 that enabled the foundation of modern Turkish Republic, and became an
-ideal model (rather than an existing “type”) for molding its modern
+ideal model (rather than an existing 'type') for molding its modern
 social subjects. Militarism, authoritarianism, and patriarchy became
-interrelated components of the political culture of “modern” Turkey, as
-the previously non-existing “Turkish identity” was built by embodiment
-of these notions. After 1980’s military coup, a “national culture
-industry” emerged, emphasizing the same notions that are now seen in a
+interrelated components of the political culture of 'modern' Turkey, as
+the previously non-existing 'Turkish identity' was built by embodiment
+of these notions. After 1980's military coup, a 'national culture
+industry' emerged, emphasizing the same notions that are now seen in a
 liberal market environment. This national and nationalist culture
 industry started to dominate the local cultural markets particularly
 with the emergence of private TV channels by the 1990s. Since the early
@@ -712,59 +712,53 @@ Heidegger, Martin. Being and Time, trans. John Macquarrie and Edward
 Robinson, Harper and Row Publishers, 1962.
 
 Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male, 47
-Percent American, And 13 Percent Perverts.” TechCrunch,
+Percent American, And 13 Percent Perverts". TechCrunch,
 *http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/*
 
-[^16_Ozgun-Talking_1]: RSS stands for “Rich Site Summary”, and refers to the automatic
+[^16_Ozgun-Talking_1]: RSS stands for 'Rich Site Summary', and refers to the automatic
     syndication of data between publishers, which also enables the users
-    receive timely updates
+    receive timely updates.
 
 [^16_Ozgun-Talking_2]: Martin Heidegger, Being and Time, trans. John Macquarrie and
     Edward Robinson, Harper and Row Publishers, 1962.
 
-[^16_Ozgun-Talking_3]: Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male,
-    47 Percent American, And 13 Percent Perverts.” TechCrunch. Retrieved
-    2010-05-14.
+[^16_Ozgun-Talking_3]: Robert J. Moore, (2010-03-16). "Chatroulette Is 89 Percent Male, 47 Percent American, And 13 Percent Perverts." TechCrunch. Retrieved <http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/>
+    14-05-2010.
 
-    [*http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/*](../customXml/item1.xml)
+[^16_Ozgun-Talking_4]: Robert J. Moore, (2010-03-16).
 
-[^16_Ozgun-Talking_4]: 
-
-[^16_Ozgun-Talking_5]: In fact, there are also sites that offer commercial “live webcam
-    sex shows,” not unlike online peep-shows, which are performed by sex
+[^16_Ozgun-Talking_5]: In fact, there are also sites that offer commercial "live webcam
+    sex shows," not unlike online peep-shows, which are performed by sex
     workers to an adult audience for a fee. The dynamics that I want to
-    draw attention in this article are found on “open” sites such as
+    draw attention in this article are found on "open" sites such as
     cam4.com, chaturbate.com, myfreecams.com etc., in which everybody
     who connects to the sites with a webcam can broadcast themselves and
     there is not a clear distinction between performer and audience, nor
     between sex work and erotic pleasure.
 
-[^16_Ozgun-Talking_6]: Mikhail Bakhtin, Rabelais and His World, Bloomington, IN: Indiana
-    University Press, 1984.
+[^16_Ozgun-Talking_6]: Mikhail Bakhtin, *Rabelais and His World*, Bloomington, IN: Indiana University Press, 1984.
 
-[^16_Ozgun-Talking_7]: http://chaturbate.com/businesslady/ (1.15.2014)
+[^16_Ozgun-Talking_7]: See <http://chaturbate.com/businesslady/> (1.15.2014)
 
-[^16_Ozgun-Talking_8]: http://chaturbate.com/vnmses/ (4.7.2012)
+[^16_Ozgun-Talking_8]: See <http://chaturbate.com/vnmses/> (4.7.2012)
 
 [^16_Ozgun-Talking_9]: Gilles Deleuze, Difference and Repetition, Columbia University
-    Press, 1995.
-
-    Gilles Deleuze, Cinema 2: The Time-Image, University Of Minnesota
+    Press, 1995. Gilles Deleuze, Cinema 2: The Time-Image, University Of Minnesota
     Press, 1989.
 
 [^16_Ozgun-Talking_10]: Now, I will refer to this particular audience as the
-    “Turkish-speaking audience”, since, contrary to the assumptions of
+    "Turkish-speaking audience", since, contrary to the assumptions of
     the nationalist fantasy I will discuss later, speaking Turkish
-    language is not necessarily an indicator of “Turkish” national
+    language is not necessarily an indicator of "Turkish" national
     identity. Ethnic and cultural minorities in Anatolia (such as
     Kurdish people, or various non-Muslim minorities) also speak Turkish
     along with their native language, and a considerable number of
     people, such as myself, refuse to associate themselves with a
-    national identity, as “Turks,” for ideological reasons. The
+    national identity, as "Turks," for ideological reasons. The
     problematic occurrence of the nationalist fantasy I will discuss
     later also confirms that speaking Turkish is not an indicator of
     national identity. Therefore, in this article, I will refer to this
-    audience as “Turkish-speaking” with reference to language, rather
-    than “Turks” or “Turkish people,” which denotes national identity.
-    As the case I will discuss eventually confirms, it is a “linguistic
-    sphere” rather than a “national identity.”
+    audience as "Turkish-speaking" with reference to language, rather
+    than "Turks" or "Turkish people," which denotes national identity.
+    As the case I will discuss eventually confirms, it is a "linguistic
+    sphere" rather than a "national identity."

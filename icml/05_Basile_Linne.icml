@@ -1,1069 +1,1022 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="8.0(370)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="8.0(370)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="8.0" Self="d">
-	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
-	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
-	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
-	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
-	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
-	<FontFamily Self="di3e" Name="Minion Pro">
-		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
-	</FontFamily>
-	<FontFamily Self="di95" Name="Myriad Pro">
-		<Font Self="di95FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Installed" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Installed" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Installed" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Installed" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="di95FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" />
-	</FontFamily>
-	<FontFamily Self="dia2" Name="Kozuka Mincho Pro">
-		<Font Self="dia2FontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Installed" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Installed" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Installed" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Installed" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Installed" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" />
-	</FontFamily>
-	<FontFamily Self="di86f" Name="Lato">
-		<Font Self="di86fFontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
-		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
-	</FontFamily>
-	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
-		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Regular" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Regular" PostScriptName="StandardGroteskBSK-Regular" Status="Installed" FontStyleName="Regular" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Regular" FullNameNative="Standard-Grotesk Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Italic" PostScriptName="StandardGroteskBSK-Italic" Status="Installed" FontStyleName="Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Italic" FullNameNative="Standard-Grotesk Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Medium" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Medium" PostScriptName="StandardGroteskBSK-Medium" Status="Installed" FontStyleName="Medium" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Medium" FullNameNative="Standard-Grotesk Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Medium Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Medium Italic" PostScriptName="StandardGroteskBSK-MediumItalic" Status="Installed" FontStyleName="Medium Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Medium Italic" FullNameNative="Standard-Grotesk Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold" PostScriptName="StandardGroteskBSK-Bold" Status="Installed" FontStyleName="Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold" FullNameNative="Standard-Grotesk Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Bold Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold Italic" PostScriptName="StandardGroteskBSK-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold Italic" FullNameNative="Standard-Grotesk Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
-		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
-	</FontFamily>
-	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
-		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua3" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua4" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua5" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua6" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Minion Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-		<CompositeFontEntry Self="ua7" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
-			<Properties>
-				<AppliedFont type="string">Minion Pro</AppliedFont>
-			</Properties>
-		</CompositeFontEntry>
-	</CompositeFont>
-	<RootCharacterStyleGroup Self="u77">
-		<CharacterStyle Self="CharacterStyle/Default" Imported="false" KeyboardShortcut="0 0" Name="Default">
-			<Properties>
-				<BasedOn type="string">$ID/[No character style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Italic" Imported="false" KeyboardShortcut="0 0" Name="Italic" FontStyle="Light Italic">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
-			</Properties>
-		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Link" Imported="false" KeyboardShortcut="0 0" Name="Link">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
-	</RootCharacterStyleGroup>
-	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">14</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/R=147 G=44 B=101" PointSize="10" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" Imported="false" NextStyle="ParagraphStyle/Header2" KeyboardShortcut="0 0" FontStyle="Bold" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">12</Leading>
-				<AppliedFont type="string">Lato</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<Leading type="unit">10</Leading>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" KeyboardShortcut="0 0" LeftIndent="11.338582677165356">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/H2 Subhead" Name="H2 Subhead" Imported="false" NextStyle="ParagraphStyle/H2 Subhead" KeyboardShortcut="0 0" PointSize="10">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Header2</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/BulList &gt; first &gt; Paragraph" Name="BulList &gt; first &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" KeyboardShortcut="0 0" FirstLineIndent="2.834645669291339" BulletsAndNumberingListType="BulletList" NumberingContinue="false">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">8.503937007874017</Position>
-					</ListItem>
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-				</TabList>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/BulList &gt; Paragraph" Name="BulList &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/BulList &gt; Paragraph" KeyboardShortcut="0 0" FirstLineIndent="2.834645669291339" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">8.503937007874017</Position>
-					</ListItem>
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-				</TabList>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/References" Name="References" Imported="false" NextStyle="ParagraphStyle/References" KeyboardShortcut="0 0" PointSize="7.5" GridAlignment="None">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-	</RootParagraphStyleGroup>
-	<TinDocumentDataObject>
-		<Properties>
-			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
-		</Properties>
-	</TinDocumentDataObject>
-	<CrossReferenceFormat Self="u96" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u96BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u96BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u97" Name="Full Paragraph" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u98" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u99" Name="Paragraph Text" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9a" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9b" Name="Paragraph Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9c" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9d" Name="Text Anchor Name" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
-		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
-	</CrossReferenceFormat>
-	<Story Self="uf14" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
-		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
-		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Diego Basile and Joaquín Linne</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Introduction</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Along with the popularization of Internet produced in the first decade of the century, the ways of obtaining knowledge and youth socialization has changed. As Manuel Castells argued, this social-computer revolution has also changed the way we think about love and sexuality and has contributed in the transformation expressed in the ways we relate with others and the imaginaries believed regarding dating. This is why we understand the multiple strategies that adolescents carry on to appear attractive compared to others, trying to seduce, conquer and establish emotional, romantic and sexual relationships. That is why in this qualitative study we explore the online matchmaking practices performed by adolescents from low-income sectors (from here on LIS) of the City of Buenos Aires. We have investigated these practices and their representations about love and sexuality following these questions: what seduction strategies are deployed through the Internet? What relationship exists between images and texts of self-presentation with the construction of gender? What data is provided in virtual social networks? What are the advantages and disadvantages of meeting a partner through Internet? What are the expectations while searching for a couple through Internet?</Content>
-				<Br />
-				<Content>Among the more than one hundred million active users that Facebook (FB) has, Argentines are in twelfth place with over twenty-two million users.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Internet World Stats, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u104c" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
-								<Content>http://www.internetworldstats.com</Content>
-							</HyperlinkTextSource>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> In this multi-platform, adolescents are more numerous and active regarding the publication of personal photos. This can be explained to some extent by their elevated free time, their digital native condition</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Marc Prensky, ‘Digital Natives, Digital Inmigrants’, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>On the Horizon</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> 9.5 (2001): 1-6.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> and, also, because they are living a stage of experimentation and identity construction in which they find this platform especially useful and satisfactory. Unlike the “Kodak culture”,</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Richard Chalfen, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Snapshots Versions of Life</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Ohio: University Popular Press, 1987.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> mobile digital technologies allow photographic exploration and visual-identity configuration to be recorded and tested by the community.</Content>
-				<Br />
-				<Content>On the other hand, we find that one of the justifications for this research is that the pioneering concepts used to describe adolescents have begun to lose sense. A more complex analysis from a sociological perspective is necessary to analyze the ways in which society makes use of ICT. With this intention, our work focuses on the LIS, and their gender differences. While we use these categories in a general way, we note that the uses of the Internet in the LIS have specific differences that the concepts of digital natives and digital immigrants (Prensky, 2001) cannot distinguish them satisfactorily.</Content>
-				<Br />
-				<Content>We also find it necessary to contribute in the research of LIS adolescents because they are one of the populations with more difficulties: the economic, social, educational and housing difficulties are often shared with other problems such as social stigma, gender violence, addictions and early pregnancy. Apart from the difficulties often faced, their daily lives include various activities: going to school, having jobs in poor labor conditions (temporally, not registered), taking care of the children of the family, and, in some cases, work and participate in art, sports, crafts and computers workshops. In their free time they get together with friends, chat on Whatsapp and send text messages over the cell phone, entertain themselves with the “Play”,</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Meaning Playstation, a well-known brand of videogames.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> they watch audiovisual content online, display, take and edit photos, and use social network sites. In this context, FB appears as their main entertainment and communication media.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Methodology</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Fieldwork consisted of observations and twenty in-depth interviews to adolescents of LIS in schools, commercial </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>spots</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> with Internet and community centers, as well as virtual observations through FB. We define LIS adolescents as adolescents who are between 12 and 18 years old, whose parents have not finish high school and lack in their homes of at least one basic social service (such as water or gas).</Content>
-				<Br />
-				<Content>A significant part of the fieldwork was possible due to our performance as volunteer teachers in the computer workshop </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Conviven</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, located in the streets </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Murgiondo</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> and </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Avenida Eva Perón</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (neighborhood called </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Lugano</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, South Zone of the City). During 2011 and 2012 we went to this workshop where we made participant observations and interviews to adolescents from LIS. By doing so we were able to approach in their daily communication and self-presentation practices through their technological environments.</Content>
-				<Br />
-				<Content>Finally, using the “snowball” method implemented by our key informants of the community center, we created an ad hoc profile on FB that currently has more than 2,500 contacts (mostly adolescents of the LIS of City of Buenos Aires). These virtual observations that we develop during two years (2012-2013), allowed us to investigate the practices of sociability and the strategies that adolescents display while searching for a couple and seducing others by publishing text and personal images on the network.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Adolescents, digital natives and multitasking</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Studies about new technologies and the Internet have elaborated ​​categories that contributed in fighting against conservative positions in various areas –such as academic, educational and intellectual– that opposed strong resistance to such innovations and did not allow them to display their potentials. Following this line of thought, the category “natives and digital immigrants” was useful to start talking about this new way of communication.</Content>
-				<Br />
-				<Content>The simplicity, easiness and &apos;naturalness&apos; that adolescents have in managing Internet clearly define them as digital natives. They were born after 1990, being raised along with multimedia tools, but especially “breathing the Internet atmosphere”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Manuel Castells, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Communication Power</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Oxford: Oxford University Press, 2009.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. This new generation is considered a “native” speaker of the language of computers, video games and the Internet. The “digital natives” are also defined as “Generation @”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Alejandro Piscitelli, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Nativos digitales</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Buenos Aires: Santillana, 2009.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> or “multi-media generation”.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Roxana Morduchowicz, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Buenos Aires: Paidós, 2008.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Multitasking category, definition shared by most adolescents, refers to the ability to perform multiple tasks at the same time on different screens or interfaces within a single screen. This concept serves to exemplify the use of dichotomous categories, since it is an actual practice of digital natives, which is absent in immigrants.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The computer has over passed television in its capacity as totem, but with the difference that the “digital natives” project on this device a lot of expectations, tied to entertainment such as games, experimentation, learning and sociality, to the point that they consider the computer as part of their identity.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Francisco Albarello, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Leer y navegar en Internet</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Buenos Aires: La Crujía, 2011.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>These categories of digital natives are starting to lose their explanatory potential, but we still find them useful to frame some characteristics shared by the contemporary generation of adolescents. Let’s focus now on our specific topic for this research, practices and representations of adolescents of LIS of the City of Buenos Aires while searching for a date online.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Results</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/H2 Subhead">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Searching for a couple on Facebook</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In a way FB has helped to create millions of couples but has also contributed to the dissolution of many others. Since the platform keeps track of all actions that create users (and this record is often available to the public), users can, easily, monitor the actions of others. This ability to monitor or control, as well as the simplicity in tracking down ex lovers, affairs or potential couples, becomes a sort of multilateral surveillance, at least in part, it is symptomatic to what Bauman</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Zigmunt Bauman, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Liquid Modernity</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Cambridge: Polity, 2000.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> calls “ liquid relationships “, in the sense that adolescents tend to have relationships with high levels of mobility and instability. However, this does not imply that future generations live in a spirality of sex and extreme experiences. In this respect, Lipovetsky states:</Content>
-				<Br />
-				<Content>In mass culture eroticism is widespread and all the love “positions” are legitimate, but actual sexual practices are usually not risky, nor diversified: multiple sex, exchange, sodomy, homosexuality, sexual intercourse with someone you just met are still minority experiences.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Gilles Lipovetsky, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>El crepúsculo del deber</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Barcelona: Anagrama, 1994.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>We have observed in our fieldwork that while there is greater visibility of new practices and new ways of presenting the bodies through images, as well as increased exhibitionism stories and visual esthetics, attitudes prevalent in most adolescents through FB usually show that they take care of themselves by controlling what is visible and the selection of significant contacts.</Content>
-				<Br />
-				<Content>Adolescent interactions are conducted in a daily life continually related to social networks, where the practices are multitasking: while performing simultaneous tasks around screens, also in many cases –both male and women– activate searches for couples in parallel or explore different emotional erotic relationships. In this new practice, while men tend to be popular and successful in and out of FB, women tend to be more challenged by their gender, who accuses them of “easy girls “ or “ boyfriend stealers.”</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In the computer workshop, a girl of Bolivian nationality watches videos of hip hop that ​​her boyfriend made for her. Her other colleagues are envious and tell her to never leave him, another adolescent is chatting on FB in a passionate way with her boyfriend (because the mother discovered the relationship and forbade her to see him, so now they only communicate by chat and text messages), another girl adds digital effects like stars and glitter to her photo album on FB, a teenage male sees photos and profiles of girls and sends them friend requests, another one watches goals from Messi on Youtube.</Content>
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Joaquín Linne, Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Adolescents perform all these activities as they check all the time their profile on the social network. This combined use of networks, sociability and everyday life, for example in an educational environment, is often more “natural” for teens than for adults. They are who prefer FB as a platform for convergence of communication and entertainment, while adults prefer –even when they use Internet– to separate their places of recreation and erotic-emotional sociality. While adults over forty tend to search for a couple through dating sites and contacts (where they feel it is easier to refine the search for the other), youth and adolescents have FB as their main matchmaker.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/H2 Subhead">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Strategies</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In a context where social networks, communication, and entertainment with friends and classmates are part of daily activity, adolescents use FB when searching for a couple. To do so, they develop presentation strategies towards others. In the presentation they display of themselves in FB, both central elements that can be viewed first in their profile are the cover photo and the profile picture. In most cases, they are personal pictures, of themselves, either alone, with intimate friends or with their family members.</Content>
-				<Br />
-				<Content>Pictures posted about their bodies – usually ‘selfies’ – are central in the configuration of their online ID. With these pictures they show themselves to others exposing photos they consider the most attractive, in hope for feedback from their peers’ community. Through comments that they write and receive from others, the daily sociability is displayed. In certain cases, this dynamic is explicit, for example in pictures of esthetic duels between two friends. These sets of personal pictures specifically search for the approval of adolescents as desired bodies and “legitimate bodies”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Judith Butler, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Bodies that Matter: On the Discursive Limits of “Sex”</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Psychology Press: Cambridge, 1993.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. A ludic strategy regarding this issue is holding an esthetic duel between intimate friends. A few hours after the post, feedback of their peers’ community will give their verdict expressing them in how many “likes” and quality and quantity of comments. Both images and personal texts can be commented. Through “likes”, and “signatures” of timelines and emoticons, they give sense to personal posts, assigning them as attractive or desired, or indifferent and ignored inside their community. For example, a girl asks her audience (the network), as if she was in a beauty contest, to qualify her: “From 1 to 10, what’s my rating?”</Content>
-				<Br />
-				<Content>Regarding the written discourse, information is provided related to the place of residence, age, where you study or work and relationship status, which complement the ID configuration of adolescents in their respective profiles. FB defines certain characteristics to describe a relationship status (in this order: single, in a relationship, engaged, married, it’s complicated, in an open relationship). When the relationship status is modified by the user, it is posted as a novelty in the wall of their contacts. These status updates work as a public manifestation of the starting point or dissolution of a relationship, and being or not available for seduction and dating. Posting these “relationship status” helps multilateral surveillance and horizontal monitoring between themselves. When someone posts that a friend has started or ended a relationship, it usually brings out many comments which express the sociability inside their friendship groups.</Content>
-				<Br />
-				<Content>What is new regarding the ways adolescents present themselves? Unlike previous generations, they display, through textual and audiovisual fragments of their daily life, a “visual autobiography”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Andrew Mendelson and Zizi Papacharissi, ‘Look at Us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>The Networked Self: Identity, Community and Culture on Social Network Sites</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>. Illinois: Routledge, 2010.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> in their FB profile. From the daily practice of personal pictures, posting and commentating on them, they choose what to show and monitor their profiles and their group of peers in search of creating their best presentation possible. This skill is not spontaneous since it is the result of the experience in the use of a social network and what they learn with other adolescents. By having much more control over the impressions they choose to expose in front of others,</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Erving Goffman, </Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>The Presentation of Self in Everyday Life</Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, New York: Anchor Books, 1959.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> the sites of social networks like FB allow them to present a very selective version of themselves. Therefore, they often expose positive aspects of their intimacy on the network. In LIS, personal photos of adolescents with their son or daughter are frequent. At the same time that they expose their condition of parents, they take care of their image and are still active in the game of seduction. For example, they put make up on, comb themselves with dedication and pick out carefully their wardrobe and the angle of the camera, and at the same time present their baby “in society” (in the net).</Content>
-				<Br />
-				<Content>There are certain differences in the forms of presentation of women and men in this daily practice. Women adolescents concentrate, on one side, in the search of a boy that satisfies with the expectancies of commitment, activities, projects and attraction, and on the other hand, in becoming </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>femme fatales</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> with a high grade of autonomy regarding the exclusivity that a monogamous couple demands. While this poses a high rhetorical component, because it’s a performance that both boys and girls want to represent, and at the same time celebrate in posts of others, this ambivalent posture regarding traditional representations of gender is usually a constant in most profiles and walls of adolescents.</Content>
-				<Br />
-				<Content>At the same time, boys concentrate in the search and seduction of feminine contacts with whom to explore their sexuality, but also aspire in having a stable couple, a girl that is “faithful, loving, romantic and a family person”. Even though this also forms part of a personal marketing, it also has an honest message and an expression of desire. These messages are inserted inside an environment where their main idea is to seduce others by showing what they consider is their best image. By multimedia, chat, private messages and posts of others and their own ones, they generate ingenious or romantic messages under the format of texts, pictures, memes, video clips and animations.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/H2 Subhead">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Advantages</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>From the adolescent’s point of view, the search of a couple in FB has both advantages and disadvantages. When we asked the adolescents we interviewed about what they consider are the advantages of meeting a couple on FB, they responded in diverse ways. On one side, adolescents value the possibility of knowing aspects of the other person before deciding to meet (“you can get to know him-her and see him-her before meeting in person”; “you know all about them”; “FB shows everything you like and you get to know each other better”). On the other side, they are aware that the Net helps them build their own image (“you can show yourself different to others”).</Content>
-				<Br />
-				<Content>Nevertheless, they point out that it is “easier” meeting people this way; that it generates a lower grade of inhibition to communicate and establish bonds (“maybe you get to meet him/her better”; “while you’re getting to know him-her you can have a better communication”; “perhaps you can say things that if he/she were in front of you, you wouldn’t dare say”); that they can meet people from different neighborhoods and cities (“the possibility to meet people from a remote location”); for them to learn communicating and observing the communication of others (“they teach you strategies and give you tips to speak to others”). As a result, the social network operates as a location and an instance of socialization, since adolescents socialise with their peers meanwhile they learn from observing the most popular posts which are the code lines and models to follow in search of a couple.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/H2 Subhead">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Disadvantages</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>When asked about the disadvantages of meeting a couple on FB, women responses present more concern than men. In social networks, the “other” –primarily the other unknown– can lie about some important aspects of his/her identity. In regard of the place of residence, there are two attitudes towards this. On one hand, the concealment, because this information is a strong reference that may be seen as an obstacle regarding the possibilities of building a relationship; stigmatized neighborhoods with low resources, those who port a negative sense, usually are not present in adolescents “profiles”, which provokes a great deal of confusion in the expectancies of others. But this concealment of their place of residence is not an exclusive characteristic in the use of networks, since is also a generalized practice in which LIS evaluate the costs and benefits that carry on the presentation of such stigmatised information.</Content>
-				<Br />
-				<Content>On the other hand, it is necessary to qualify the stigma of being “villero” or living in a humble neighborhood, because the same adolescents, in different cases, defend the culture of the ghetto, or their neighborhood. Both boys as girls add “ghetto”, “villera” or another neighborhood identity reference next to their names or nicknames in FB. They also add a reference to their neighborhood with their name (for example, “Mtd” is a contraction for the neighborhood </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Mataderos</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, or “Lgn” contraction of the neighborhood </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Lugano</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>). This territorial reference that they include in their profile name operates in a way that anchors their identity and sociability inside the website. Even though any user can interact with anyone and there are inter-neighborhoods and inter-classist contacts, most of the contacts are between users of close, if not the same territory and the same or similar social class-sector.</Content>
-				<Br />
-				<Content>For adolescents from LIS the neighborhood is a strong identity mark from which they build their online profile. In a way of territorial and culture claim, they redeem their place of belonging and the values that they associate to it, as for example “bravery”, “loyalty”, “perseverance”, “resistance” and “history”. Sociability in Internet is not generated in an ubiquitous way, since it is produced, in most cases, between equals that live in the same territory, and claim the same neighborhood and share similar social conditions.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
-				<Footnote>
-					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content><?ACE 4?></Content>
-						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Joaquín Linne, Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires.</Content>
-						</CharacterStyleRange>
-					</ParagraphStyleRange>
-				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>On the other hand, meanwhile teenage girls of LIS have fears related to their psychical integrity (“he can be a rapist”; “he can rob you”), boys have fears related to the loss of autonomy (“if you have a girlfriend she controls everything you do in FB”; “you lose your liberty because they’re controlling all your posts”). This fear has started to appear also in a recurring way in the timelines of teenage LIS girls.</Content>
-				<Br />
-				<Content>Both boys as girls of our research agree on the inconvenient of meeting people through FB: in first place, they point out that you’re always going to have a superficial and selective knowledge of the other person; in second place, the person can fail you on the date, or being someone very different from the identity built in the social network. The testimonies show that, even though the platform is an essential tool to search for a couple, it also possess its risks and disadvantages, because a performance is built up that not always meets the identity in person. These gaps between virtual and physical performance generate diverse daily problems in adolescents: from a couple that finds very difficult to trespass the fluidity of their virtual communication to the physical terrain, to the jealousy because one acts like he/she is single on FB, or the sensation of not being valued or acknowledged by the other person in any level. For example, an adolescent of 15 years old from </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Lugano</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> told us about her relationship: “when we were online everything was fine and on weekends too, but later in the week he didn’t pay attention to me, never calls, he is an idiot.”</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/H2 Subhead">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Virtual Nightclub</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Considering all these aspects, we can think of the social network as a virtual nightclub. There is a difference between the traditional modes of searching for a couple, and the new forms develop from the interactions in the net. In this sense, we shall emphasize some of the characteristics of the virtual nightclub:</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>It is open 24 hours: the platform works in a never ending way, without interruptions, it is a space where you can leave messages to a specific user or to a set of contacts. Since communication is mostly delayed, it is not necessary that both emissary and receptor be active. This way, whoever wants to start a conversation, makes a comment or sends a private message or “like” during any part of the day.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Access is free: Anyone who has Internet and is willing to give certain personal information can interact with another sending and accepting “friend requests”. The access is free because nobody controls the admission to the Internet; no one is “kicked out” of a place due to his-her appearance, manner of dressing or footwear. In this sense, adolescents prefer the security and the free-of-charge net communication from those in a private club or store where there is usually an entrance fee, a dressing way is required and sometimes disputes between peer groups are displayed.</Content>
-				<Br />
-				<Content>The presentation in front of others: it doesn’t require the ability that demands the face to face protocol, neither the management of gestures or body-language on scene. For example, knowing or not knowing how to dance will not affect the possibilities of the candidates. Or being nervous in front of the presence of others will not affect the performance of the virtual seduction that every user displays. On the contrary, practice of showing oneself to others counts with the possibility of making a slow, meditated and selective work in the elaboration and sharing of pictures as well as in the comments. In this way, the ability that the user has to express himself in FB, is exercised and consolidated with the use of the net.</Content>
-				<Br />
-				<Content>The approaching of strangers: is one of the newest aspects, because by sharing the contacts of “friends of friends” (concept in FB) it’s much easier to approach others that rapidly can contact themselves. Once the friend request is accepted, it is possible to elaborate an idea of the tastes and preferences of that person, see their group of friends and their families. The chat works as an intermediate instance between delayed communication and face-to-face encounters. Within the chat there is a sense of uncertainty expressed in spontaneous communication. Rapidly, a user can obtain a general scope of the tastes and preferences of a stranger from a distance.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Especially for shy people, the possibility of previous communication is an advantage. The sociability in the social network eases the trial and error without the pressure of a face-to-face situation. Said in another way, it generates less inhibition because of the “semi-anonymity” (acquaintances of acquaintances that haven’t met in person) or because interactions are not “one to one”. At the same time, a great advantage for adolescents, which usually are less experimented in interpersonal erotic-affective relationships, is the possibility of learning through the observation of others attitudes, posts and comments. In this way, FB operates as an instance of loving socialization, since it provides contacts to interact and learn from: they are the profiles, walls and posts of their most exhibitionist, effective, popular and self-confident peers whom operate as “style manual” and provide a guide of instructions for seduction, presentation and affective expressions, of what is liked and disliked, pictures or images and words that “fall in love” or those that produce indifference.</Content>
-				<Br />
-				<Content>To be an outstanding person in the “virtual nightclub” one must have a high level of visibility. Adolescents know how to accomplish this: “signing” dozens, hundreds and even thousands of timelines/walls, but above all having a lot of “signatures” (comments), likes, subscriptions and mentions of others. This is why there is a permanent search in accomplishing this visibility, and for that they gather their peers to leave their signatures in their own timeline. This usually occurs as an interchange: you sign my wall and I’ll sign yours, as observed in the following example:</Content>
-				<Br />
-				<Content>The step towards a face-to-face encounter: this step usually implicates a high risk. When they meet face to face, it’s much more difficult to conceal nerves, anxiety, desires and fear of rejection. Besides the fear of deception through false identities and the possibility of concrete danger by thefts and physical assaults, adolescents also fear that the person won’t fulfill their expectancy generated online. In this sense, a great performance capacity is possible thanks to the network, ability that adolescents value and exploit to the maximum, comes with an important setback: the possibility of deception when they meet face to face. In other words, FB facilitates enormously the “first approach” but, at the same time, makes it much more difficult the rupture of the tension in a face to face encounter, which adolescents declare when they express their fear of “not knowing who the other really is”.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Conclusions</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Just like before the massification of Internet, girls try to decode what message – and which candidates – are most suitable for dating, and the boys do their best to show them that they are the best choice. But what has changed with the popular use of 2.0 technologies and in particular with the existence of different online communities regarding neighborhood, age-based and cultural affinities? One change we observe about Internet is linked to the proliferation of desire and the variety of images of possible partners. Like a virtual nightclub (without a define body or territory), adolescents start out chatting trying to lead the relationship to a higher stage of intimacy. Therefore, social spaces such as school, parks, bars and nightclub spaces are overlap with a virtual sociability regarding FB, chat channels and instant messaging services.</Content>
-				<Br />
-				<Content>We have made an exploratory journey about the seduction and matchmaking strategies carried out by LIS adolescents of the City of Buenos Aires regarding FB. We point out here the importance of digital photography used for their presentation, as well as for the sociability expressed through the comments of the pictures. We also note that the statements of “relationship status” are central regarding relationships. We focused on the importance that adolescents give to their profiles trying to make them have high visibility and the ways they carry out this objective.</Content>
-				<Br />
-				<Content>Finally, we have described the main advantages and disadvantages mentioned by LIS adolescents about meeting a couple in FB. We note here the importance of knowledge of their tastes and preferences as well as how to anticipate a first approach. We also identify the fear of meeting face to face and the lack of trust regarding what is presented as “true” in the profiles. In conclusion, we define the social network as a “virtual nightclub”, to highlight the changes that have occurred in the ways of social interaction between adolescents regarding matchmaking.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>References</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/References">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Albarello, Francisco. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Leer y navegar en Internet</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Buenos Aires: La Crujía, 2011.</Content>
-				<Br />
-				<Content>Bauman, Zigmunt. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Liquid Modernity</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge: Polity, 2000.</Content>
-				<Br />
-				<Content>Beck, Ulrich. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Risk Society: Towards a New Modernity</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, London: Sage, 1992.</Content>
-				<Br />
-				<Content>Bouille, Julieta. ‘Cibercafés o la nueva esquina. Usos y apropiaciones de Internet en jóvenes de sectores populares’, in Urresti, M. (ed.), </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Ciberculturas juveniles</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Buenos Aires: La Crujía, 2008, pp. 105-120.</Content>
-				<Br />
-				<Content>Butler, Judith. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Bodies that Matter: On the Discursive Limits of “Sex”</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge: Psychology Press, 1993.</Content>
-				<Br />
-				<Content>Castells, Manuel. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Communication Power</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Oxford: Oxford University Press, 2009.</Content>
-				<Br />
-				<Content>Chalfen, Richard. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Snapshots Versions of Life</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Ohio: University Popular Press, 1987.</Content>
-				<Br />
-				<Content>Goffman, Erving. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>The Presentation of Self in Everyday Life</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, New York: Anchor Books, 1959.</Content>
-				<Br />
-				<Content>Igarza, Roberto. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Burbujas de Ocio</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Buenos Aires: La Crujía, 2009.</Content>
-				<Br />
-				<Content>Internet World Stats, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1068" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
-					<Content>http://www.Internetworldstats.com</Content>
-				</HyperlinkTextSource>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Linne, Joaquín. Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
-				<Br />
-				<Content>Lipovetsky, Gilles. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>El crepúsculo del deber, trans. Juana Bignozzi</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Barcelona: Anagrama, 1994.</Content>
-				<Br />
-				<Content>Mendelson, Andrew &amp; Papacharissi, Zizi. ‘Look at us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>The Networked Self: Identity, Community and Culture on Social Network Sites</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>. Illinois: Routledge, 2010.</Content>
-				<Br />
-				<Content>Morduchowicz, Roxana. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Buenos Aires: Paidós, 2008.</Content>
-				<Br />
-				<Content>Piscitelli, Alejandro. </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Nativos Digitales</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Buenos Aires: Santillana, 2009.</Content>
-				<Br />
-				<Content>Prensky, Marc, ‘Digital Natives, Digital Inmigrants’, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>On the Horizon</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, 9.5 (2001): 1-6.</Content>
-				<Br />
-				<Content>Social Bakers, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u106a" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
-					<Content>socialbakers.com</Content>
-				</HyperlinkTextSource>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Urresti, Marcelo. ‘Ciberculturas juveniles: vida cotidiana, subjetividad y pertenencia entre los jóvenes ante el impacto de las nuevas tecnologías de la comunicación y la información’, in Urresti, Marcelo (ed.), </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>Ciberculturas juveniles</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (pp. 18-49). Buenos Aires: La Crujía, 2008.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-	</Story>
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" DestinationUniqueKey="1" Name="link" DestinationURL="numbering.xml" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" DestinationUniqueKey="2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" DestinationUniqueKey="3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 4" DestinationUniqueKey="4" Name="URL 4" DestinationURL="http://www.Internetworldstats.com" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 5" DestinationUniqueKey="5" Name="URL 5" DestinationURL="http://www.internetworldstats.com" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 6" DestinationUniqueKey="6" Name="URL 6" DestinationURL="http://www.Internetworldstats.com" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 7" DestinationUniqueKey="7" Name="URL 7" DestinationURL="http://www.internetworldstats.com" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 8" DestinationUniqueKey="8" Name="URL 8" DestinationURL="http://www.Internetworldstats.com" Hidden="false" />
-	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 9" DestinationUniqueKey="9" Name="URL 9" DestinationURL="http://www.internetworldstats.com" Hidden="false" />
-	<Hyperlink Self="u106d" Name="http://www.Internetworldstats.com" Source="u1068" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">n</Destination>
-		</Properties>
-	</Hyperlink>
-	<Hyperlink Self="u106b" Name="http://www.socialbakers.com/" Source="u106a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">HyperlinkURLDestination/link</Destination>
-		</Properties>
-	</Hyperlink>
-	<Hyperlink Self="u106f" Name="http://www.internetworldstats.com" Source="u104c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">n</Destination>
-		</Properties>
-	</Hyperlink>
+<Document DOMVersion="8.0" Self="pandoc_doc">
+    <RootCharacterStyleGroup Self="pandoc_character_styles">
+      <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle> 
+    </RootCharacterStyleGroup>
+    <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
+      <ParagraphStyle Self="$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle"
+          SpaceBefore="6" SpaceAfter="6"> <!-- paragraph spacing -->
+        <Properties>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string"></Leader>
+              <Position type="unit">10</Position> <!-- first tab stop -->
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/BulList &gt; Paragraph" Name="BulList &gt; Paragraph" BulletsAndNumberingListType="BulletList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string" />
+              <Position type="unit">10</Position>
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/BulList &gt; first &gt; Paragraph" Name="BulList &gt; first &gt; Paragraph" BulletsAndNumberingListType="BulletList" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+          <TabList type="list">
+            <ListItem type="record">
+              <Alignment type="enumeration">LeftAlign</Alignment>
+              <AlignmentCharacter type="string">.</AlignmentCharacter>
+              <Leader type="string" />
+              <Position type="unit">10</Position>
+            </ListItem>
+          </TabList>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header2" Name="Header2" LeftIndent="0" PointSize="30">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" LeftIndent="0" PointSize="24">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle> 
+    </RootParagraphStyleGroup>
+    <RootTableStyleGroup Self="pandoc_table_styles">
+      <TableStyle Self="TableStyle/Table" Name="Table" />
+    </RootTableStyleGroup>
+    <RootCellStyleGroup Self="pandoc_cell_styles">
+      <CellStyle Self="CellStyle/Cell" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="Cell" />
+    </RootCellStyleGroup>
+  <Story Self="pandoc_story"
+      TrackChanges="false"
+      StoryTitle=""
+      AppliedTOCStyle="n"
+      AppliedNamedGrid="n" >
+    <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
+
+<!-- body needs to be non-indented, otherwise code blocks are indented too far -->
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Diego Basile and Joaquín Linne</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Introduction</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Along with the popularization of Internet produced in the first decade of the century, the ways of obtaining knowledge and youth socialization has changed. As Manuel Castells argued, this social-computer revolution has also changed the way we think about love and sexuality and has contributed in the transformation expressed in the ways we relate with others and the imaginaries believed regarding dating. This is why we understand the multiple strategies that adolescents carry on to appear attractive compared to others, trying to seduce, conquer and establish emotional, romantic and sexual relationships. That is why in this qualitative study we explore the online matchmaking practices performed by adolescents from low-income sectors (from here on LIS) of the City of Buenos Aires. We have investigated these practices and their representations about love and sexuality following these questions: what seduction strategies are deployed through the Internet? What relationship exists between images and texts of self-presentation with the construction of gender? What data is provided in virtual social networks? What are the advantages and disadvantages of meeting a partner through Internet? What are the expectations while searching for a couple through Internet?</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Among the more than one hundred million active users that Facebook (FB) has, Argentines are in twelfth place with over twenty-two million users.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Internet World Stats, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://www.internetworldstats.com</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> In this multi-platform, adolescents are more numerous and active regarding the publication of personal photos. This can be explained to some extent by their elevated free time, their digital native condition</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Marc Prensky, ‘Digital Natives, Digital Inmigrants’, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>On the Horizon</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content> 9.5 (2001): 1-6.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and, also, because they are living a stage of experimentation and identity construction in which they find this platform especially useful and satisfactory. Unlike the “Kodak culture”,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Richard Chalfen, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Snapshots Versions of Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Ohio: University Popular Press, 1987.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> mobile digital technologies allow photographic exploration and visual-identity configuration to be recorded and tested by the community.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the other hand, we find that one of the justifications for this research is that the pioneering concepts used to describe adolescents have begun to lose sense. A more complex analysis from a sociological perspective is necessary to analyze the ways in which society makes use of ICT. With this intention, our work focuses on the LIS, and their gender differences. While we use these categories in a general way, we note that the uses of the Internet in the LIS have specific differences that the concepts of digital natives and digital immigrants (Prensky, 2001) cannot distinguish them satisfactorily.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We also find it necessary to contribute in the research of LIS adolescents because they are one of the populations with more difficulties: the economic, social, educational and housing difficulties are often shared with other problems such as social stigma, gender violence, addictions and early pregnancy. Apart from the difficulties often faced, their daily lives include various activities: going to school, having jobs in poor labor conditions (temporally, not registered), taking care of the children of the family, and, in some cases, work and participate in art, sports, crafts and computers workshops. In their free time they get together with friends, chat on Whatsapp and send text messages over the cell phone, entertain themselves with the “Play”,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Meaning Playstation, a well-known brand of videogames.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> they watch audiovisual content online, display, take and edit photos, and use social network sites. In this context, FB appears as their main entertainment and communication media.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Methodology</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Fieldwork consisted of observations and twenty in-depth interviews to adolescents of LIS in schools, commercial </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>spots</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> with Internet and community centers, as well as virtual observations through FB. We define LIS adolescents as adolescents who are between 12 and 18 years old, whose parents have not finish high school and lack in their homes of at least one basic social service (such as water or gas).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>A significant part of the fieldwork was possible due to our performance as volunteer teachers in the computer workshop </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Conviven</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, located in the streets </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Murgiondo</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> and </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Avenida Eva Perón</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (neighborhood called </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Lugano</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, South Zone of the City). During 2011 and 2012 we went to this workshop where we made participant observations and interviews to adolescents from LIS. By doing so we were able to approach in their daily communication and self-presentation practices through their technological environments.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Finally, using the “snowball” method implemented by our key informants of the community center, we created an ad hoc profile on FB that currently has more than 2,500 contacts (mostly adolescents of the LIS of City of Buenos Aires). These virtual observations that we develop during two years (2012-2013), allowed us to investigate the practices of sociability and the strategies that adolescents display while searching for a couple and seducing others by publishing text and personal images on the network.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Adolescents, digital natives and multitasking</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Studies about new technologies and the Internet have elaborated ​​categories that contributed in fighting against conservative positions in various areas –such as academic, educational and intellectual– that opposed strong resistance to such innovations and did not allow them to display their potentials. Following this line of thought, the category “natives and digital immigrants” was useful to start talking about this new way of communication.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The simplicity, easiness and 'naturalness' that adolescents have in managing Internet clearly define them as digital natives. They were born after 1990, being raised along with multimedia tools, but especially “breathing the Internet atmosphere”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Manuel Castells, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Communication Power</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Oxford: Oxford University Press, 2009.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. This new generation is considered a “native” speaker of the language of computers, video games and the Internet. The “digital natives” are also defined as “Generation @”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Alejandro Piscitelli, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Nativos digitales</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Buenos Aires: Santillana, 2009.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> or “multi-media generation”.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Roxana Morduchowicz, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Buenos Aires: Paidós, 2008.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Multitasking category, definition shared by most adolescents, refers to the ability to perform multiple tasks at the same time on different screens or interfaces within a single screen. This concept serves to exemplify the use of dichotomous categories, since it is an actual practice of digital natives, which is absent in immigrants.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The computer has over passed television in its capacity as totem, but with the difference that the “digital natives” project on this device a lot of expectations, tied to entertainment such as games, experimentation, learning and sociality, to the point that they consider the computer as part of their identity.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Francisco Albarello, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Leer y navegar en Internet</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Buenos Aires: La Crujía, 2011.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>These categories of digital natives are starting to lose their explanatory potential, but we still find them useful to frame some characteristics shared by the contemporary generation of adolescents. Let’s focus now on our specific topic for this research, practices and representations of adolescents of LIS of the City of Buenos Aires while searching for a date online.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Results</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Searching for a couple on Facebook</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In a way FB has helped to create millions of couples but has also contributed to the dissolution of many others. Since the platform keeps track of all actions that create users (and this record is often available to the public), users can, easily, monitor the actions of others. This ability to monitor or control, as well as the simplicity in tracking down ex lovers, affairs or potential couples, becomes a sort of multilateral surveillance, at least in part, it is symptomatic to what Bauman</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Zigmunt Bauman, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Liquid Modernity</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Cambridge: Polity, 2000.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> calls “ liquid relationships “, in the sense that adolescents tend to have relationships with high levels of mobility and instability. However, this does not imply that future generations live in a spirality of sex and extreme experiences. In this respect, Lipovetsky states:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In mass culture eroticism is widespread and all the love “positions” are legitimate, but actual sexual practices are usually not risky, nor diversified: multiple sex, exchange, sodomy, homosexuality, sexual intercourse with someone you just met are still minority experiences.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Gilles Lipovetsky, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>El crepúsculo del deber</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Barcelona: Anagrama, 1994.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We have observed in our fieldwork that while there is greater visibility of new practices and new ways of presenting the bodies through images, as well as increased exhibitionism stories and visual esthetics, attitudes prevalent in most adolescents through FB usually show that they take care of themselves by controlling what is visible and the selection of significant contacts.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Adolescent interactions are conducted in a daily life continually related to social networks, where the practices are multitasking: while performing simultaneous tasks around screens, also in many cases –both male and women– activate searches for couples in parallel or explore different emotional erotic relationships. In this new practice, while men tend to be popular and successful in and out of FB, women tend to be more challenged by their gender, who accuses them of “easy girls “ or “ boyfriend stealers.”</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In the computer workshop, a girl of Bolivian nationality watches videos of hip hop that ​​her boyfriend made for her. Her other colleagues are envious and tell her to never leave him, another adolescent is chatting on FB in a passionate way with her boyfriend (because the mother discovered the relationship and forbade her to see him, so now they only communicate by chat and text messages), another girl adds digital effects like stars and glitter to her photo album on FB, a teenage male sees photos and profiles of girls and sends them friend requests, another one watches goals from Messi on Youtube.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Joaquín Linne, Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Adolescents perform all these activities as they check all the time their profile on the social network. This combined use of networks, sociability and everyday life, for example in an educational environment, is often more “natural” for teens than for adults. They are who prefer FB as a platform for convergence of communication and entertainment, while adults prefer –even when they use Internet– to separate their places of recreation and erotic-emotional sociality. While adults over forty tend to search for a couple through dating sites and contacts (where they feel it is easier to refine the search for the other), youth and adolescents have FB as their main matchmaker.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Strategies</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>In a context where social networks, communication, and entertainment with friends and classmates are part of daily activity, adolescents use FB when searching for a couple. To do so, they develop presentation strategies towards others. In the presentation they display of themselves in FB, both central elements that can be viewed first in their profile are the cover photo and the profile picture. In most cases, they are personal pictures, of themselves, either alone, with intimate friends or with their family members.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Pictures posted about their bodies – usually ‘selfies’ – are central in the configuration of their online ID. With these pictures they show themselves to others exposing photos they consider the most attractive, in hope for feedback from their peers’ community. Through comments that they write and receive from others, the daily sociability is displayed. In certain cases, this dynamic is explicit, for example in pictures of esthetic duels between two friends. These sets of personal pictures specifically search for the approval of adolescents as desired bodies and “legitimate bodies”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Judith Butler, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Bodies that Matter: On the Discursive Limits of “Sex”</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, Psychology Press: Cambridge, 1993.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. A ludic strategy regarding this issue is holding an esthetic duel between intimate friends. A few hours after the post, feedback of their peers’ community will give their verdict expressing them in how many “likes” and quality and quantity of comments. Both images and personal texts can be commented. Through “likes”, and “signatures” of timelines and emoticons, they give sense to personal posts, assigning them as attractive or desired, or indifferent and ignored inside their community. For example, a girl asks her audience (the network), as if she was in a beauty contest, to qualify her: “From 1 to 10, what’s my rating?”</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Regarding the written discourse, information is provided related to the place of residence, age, where you study or work and relationship status, which complement the ID configuration of adolescents in their respective profiles. FB defines certain characteristics to describe a relationship status (in this order: single, in a relationship, engaged, married, it’s complicated, in an open relationship). When the relationship status is modified by the user, it is posted as a novelty in the wall of their contacts. These status updates work as a public manifestation of the starting point or dissolution of a relationship, and being or not available for seduction and dating. Posting these “relationship status” helps multilateral surveillance and horizontal monitoring between themselves. When someone posts that a friend has started or ended a relationship, it usually brings out many comments which express the sociability inside their friendship groups.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>What is new regarding the ways adolescents present themselves? Unlike previous generations, they display, through textual and audiovisual fragments of their daily life, a “visual autobiography”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Andrew Mendelson and Zizi Papacharissi, ‘Look at Us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Networked Self: Identity, Community and Culture on Social Network Sites</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>. Illinois: Routledge, 2010.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> in their FB profile. From the daily practice of personal pictures, posting and commentating on them, they choose what to show and monitor their profiles and their group of peers in search of creating their best presentation possible. This skill is not spontaneous since it is the result of the experience in the use of a social network and what they learn with other adolescents. By having much more control over the impressions they choose to expose in front of others,</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Erving Goffman, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>The Presentation of Self in Everyday Life</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>, New York: Anchor Books, 1959.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> the sites of social networks like FB allow them to present a very selective version of themselves. Therefore, they often expose positive aspects of their intimacy on the network. In LIS, personal photos of adolescents with their son or daughter are frequent. At the same time that they expose their condition of parents, they take care of their image and are still active in the game of seduction. For example, they put make up on, comb themselves with dedication and pick out carefully their wardrobe and the angle of the camera, and at the same time present their baby “in society” (in the net).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>There are certain differences in the forms of presentation of women and men in this daily practice. Women adolescents concentrate, on one side, in the search of a boy that satisfies with the expectancies of commitment, activities, projects and attraction, and on the other hand, in becoming </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>femme fatales</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> with a high grade of autonomy regarding the exclusivity that a monogamous couple demands. While this poses a high rhetorical component, because it’s a performance that both boys and girls want to represent, and at the same time celebrate in posts of others, this ambivalent posture regarding traditional representations of gender is usually a constant in most profiles and walls of adolescents.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>At the same time, boys concentrate in the search and seduction of feminine contacts with whom to explore their sexuality, but also aspire in having a stable couple, a girl that is “faithful, loving, romantic and a family person”. Even though this also forms part of a personal marketing, it also has an honest message and an expression of desire. These messages are inserted inside an environment where their main idea is to seduce others by showing what they consider is their best image. By multimedia, chat, private messages and posts of others and their own ones, they generate ingenious or romantic messages under the format of texts, pictures, memes, video clips and animations.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Advantages</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>From the adolescent’s point of view, the search of a couple in FB has both advantages and disadvantages. When we asked the adolescents we interviewed about what they consider are the advantages of meeting a couple on FB, they responded in diverse ways. On one side, adolescents value the possibility of knowing aspects of the other person before deciding to meet (“you can get to know him-her and see him-her before meeting in person”; “you know all about them”; “FB shows everything you like and you get to know each other better”). On the other side, they are aware that the Net helps them build their own image (“you can show yourself different to others”).</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Nevertheless, they point out that it is “easier” meeting people this way; that it generates a lower grade of inhibition to communicate and establish bonds (“maybe you get to meet him/her better”; “while you’re getting to know him-her you can have a better communication”; “perhaps you can say things that if he/she were in front of you, you wouldn’t dare say”); that they can meet people from different neighborhoods and cities (“the possibility to meet people from a remote location”); for them to learn communicating and observing the communication of others (“they teach you strategies and give you tips to speak to others”). As a result, the social network operates as a location and an instance of socialization, since adolescents socialise with their peers meanwhile they learn from observing the most popular posts which are the code lines and models to follow in search of a couple.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Disadvantages</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>When asked about the disadvantages of meeting a couple on FB, women responses present more concern than men. In social networks, the “other” –primarily the other unknown– can lie about some important aspects of his/her identity. In regard of the place of residence, there are two attitudes towards this. On one hand, the concealment, because this information is a strong reference that may be seen as an obstacle regarding the possibilities of building a relationship; stigmatized neighborhoods with low resources, those who port a negative sense, usually are not present in adolescents “profiles”, which provokes a great deal of confusion in the expectancies of others. But this concealment of their place of residence is not an exclusive characteristic in the use of networks, since is also a generalized practice in which LIS evaluate the costs and benefits that carry on the presentation of such stigmatised information.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the other hand, it is necessary to qualify the stigma of being “villero” or living in a humble neighborhood, because the same adolescents, in different cases, defend the culture of the ghetto, or their neighborhood. Both boys as girls add “ghetto”, “villera” or another neighborhood identity reference next to their names or nicknames in FB. They also add a reference to their neighborhood with their name (for example, “Mtd” is a contraction for the neighborhood </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mataderos</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, or “Lgn” contraction of the neighborhood </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Lugano</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>). This territorial reference that they include in their profile name operates in a way that anchors their identity and sociability inside the website. Even though any user can interact with anyone and there are inter-neighborhoods and inter-classist contacts, most of the contacts are between users of close, if not the same territory and the same or similar social class-sector.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>For adolescents from LIS the neighborhood is a strong identity mark from which they build their online profile. In a way of territorial and culture claim, they redeem their place of belonging and the values that they associate to it, as for example “bravery”, “loyalty”, “perseverance”, “resistance” and “history”. Sociability in Internet is not generated in an ubiquitous way, since it is produced, in most cases, between equals that live in the same territory, and claim the same neighborhood and share similar social conditions.</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Joaquín Linne, Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>On the other hand, meanwhile teenage girls of LIS have fears related to their psychical integrity (“he can be a rapist”; “he can rob you”), boys have fears related to the loss of autonomy (“if you have a girlfriend she controls everything you do in FB”; “you lose your liberty because they’re controlling all your posts”). This fear has started to appear also in a recurring way in the timelines of teenage LIS girls.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Both boys as girls of our research agree on the inconvenient of meeting people through FB: in first place, they point out that you’re always going to have a superficial and selective knowledge of the other person; in second place, the person can fail you on the date, or being someone very different from the identity built in the social network. The testimonies show that, even though the platform is an essential tool to search for a couple, it also possess its risks and disadvantages, because a performance is built up that not always meets the identity in person. These gaps between virtual and physical performance generate diverse daily problems in adolescents: from a couple that finds very difficult to trespass the fluidity of their virtual communication to the physical terrain, to the jealousy because one acts like he/she is single on FB, or the sensation of not being valued or acknowledged by the other person in any level. For example, an adolescent of 15 years old from </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Lugano</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> told us about her relationship: “when we were online everything was fine and on weekends too, but later in the week he didn’t pay attention to me, never calls, he is an idiot.”</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The Virtual Nightclub</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Considering all these aspects, we can think of the social network as a virtual nightclub. There is a difference between the traditional modes of searching for a couple, and the new forms develop from the interactions in the net. In this sense, we shall emphasize some of the characteristics of the virtual nightclub:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>It is open 24 hours: the platform works in a never ending way, without interruptions, it is a space where you can leave messages to a specific user or to a set of contacts. Since communication is mostly delayed, it is not necessary that both emissary and receptor be active. This way, whoever wants to start a conversation, makes a comment or sends a private message or “like” during any part of the day.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Access is free: Anyone who has Internet and is willing to give certain personal information can interact with another sending and accepting “friend requests”. The access is free because nobody controls the admission to the Internet; no one is “kicked out” of a place due to his-her appearance, manner of dressing or footwear. In this sense, adolescents prefer the security and the free-of-charge net communication from those in a private club or store where there is usually an entrance fee, a dressing way is required and sometimes disputes between peer groups are displayed.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The presentation in front of others: it doesn’t require the ability that demands the face to face protocol, neither the management of gestures or body-language on scene. For example, knowing or not knowing how to dance will not affect the possibilities of the candidates. Or being nervous in front of the presence of others will not affect the performance of the virtual seduction that every user displays. On the contrary, practice of showing oneself to others counts with the possibility of making a slow, meditated and selective work in the elaboration and sharing of pictures as well as in the comments. In this way, the ability that the user has to express himself in FB, is exercised and consolidated with the use of the net.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The approaching of strangers: is one of the newest aspects, because by sharing the contacts of “friends of friends” (concept in FB) it’s much easier to approach others that rapidly can contact themselves. Once the friend request is accepted, it is possible to elaborate an idea of the tastes and preferences of that person, see their group of friends and their families. The chat works as an intermediate instance between delayed communication and face-to-face encounters. Within the chat there is a sense of uncertainty expressed in spontaneous communication. Rapidly, a user can obtain a general scope of the tastes and preferences of a stranger from a distance.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Especially for shy people, the possibility of previous communication is an advantage. The sociability in the social network eases the trial and error without the pressure of a face-to-face situation. Said in another way, it generates less inhibition because of the “semi-anonymity” (acquaintances of acquaintances that haven’t met in person) or because interactions are not “one to one”. At the same time, a great advantage for adolescents, which usually are less experimented in interpersonal erotic-affective relationships, is the possibility of learning through the observation of others attitudes, posts and comments. In this way, FB operates as an instance of loving socialization, since it provides contacts to interact and learn from: they are the profiles, walls and posts of their most exhibitionist, effective, popular and self-confident peers whom operate as “style manual” and provide a guide of instructions for seduction, presentation and affective expressions, of what is liked and disliked, pictures or images and words that “fall in love” or those that produce indifference.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>To be an outstanding person in the “virtual nightclub” one must have a high level of visibility. Adolescents know how to accomplish this: “signing” dozens, hundreds and even thousands of timelines/walls, but above all having a lot of “signatures” (comments), likes, subscriptions and mentions of others. This is why there is a permanent search in accomplishing this visibility, and for that they gather their peers to leave their signatures in their own timeline. This usually occurs as an interchange: you sign my wall and I’ll sign yours, as observed in the following example:</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>The step towards a face-to-face encounter: this step usually implicates a high risk. When they meet face to face, it’s much more difficult to conceal nerves, anxiety, desires and fear of rejection. Besides the fear of deception through false identities and the possibility of concrete danger by thefts and physical assaults, adolescents also fear that the person won’t fulfill their expectancy generated online. In this sense, a great performance capacity is possible thanks to the network, ability that adolescents value and exploit to the maximum, comes with an important setback: the possibility of deception when they meet face to face. In other words, FB facilitates enormously the “first approach” but, at the same time, makes it much more difficult the rupture of the tension in a face to face encounter, which adolescents declare when they express their fear of “not knowing who the other really is”.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Conclusions</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Just like before the massification of Internet, girls try to decode what message</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>– and which candidates – are most suitable for dating, and the boys do their best to show them that they are the best choice. But what has changed with the popular use of 2.0 technologies and in particular with the existence of different online communities regarding neighborhood, age-based and cultural affinities? One change we observe about Internet is linked to the proliferation of desire and the variety of images of possible partners. Like a virtual nightclub (without a define body or territory), adolescents start out chatting trying to lead the relationship to a higher stage of intimacy. Therefore, social spaces such as school, parks, bars and nightclub spaces are overlap with a virtual sociability regarding FB, chat channels and instant messaging services.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>We have made an exploratory journey about the seduction and matchmaking strategies carried out by LIS adolescents of the City of Buenos Aires regarding FB. We point out here the importance of digital photography used for their presentation, as well as for the sociability expressed through the comments of the pictures. We also note that the statements of “relationship status” are central regarding relationships. We focused on the importance that adolescents give to their profiles trying to make them have high visibility and the ways they carry out this objective.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Finally, we have described the main advantages and disadvantages mentioned by LIS adolescents about meeting a couple in FB. We note here the importance of knowledge of their tastes and preferences as well as how to anticipate a first approach. We also identify the fear of meeting face to face and the lack of trust regarding what is presented as “true” in the profiles. In conclusion, we define the social network as a “virtual nightclub”, to highlight the changes that have occurred in the ways of social interaction between adolescents regarding matchmaking.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>References</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Albarello, Francisco. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Leer y navegar en Internet</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: La Crujía, 2011.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bauman, Zigmunt. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Liquid Modernity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Polity, 2000.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Beck, Ulrich. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Risk Society: Towards a New Modernity</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, London: Sage, 1992.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bouille, Julieta. ‘Cibercafés o la nueva esquina. Usos y apropiaciones de Internet en jóvenes de sectores populares’, in Urresti, M. (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ciberculturas juveniles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: La Crujía, 2008, pp. 105-120.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Butler, Judith. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Bodies that Matter: On the Discursive Limits of “Sex”</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Cambridge: Psychology Press, 1993.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Castells, Manuel. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Communication Power</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Oxford: Oxford University Press, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Chalfen, Richard. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Snapshots Versions of Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Ohio: University Popular Press, 1987.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Goffman, Erving. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Presentation of Self in Everyday Life</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, New York: Anchor Books, 1959.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Igarza, Roberto. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Burbujas de Ocio</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: La Crujía, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Internet World Stats, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.Internetworldstats.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Linne, Joaquín. Adolescentes y redes sociales. Usos y apropiaciones de Facebook en sectores populares de la Ciudad de Buenos Aires (Adolescents &amp; social networking. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Uses and appropiations of Facebook in low-income sectors of the City of Buenos Aires)</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Master thesis unpublished, Faculty of Social Sciences, University of Buenos Aires, Buenos Aires, 2013.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Lipovetsky, Gilles. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>El crepúsculo del deber, trans. Juana Bignozzi</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Barcelona: Anagrama, 1994.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Mendelson, Andrew &amp; Papacharissi, Zizi. ‘Look at us: Collective Narcissism in College Student Facebook PhotoGalleries’, in Papacharissi, Z. (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Networked Self: Identity, Community and Culture on Social Network Sites</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>. Illinois: Routledge, 2010.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Morduchowicz, Roxana. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>La generación multimedia. Significados, consumos y prácticas culturales de los jóvenes</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: Paidós, 2008.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Piscitelli, Alejandro. </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Nativos Digitales</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, Buenos Aires: Santillana, 2009.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Prensky, Marc, ‘Digital Natives, Digital Inmigrants’, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>On the Horizon</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, 9.5 (2001): 1-6.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Social Bakers, </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>socialbakers.com</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Urresti, Marcelo. ‘Ciberculturas juveniles: vida cotidiana, subjetividad y pertenencia entre los jóvenes ante el impacto de las nuevas tecnologías de la comunicación y la información’, in Urresti, Marcelo (ed.), </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Ciberculturas juveniles</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> (pp. 18-49). Buenos Aires: La Crujía, 2008.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+
+  </Story>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.socialbakers.com/" Name="link" DestinationURL="http://www.socialbakers.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="http://www.socialbakers.com/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.socialbakers.com/</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.Internetworldstats.com" Name="link" DestinationURL="http://www.Internetworldstats.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="http://www.Internetworldstats.com" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.Internetworldstats.com</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.internetworldstats.com" Name="link" DestinationURL="http://www.internetworldstats.com" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.internetworldstats.com" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http://www.internetworldstats.com</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>

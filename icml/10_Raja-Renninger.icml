@@ -9,11 +9,6 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Italic Link" Name="Italic Link" FontStyle="Italic">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -136,7 +131,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ibid.</Content>
+          <Content>Arjun Appudarai, </Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+          <Content>Modernity at Large: Cultural Dimensions of Globalization</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -202,7 +203,7 @@
           <Content>Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’, in Celia Romm Livermo (ed) </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-          <Content>Gender and Social Computing: Interactions, Differences, and Relationships</Content>
+          <Content>Gender and Social Computing: Interactions, Differences and Relationships</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>, Hershey, PA: IGI Global, 2011, p. 276.</Content>
@@ -232,7 +233,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Ibid.</Content>
+          <Content>Nainika Seth and Ravi Patnayakuni, ‘Online Matrimonial Sites and the Transformation of Arranged Marriage in India’.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1513,16 +1514,11 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>SAALT, ‘A Demographic Snapshot of South Asians in the United States’, July 2012.</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Retrieved from </Content>
+    <Content>SAALT, ‘A Demographic Snapshot of South Asians in the United States’, July 2012. Retrieved from </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
-      <Content>http://saalt.org/wp-content/uploads/2012/09/Demographic-</Content>
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1542,15 +1538,16 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved from</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+    <Content>US Census Bureau, ‘The Asian Population: 2010’, March 2012. Retrieved from </Content>
+  </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>.</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
   </Story>
