@@ -17,6 +17,22 @@ The research decodes the approach to online dating in various countries like Fra
 Keywords: online dating, social media, Institute of Network Cultures, print on demand, digital media, media theory, sociology, humanities, new media, France, India, China, Portugal, USA, methodologies, match.com, courtship, traditional, differences, Turkey, interactions, romantic, partners, search, love, facebook. 
   
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+
+Font(s) used: Open Sans
+
+Copyright 2015 Steve Matteson & GoogleFonts
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ...
 
 # Online Courtship: Interpersonal Interactions Across Borders
