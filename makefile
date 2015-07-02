@@ -84,7 +84,7 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-embed-font=../lib/OpenSans-Light.otf \
 		--epub-embed-font=../lib/OpenSans-LightItalic.otf \
 		--epub-embed-font=../lib/OpenSans-Semibold.otf \
-		--epub-embed-font=../lib/OpenSans-SemiboldlItalic.otf \
+		--epub-embed-font=../lib/OpenSans-SemiboldItalic.otf \
 		-o ../book.epub \
 		book.md && \
 		cd .. && \
