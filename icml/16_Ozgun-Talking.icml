@@ -596,25 +596,25 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://chaturbate.com/vnmses/" Name="link" DestinationURL="http://chaturbate.com/vnmses/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//chaturbate.com/vnmses/" Name="link" DestinationURL="http://chaturbate.com/vnmses/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://chaturbate.com/vnmses/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://chaturbate.com/vnmses/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//chaturbate.com/vnmses/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://chaturbate.com/businesslady/" Name="link" DestinationURL="http://chaturbate.com/businesslady/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//chaturbate.com/businesslady/" Name="link" DestinationURL="http://chaturbate.com/businesslady/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://chaturbate.com/businesslady/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://chaturbate.com/businesslady/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//chaturbate.com/businesslady/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/" Name="link" DestinationURL="http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/" Name="link" DestinationURL="http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/</Destination>
     </Properties>
   </Hyperlink>
 </Document>

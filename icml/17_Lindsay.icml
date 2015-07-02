@@ -2812,151 +2812,151 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-21" Name="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-20" Name="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" Name="link" DestinationURL="http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" Name="link" DestinationURL="http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-19" Name="http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-18" Name="http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/" Name="link" DestinationURL="http://blog.okcupid.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/" Name="link" DestinationURL="http://blog.okcupid.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-17" Name="http://blog.okcupid.com/" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-looks-and-online-dating/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-looks-and-online-dating/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-looks-and-online-dating/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-looks-and-online-dating/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-16" Name="http://blog.okcupid.com/index.php/your-looks-and-online-dating/" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-looks-and-online-dating/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-looks-and-online-dating/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" Name="link" DestinationURL="http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" Name="link" DestinationURL="http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-15" Name="http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.match.com/magazine/" Name="link" DestinationURL="http://www.match.com/magazine/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.match.com/magazine/" Name="link" DestinationURL="http://www.match.com/magazine/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-14" Name="http://www.match.com/magazine/" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.match.com/magazine/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.match.com/magazine/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-13" Name="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-12" Name="http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" Name="link" DestinationURL="http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" Name="link" DestinationURL="http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-11" Name="http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-10" Name="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/" Name="link" DestinationURL="http://blog.okcupid.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/" Name="link" DestinationURL="http://blog.okcupid.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-9" Name="http://blog.okcupid.com/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/" Name="link" DestinationURL="http://blog.okcupid.com/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/" Name="link" DestinationURL="http://blog.okcupid.com/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="http://blog.okcupid.com/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" Name="link" DestinationURL="http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" Name="link" DestinationURL="http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.match.com/magazine/" Name="link" DestinationURL="http://www.match.com/magazine/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.match.com/magazine/" Name="link" DestinationURL="http://www.match.com/magazine/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://www.match.com/magazine/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.match.com/magazine/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.match.com/magazine/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-looks-and-online-dating/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-looks-and-online-dating/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-looks-and-online-dating/" Name="link" DestinationURL="http://blog.okcupid.com/index.php/your-looks-and-online-dating/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://blog.okcupid.com/index.php/your-looks-and-online-dating/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://blog.okcupid.com/index.php/your-looks-and-online-dating/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//blog.okcupid.com/index.php/your-looks-and-online-dating/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497" Name="link" DestinationURL="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://org.sagepub.com/content/early/2013/05/01/1350508413485497" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//org.sagepub.com/content/early/2013/05/01/1350508413485497</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx" Name="link" DestinationURL="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.pewinternet.org/Reports/2013/Online-Dating.aspx" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.pewinternet.org/Reports/2013/Online-Dating.aspx</Destination>
     </Properties>
   </Hyperlink>
 </Document>

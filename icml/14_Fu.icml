@@ -5534,277 +5534,277 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Name="link" DestinationURL="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Name="link" DestinationURL="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-39" Name="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Source="htss-39" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Name="link" DestinationURL="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Name="link" DestinationURL="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-38" Name="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Source="htss-38" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Name="link" DestinationURL="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Name="link" DestinationURL="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-37" Name="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Name="link" DestinationURL="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Name="link" DestinationURL="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-36" Name="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-35" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-34" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html" Source="htss-34" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Name="link" DestinationURL="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Name="link" DestinationURL="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-33" Name="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Source="htss-33" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Name="link" DestinationURL="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Name="link" DestinationURL="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-32" Name="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Name="link" DestinationURL="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Name="link" DestinationURL="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-31" Name="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://v.book.ifeng.com/book/ts/32678/2605023.htm" Name="link" DestinationURL="http://v.book.ifeng.com/book/ts/32678/2605023.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//v.book.ifeng.com/book/ts/32678/2605023.htm" Name="link" DestinationURL="http://v.book.ifeng.com/book/ts/32678/2605023.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-30" Name="http://v.book.ifeng.com/book/ts/32678/2605023.htm" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://v.book.ifeng.com/book/ts/32678/2605023.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//v.book.ifeng.com/book/ts/32678/2605023.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Name="link" DestinationURL="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Name="link" DestinationURL="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-29" Name="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Source="htss-29" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Name="link" DestinationURL="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Name="link" DestinationURL="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-28" Name="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Source="htss-28" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Name="link" DestinationURL="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Name="link" DestinationURL="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-27" Name="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Source="htss-27" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://report.iresearch.cn/2106.html" Name="link" DestinationURL="http://report.iresearch.cn/2106.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//report.iresearch.cn/2106.html" Name="link" DestinationURL="http://report.iresearch.cn/2106.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-26" Name="http://report.iresearch.cn/2106.html" Source="htss-26" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://report.iresearch.cn/2106.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//report.iresearch.cn/2106.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Name="link" DestinationURL="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Name="link" DestinationURL="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-25" Name="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Source="htss-25" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Name="link" DestinationURL="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Name="link" DestinationURL="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-24" Name="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Source="htss-24" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Name="link" DestinationURL="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Name="link" DestinationURL="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-23" Name="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Source="htss-23" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Name="link" DestinationURL="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Name="link" DestinationURL="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-22" Name="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Source="htss-22" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Name="link" DestinationURL="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Name="link" DestinationURL="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-21" Name="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Source="htss-21" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Name="link" DestinationURL="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Name="link" DestinationURL="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-20" Name="http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm" Source="htss-20" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Name="link" DestinationURL="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Name="link" DestinationURL="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-19" Name="http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf" Source="htss-19" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Name="link" DestinationURL="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Name="link" DestinationURL="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-18" Name="http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm" Source="htss-18" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-17" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html" Source="htss-17" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html" Name="link" DestinationURL="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-16" Name="http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html" Source="htss-16" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://v.book.ifeng.com/book/ts/32678/2605023.htm" Name="link" DestinationURL="http://v.book.ifeng.com/book/ts/32678/2605023.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//v.book.ifeng.com/book/ts/32678/2605023.htm" Name="link" DestinationURL="http://v.book.ifeng.com/book/ts/32678/2605023.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-15" Name="http://v.book.ifeng.com/book/ts/32678/2605023.htm" Source="htss-15" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://v.book.ifeng.com/book/ts/32678/2605023.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//v.book.ifeng.com/book/ts/32678/2605023.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Name="link" DestinationURL="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Name="link" DestinationURL="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-14" Name="http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf" Source="htss-14" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Name="link" DestinationURL="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Name="link" DestinationURL="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-13" Name="http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Name="link" DestinationURL="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Name="link" DestinationURL="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-12" Name="http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Name="link" DestinationURL="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Name="link" DestinationURL="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-11" Name="http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Name="link" DestinationURL="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Name="link" DestinationURL="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-10" Name="http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Name="link" DestinationURL="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Name="link" DestinationURL="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-9" Name="http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&amp;\_type=blogs&amp;\_r=0</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Name="link" DestinationURL="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Name="link" DestinationURL="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Name="link" DestinationURL="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Name="link" DestinationURL="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Name="link" DestinationURL="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Name="link" DestinationURL="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://media.baihe.com/html/71/n-871.html" Name="link" DestinationURL="http://media.baihe.com/html/71/n-871.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//media.baihe.com/html/71/n-871.html" Name="link" DestinationURL="http://media.baihe.com/html/71/n-871.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://media.baihe.com/html/71/n-871.html" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://media.baihe.com/html/71/n-871.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//media.baihe.com/html/71/n-871.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Name="link" DestinationURL="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Name="link" DestinationURL="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Name="link" DestinationURL="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Name="link" DestinationURL="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&amp;keytype=ref&amp;siteid=sppsi</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://report.iresearch.cn/2106.html" Name="link" DestinationURL="http://report.iresearch.cn/2106.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//report.iresearch.cn/2106.html" Name="link" DestinationURL="http://report.iresearch.cn/2106.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://report.iresearch.cn/2106.html" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://report.iresearch.cn/2106.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//report.iresearch.cn/2106.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Name="link" DestinationURL="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Name="link" DestinationURL="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf</Destination>
     </Properties>
   </Hyperlink>
 </Document>

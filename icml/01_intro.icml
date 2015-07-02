@@ -1272,60 +1272,60 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Name="link" DestinationURL="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Name="link" DestinationURL="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-8" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Name="link" DestinationURL="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Name="link" DestinationURL="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-7" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Name="link" DestinationURL="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Name="link" DestinationURL="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Name="link" DestinationURL="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Name="link" DestinationURL="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Name="link" DestinationURL="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Name="link" DestinationURL="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Name="link" DestinationURL="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Name="link" DestinationURL="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Name="link" DestinationURL="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Name="link" DestinationURL="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" Name="link" DestinationURL="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" Name="link" DestinationURL="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html</Destination>
     </Properties>
   </Hyperlink>
 </Document>

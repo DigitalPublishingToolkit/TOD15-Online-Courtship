@@ -2405,11 +2405,11 @@
       <Destination type="object">HyperlinkURLDestination/numbering.xml</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.tapuz.co.il" Name="link" DestinationURL="http://www.tapuz.co.il" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.tapuz.co.il" Name="link" DestinationURL="http://www.tapuz.co.il" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://www.tapuz.co.il" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.tapuz.co.il</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.tapuz.co.il</Destination>
     </Properties>
   </Hyperlink>
 </Document>

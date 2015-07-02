@@ -1506,46 +1506,46 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Name="link" DestinationURL="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Name="link" DestinationURL="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-6" Name="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-5" Name="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://eHarmony.com" Name="link" DestinationURL="http://eHarmony.com" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//eHarmony.com" Name="link" DestinationURL="http://eHarmony.com" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-4" Name="http://eHarmony.com" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://eHarmony.com</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//eHarmony.com</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/https://www.youtube.com/watch?v=dJrZBMzpRBE" Name="link" DestinationURL="https://www.youtube.com/watch?v=dJrZBMzpRBE" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=dJrZBMzpRBE" Name="link" DestinationURL="https://www.youtube.com/watch?v=dJrZBMzpRBE" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-3" Name="https://www.youtube.com/watch?v=dJrZBMzpRBE" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/https://www.youtube.com/watch?v=dJrZBMzpRBE</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.youtube.com/watch?v=dJrZBMzpRBE</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Name="link" DestinationURL="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Name="link" DestinationURL="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-2" Name="http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.census.gov/prod/cen2010/briefs/c2010br-11.pdf</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" DestinationUniqueKey="1" />
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Name="link" DestinationURL="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" DestinationUniqueKey="1" />
   <Hyperlink Self="uf-1" Name="http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http://saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//saalt.org/wp-content/uploads/2012/09/Demographic-Snapshot-Asian-American-Foundation-2012.pdf</Destination>
     </Properties>
   </Hyperlink>
 </Document>
