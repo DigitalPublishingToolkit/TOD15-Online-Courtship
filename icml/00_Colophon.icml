@@ -336,7 +336,7 @@
     <Content>Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> &lt;br/</Content>
+    <Content> </Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 

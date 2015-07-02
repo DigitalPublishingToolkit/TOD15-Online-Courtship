@@ -1227,7 +1227,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Oncevatan. </Content>
+          <Content>Oncevatan, </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
