@@ -29,7 +29,6 @@ while i < len(lines):
 			start = False
 	i += 1
 
-# strip last character, a superfluous newline
-text = ''.join(lines)[:-1]
+text = ''.join(lines)
 print text
 
