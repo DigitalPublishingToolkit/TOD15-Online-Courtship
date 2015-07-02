@@ -1129,7 +1129,7 @@ Oncevatan. <http://www.oncevatan.com.tr/>.
 [^18_TVshows-ozustun-Final_8]: Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. 'Uses and
     gratifications research.' Public opinion quarterly (1973): 509-523.
 
-[^18_TVshows-ozustun-Final_9]: Oncevatan. <http://www.oncevatan.com.tr/>.
+[^18_TVshows-ozustun-Final_9]: Oncevatan, <http://www.oncevatan.com.tr/>.
 
 [^18_TVshows-ozustun-Final_10]: Alemdar, Korkmaz-Erdoğan, İrfan, 'Popüler Kültür ve İletişim',
     Ankara, Ümit Yayıncılık, 1994, p. 263

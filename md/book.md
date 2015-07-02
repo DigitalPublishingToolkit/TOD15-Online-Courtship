@@ -7338,23 +7338,14 @@ coexisting and varied models for these modes of relating.
 ## Appendix
 
 Participant 1: Male/34/U.S.-born/Raised Hindu
-
 Participant 2: Male/35/Indian-born
-
 Participant 3: Female/35/Indian-born/Raised Hindu
-
 Participant 4: Female/29/U.S.-born/Raised Hindu
-
 Participant 5: Female/33/U.S.-born/Raised Buddhist
-
 Participant 6: Female/26/Indian-born
-
 Participant 7: Female/30/U.S.-born/Raised Hindu
-
 Participant 8: Female/32/U.S.-born/Raised Hindu
-
 Participant 9: Female/29/U.S.-born/Raised Jain
-
 Participant 10: Male/33/U.S.-born/Raised Hindu
 
 ## References
@@ -10099,7 +10090,7 @@ images.
 ## References
 
 ‘Baihewang guanggao: Yinwei ai bu dengdai’, Youku,
-<http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html>
+<http://v.youku.com/v_show/id_XNjY2NzE2OTA4.html>.
 
 Ben-Ze'ev, Aaron. *Love Online: Emotions on the Internet*, Cambridge:
 Cambridge University Press, 2004.
@@ -10142,11 +10133,11 @@ Hviid Jacobsen (ed.), *The Contemporary Goffman*, New York, NY: Routledge,
 
 Joe. ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’,
 China Smack (9 February 2014),
-<http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html>
+<http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html>.
 
 Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m
 Users’, Shanghaiist (14 November 2013),
-<http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>
+<http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>.
 
 Kaufmann, Jean-Claude. *Love Online*, trans. David Macey, Cambridge:
 Polity Press, 2012.
@@ -10178,9 +10169,9 @@ and Public Culture*, Durham: Duke University Press, 2007.
 
 Rosenman, Olivia. ‘China's Sexual Revolution: “One-night Stand” app Momo
 Boasts 80 Million Users’, South China Morning Post (13 November 2013),
-<http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>
+<http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>.
 
-Sheller, Mimi, & Urry, John. 2006, "The New Mobilities Paradigm",
+Sheller, Mimi, & John Urry. 2006, "The New Mobilities Paradigm",
 *Environment and Planning* A 38(2), 207-226.
 
 Synnott, Anthony. ‘Truth and Goodness, Mirrors and Masks: A Sociology of
@@ -10189,11 +10180,11 @@ Popular Culture: Theories and Methodologies in Archeology, Anthropology,
 and Other Fields*, Bowling Green: Popular Press, 1991.
 
 Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai
-Mom zuo shenme?’, Zhihu, <http://www.zhihu.com/question/22680523>
+Mom zuo shenme?’, Zhihu, <http://www.zhihu.com/question/22680523>.
 
 Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, New
 York Times (24 July 2013),
-<http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
+<http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>.
 
 Terranova, Tiziana. *Network Culture: Politics for the Information Age*,
 London: Pluto Press, 2004.
@@ -10219,10 +10210,10 @@ Palgrave MacMillan, 2007.
 
 [^13_deSeta_Zhang_2]: Joe, ‘Chinese Dating Site TV Ad Promotes Being Forced into
     Marriage’, ChinaSmack,
-    [http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html](../customXml/item1.xml).
+    <http://www.chinasmack.com/2014/videos/chinese-dating-site-tv-ad-promotes-being-forced-into-marriage.html>.
 
 [^13_deSeta_Zhang_3]: ‘Baihewang Guanggao: Yinwei Ai Bu Dengdai’, *Youku*,
-    [http://v.youku.com/v\_show/id\_XNjY2NzE2OTA4.html](numbering.xml)
+    <http://v.youku.com/v\_show/id\_XNjY2NzE2OTA4.html>.
 
 [^13_deSeta_Zhang_4]: ‘Cherished love’, translation by the authors.
 
@@ -10230,13 +10221,11 @@ Palgrave MacMillan, 2007.
     Limited, is the instant messaging mobile app most popular in China
     at the time of writing.
 
-[^13_deSeta_Zhang_6]: CNNIC, The 32nd Statistical Report on Internet Development in
-    China, Beijing: China Internet Network Information Center, 2013, p.
-    7.
+[^13_deSeta_Zhang_6]: CNNIC, *The 32nd Statistical Report on Internet Development in
+    China*, Beijing: China Internet Network Information Center, 2013, p. 7.
 
-[^13_deSeta_Zhang_7]: Jack Linchuan Qiu, ‘The Internet in China: Technologies of Freedom
-    in a Statist Society’, in Manuel Castells (ed.), The Network
-    Society: A Cross-cultural Perspective, Cheltenham: Edward Elgar
+[^13_deSeta_Zhang_7]: Jack Linchuan Qiu, ‘The Internet in China: Technologies of Freedom in a Statist Society’, in Manuel Castells (ed.), *The Network
+    Society: A Cross-cultural Perspective*, Cheltenham: Edward Elgar
     Publishing Limited, 2004, p. 99.
 
 [^13_deSeta_Zhang_8]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the
@@ -10248,16 +10237,14 @@ Palgrave MacMillan, 2007.
     Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010,
     p. 7.
 
-[^13_deSeta_Zhang_10]: *Ibid*.
+[^13_deSeta_Zhang_10]: Stephanie Hemelryk Donald, ‘Introduction: Why Mobility Matters'.
 
-[^13_deSeta_Zhang_11]: Christine Hine, The Internet: Understanding Qualitative Research,
-    New York: Oxford University Press, 2013, p. 20.
+[^13_deSeta_Zhang_11]: Christine Hine, *The Internet: Understanding Qualitative Research*, New York: Oxford University Press, 2013, p. 20.
 
 [^13_deSeta_Zhang_12]: Mimi Sheller & John Urry, ‘The New Mobilities Paradigm’,
     Environment and Planning A 38.2, 2006, p. 271.
 
-[^13_deSeta_Zhang_13]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the
-    Chinese Internet, p. 131.
+[^13_deSeta_Zhang_13]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, p. 131.
 
 [^13_deSeta_Zhang_14]: When going beyond occasional online chatting and agreeing to
     actual meetings with Momo users, we always made a point to disclose
@@ -10265,89 +10252,75 @@ Palgrave MacMillan, 2007.
     and to assure participants regarding the anonymization of the data
     collected from them.
 
-[^13_deSeta_Zhang_15]: Jaz Hee-jong Choi, ‘The City, Self and Connections’, in Stephanie
-    Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds),
-    Youth, Society and Mobile Media in Asia, Abingdon, UK: Routledge,
+[^13_deSeta_Zhang_15]: Jaz Hee-jong Choi, ‘The City, Self and Connections’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds),
+    *Youth, Society and Mobile Media in Asia*, Abingdon, UK: Routledge,
     2010, p. 90.
 
-[^13_deSeta_Zhang_16]: Katie Nelson, ‘Momo App, the “Magical Tool to Get Laid”, Reaches
-    80m Users’, *Shanghaiist* (14 November 2013),
-    http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php
+[^13_deSeta_Zhang_16]: Katie Nelson, ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, *Shanghaiist* (14 November 2013),
+    <http://shanghaiist.com/2013/11/14/momo-app-reaches-80-million-users.php>
 
 [^13_deSeta_Zhang_17]: See Fig. 2.
 
-[^13_deSeta_Zhang_18]: *Ibid.*
+[^13_deSeta_Zhang_18]: See Fig. 2.
 
 [^13_deSeta_Zhang_19]: Olivia Rosenman, ‘China's Sexual Revolution: “One-Night Stand”
     App Momo Boasts 80 Million Users’, *South China Morning Post* (14
     November 2013),
-    http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users
+    <http://www.scmp.com/news/china-insider/article/1355124/chinese-instant-messaging-app-momo-boasts-80-million-users>
 
 [^13_deSeta_Zhang_20]: Didi Kirsten Tatlow, ‘Apps Offer Chinese a Path to the
     Forbidden’, *New York Times* (24 July
-    2013), [http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&](styles.xml)
+    2013), <http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
 
-[^13_deSeta_Zhang_21]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou
-    Zai Momo Zuo Shenme?’, *Zhihu* (February 2014),
-    [http://www.zhihu.com/question/22680523](stylesWithEffects.xml)
+[^13_deSeta_Zhang_21]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou Zai Momo Zuo Shenme?’, *Zhihu* (February 2014), <http://www.zhihu.com/question/22680523>
 
-[^13_deSeta_Zhang_22]: Jon Pirone, Don Mayo, and Kathy Berkemeyer, Internet in an Hour:
-    Romance & Relationships, New York: DDC Publishing, 1999.
+[^13_deSeta_Zhang_22]: Jon Pirone, Don Mayo, and Kathy Berkemeyer, Internet in an Hour: Romance & Relationships, New York: DDC Publishing, 1999.
 
-[^13_deSeta_Zhang_23]: Andrea Orr, Meeting, Mating, and Cheating: Sex, Love, and the New
-    World of Online Dating, Upper Saddle River: Reuters, 2004, p. xiii;
-    Jean-Claude Kaufmann, Love Online, trans. David Macey, Cambridge:
-    Polity Press, 2012, p. 4.
+[^13_deSeta_Zhang_23]: Andrea Orr, Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating, Upper Saddle River: Reuters, 2004, p. xiii; in Jean-Claude Kaufmann, *Love Online*, trans. David Macey, Cambridge: Polity Press, 2012, p. 4.
 
-[^13_deSeta_Zhang_24]: Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New
-    World of Online Dating, p. x.
+[^13_deSeta_Zhang_24]: Andrea Orr, *Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating*, p. x.
 
-[^13_deSeta_Zhang_25]: *Ibid.*, p. xi.
+[^13_deSeta_Zhang_25]: Andrea Orr, *Meeting, Mating, and Cheating*, p. xi.
 
-[^13_deSeta_Zhang_26]: Aaron Ben-Ze'ev, Love Online: Emotions on the Internet,
+[^13_deSeta_Zhang_26]: Aaron Ben-Ze'ev, *Love Online: Emotions on the Internet*,
     Cambridge: Cambridge University Press, 2004, p. xi.
 
-[^13_deSeta_Zhang_27]: *Ibid.*
+[^13_deSeta_Zhang_27]: Aaron Ben-Ze'ev, 'Love Online'.
 
-[^13_deSeta_Zhang_28]: Monica Whitty and Adrian Carr, Cyberspace Romance: The Psychology
-    of Online Relationships, Houndmills: Palgrave MacMillan, 2006, p.
-    xii.
+[^13_deSeta_Zhang_28]: Monica Whitty and Adrian Carr, *Cyberspace Romance: The Psychology of Online Relationships*, Houndmills: Palgrave MacMillan, 2006, p. xii.
 
-[^13_deSeta_Zhang_29]: Tiziana Terranova, Network Culture: Politics for the Information
-    Age, London: Pluto Press, 2004, p. 42.
+[^13_deSeta_Zhang_29]: Tiziana Terranova, *Network Culture: Politics for the Information Age*, London: Pluto Press, 2004, p. 42.
 
-[^13_deSeta_Zhang_30]: *Ibid*.
+[^13_deSeta_Zhang_30]: Tiziana Terranova, *Network Culture*.
 
-[^13_deSeta_Zhang_31]: *Ibid*.
+[^13_deSeta_Zhang_31]: Tiziana Terranova, *Network Culture*.
 
-[^13_deSeta_Zhang_32]: John Urry, Mobilities, Cambridge: Polity Press, 2000.
+[^13_deSeta_Zhang_32]: John Urry, *Mobilities*, Cambridge: Polity Press, 2000.
 
 [^13_deSeta_Zhang_33]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, in
-    Michael Hviid Jacobsen (ed.), The Contemporary Goffman, New York:
+    Michael Hviid Jacobsen (ed.), *The Contemporary Goffman*, New York:
     Routledge, 2010, p. 334.
 
-[^13_deSeta_Zhang_34]: *Ibid.*, p. 345.
+[^13_deSeta_Zhang_34]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, p. 345.
 
-[^13_deSeta_Zhang_35]: *Ibid.*, p. 347.
+[^13_deSeta_Zhang_35]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, p. 347.
 
-[^13_deSeta_Zhang_36]: *Ibid.*, p. 345.
+[^13_deSeta_Zhang_36]: Ole B. Jensen, ‘Erving Goffman and Everyday Life Mobility’, p. 345.
 
 [^13_deSeta_Zhang_37]: Cara Wallis, ‘The Technological Meets the Traditional: Mobile
     Navigations of Desire and Intimacy’, in Stephanie Hemelryk Donald,
-    Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society
-    and Mobile Media in Asia, Abingdon: Routledge, 2010,p. 58.
+    Theresa Dirndorfer Anderson and Damien Spry (eds.), *Youth, Society
+    and Mobile Media in Asia*, Abingdon: Routledge, 2010,p. 58.
 
 [^13_deSeta_Zhang_38]: Jaz Hee-jong Choi, ‘The City, Self and Connections’, p. 90.
 
 [^13_deSeta_Zhang_39]: Quoted from Didi Kirsten Tatlow, ‘Apps offer Chinese a path to
     the forbidden’, *New York Times* (24 July
-    2013), *http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&*
+    2013), <http://www.nytimes.com/2013/07/25/world/asia/25iht-letter25.html?\_r=1&>
 
-[^13_deSeta_Zhang_40]: Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New
-    World of Online Dating, p. 100.
+[^13_deSeta_Zhang_40]: Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating, p. 100.
 
-[^13_deSeta_Zhang_41]: Monica Whitty & Adrian Carr, Cyberspace Romance: The Psychology
-    of Online Relationships, p. 30.
+[^13_deSeta_Zhang_41]: Monica Whitty & Adrian Carr, Cyberspace Romance: The Psychology of Online Relationships, p. 30.
 
 [^13_deSeta_Zhang_42]: Anthony Synnott, "Truth and Goodness, Mirrors and Masks: A
     Sociology of Beauty and the Face", in Ray B. Browne & Pat Browne
@@ -10357,17 +10330,16 @@ Palgrave MacMillan, 2007.
 
 [^13_deSeta_Zhang_43]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou
     Zai Momo Zuo Shenme?’, *Zhihu* (9 February
-    2014), [http://www.zhihu.com/question/22680523](settings.xml).
+    2014), <http://www.zhihu.com/question/22680523>.
 
 [^13_deSeta_Zhang_44]: Pierre Bourdieu, The Bachelor’s Ball, Cambridge: Polity Press,
     2008, p. 86.
 
 [^13_deSeta_Zhang_45]: Tang Yan, ‘Momo Yonghu Guo Yi Ruhe Pingjia? Zheme Duo Yonghu Dou
-    Zai Momo Zuo Shenme?’, *Zhihu*,
-    [http://www.zhihu.com/question/22680523](webSettings.xml).
+    Zai Momo Zuo Shenme?’, *Zhihu*, <http://www.zhihu.com/question/22680523>.
 
-[^13_deSeta_Zhang_46]: <span id="OLE_LINK1" class="anchor"></span>Erving Goffman, The
-    Presentation of Self in Everyday Life, Carden City: Doubleday Anchor
+[^13_deSeta_Zhang_46]: Erving Goffman, *The
+    Presentation of Self in Everyday Life*, Carden City: Doubleday Anchor
     Books, 1959, p. 146.
 
 [^13_deSeta_Zhang_47]: Pierre Bourdieu, The Bachelor’s Ball, p. 88.
@@ -10391,8 +10363,7 @@ Palgrave MacMillan, 2007.
     (ed.), Romantic Love and Sexual Behavior: Perspectives from the
     Social Sciences, Westport: Praeger, 1998, p. 262.
 
-[^13_deSeta_Zhang_54]: The play on words relies on the homophony between the two Chinese
-    characters *mo* (陌, ‘stranger, unacquainted with’) and *mo* (寞
+[^13_deSeta_Zhang_54]: The play on words relies on the homophony between the two Chinese characters *mo* (陌, ‘stranger, unacquainted with’) and *mo* (寞
     ‘lonely’).
 
 [^13_deSeta_Zhang_55]: Drew Hemment, 'Locative Arts', *Leonardo 39*(4), 2006, p. 349.
@@ -10406,8 +10377,7 @@ Palgrave MacMillan, 2007.
 [^13_deSeta_Zhang_58]: Jenson Ole B. Jensen, ‘Erving Goffman and everyday life
     mobility’, p. 338.
 
-[^13_deSeta_Zhang_59]: Erving Goffman, Relations in Public: Micro Studies of the Public
-    Order, p. 19.
+[^13_deSeta_Zhang_59]: Erving Goffman, Relations in Public: Micro Studies of the Public Order, p. 19.
 
 [^13_deSeta_Zhang_60]: Howard Rheingold, The Virtual Community: Homesteading on the
     Electronic Frontier, Cambridge: MIT Press, 2000.
@@ -10418,33 +10388,28 @@ Palgrave MacMillan, 2007.
 [^13_deSeta_Zhang_62]: Lisa Rofel, Desiring China: Experiments in Neoliberalism,
     Sexuality, and Public Culture, Durham: Duke University Press, 2007.
 
-[^13_deSeta_Zhang_63]: Evgeny Morozov, The Net Delusion: The Dark Side of Internet
-    Freedom, New York: Public Affairs, 2011, p. 70.
+[^13_deSeta_Zhang_63]: Evgeny Morozov, *The Net Delusion: The Dark Side of Internet
+    Freedom*, New York: Public Affairs, 2011, p. 70.
 
-[^13_deSeta_Zhang_64]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the
-    Chinese Internet, p. 183.
+[^13_deSeta_Zhang_64]: Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, p. 183.
 
-[^13_deSeta_Zhang_65]: Richard Burger, Behind the red door: Sex in China, Hong Kong:
-    Earnshaw Books, 2012, p. 4.
+[^13_deSeta_Zhang_65]: Richard Burger, *Behind the red door: Sex in China*, Hong Kong: Earnshaw Books, 2012, p. 4.
 
-[^13_deSeta_Zhang_66]: Jean-Claude Kaufmann, Love Online, trans. David Macey, Cambridge:
-    Polity Press, 2012, p. 94.
+[^13_deSeta_Zhang_66]: Jean-Claude Kaufmann, *Love Online*, trans. David Macey, Cambridge: Polity Press, 2012, p. 94.
 
-[^13_deSeta_Zhang_67]: Sherry Turkle. Alone Together: Why We Expect More from Technology
-    and Less from Each Other, New York: Basic Books, 2012, pp.280-281*.
-    *
+[^13_deSeta_Zhang_67]: Sherry Turkle. *Alone Together: Why We Expect More from Technology and Less from Each Other*, New York: Basic Books, 2012, pp.280-281.
 
-[^13_deSeta_Zhang_68]: *Ibid.*, p.231.
+[^13_deSeta_Zhang_68]: Sherry Turkle. Alone Together, p.231.
 
-# What Are the *Shengnv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women’s Personal Profiles on Jiayuan.com
+# What Are the *Shengnv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women's Personal Profiles on Jiayuan.com
 
 ### Tao Fu
 
 ## Introduction
 
-Online dating is the romance-seeking process “in which individuals
+Online dating is the romance-seeking process "in which individuals
 create profiles and initiate contact with others through an online
-service.”[^14_Fu_1] First appearing in the mid-1990s, online dating sites
+service."[^14_Fu_1] First appearing in the mid-1990s, online dating sites
 enable users to create personal profiles and find matches according to
 various criteria[^14_Fu_2] with the help of the computer-mediated
 communication (CMC). Some sites are categorized as the match-making type
@@ -10463,7 +10428,7 @@ date. With the stigma related to online dating gradually
 dissipating,[^14_Fu_7] online dating has become the second most widely used
 way for seeking a partner, only after connecting through friends.[^14_Fu_8]
 
-China’s unmarried population between 18 and 55 accounted for 14.5
+China's unmarried population between 18 and 55 accounted for 14.5
 percent of the total in 2011, among whom 85 million were women.[^14_Fu_9] With
 the issue of the new Marriage Law,[^14_Fu_10] arranged marriage was banned in
 1950,[^14_Fu_11] which empowered Chinese women to freely choose their
@@ -10472,8 +10437,8 @@ dating site came into being in 1998 in China,[^14_Fu_12] 23.8 percent of
 survey respondents said online dating was a reliable way to get to know
 a potential date.[^14_Fu_13]
 
-The present study focuses on how in Shanghai, China’s most populous
-city, a “special” social group – *shengnv* – presented themselves on a
+The present study focuses on how in Shanghai, China's most populous
+city, a 'special' social group – *shengnv* – presented themselves on a
 dating site, Jiayuan.com, in pursuit of a heterosexual relationship. It
 also explores the social implications of the self-presentation and
 mate-selection criteria in personal profiles as to how it challenges the
@@ -10484,12 +10449,12 @@ stereotypical gender-roles of Chinese women.
 In the West, well-educated and professionally successful women are
 considered to be independent and liberated.[^14_Fu_14] Their Chinese peers,
 however, are less fortunate and even stigmatized as leftovers. The word,
-*shengnv*, sometimes *shengnu*, or “leftover women,” refers to
+*shengnv*, sometimes *shengnu*, or 'leftover women', refers to
 well-educated, economically successful urban single women in their late
 20s and older.[^14_Fu_15] *Shengnv* became an official word listed by the
-Ministry of Education of China in 2007.[^14_Fu_16] In 2010, All-China Women’s
+Ministry of Education of China in 2007.[^14_Fu_16] In 2010, All-China Women's
 Federation, with other organizations, conducted and released a survey on
-Chinese people’s attitude toward love and marriage. The results showed
+Chinese people's attitude toward love and marriage. The results showed
 that more than 90 percent of the males thought women should get married
 before 27.[^14_Fu_17] Similar results were found in another survey conducted
 by Baihe.com,[^14_Fu_18] a dating Web site. Some 62.2 percent of male
@@ -10514,32 +10479,32 @@ As is the case with the older generation of American women, for whom
 marriage was a core life experience,[^14_Fu_24] 98 percent of Chinese women
 are married in the end.[^14_Fu_25] Marriage is considered the final
 destination for women since taking care of family and children are
-culturally considered women’s duties. Women were found to get more
+culturally considered women's duties. Women were found to get more
 satisfaction than men from marriage.[^14_Fu_26] Therefore, if a woman remains
 single after 25, especially after 30, she is considered incomplete and
 abnormal.[^14_Fu_27]
 
-China has the tradition of hypergamy, or “marrying up”, for a woman to
+China has the tradition of hypergamy, or 'marrying up', for a woman to
 marry a man who is more economically well-off and better educated.[^14_Fu_28]
 Women gain financial security, status, and resources through marrying
-older men.[^14_Fu_29] Chinese men, on the other hand, tend to “marry
-down”.[^14_Fu_30] They tend to look for younger women as a future partner
+older men.[^14_Fu_29] Chinese men, on the other hand, tend to 'marry
+down'.[^14_Fu_30] They tend to look for younger women as a future partner
 since males emphasize physical attractiveness and youth.[^14_Fu_31] Studies
 also show richer men get married later in life than do less well-to-do
 men.[^14_Fu_32] About 12 million unmarried men will compete with younger men
 for younger women.[^14_Fu_33] In the 2010 survey conducted by All-China
-Women’s Federation, 38.3 percent of the male participants hoped that the
+Women's Federation, 38.3 percent of the male participants hoped that the
 ideal occupation of their significant other could be teachers, followed
 by civil servants, doctors/nurses, and accountants.[^14_Fu_34] Such jobs
 usually bring women decent salaries, social status and relatively easy
 working conditions. More than half of the male participants said they
-did not care about their significant other’s job, which indicated that
+did not care about their significant other's job, which indicated that
 males hoped that women could spend more time taking care of the
 family.[^14_Fu_35]
 
 Those well-educated and financially independent women thus are faced
 with the embarrassment of having few men who want to marry a more
-capable wife who is no longer “young,” at least in some Chinese sense.
+capable wife who is no longer 'young', at least in some Chinese sense.
 The survey conducted by Jiayuan.com, an online dating site, confirmed
 this paradox – the more education and salaries women have, the more
 difficult it is for them to find a husband.[^14_Fu_36] These well-educated
@@ -10547,7 +10512,7 @@ urban professional women must downplay their high achievements since
 they do not want to pressure prospective dates.[^14_Fu_37]
 
 As a result of their cosmopolitan lifestyle, some Chinese women living
-in big cities, such as Shanghai, date foreign men.[^14_Fu_38] These women’s
+in big cities, such as Shanghai, date foreign men.[^14_Fu_38] These women's
 international love stories become an important construct of their
 cosmopolitan identity.[^14_Fu_39] These Shanghainese women choose to marry
 *laowai*, or foreigners, also because Chinese have the stereotype that
@@ -10558,9 +10523,9 @@ likely to gossip about the past of the foreign partner.[^14_Fu_40]
 
 ### Self-presentation 
 
-Self-presentation is “an individual accentuates certain matters and
-conceals others.”[^14_Fu_41] It “refers to the process by which individuals
-attempt to control the impressions others have of them.”[^14_Fu_42] In this
+Self-presentation is "an individual accentuates certain matters and
+conceals others".[^14_Fu_41] It "refers to the process by which individuals
+attempt to control the impressions others have of them".[^14_Fu_42] In this
 sense, the personal profile on online dating sites is a
 self-presentation of the dater who posts it. Since prospective dates
 will use the self-presentation to decide whether or not to initiate a
@@ -10608,7 +10573,7 @@ physically attractive.[^14_Fu_58] A cross-cultural study showed a similar
 trend that women tended to value financial capacity, ambition,
 industriousness and cues to resource acquisition in prospective partners
 more than did men.[^14_Fu_59] Physically attractive women had elevated
-standards for potential male partner’s characteristics, including good
+standards for potential male partner's characteristics, including good
 genetic indicators, good investment indicators, good parenting
 indicators, and good partner indicators.[^14_Fu_60] Schwarz and Hassebrauck
 said in their study of heterosexuals aged 18 to 64 that slightly older
@@ -10621,16 +10586,16 @@ said they could not imagine marrying a less-educated partner, and one
 not regularly employed.[^14_Fu_64] Buunk, Dijkstra, Fetchenhauer and Kenrick
 agreed that men prefer physically more attractive mates, while women
 prefer mates who are more well-educated, self-confident, intelligent,
-dominant, well-off and respected.[^14_Fu_65] Henry, Helm and Cruz’s comparison
+dominant, well-off and respected.[^14_Fu_65] Henry, Helm and Cruz's comparison
 of 18 desirable traits among college students in mate selection with the
 studies from 1939 to 2011 also agreed that women preferred of men who
 were ambitious, industrious and financially well off.[^14_Fu_66]
 
-Chinese people’s mate selection criteria have been changing and
+Chinese people's mate selection criteria have been changing and
 inconsistent as a result of the great social changes. Traditional
 values, socialist reconstruction, utilitarianism and consumerism have
 exerted their influence to different generations of Chinese since the
-founding of the New China in 1949.[^14_Fu_67] Li’s study of 300 personal
+founding of the New China in 1949.[^14_Fu_67] Li's study of 300 personal
 advertisements found Chinese men attached more importance to income and
 household registration,[^14_Fu_68] while Chinese women valued personality,
 height and educational level.[^14_Fu_69] Urban residents cared more about
@@ -10638,14 +10603,14 @@ educational levels while rural Chinese favored marital status and
 income.[^14_Fu_70] More-educated Chinese emphasized knowledge, moral conduct,
 shared values and emotions that may help the couple to communicate
 better spiritually.[^14_Fu_71] Based on evolutionary psychological analyses,
-Tian found “good genes,” “good provider” and “good-father” to be factors
+Tian found 'good genes', 'good provider' and 'good-father' to be factors
 Chinese female college students and professional women preferred in mate
 selection.[^14_Fu_72] These criteria help ensure male candidate can provide
 the physical good genes, good socio-economic status, and good
 personality traits the future generation needs.[^14_Fu_73] It is also
 confirmed that urban-rural differences, educational levels and household
 incomes, along with some other factors, affected Chinese female college
-students’ preference in mate selection.[^14_Fu_74] But, on the whole, Tian’s
+students' preference in mate selection.[^14_Fu_74] But, on the whole, Tian's
 study concluded that modern Chinese female college students valued
 personal traits more than material criteria.[^14_Fu_75]
 
@@ -10680,10 +10645,10 @@ than that of other competitors.[^14_Fu_77] Jiayuan.com offers open access to
 most information of its users, making data collection and further
 analysis possible.
 
-The researcher registered to have more access to other users’ personal
+The researcher registered to have more access to other users' personal
 profiles.[^14_Fu_78] But in the personal statement part, it was clearly stated
 that the registration was for academic study, not partner or
-relation-seeking. Thus the status was set as “I have found my partner.”
+relation-seeking. Thus the status was set as 'I have found my partner'.
 
 ### Sample Selection
 
@@ -10696,28 +10661,28 @@ older age.[^14_Fu_81] Since their male counterparts hold a similar view, the
 likelihood for Shanghai females to find a good match remains
 moderate.[^14_Fu_82] However, since 1991, more males than females got married
 in Shanghai, which resulted in women from other areas in China being
-“imported” to Shanghai and threatening native Shanghai women’s marriage
+'imported' to Shanghai and threatening native Shanghai women's marriage
 market.[^14_Fu_83] Females in Shanghai felt more satisfied with the status of
 being married than males.[^14_Fu_84] Males of 21 to 25 said they greatly
 preferred not to marry older female partners, although mature males did
 not find this to be of concern.[^14_Fu_85]
 
 *Shengnv* often designates urban single women 27 and above. Those women
-“in the age range of 28-33 had more relevant and interesting
-relationship experience to share.”[^14_Fu_86]
+"in the age range of 28-33 had more relevant and interesting
+relationship experience to share".[^14_Fu_86]
 
-In this study, “female,” “28-33,” “Shanghai,”[^14_Fu_87] “never-married,”
-“with photos” and “undergraduate and above,” were set as filters for
-“gender,” “age,” “location,” “marital status,” “with or without photos”
-and “educational level” to generate the samples in April, 2014.
+In this study, 'female', '28-33', 'Shanghai',[^14_Fu_87] 'never-married',
+'with photos' and 'undergraduate and above', were set as filters for
+'gender', 'age', 'location', 'marital status', 'with or without photos'
+and 'educational level' to generate the samples in April, 2014.
 According to Jiayuan.com, users posting photos received 11 times more
 responses than those without photos. Since ethnicity and religion were
-not Chinese people’s top priority in mate selection,[^14_Fu_88] they were not
+not Chinese people's top priority in mate selection,[^14_Fu_88] they were not
 included in this study. The fact that the vast majority of Chinese are
 Han and atheists (or agnostics or pantheists) is accountable for
 this.[^14_Fu_89] On each result page, there were 5x5 candidates. The personal
 profile of each candidate was searched and content analyzed until a
-desirable number was reached (*N* = 200). Each user’s personal profile
+desirable number was reached (*N* = 200). Each user's personal profile
 was used as the unit of analysis.
 
 ### Coding Categories
@@ -10733,7 +10698,7 @@ and their expectation of marriage. Each user can upload one face
 close-up and other photos at My Pics (*wode zhaopian)*. Users can
 substantiate their profiles with physical features, work and study,
 daily life, and hobbies at Detailed Information (*xiangxi ziliao*).
-Personality Show (*gexing zhanshi*) describes the user’s personal
+Personality Show (*gexing zhanshi*) describes the user's personal
 traits, opinions on love, dating, expectation of marriage, life after
 the wedding and features of ideal partners. My Criteria (*wode zeou
 yaoqiu*) are specific bars a prospective partner might meet. At Jiayuan
@@ -10741,7 +10706,7 @@ Self-Tag (*wode jiayuan biaoqian*), users can self-choose some tags that
 best describe their personality. Physical Features (*waimao tixing*)
 about height, weight and face shape also are open for fill-in.
 
-In the present study, each user’s Jiayuan ID and her Jiayuan nickname
+In the present study, each user's Jiayuan ID and her Jiayuan nickname
 were recorded for future retrieval. Demographic information of all
 participants was collected, including age, height, educational level,
 income, car ownership, house ownership, professions, types of employers
@@ -10757,7 +10722,7 @@ gentleman-like, humorous, romantic or stylish), most valued trait (e.g.
 responsible, humble, accommodating, honest), and what is most important
 (e.g. physical features, personality, financial capacity, education).
 The ideal age and height ranges, geographic location (e.g. in Shanghai,
-in Shanghai’s neighboring areas, abroad), education (e.g. 3-year
+in Shanghai's neighboring areas, abroad), education (e.g. 3-year
 college, undergraduate, graduate), and marital status (e.g. single,
 divorced) of the prospective partner in My Criteria were coded as well.
 
@@ -10781,11 +10746,11 @@ of these qualities were:
 The researcher did most of the coding since it was objective. A graduate
 student who is a Chinese native was trained and then coded the Love
 Monologue section as a second coder. An acceptable intercoder
-reliability[^14_Fu_94] was reached for seeking attractiveness (Cronbach’s α =
-.93), offering attractiveness (Cronbach’s α = .89), seeking financial
-security (Cronbach’s α = .86), offering financial security (Cronbach’s α
-= .95), seeking sincerity (Cronbach’s α = .89) and offering sincerity
-(Cronbach’s α = .86). All coding results were entered into Statistical
+reliability[^14_Fu_94] was reached for seeking attractiveness (Cronbach's α =
+.93), offering attractiveness (Cronbach's α = .89), seeking financial
+security (Cronbach's α = .86), offering financial security (Cronbach's α
+= .95), seeking sincerity (Cronbach's α = .89) and offering sincerity
+(Cronbach's α = .86). All coding results were entered into Statistical
 Package for the Social Sciences (SPSS) for analysis.
 
 ## Findings
@@ -10798,7 +10763,7 @@ average height was 163.7 cm[^14_Fu_95] though individual difference ranged
 from about 152 cm[^14_Fu_96] to 178 cm.[^14_Fu_97] Most (94 %) of the subjects
 posted fewer than six photos. The personal information filled by
 *shengnv* themselves affirmed the labels attached to them – more
-educated and more well-to-do. About two thirds had bachelor’s or dual
+educated and more well-to-do. About two thirds had bachelor's or dual
 degrees. The other one-third held graduate degrees (Table 1). About 81
 percent of them had a monthly income of US\$800 to US\$3,200[^14_Fu_98] (see
 Table 2).The high income made them out-compete women in other areas
@@ -10810,32 +10775,31 @@ worked for foreign enterprises (29%), private-owned enterprises (19.5%),
 public institutions (13%) and *Fortune* 500-enlisted companies (10%).
 The rest worked for listed companies (7%), state-owned enterprises
 (5.5%), and the government (2%). There were also a few running their own
-companies (5.5%) or unknown (8.5%). The subjects’ economic competence
+companies (5.5%) or unknown (8.5%). The subjects' economic competence
 was also reflected by their car and property ownership and their
 professional distribution. Some 16.5 percent of the informants had a car
 and 15.5 percent had bought an apartment of their own. Those who have
 not bought a car accounted for 52.5 percent with the rest being unknown.
-As for housing, on a descending scale, these ladies chose “live with
-parents” (42.5 %), “have not purchased yet” (10.0 %), “rent on my own”
-(5.5 %), “will buy as needed” (3.5 %), “live in employer-offered
-housing” (2.5 %), “rent with others” (2 %) or “unknown” (17.5 %). As
+As for housing, on a descending scale, these ladies chose 'live with
+parents' (42.5 %), 'have not purchased yet' (10.0 %), 'rent on my own'
+(5.5 %), 'will buy as needed' (3.5 %), 'live in employer-offered
+housing' (2.5 %), 'rent with others' (2 %) or 'unknown' (17.5 %). As
 professional women, 52 percent of the subjects worked in
 finance/security/insurance, accounting/auditing, IT/computer, human
 resources, education/training and academic/research.
 
-Table 1
-
-Educational Level
 
   Degrees           Frequency   Percent
   ----------------- ----------- ---------
-  Bachelor’s        129         64.5
-  Master’s          58          29.0
+  Bachelor's        129         64.5
+  Master's          58          29.0
   Ph.D.             11          5.5
-  Dual Bachelor’s   2           1.0
+  Dual Bachelor's   2           1.0
+
+Table 1 Educational Level
 
 Since *shengnv* is a well-educated group, all subjects in this study
-showed good language competence as a result of Chinese university’s
+showed good language competence as a result of Chinese university's
 curriculum that prescribes a foreign language, usually English, as
 compulsory. About three fifths of the informants could speak English.
 Another 19 percent were good at English and another foreign language,
@@ -10843,9 +10807,6 @@ such as Japanese or German. About 3 percent showed proficiency in a
 non-English foreign language. The rest were dismissive to this section
 and left it uncompleted.
 
-Table 2
-
-Monthly Income
 
   Monthly Income (US\$)   Monthly Income (RMB￥)   Counts   Percent
   ----------------------- ----------------------- -------- ---------
@@ -10856,6 +10817,8 @@ Monthly Income
   \>3,200                 \>20,000                16       8
   Unknown                                         2        1
 
+Table 2 Monthly Income
+
 ### RQ1: How do heterosexual never-married shengnv self-present themselves in online dating profiles?
 
 In the self-tag section, registered Jiayuan users can choose at least
@@ -10863,11 +10826,8 @@ one tag that best represents their personalities. Among users who
 completed this self-tag question (*n* = 182), the most frequently chosen
 tags were *shanliang*, or kind-hearted; *xiaoshun*, showing great filial
 piety; and *zhishuang*, or straight-forward (Table 3). Eighteen out of
-the 200 informants’ response to this question was unknown.
+the 200 informants' response to this question was unknown.
 
-Table 3
-
-Self-tags Used by Jiayuan Users
 
   Self-tag (in pinyin)    Self-tag (in English)                                             Number   Percent
   ----------------------- ----------------------------------------------------------------- -------- ---------
@@ -10890,6 +10850,8 @@ Self-tags Used by Jiayuan Users
   *ye man nv you*         a sassy girlfriend                                                3        0.4
   *zi you zhi ye*[^14_Fu_101]   freelance                                                         1        0.1
 
+Table 3 Self-tags Used by Jiayuan Users
+
 In another self-evaluation, in which users were asked to choose one
 four-character word to best describe their quality, 52 (26%) informants
 left it blank. Among the 148 who answered, about half chose to describe
@@ -10901,9 +10863,6 @@ chun huo li*, as the Chinese would say. The others featured quietness
 and gracefulness, shortness and sweetness, mature attractiveness, bright
 eyes and regality and magnificence (Table 4).
 
-Table 4
-
-Self-evaluation
 
   Self-evaluation       In English                              Number   Percent
   --------------------- --------------------------------------- -------- ---------
@@ -10917,15 +10876,17 @@ Self-evaluation
   *yong rong hua gui*   regal and magnificent                   1        0.5
   Unknown                                                       52       26.0
 
+Table 4 Self-evaluation
+
 ### RQ2: What kind of prospective partners do heterosexual never-married shengnv look for?
 
-As for their prospective partner’s personality, informants valued
-“responsible” (32.5%) the most, according to 89 percent who answered. It
-was followed by “honest” (18.7%), “accommodating” (17%) and
-“considerate” (13.2%). Other less-cared personalities include
-“self-constraint” (5.3%), “patient” (4.3%), “full of hope” (3.9%),
-“modest” (1.8%), “satisfied” (1.2%), “friendly” (1.2%), “empathetic”
-(0.4%), “persevering” (0.2%) and “sympathetic”(0.2%).
+As for their prospective partner's personality, informants valued
+'responsible' (32.5%) the most, according to 89 percent who answered. It
+was followed by 'honest' (18.7%), 'accommodating' (17%) and
+'considerate' (13.2%). Other less-cared personalities include
+'self-constraint' (5.3%), 'patient' (4.3%), 'full of hope' (3.9%),
+'modest' (1.8%), 'satisfied' (1.2%), 'friendly' (1.2%), 'empathetic'
+(0.4%), 'persevering' (0.2%) and 'sympathetic'(0.2%).
 
 In another similar question, the 175 informants who answered hoped their
 significant others could have a calm character and take good care of the
@@ -10950,7 +10911,7 @@ Informants sought a similar educational background in their prospective
 partners. Three-quarters of the informants looked for candidates with at
 least a college education. About 10.5 percent was OK with a three-year
 college education though another 3 percent of women emphasized that
-their prospective partner, ideally, should have at least a master’s
+their prospective partner, ideally, should have at least a master's
 degree. To 11 percent of these women, the educational level of their
 future significant other seemed unimportant.
 
@@ -10960,17 +10921,13 @@ Shanghai and its neighboring big cities or other cities in China.
 
 Among the four elements most valued, personality (83%) was the most
 outstanding for the informants. They cared much less about their
-significant other’s financial ability (2.5%), education (2%) and
+significant other's financial ability (2.5%), education (2%) and
 physical features (1%). Another 11.5 percent did not respond.
 
 The analysis of Love Monologue confirmed that financial security did not
 seem to be what *shengnv* desired. They also offered little financial
 security. However, physical and personality attractiveness and sincerity
 were more desirable (Table 5).
-
-Table 5
-
-What *Shengnv* Seek and Offer in Love Monologue
 
                              Yes     No
   -------------------------- ------- -------
@@ -10981,83 +10938,85 @@ What *Shengnv* Seek and Offer in Love Monologue
   Seek sincerity             57%     43%
   Offer sincerity            50.5%   49.5%
 
+Table 5 What *Shengnv* Seek and Offer in Love Monologue
+
 ## Discussion
 
 *Shengnv* in the present study tended to emphasize their personality and
 intelligence rather than physical attractiveness when self-presenting at
-dating websites. Many of them chose “*qi zhi nv*”, “*xiu wai hui
-zhong*”, and “*mei qing mu xiu*” as their self-presentation. All of such
+dating websites. Many of them chose '*qi zhi nv*', '*xiu wai hui
+zhong*', and '*mei qing mu xiu*' as their self-presentation. All of such
 tags emanate their elegance, brilliance and charm as a result of their
 education and knowledge. They preferred to choose chrysanthemum as their
 avatar, blooming in autumn while most other flowers come out in spring.
 It symbolizes the character of being unwilling to compete with others
 and persevering in Chinese culture. Therefore, chrysanthemum is
-different from the flamboyant peony, figuratively, “*yong rong hua
-gui*”, which was chosen by a fraction of informants.
+different from the flamboyant peony, figuratively, '*yong rong hua
+gui*', which was chosen by a fraction of informants.
 
 As a group that has been exposed to higher education and working in
 foreign enterprises and *Fortune* 500-enlisted companies, *shengnv*
 presented a combination of traditional virtues of Chinese women and
-Western influence. Confucian virtues emphasized women’s compliance,
+Western influence. Confucian virtues emphasized women's compliance,
 modesty, and caring for the parents.[^14_Fu_104] Many informants in this study
-selected “kind-heartedness” and “filial piety” as their self-tags.
-Vicky, a participant, wrote in About Me, “Elegant enough to show around
+selected 'kind-heartedness' and 'filial piety' as their self-tags.
+Vicky, a participant, wrote in About Me: "Elegant enough to show around
 to guests and diligent enough to make tasty cuisines; demure as a maiden
-and agile as a rabbit; gentle and kind; caring and elegant.” Rachel
-said, “To better take care of my parents, men living outside of Shanghai
-will not be considered.” By the same token, informants sought filial
-piety in their prospective partners. Soul Coffee wrote, “I hope he can
+and agile as a rabbit; gentle and kind; caring and elegant". Rachel
+said, "To better take care of my parents, men living outside of Shanghai
+will not be considered". By the same token, informants sought filial
+piety in their prospective partners. Soul Coffee wrote, "I hope he can
 […] show filial piety to his parents. Those who are immature and
-disrespectful to parents, please stay away from me.” A Ning mentioned,
-“I hope he is filial to his parents, virtuous and aspiring.” Some
+disrespectful to parents, please stay away from me". A Ning mentioned,
+"I hope he is filial to his parents, virtuous and aspiring". Some
 *shengnv* in this study also looked forward to Western lifestyle and
-taste. They referred to themselves as “*xiao zi nv*”, translated from
-“petit bourgeoisie”, who are office workers for foreign companies with
+taste. They referred to themselves as '*xiao zi nv*', translated from
+'petit bourgeoisie', who are office workers for foreign companies with
 good English proficiency and education, consuming foreign products and
 enjoying Western art.[^14_Fu_105] So it is not surprising that four percent of
 the informants wished their prospective partner could be either in
 Shanghai or abroad. Xiaoxiong got her undergraduate education abroad and
 self-claimed as a Christian. Some key words she used to describe herself
 were Hong Kong-style milk tea/church/American TV dramas/European and
-American pop music. She said, “I don’t care about his location. But it
+American pop music. She said, "I don't care about his location. But it
 would be better should he live and work in Shanghai/Zhejiang[^14_Fu_106]/Hong
-Kong/abroad.” This again confirmed Farrer’s observation that dating a
+Kong/abroad." This again confirmed Farrer's observation that dating a
 foreigner was an outcome of their cosmopolitan lifestyle.[^14_Fu_107] The
 divergent preference of Shanghai *shengnv* shows Chinese values for
 women maintain persistent bearing on them. However, global mobility has
 also expanded the spectrum for their mate selection.
 
-Their educational background and decent jobs enlarged *shengnv*’s
+Their educational background and decent jobs enlarged *shengnv*'s
 horizons and empowered them financially. Maggie worked as a consultant,
 making more than 20,000 yuan[^14_Fu_108] a month. Her self-disclosure was
-representative. She said, “I spend most time on my work. (But my time is
+representative. She said, "I spend most time on my work. (But my time is
 flexible.) After all, dedicating to my career gives me the sense of
 achievement. Before I settle down with a family of my own, I would love
 to devote myself to things with output. After all, having sufficient and
 disposable money is one of the cornerstones of the beautiful future […]
 I hope I can have some power of influence in my own field. Of course, I
 want to be financially free as soon as possible. I will never want to
-retire. Work is part of life.”
+retire. Work is part of life".
 
 Therefore, *shengnv* pursued personality and sincerity more than
-financial security. Xiaoyou said, “I am not that much materialistic.
-Don’t care much about houses or cars. It will be good to make these come
+financial security. Xiaoyou said, "I am not that much materialistic.
+Don't care much about houses or cars. It will be good to make these come
 true with you. But most importantly, you should be a smart and aspiring
-man.” Ling, who studied and worked abroad before, emphasized, “I prefer
-independence in thoughts and finance. So I don’t want my emotional life
+man". Ling, who studied and worked abroad before, emphasized, "I prefer
+independence in thoughts and finance. So I don't want my emotional life
 to be bothered by materialistic standards. I look for a healthy,
 easy-going, down-to-earth, and accommodating guy who has the same values
-as me.”
+as me".
 
 Considering the extensive media coverage and presentation of
 extra-marital affairs, sense of responsibility and honesty were the
 most-sought disposition. Some personal profiles also showed the social
 pressure to *shengnv*. They even used this label for self-reference.
-Xyxy wrote, “Even though I’m already an aging *shengnv*, nothing can
-prevent me from showing my love to life. I won’t make do with a man
+Xyxy wrote, "Even though I'm already an aging *shengnv*, nothing can
+prevent me from showing my love to life. I won't make do with a man
 easily […] If you are sincere to me, I will reward with sincerity,
-treating you and your family well.” Arrogant Dinosaur asked herself,
-“How come I become leftovers? But I am a leftover woman now.” Jiayuan’s
+treating you and your family well". Arrogant Dinosaur asked herself,
+"How come I become leftovers? But I am a leftover woman now". Jiayuan's
 investigation about *shengnv* showed that more than half of the women
 aged 28-33 acknowledged the identity as a leftover woman.[^14_Fu_109]
 Sixty-six percent of shengnv thought this word was neutral and their
@@ -11065,16 +11024,16 @@ high education and income exacerbated the likelihood of becoming
 leftovers.[^14_Fu_110]
 
 The pressing need to make themselves married urged these women to
-emphasize sincerity. Jingjing appealed, “I’m hoping my Mr. Right can
+emphasize sincerity. Jingjing appealed, "I'm hoping my Mr. Right can
 show up as soon as possible so that I can complete this task before the
-end of this year.” XX emphasized, “The purpose for registering at
+end of this year". XX emphasized, "The purpose for registering at
 Jiayuan is to seek my *yinyuan*.[^14_Fu_111] Please do not bother me if you
 are divorced, widowed, younger than 33, older than 40, just for fun,
-hitting on girls, or not for getting married.” Xiaoxiong said, “Hope
-GG[^14_Fu_112] is as sincere as me, dating for marriage.” Such attitudes to
+hitting on girls, or not for getting married". Xiaoxiong said, "Hope
+GG[^14_Fu_112] is as sincere as me, dating for marriage". Such attitudes to
 online courtship reflects a popular saying in China – falsely believed
 to be said by Mao – Dating that did not lead to the altar is
-hooliganism. But the soliloquies also disclose *shengnv*’s desperation
+hooliganism. But the soliloquies also disclose *shengnv*'s desperation
 for love when they no longer have impending professional or financial
 concerns and their serious attitude to dating and marriage. Chinese
 parents tend to urge their children to work hard during their school
@@ -11082,18 +11041,18 @@ years, especially those high-achieving students. Unlike their American
 counterparts, who start dating as teenagers, people who study hard in
 China usually devote too much time to their school work. When they are
 out of college, their parents then press them to be married. When they
-reach the “leftover” age, the need to be married, from parents and
+reach the 'leftover' age, the need to be married, from parents and
 society, becomes more intense.
 
-Living and working in China’s largest city, these Shanghainese women
-showed unique preference to Shanghai native men. They either used “I’m a
-Shanghainese” as the opening remark of their profiles or specified that
-“Please do not bother if you are not a native of Shanghai.” Emily
+Living and working in China's largest city, these Shanghainese women
+showed unique preference to Shanghai native men. They either used "I'm a
+Shanghainese" as the opening remark of their profiles or specified that
+"Please do not bother if you are not a native of Shanghai". Emily
 explained that she was hoping her future significant other could speak
 Shanghai dialect and be immersed into Shanghai culture. Yueming said,
-“I’m an obedient Shanghai girl […] For the sake of having the same
+"I'm an obedient Shanghai girl […] For the sake of having the same
 lifestyle, I prefer guys born and brought up in Shanghai. If not, please
-do not bother me. Thanks.” The survey about love stories in four
+do not bother me. Thanks". The survey about love stories in four
 metropolises showed that 73.2 percent of Shanghainese hoped their
 significant other could be a native of Shanghai, too.[^14_Fu_113] In the
 present study, the percentage was even higher.
@@ -11102,7 +11061,7 @@ present study, the percentage was even higher.
 
 This study about the self-presentation and mate-selection criteria of
 leftover Shanghainese women shows that traditional Chinese culture still
-influences modern Chinese women. Shanghai, a global city and China’s
+influences modern Chinese women. Shanghai, a global city and China's
 largest metropolitan area, also affects the mate selection of these
 women. Good education, decent income and social pressures all encourage
 Shanghai *shengnv* to pursue sincerity disposition rather than financial
@@ -11113,7 +11072,7 @@ women of all ages at online dating sites since they were brought up in
 different historical eras in which China transformed from a socialist,
 planned-economy and Confucian society into a consumerism-dominated,
 economically robust powerhouse. The change of values brought by the
-social upheaval may affect Chinese women’s self-presentation and
+social upheaval may affect Chinese women's self-presentation and
 mate-selection criteria, and warrants more study. *Shengnv* accounts for
 only a small percentage of all Chinese women. Media coverage, especially
 by Western press, has drawn more attention to this social group.
@@ -11124,31 +11083,31 @@ courtship of migrant women merit further research.
 
 ## References
 
-Alavi, Masoumeh, Alahdad, Rezvan and Shafeq, Syed Mohamed. ‘Mate
-Selection Criteria among Postgraduate Students in Malaysia’, *Procedia -
+Alavi, Masoumeh, Alahdad, Rezvan and Shafeq, Syed Mohamed. 'Mate
+Selection Criteria among Postgraduate Students in Malaysia', *Procedia -
 Social and Behavioral Sciences* 116 ( 2014 ): 5075 – 5080.
 
-Baihe.com, ‘*2011 Zhongguoren Hunlian Baogao* (A Report on Chinese
-People’s Love and Marriage, 2011),’ 5 January 2012,
+Baihe.com, '*2011 Zhongguoren Hunlian Baogao* (A Report on Chinese
+People's Love and Marriage, 2011),' 5 January 2012,
 http://media.baihe.com/html/71/n-871.html
 
 Blau, Peter Michael. *Exchange and Power in Social Life*, New York: Wiley,
 1964.
 
-Brook, Mark. ‘How Has Internet Dating Changed Society? An Insider’s
-Look’, *IDEA*, January 2011, 1-33.
+Brook, Mark. 'How Has Internet Dating Changed Society? An Insider's
+Look', *IDEA*, January 2011, 1-33.
 
-Buss, David M. ‘Sex Differences in Human Mate Preferences: Evolutionary
-Hypotheses Tested in 37 Cultures’, *Behavioral and Brain Sciences* 12.1
+Buss, David M. 'Sex Differences in Human Mate Preferences: Evolutionary
+Hypotheses Tested in 37 Cultures', *Behavioral and Brain Sciences* 12.1
 (1989): 1-49.
 
-Buss, David M. and Shackelford, Todd K. ‘Attractive Women Want It All:
+Buss, David M. and Shackelford, Todd K. 'Attractive Women Want It All:
 Good Genes, Economic Investment, Parenting Proclivities, and Emotional
-Commitment’, *Evolutionary Psychology* 6.1 (2008): 134-146.
+Commitment', *Evolutionary Psychology* 6.1 (2008): 134-146.
 
 Buunk, Bram P., Dijkstra, Pieternel, Fetchenhauer, Detlef and Kenrick,
-Douglas T. ‘Age and Gender Differences in Mate Selection Criteria for
-Various Involvement Levels’, *Personal Relationships* 9.3 (2002): 271-278.
+Douglas T. 'Age and Gender Differences in Mate Selection Criteria for
+Various Involvement Levels', *Personal Relationships* 9.3 (2002): 271-278.
 
 Chen, Shengli and Zhang, Shikun. *Dangdai Zeou Yu Shengyu Yiyuan Yanjiu:
 2002 Nian Chengxiang Juming Shengyu Yiyuan Diaocha* (Contemporary
@@ -11156,38 +11115,38 @@ Expectations on Mate Selection and Child Rearing: An Investigation on
 Desires and Plans for Marriage and Child Rearing among Urban and Rural
 Residents in 2002), Beijing: China Population Press, 2002.
 
-Cheng, Yuan, Han, Xuehui and Dagsvik, John K. ‘Marriage Pattern in the
+Cheng, Yuan, Han, Xuehui and Dagsvik, John K. 'Marriage Pattern in the
 City of Shanghai: Behavioral Two-sex Model and Multistage Marriage Life
-Table Approach’, *Chinese Sociology and Anthropology* 43.4 (Summer 2011):
+Table Approach', *Chinese Sociology and Anthropology* 43.4 (Summer 2011):
 74-95.
 
-Deaux, Kay and Hanna, Randel. ‘Courtship in the Persona Column: The
-Influence of Gender and Sexual Orientation’, *Sex Roles* 11. 5/6 (1984):
+Deaux, Kay and Hanna, Randel. 'Courtship in the Persona Column: The
+Influence of Gender and Sexual Orientation', *Sex Roles* 11. 5/6 (1984):
 363-375.
 
-Dominick, Joseph R. ‘Who Do You Think You Are? Personal Home Pages and
-Self-Presentation on the World Wide Web’, *Journalism & Mass
+Dominick, Joseph R. 'Who Do You Think You Are? Personal Home Pages and
+Self-Presentation on the World Wide Web', *Journalism & Mass
 Communication Quarterly* 76.4 (1999): 646-658, p. 647.
 
-eChinacities.com, ‘Love and Marriage in Modern China: Survey Reveals
-Latest Trend’, 30 December 2012,
+eChinacities.com, 'Love and Marriage in Modern China: Survey Reveals
+Latest Trend', 30 December 2012,
 <http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends>.
 
-Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. ‘Managing
+Ellison, Nicole, Heino, Rebecca and Gibbs, Jennifer. 'Managing
 Impressions Online: Self-Presentation Processes in the Online Dating
-Environment’, *Journal of Computer-Mediated Communication* 11.2 (2006):
+Environment', *Journal of Computer-Mediated Communication* 11.2 (2006):
 415-441. doi:10.1111/j.1083-6101.2006.00020.x
 
-Emerson, Richard M. ‘Social Exchange Theory’, Annual Review of Sociology
+Emerson, Richard M. 'Social Exchange Theory', Annual Review of Sociology
 2 (1976): 335-362,
 <http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf>.
 
-Farrer, James. ‘Good Stories: Chinese Women’s International Love Stories
-as Cosmopolitan Sexual Politics’, *Sexualities* 16.1/2 (2012): 12-29.
+Farrer, James. 'Good Stories: Chinese Women's International Love Stories
+as Cosmopolitan Sexual Politics', *Sexualities* 16.1/2 (2012): 12-29.
 
 Finkel, Eli J., Eastwick, Paul W., Karney, Benjamin R., Reis, Harry T.
-and Sprecher, Susan. ‘Online Dating: A Critical Analysis from the
-Perspective of Psychological Science’, Psychological Science in the
+and Sprecher, Susan. 'Online Dating: A Critical Analysis from the
+Perspective of Psychological Science', Psychological Science in the
 Public Interest 13.1 (January, 2012): 3-66,
 <http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&keytype=ref&siteid=sppsi>.
 
@@ -11198,404 +11157,410 @@ Eroticism in Modern Societies*, Stanford, CA: Stanford University Press,
 Goffman, Ervin. *The Presentation of Self in Everyday Life*, New York:
 Anchor, 1959, p.67.
 
-Gonzales, Marti Hope and Meyers, Sarah A. ‘"Your Mother Would Like Me":
+Gonzales, Marti Hope and Meyers, Sarah A. '"Your Mother Would Like Me":
 Self-Presentation in the Personals Ads of Heterosexual and Homosexual
-Men and Women’, *Personality and Social Psychology Bulletin* 19.2 (April
+Men and Women', *Personality and Social Psychology Bulletin* 19.2 (April
 1993): 131-142.
 
 Ha, Thao, van den Berg, Judith E. M., Engels, Rutger C. M. E. and
-Lichtwarck-Aschoff, Anna. ‘Effects of Attractiveness and Status in
-Dating Desire in Homosexual and Heterosexual Men and Women’, *Archives of
+Lichtwarck-Aschoff, Anna. 'Effects of Attractiveness and Status in
+Dating Desire in Homosexual and Heterosexual Men and Women', *Archives of
 Sexual Behavior* 41.3 (June 2012): 673-682.
 
-Hancock, Jeffrey T., Toma, Catalina and Ellison, Nicole. ‘The Truth
-about Lying in Online Dating Profiles’, CHI 2007 Proceedings • Online
+Hancock, Jeffrey T., Toma, Catalina and Ellison, Nicole. 'The Truth
+about Lying in Online Dating Profiles', CHI 2007 Proceedings • Online
 Representation of Self 28 April - 3 May 2007, San Jose, CA, USA,
 <https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf>.
 
-Harrison, Albert A. and Saeed, Laila. ‘Let's Make a Deal: An Analysis of
-Revelations and Stipulations in Lonely Hearts Advertisements’, *Journal
+Harrison, Albert A. and Saeed, Laila. 'Let's Make a Deal: An Analysis of
+Revelations and Stipulations in Lonely Hearts Advertisements', *Journal
 of Personality and Social Psychology* 35.4 (1997): 257-264.
 
-Henry, Jermaine, Helm Jr., Herbert W. and Cruz, Natasha. ‘Mate
-Selection: Gender and Generational Differences’, *North American Journal
+Henry, Jermaine, Helm Jr., Herbert W. and Cruz, Natasha. 'Mate
+Selection: Gender and Generational Differences', *North American Journal
 of Psychology* 15.1 (2013): 63-70.
 
-Hill Jr., Reuben Lorenzo. ‘Campus Values in Mate Selection’, *Journal of
+Hill Jr., Reuben Lorenzo. 'Campus Values in Mate Selection', *Journal of
 Home Economics*, 37.9 (1945): 554–558.
 
-Hunt, Katie. ‘Glut of Women at Shanghai’s Marriage Market’, 3 November
+Hunt, Katie. 'Glut of Women at Shanghai's Marriage Market', 3 November
 2013, <http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/>.
 
-iResearch Consulting Group. ‘*Zhongguo Wangluo Hunlian Hangye Baogao:
-2013-2014* (China Online Personals Industry Report: 2013-2014’,
+iResearch Consulting Group. '*Zhongguo Wangluo Hunlian Hangye Baogao:
+2013-2014* (China Online Personals Industry Report: 2013-2014',
 <http://report.iresearch.cn/2106.html>.
 
-Jiayuan.com, ‘*Zhongguo Nannv Hunlianguan Xilie Diaocha: 2012nian Diyi
-Jidu Zhi Shengnv De Zibaishu* (Chinese Men and Women’s Attitude toward
+Jiayuan.com, '*Zhongguo Nannv Hunlianguan Xilie Diaocha: 2012nian Diyi
+Jidu Zhi Shengnv De Zibaishu* (Chinese Men and Women's Attitude toward
 Marriage and Love Serial Investigation: Q1 2012 The Confession of
-*Shengnv*)’, 8 March 2012,
+*Shengnv*)', 8 March 2012,
 <http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf>.
 
-Koestner, Richard and Wheeler, Ladd. ‘Self-Presentation in Personal
+Koestner, Richard and Wheeler, Ladd. 'Self-Presentation in Personal
 Advertisements: The Influence of Implicit Notions of Attraction and Role
-Expectations’, *Journal of Social and Personal Relationships* 5 (1998):
+Expectations', *Journal of Social and Personal Relationships* 5 (1998):
 149-160.
 
-Lake, Roseann. ‘All the Shengnu Ladies’, 11 March 2012,
+Lake, Roseann. 'All the Shengnu Ladies', 11 March 2012,
 <http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/>.
 
-Lance, Larry. ‘Gender Differences in Heterosexual Dating: A Content
-Analysis of Personal Ads’, *Journal of Men’s Studies* 6.3 (Spring 1998):
+Lance, Larry. 'Gender Differences in Heterosexual Dating: A Content
+Analysis of Personal Ads', *Journal of Men's Studies* 6.3 (Spring 1998):
 297-305.
 
-Larson, Christian ‘China’s ‘Leftover Ladies’ Are Anything But’,
+Larson, Christian 'China's 'Leftover Ladies' Are Anything But',
 Bloomberg Businessweek, 23 August 2012,
 <http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but>.
 
-Li, Meng. ‘Estrangement: A Possible Lens through Which to Understand the
-Femininity of Contemporary Chinese Intellectual Women’, *Front. Lit.
+Li, Meng. 'Estrangement: A Possible Lens through Which to Understand the
+Femininity of Contemporary Chinese Intellectual Women', *Front. Lit.
 Stud. China* 7.1 (2013): 87-116.
 
 Li, Yinhe. Sex and Marriage of the Chinese People (*Zhongguoren De
-Xing’ai Yu Hunyin*), Zhengzhou: Henan People’s Publishing House, 1996,
+Xing'ai Yu Hunyin*), Zhengzhou: Henan People's Publishing House, 1996,
 <http://v.book.ifeng.com/book/ts/32678/2605023.htm>.
 
-Lin, Xu. ‘Top 10 Provinces with the Highest Quality in 2013’, 13 March
+Lin, Xu. 'Top 10 Provinces with the Highest Quality in 2013', 13 March
 2014, <http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm>.
 
-Makinen, Julie and Lee, Don. ‘China's *Shengnu*, or 'Leftover Women,'
-Face Intense Pressure to Marry’, 13 July 2013,
+Makinen, Julie and Lee, Don. 'China's *Shengnu*, or 'Leftover Women,'
+Face Intense Pressure to Marry', 13 July 2013,
 <http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714>.
 
-Min-G, Yao. ‘Family Pressure Forces Marriage with *Laowai*’, Shanghai
+Min-G, Yao. 'Family Pressure Forces Marriage with *Laowai*', Shanghai
 Daily, 30 May 2013,
 <http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml>.
 
-Nakonezny, Paul A. and Denton, Wayne H. ‘Marital Relationships: A Social
-Exchange Theory Perspective’, *The American Journal of Family Therapy* 36
+Nakonezny, Paul A. and Denton, Wayne H. 'Marital Relationships: A Social
+Exchange Theory Perspective', *The American Journal of Family Therapy* 36
 (2008): 402–412.
 
-National Bureau of Statistics of China. ‘Communiqué of the National
+National Bureau of Statistics of China. 'Communiqué of the National
 Bureau of Statistics of the People's Republic of China on Major Figures
-of the 2010 Population Census (No. 2)’, 29 April 2011,
+of the 2010 Population Census (No. 2)', 29 April 2011,
 <http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429_30328.html>
 
-\_\_\_\_\_\_. ‘Communiqué of the National Bureau of Statistics of the
+\_\_\_\_\_\_. 'Communiqué of the National Bureau of Statistics of the
 People's Republic of China on Shanghai City of the 2010 Population
-Census’, 28 February 2012,
+Census', 28 February 2012,
 <http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html>.
 
 Neuendorf, Kimberly A. *The Content Analysis Guidebook, Thousand Oaks*,
 CA: Sage, 2002.
 
-Osnos, Evan. ‘The Love Business’, The New Yorker, 14 May 2012, 88.13,
+Osnos, Evan. 'The Love Business', The New Yorker, 14 May 2012, 88.13,
 <http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos>.
 
-Schwarz, Sascha and Hassebrauck, Manfred. ‘Sex and Age Differences in
-Mate-Selection Preferences’, *Human Nature* 23.4 (2012): 447-466.
+Schwarz, Sascha and Hassebrauck, Manfred. 'Sex and Age Differences in
+Mate-Selection Preferences', *Human Nature* 23.4 (2012): 447-466.
 
-Sebag-Montefiore, Clarissa. ‘Romance with Chinese Characteristics’, 21
+Sebag-Montefiore, Clarissa. 'Romance with Chinese Characteristics', 21
 August 2012,
 <http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&\_type=blogs&\_r=0>.
 
-Tian, Qian. *A study of Chinese Women’s Mate Selection Trends: An
+Tian, Qian. *A study of Chinese Women's Mate Selection Trends: An
 Interpretation Based on Evolutionary Psychology (Zhongguo nvxing zeou
 qingxiang yanjiu: jiyu jinhua xinlixue de jieshi)*,Ph.D. diss., 2012.
 
-To, Sandy. ‘Understanding Sheng Nu (‘‘Leftover Women’’): The Phenomenon
-of Late Marriage among Chinese Professional Women’, *Symbolic Interaction*
+To, Sandy. 'Understanding Sheng Nu (''Leftover Women''): The Phenomenon
+of Late Marriage among Chinese Professional Women', *Symbolic Interaction*
 36.1 (2013): 1-20.
 
 Van Straaten, Ischa, Engels, Rutger C. M. E., Finkenauer, Catrin and
-Holland, Rob W. ‘Sex Differences in Short-term Mate Preferences and
-Behavioral Mimicry: A Semi-Naturalistic Experiment’, *Archives of Sexual
+Holland, Rob W. 'Sex Differences in Short-term Mate Preferences and
+Behavioral Mimicry: A Semi-Naturalistic Experiment', *Archives of Sexual
 Behavior* 37.6 (2008): 902-911.
 
-Walther, Joseph B. ‘Computer-Mediated Communication: Impersonal,
-Interpersonal, and Hyperpersonal Interaction’, *Communication Research*
+Walther, Joseph B. 'Computer-Mediated Communication: Impersonal,
+Interpersonal, and Hyperpersonal Interaction', *Communication Research*
 23.1 (February 1996): 3-43.
 
-Wang, Xin. ‘Desperately Seeking Status: Political, Social and Cultural
-Attributes of China’s Rising Middle Class’, *Modern China Studies* 20.1
+Wang, Xin. 'Desperately Seeking Status: Political, Social and Cultural
+Attributes of China's Rising Middle Class', *Modern China Studies* 20.1
 (2013): 1-44.
 
-Wei, Yan; Jiang, Quanbao and Basten, Stuart. ‘Observing the
-Transformation of China’s First Marriage Pattern through Net Nuptiality
-Tables: 1982-2010’, *Finnish Yearbook of Population Research* XLVIII 2013,
+Wei, Yan; Jiang, Quanbao and Basten, Stuart. 'Observing the
+Transformation of China's First Marriage Pattern through Net Nuptiality
+Tables: 1982-2010', *Finnish Yearbook of Population Research* XLVIII 2013,
 65-75.
 
 Whitty, Monica T. and Carr, Adrian. *Cyberspace Romance: The Psychology
 of Online Relationships*, New York, NY: Palgrave Macmillan, 2006.
 
-Xinhua Net, ‘*Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang Baodao*
-(Reading and Understanding Chinese People’s Love and Marriage Report
-2010)’, 15 December 2010,
+Xinhua Net, '*Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang Baodao*
+(Reading and Understanding Chinese People's Love and Marriage Report
+2010)', 15 December 2010,
 <http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm>.
 
-Xinwen Chenbao. ‘*Beishangguangshen De Hunlian Gushi: Waidiren Renwei
+Xinwen Chenbao. '*Beishangguangshen De Hunlian Gushi: Waidiren Renwei
 Lianai Jiu Wei Jiehun* (Marriage and Love Stories in Beijing, Shanghai,
-Canton and Shenzhen: Immigrants Believe Dating is just for Marriage)’,
+Canton and Shenzhen: Immigrants Believe Dating is just for Marriage)',
 23 January 2013,
 <http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm>.
 
-Yang, Renxin. ‘Between Traditionalism and Modernity: Changing Values on
-Dating Behavior and Mate Selection Criteria’, *International Review of
+Yang, Renxin. 'Between Traditionalism and Modernity: Changing Values on
+Dating Behavior and Mate Selection Criteria', *International Review of
 Modern Sociology* 37.2 (2011): 265-287.
 
-[^14_Fu_1]: Jeffrey T. Hancock, Catalina Toma and Nicole Ellison, ‘The Truth
-    about Lying in Online Dating Profiles’, CHI 2007 Proceedings •
-    Online Representation of Self 28 April - 3 May 2007, San Jose, CA,
-    USA, https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf
+[^14_Fu_1]: Jeffrey T. Hancock, Catalina Toma and Nicole Ellison, 'The Truth
+    about Lying in Online Dating Profiles', CHI 2007 Proceedings,
+    *Online Representation of Self*, 28 April - 3 May 2007, San Jose, CA,
+    USA, <https://www.msu.edu/\~nellison/hancock\_et\_al\_2007.pdf>.
 
-[^14_Fu_2]: Mark Brook, ‘How Has Internet Dating Changed Society? An Insider’s
-    Look’, IDEA, January 2011, 1-33.
+[^14_Fu_2]: Mark Brook, 'How Has Internet Dating Changed Society? An Insider's
+    Look', *IDEA*, January 2011, 1-33.
 
-[^14_Fu_3]: iResearch Consulting Group, ‘*Zhongguo Wangluo Hunlian Hangye
+[^14_Fu_3]: iResearch Consulting Group, '*Zhongguo Wangluo Hunlian Hangye
     Baogao: 2013-2014* (China Online Personals Industry Report:
-    2013-2014’, http://report.iresearch.cn/2106.html
+    2013-2014', <http://report.iresearch.cn/2106.html>.
 
 [^14_Fu_4]:  Eli J. Finkel, Paul W. Eastwick, Benjamin R. Karney, Harry T.
-    Reis, and Susan Sprecher, ‘Online Dating: A Critical Analysis from
-    the Perspective of Psychological Science’, Psychological Science in
-    the Public Interest 13.1 (January, 2012): 3-66,
-    http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&keytype=ref&siteid=sppsi
+    Reis, and Susan Sprecher, 'Online Dating: A Critical Analysis from
+    the Perspective of Psychological Science', *Psychological Science in
+    the Public Interest* 13.1 (January, 2012): 3-66,
+    <http://psi.sagepub.com/content/13/1/3.full?ijkey=cK9EB6/4zQ0AM&keytype=ref&siteid=sppsi>.
 
-[^14_Fu_5]: iResearch Consulting Group, ‘China Online Personals Industry
-    Report: 2013-2014’.
+[^14_Fu_5]: iResearch Consulting Group, 'China Online Personals Industry
+    Report: 2013-2014'.
 
-[^14_Fu_6]: Monica T. Whitty and Adrian Carr, Cyberspace Romance: The
-    Psychology of Online Relationships, New York, NY: Palgrave
+[^14_Fu_6]: Monica T. Whitty and Adrian Carr, *Cyberspace Romance: The
+    Psychology of Online Relationships*, New York, NY: Palgrave
     Macmillan, 2006.
 
-[^14_Fu_7]: Nicole Ellison, Rebecca Heino and Jennifer Gibbs, ‘Managing
+[^14_Fu_7]: Nicole Ellison, Rebecca Heino and Jennifer Gibbs, 'Managing
     Impressions Online: Self-Presentation Processes in the Online Dating
-    Environment’, Journal of Computer-Mediated Communication 11.2
+    Environment', *Journal of Computer-Mediated Communication* 11.2
     (2006): 415-441. doi:10.1111/j.1083-6101.2006.00020.x
 
-[^14_Fu_8]: Finkel, Eastwick, Karney, Reis and Sprecher, ‘Online Dating: A
-    Critical Analysis from the Perspective of Psychological Science’.
+[^14_Fu_8]: Finkel, Eastwick, Karney, Reis and Sprecher, 'Online Dating: A
+    Critical Analysis from the Perspective of Psychological Science'.
 
-[^14_Fu_9]: iResearch Consulting Group, ‘China Online Personals Industry
-    Report: 2013-2014’.
+[^14_Fu_9]: iResearch Consulting Group, 'China Online Personals Industry
+    Report: 2013-2014'.
 
-[^14_Fu_10]: Renxin Yang, ‘Between Traditionalism and Modernity: Changing
+[^14_Fu_10]: Renxin Yang, 'Between Traditionalism and Modernity: Changing
     Values on Dating Behavior and Mate Selection
-    Criteria’, International Review of Modern Sociology 37.2 (2011):
+    Criteria', *International Review of Modern Sociology* 37.2 (2011):
     265-287.
 
-[^14_Fu_11]: Evan Osnos, ‘The Love Business’, The New Yorker, 14 May 2012,
+[^14_Fu_11]: Evan Osnos, 'The Love Business', *The New Yorker*, 14 May 2012,
     88.13,
-    http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos
+    <http://www.newyorker.com/reporting/2012/05/14/120514fa\_fact\_osnos>.
 
-[^14_Fu_12]: iResearch Consulting Group, ‘China Online Personals Industry
-    Report: 2013-2014’.
+[^14_Fu_12]: iResearch Consulting Group, 'China Online Personals Industry
+    Report: 2013-2014'.
 
-[^14_Fu_13]: Baihe.com, ‘*2011 Zhongguoren Hunlian Baogao* (A Report on
-    Chinese People’s Love and Marriage, 2011),’ 5 January 2012,
-    http://media.baihe.com/html/71/n-871.html
+[^14_Fu_13]: Baihe.com, *2011 Zhongguoren Hunlian Baogao* (A Report on
+    Chinese People's Love and Marriage, 2011), 5 January 2012,
+    <http://media.baihe.com/html/71/n-871.html>.
 
-[^14_Fu_14]: Sandy To, ‘Understanding Sheng Nu (‘‘Leftover Women’’): The
-    Phenomenon of Late Marriage among Chinese Professional Women’,
-    Symbolic Interaction 36.1 (2013): 1-20.
+[^14_Fu_14]: Sandy To, 'Understanding Sheng Nu ('Leftover Women'): The
+    Phenomenon of Late Marriage among Chinese Professional Women',
+    *Symbolic Interaction* 36.1 (2013): 1-20.
 
-[^14_Fu_15]: Julie Makinen and Don Lee, ‘China's *Shengnu*, or 'Leftover
-    Women,' Face Intense Pressure to Marry’, 13 July 2013,
-    http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714
+[^14_Fu_15]: Julie Makinen and Don Lee, 'China's *Shengnu*, or 'Leftover
+    Women' Face Intense Pressure to Marry', 13 July 2013,
+    <http://articles.latimes.com/2013/jul/13/world/la-fg-china-leftover-women-20130714>.
 
-[^14_Fu_16]: Roseann Lake, ‘All the Shengnu Ladies’, 11 March 2012,
-    http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/
+[^14_Fu_16]: Roseann Lake, 'All the Shengnu Ladies', 11 March 2012,
+    <http://www.salon.com/2012/03/12/all\_the\_shengnu\_ladies/>.
 
-[^14_Fu_17]: Xinhua Net, ‘*Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang
-    Baobao* (Reading and Understanding Chinese People’s Love and
-    Marriage Report 2010)’, 15 December 2010,
-    http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm
+[^14_Fu_17]: Xinhua Net, '*Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang
+    Baobao* (Reading and Understanding Chinese People's Love and
+    Marriage Report 2010)', 15 December 2010,
+    <http://news.xinhuanet.com/society/2010-12/15/c\_13650287\_2.htm>.
 
-[^14_Fu_18]: Baihe.com, ‘A Report on Chinese People’s Love and Marriage,
-    2011’.
+[^14_Fu_18]: Baihe.com, 'A Report on Chinese People's Love and Marriage,
+    2011'.
 
-[^14_Fu_19]: *Ibid*.
+[^14_Fu_19]: Baihe.com, 'A Report on Chinese People's Love and Marriage,
+    2011'.
 
-[^14_Fu_20]: *Ibid*.
+[^14_Fu_20]: Baihe.com, 'A Report on Chinese People's Love and Marriage,
+    2011'.
 
-[^14_Fu_21]: Lake, ‘All the Shengnu Ladies’.
+[^14_Fu_21]: Lake, 'All the Shengnu Ladies'.
 
-[^14_Fu_22]: Clarissa Sebag-Montefiore, ‘Romance with Chinese
-    Characteristics’, 21 August 2012,
-    http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&\_type=blogs&\_r=0
+[^14_Fu_22]: Clarissa Sebag-Montefiore, *Romance with Chinese
+    Characteristics*, 21 August 2012,
+    <http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/?\_php=true&\_type=blogs&\_r=0>.
 
-[^14_Fu_23]: Yan Wei, Quanbao Jiang and Stuart Basten, ‘Observing the
-    Transformation of China’s First Marriage Pattern through Net
-    Nuptiality Tables: 1982-2010’, Finnish Yearbook of Population
-    Research XLVIII 2013, 65-75.
+[^14_Fu_23]: Yan Wei, Quanbao Jiang and Stuart Basten, 'Observing the
+    Transformation of China's First Marriage Pattern through Net
+    Nuptiality Tables: 1982-2010', *Finnish Yearbook of Population
+    Research* XLVIII 2013, 65-75.
 
-[^14_Fu_24]: Antony Giddens, The Transformation of Intimacy: Sexuality, Love
-    and Eroticism in Modern Societies, Stanford, CA: Stanford University
+[^14_Fu_24]: Antony Giddens, *The Transformation of Intimacy: Sexuality, Love
+    and Eroticism in Modern Societies*, Stanford, CA: Stanford University
     Press, 1992, p.53.
 
-[^14_Fu_25]: Evan Osnos, ‘The Love Business’.
+[^14_Fu_25]: Evan Osnos, 'The Love Business'.
 
-[^14_Fu_26]: Yuan Cheng, Xuehui Han and John K. Dagsvik, ‘Marriage Pattern in
+[^14_Fu_26]: Yuan Cheng, Xuehui Han and John K. Dagsvik, 'Marriage Pattern in
     the City of Shanghai: Behavioral Two-sex Model and Multistage
-    Marriage Life Table Approach’, Chinese Sociology and Anthropology
+    Marriage Life Table Approach', Chinese Sociology and Anthropology
     43.4 (Summer 2011): 74-95.
 
-[^14_Fu_27]: Yao Min-G, ‘Family Pressure Forces Marriage with *Laowai’*,
+[^14_Fu_27]: Yao Min-G, 'Family Pressure Forces Marriage with *Laowai'*,
     Shanghai Daily, 30 May 2013,
-    http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml
+    <http://www.shanghaidaily.com/Opinion/chinese-perspectives/Family-pressure-forces-marriage-with-laowai/shdaily.shtml>.
 
-[^14_Fu_28]: Christian Larson, ‘China’s ‘Leftover Ladies’ Are Anything But’,
+[^14_Fu_28]: Christian Larson, 'China's 'Leftover Ladies' Are Anything But',
     Bloomberg Businessweek, 23 August 2012,
-    http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but;
-    Lake, ‘All the *Shengnu* Ladies’; Yao, ‘Family Pressure Forces
-    Marriage with *Laowai*’.
+    <http://www.businessweek.com/articles/2012-08-22/chinas-leftover-ladies-are-anything-but>.;
+    Lake, 'All the *Shengnu* Ladies'; Yao, 'Family Pressure Forces
+    Marriage with *Laowai*'.
 
-[^14_Fu_29]: Larry Lance, ‘Gender Differences in Heterosexual Dating: A
-    Content Analysis of Personal Ads’, Journal of Men’s Studies 6.3
+[^14_Fu_29]: Larry Lance, 'Gender Differences in Heterosexual Dating: A
+    Content Analysis of Personal Ads', *Journal of Men's Studies* 6.3
     (Spring 1998): 297-305.
 
-[^14_Fu_30]: Katie Hunt, ‘Glut of Women at Shanghai’s Marriage Market’, 3
+[^14_Fu_30]: Katie Hunt, 'Glut of Women at Shanghai's Marriage Market', 3
     November 2013,
-    http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/
+    <http://www.cnn.com/2013/11/03/world/asia/shanghai-marriage-market/>.
 
-[^14_Fu_31]: Lance, ‘Gender Differences in Heterosexual Dating: A Content
-    Analysis of Personal Ads’.
+[^14_Fu_31]: Lance, 'Gender Differences in Heterosexual Dating: A Content
+    Analysis of Personal Ads'.
 
-[^14_Fu_32]: Cheng, Han and Dagsvik, ‘Marriage Pattern in the City of
+[^14_Fu_32]: Cheng, Han and Dagsvik, 'Marriage Pattern in the City of
     Shanghai: Behavioral Two-sex Model and Multistage Marriage Life
-    Table Approach’.
+    Table Approach'.
 
-[^14_Fu_33]: eChinacities.com, ‘Love and Marriage in Modern China: Survey
-    Reveals Latest Trend’, 30 December 2012,
-    http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends
+[^14_Fu_33]: eChinacities.com, 'Love and Marriage in Modern China: Survey
+    Reveals Latest Trend', 30 December 2012,
+    <http://www.echinacities.com/china-media/Love-and-Marriage-in-Modern-China-Survey-Reveals-Latest-Trends>.
 
-[^14_Fu_34]: Xinhua Net, ‘*Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang
-    Baodao* (Reading and Understanding Chinese People’s Love and
-    Marriage Report 2010)’.
+[^14_Fu_34]: Xinhua Net, *Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang
+    Baodao* (Reading and Understanding Chinese People's Love and
+    Marriage Report 2010).
 
-[^14_Fu_35]: *Ibid*.
+[^14_Fu_35]: Xinhua Net, *Jiedu 2010 Nian Zhongguoren Hunlian Zhuangkuang
+    Baodao*.
 
-[^14_Fu_36]: Larson, ‘China’s ‘Leftover Ladies’ Are Anything But’.
+[^14_Fu_36]: Larson, 'China's 'Leftover Ladies' Are Anything But'.
 
-[^14_Fu_37]: Osnos, ‘The Love Business’.
+[^14_Fu_37]: Osnos, 'The Love Business'.
 
-[^14_Fu_38]: James Farrer, ‘Good Stories: Chinese Women’s International Love
-    Stories as Cosmopolitan Sexual Politics’, Sexualities 16.1/2 (2012):
+[^14_Fu_38]: James Farrer, 'Good Stories: Chinese Women's International Love
+    Stories as Cosmopolitan Sexual Politics', Sexualities 16.1/2 (2012):
     12-29.
 
-[^14_Fu_39]: *Ibid*.
+[^14_Fu_39]: James Farrer, 'Good Stories'.
 
-[^14_Fu_40]: Yao Min-G, ‘Family Pressure Forces Marriage with *Laowai*’.
+[^14_Fu_40]: Yao Min-G, 'Family Pressure Forces Marriage with *Laowai*'.
 
-[^14_Fu_41]: Ervin Goffman, The Presentation of Self in Everyday Life, New
+[^14_Fu_41]: Ervin Goffman, *The Presentation of Self in Everyday Life*, New
     York: Anchor, 1959, p.67.
 
-[^14_Fu_42]: Joseph R. Dominick, ‘Who Do You Think You Are? Personal Home
-    Pages and Self-Presentation on the World Wide Web’, Journalism &
-    Mass Communication Quarterly 76.4 (1999): 646-658, p. 647.
+[^14_Fu_42]: Joseph R. Dominick, 'Who Do You Think You Are? Personal Home
+    Pages and Self-Presentation on the World Wide Web', *Journalism &
+    Mass Communication Quarterly* 76.4 (1999): 646-658, p. 647.
 
-[^14_Fu_43]: Ellison, Heino and Gibbs, ‘Managing Impressions Online:
-    Self-Presentation Processes in the Online Dating Environment’.
+[^14_Fu_43]: Ellison, Heino and Gibbs, 'Managing Impressions Online:
+    Self-Presentation Processes in the Online Dating Environment'.
 
-[^14_Fu_44]: Marti Hope Gonzales and Sarah A. Meyers, ‘"Your Mother Would Like
+[^14_Fu_44]: Marti Hope Gonzales and Sarah A. Meyers, '"Your Mother Would Like
     Me": Self-Presentation in the Personals Ads of Heterosexual and
-    Homosexual Men and Women’, Personality and Social Psychology
-    Bulletin 19.2 (April 1993): 131-142.
+    Homosexual Men and Women', *Personality and Social Psychology
+    Bulletin* 19.2 (April 1993): 131-142.
 
-[^14_Fu_45]: Gonzales and Meyers, ‘"Your Mother Would Like Me":
+[^14_Fu_45]: Gonzales and Meyers, '"Your Mother Would Like Me":
     Self-Presentation in the Personals Ads of Heterosexual and
-    Homosexual Men and Women’; Richard Koestner and Ladd Wheeler,
-    ‘Self-Presentation in Personal Advertisements: The Influence of
-    Implicit Notions of Attraction and Role Expectations’, Journal of
-    Social and Personal Relationships 5 (1998): 149-160.
+    Homosexual Men and Women'; Richard Koestner and Ladd Wheeler,
+    'Self-Presentation in Personal Advertisements: The Influence of
+    Implicit Notions of Attraction and Role Expectations', *Journal of
+    Social and Personal Relationships* 5 (1998): 149-160.
 
-[^14_Fu_46]: Koestner and Wheeler, ‘Self-Presentation in Personal
+[^14_Fu_46]: Koestner and Wheeler, 'Self-Presentation in Personal
     Advertisements: The Influence of Implicit Notions of Attraction and
-    Role Expectations’.
+    Role Expectations'.
 
-[^14_Fu_47]: Albert A. Harrison and Laila Saeed, ‘Let's Make a Deal: An
+[^14_Fu_47]: Albert A. Harrison and Laila Saeed, 'Let's Make a Deal: An
     Analysis of Revelations and Stipulations in Lonely Hearts
-    Advertisements’, Journal of Personality and Social Psychology 35.4
+    Advertisements', *Journal of Personality and Social Psychology* 35.4
     (1997): 257-264.
 
-[^14_Fu_48]: Peter Michael Blau, Exchange and Power in Social Life, New York:
+[^14_Fu_48]: Peter Michael Blau, *Exchange and Power in Social Life*, New York:
     Wiley, 1964.
 
-[^14_Fu_49]: Richard M. Emerson, ‘Social Exchange Theory’, Annual Review of
-    Sociology 2 (1976): 335-362,
-    http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf
+[^14_Fu_49]: Richard M. Emerson, 'Social Exchange Theory', *Annual Review of
+    Sociology* 2 (1976): 335-362,
+    <http://www.communicationcache.com/uploads/1/0/8/8/10887248/social\_exchange\_theory\_-\_1976.pdf>.
 
-[^14_Fu_50]: Paul A. Nakonezny and Wayne H. Denton, ‘Marital Relationships: A
-    Social Exchange Theory Perspective’, The American Journal of Family
-    Therapy 36 (2008): 402–412.
+[^14_Fu_50]: Paul A. Nakonezny and Wayne H. Denton, 'Marital Relationships: A
+    Social Exchange Theory Perspective', *The American Journal of Family
+    Therapy* 36 (2008): 402–412.
 
-[^14_Fu_51]: Joseph B. Walther, ‘Computer-Mediated Communication: Impersonal,
-    Interpersonal, and Hyperpersonal Interaction’, Communication
-    Research 23.1 (February 1996): 3-43.
+[^14_Fu_51]: Joseph B. Walther, 'Computer-Mediated Communication: Impersonal,
+    Interpersonal, and Hyperpersonal Interaction', *Communication
+    Research* 23.1 (February 1996): 3-43.
 
-[^14_Fu_52]: Hancock, Toma and Ellison, ‘The Truth about Lying in Online
-    Dating Profiles’.
+[^14_Fu_52]: Hancock, Toma and Ellison, 'The Truth about Lying in Online
+    Dating Profiles'.
 
-[^14_Fu_53]: Walther, ‘Computer-Mediated Communication: Impersonal,
-    Interpersonal, and Hyperpersonal Interaction’.
+[^14_Fu_53]: Walther, 'Computer-Mediated Communication: Impersonal,
+    Interpersonal, and Hyperpersonal Interaction'.
 
 [^14_Fu_54]: Thao Ha, Judith E. M. van den Berg, Rutger C. M. E. Engels and
-    Anna Lichtwarck-Aschoff, ‘Effects of Attractiveness and Status in
+    Anna Lichtwarck-Aschoff, 'Effects of Attractiveness and Status in
     Dating Desire in Homosexual and Heterosexual Men and
-    Women’, Archives of Sexual Behavior 41.3 (June 2012): 673-682; Ischa
+    Women', Archives of Sexual Behavior 41.3 (June 2012): 673-682; Ischa
     van Straaten, Rutger C. M. E. Engels, Catrin Finkenauer and Rob W.
-    Holland, ‘Sex Differences in Short-term Mate Preferences and
-    Behavioral Mimicry: A Semi-Naturalistic Experiment’, Archives of
-    Sexual Behavior 37.6 (2008): 902-911.
+    Holland, 'Sex Differences in Short-term Mate Preferences and
+    Behavioral Mimicry: A Semi-Naturalistic Experiment', *Archives of
+    Sexual Behavior* 37.6 (2008): 902-911.
 
-[^14_Fu_55]: Masoumeh Alavi, Rezvan Alahdad and Syed Mohamed Shafeq, ‘Mate
-    Selection Criteria among Postgraduate Students in Malaysia’,
-    Procedia - Social and Behavioral Sciences 116 ( 2014 ): 5075 – 5080.
+[^14_Fu_55]: Masoumeh Alavi, Rezvan Alahdad and Syed Mohamed Shafeq, 'Mate
+    Selection Criteria among Postgraduate Students in Malaysia',
+    *Procedia - Social and Behavioral Sciences* 116 ( 2014 ): 5075 – 5080.
 
-[^14_Fu_56]: Reuben Lorenzo Hill Jr., ‘Campus Values in Mate Selection’,
-    Journal of Home Economics, 37.9 (1945): 554–558.
+[^14_Fu_56]: Reuben Lorenzo Hill Jr., 'Campus Values in Mate Selection',
+    *Journal of Home Economics*, 37.9 (1945): 554–558.
 
-[^14_Fu_57]: *Ibid*.
+[^14_Fu_57]: Reuben Lorenzo Hill Jr., 'Campus Values in Mate Selection'.
 
-[^14_Fu_58]: *Ibid*.
+[^14_Fu_58]: Reuben Lorenzo Hill Jr., 'Campus Values in Mate Selection'.
 
-[^14_Fu_59]: David M. Buss, ‘Sex Differences in Human Mate Preferences:
-    Evolutionary Hypotheses Tested in 37 Cultures’, Behavioral and Brain
-    Sciences 12.1 (1989): 1-49.
+[^14_Fu_59]: David M. Buss, 'Sex Differences in Human Mate Preferences:
+    Evolutionary Hypotheses Tested in 37 Cultures', *Behavioral and Brain
+    Sciences* 12.1 (1989): 1-49.
 
-[^14_Fu_60]: David M. Buss and Todd K. Shackelford, ‘Attractive Women Want It
+[^14_Fu_60]: David M. Buss and Todd K. Shackelford, 'Attractive Women Want It
     All: Good Genes, Economic Investment, Parenting Proclivities, and
-    Emotional Commitment’, Evolutionary Psychology 6.1 (2008): 134-146.
+    Emotional Commitment', *Evolutionary Psychology* 6.1 (2008): 134-146.
 
-[^14_Fu_61]: Sascha Schwarz and Manfred Hassebrauck, ‘Sex and Age Differences
-    in Mate-Selection Preferences’, Human Nature 23.4 (2012): 447-466.
+[^14_Fu_61]: Sascha Schwarz and Manfred Hassebrauck, 'Sex and Age Differences
+    in Mate-Selection Preferences', *Human Nature* 23.4 (2012): 447-466.
 
-[^14_Fu_62]: *Ibid*.
+[^14_Fu_62]: Sascha Schwarz and Manfred Hassebrauck, 'Sex and Age Differences
+    in Mate-Selection Preferences'.
 
-[^14_Fu_63]: *Ibid*.
+[^14_Fu_63]: Sascha Schwarz and Manfred Hassebrauck, 'Sex and Age Differences
+    in Mate-Selection Preferences'.
 
-[^14_Fu_64]: *Ibid*.
+[^14_Fu_64]: Sascha Schwarz and Manfred Hassebrauck, 'Sex and Age Differences
+    in Mate-Selection Preferences'.
 
 [^14_Fu_65]: Bram P. Buunk, Pieternel Dijkstra, Detlef Fetchenhauer and
-    Douglas T. Kenrick, ‘Age and Gender Differences in Mate Selection
-    Criteria for Various Involvement Levels’, Personal Relationships 9.3
+    Douglas T. Kenrick, 'Age and Gender Differences in Mate Selection
+    Criteria for Various Involvement Levels', *Personal Relationships* 9.3
     (2002): 271-278.
 
-[^14_Fu_66]: Jermaine Henry, Herbert W. Helm Jr. and Natasha Cruz, ‘Mate
-    Selection: Gender and Generational Differences’, North American
-    Journal of Psychology 15.1 (2013): 63-70.
+[^14_Fu_66]: Jermaine Henry, Herbert W. Helm Jr. and Natasha Cruz, 'Mate
+    Selection: Gender and Generational Differences', *North American
+    Journal of Psychology* 15.1 (2013): 63-70.
 
-[^14_Fu_67]: Yang, ‘Between Traditionalism and Modernity: Changing Values on
-    Dating Behavior and Mate Selection Criteria’.
+[^14_Fu_67]: Yang, 'Between Traditionalism and Modernity: Changing Values on
+    Dating Behavior and Mate Selection Criteria'.
 
 [^14_Fu_68]: A system that classifies all Chinese citizens either as an urban
     resident or rural. The former enjoys more social welfare.
 
 [^14_Fu_69]: Yinhe Li, Sex and Marriage of the Chinese People (*Zhongguoren De
-    Xing’ai Yu Hunyin*), Zhengzhou: Henan People’s Publishing House,
-    1996, http://v.book.ifeng.com/book/ts/32678/2605023.htm
+    Xing'ai Yu Hunyin*), Zhengzhou: Henan People's Publishing House,
+    1996, <http://v.book.ifeng.com/book/ts/32678/2605023.htm>.
 
-[^14_Fu_70]: *Ibid*.
+[^14_Fu_70]: Yinhe Li, Sex and Marriage of the Chinese People.
 
 [^14_Fu_71]: Shengli Chen and Shikun Zhang, *Dangdai Zeou Yu Shengyu Yiyuan
     Yanjiu: 2002 Nian Chengxiang Juming Shengyu Yiyuan Diaocha*
@@ -11604,125 +11569,126 @@ Modern Sociology* 37.2 (2011): 265-287.
     among Urban and Rural Residents in 2002), Beijing: China Population
     Press, 2002.
 
-[^14_Fu_72]: Qian Tian, ‘A study of Chinese Women’s Mate Selection Trends: An
+[^14_Fu_72]: Qian Tian, 'A study of Chinese Women's Mate Selection Trends: An
     Interpretation Based on Evolutionary Psychology (*Zhongguo nvxing
-    zeou qingxiang yanjiu: Jiyu jinhua xinlixue de jieshi*)’, 2012,
+    zeou qingxiang yanjiu: Jiyu jinhua xinlixue de jieshi*)', 2012,
     Ph.D. dissertation.
 
-[^14_Fu_73]: *Ibid*.
+[^14_Fu_73]: Qian Tian, 'A study of Chinese Women's Mate Selection Trends'.
 
-[^14_Fu_74]: *Ibid*.
+[^14_Fu_74]: Qian Tian, 'A study of Chinese Women's Mate Selection Trends'.
 
-[^14_Fu_75]: *Ibid.*
+[^14_Fu_75]: Qian Tian, 'A study of Chinese Women's Mate Selection Trends'.
 
-[^14_Fu_76]: iResearch Consulting Group, ‘China Online Personals Industry
-    Report: 2013-2014’.
+[^14_Fu_76]: iResearch Consulting Group, 'China Online Personals Industry
+    Report: 2013-2014'.
 
-[^14_Fu_77]: *Ibid*.
+[^14_Fu_77]: iResearch Consulting Group, 'China Online Personals Industry
+    Report: 2013-2014'.
 
 [^14_Fu_78]: Non-registered guests can have access to limited information of
     registered Jiayuan users.
 
-[^14_Fu_79]: National Bureau of Statistics of China, ‘Communiqué of the
+[^14_Fu_79]: National Bureau of Statistics of China, 'Communiqué of the
     National Bureau of Statistics of the People's Republic of China on
-    Major Figures of the 2010 Population Census (No. 2)’, 29 April 2011,
-    [http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html](../customXml/item1.xml)
+    Major Figures of the 2010 Population Census (No. 2)', 29 April 2011,
+    <http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/qgrkpcgb/201104/t20110429\_30328.html>.
 
-[^14_Fu_80]: National Bureau of Statistics of China, ‘Communiqué of the
+[^14_Fu_80]: National Bureau of Statistics of China, *Communiqué of the
     National Bureau of Statistics of the People's Republic of China on
-    Shanghai City of the 2010 Population Census’, 28 February 2012,
-    http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html
+    Shanghai City of the 2010 Population Census*, 28 February 2012,
+    <http://www.stats.gov.cn/tjsj/tjgb/rkpcgb/dfrkpcgb/201202/t20120228\_30403.html>.
 
-[^14_Fu_81]: Cheng, Han, Dagsvik, ‘Marriage Pattern in the City of Shanghai:
+[^14_Fu_81]: Cheng, Han, Dagsvik, 'Marriage Pattern in the City of Shanghai:
     Behavioral Two-sex Model and Multistage Marriage Life Table
-    Approach’.
+    Approach'.
 
-[^14_Fu_82]: *Ibid*.
+[^14_Fu_82]: Cheng, Han, Dagsvik, 'Marriage Pattern in the City of Shanghai.
 
-[^14_Fu_83]: *Ibid*.
+[^14_Fu_83]: Cheng, Han, Dagsvik, 'Marriage Pattern in the City of Shanghai.
 
-[^14_Fu_84]: *Ibid*.
+[^14_Fu_84]: Cheng, Han, Dagsvik, 'Marriage Pattern in the City of Shanghai.
 
-[^14_Fu_85]: *Ibid*.
+[^14_Fu_85]: Cheng, Han, Dagsvik, 'Marriage Pattern in the City of Shanghai.
 
-[^14_Fu_86]: To, ‘Understanding *Sheng Nu* (‘‘Leftover Women’’): The
-    Phenomenon of Late Marriage among Chinese Professional Women’, p. 7;
-    Tian, ‘A study of Chinese Women’s Mate Selection Trends: An
-    Interpretation Based on Evolutionary Psychology’.
+[^14_Fu_86]: To, 'Understanding *Sheng Nu* ('Leftover Women'): The
+    Phenomenon of Late Marriage among Chinese Professional Women', p. 7;
+    Tian, 'A study of Chinese Women's Mate Selection Trends: An
+    Interpretation Based on Evolutionary Psychology'.
 
-[^14_Fu_87]: Household registration was set as “Shanghai” as well to make sure
+[^14_Fu_87]: Household registration was set as "Shanghai" as well to make sure
     the user was a Shanghainese resident rather than the floating
     population who were simply working in Shanghai and may settle down
     in other places.
 
 [^14_Fu_88]: Li, Sex and Marriage of the Chinese People.
 
-[^14_Fu_89]: *Ibid*.
+[^14_Fu_89]: Li, Sex and Marriage of the Chinese People.
 
-[^14_Fu_90]: Harrison and Saeed, ‘Let's Make a Deal: An Analysis of
-    Revelations and Stipulations in Lonely Hearts Advertisements’.
+[^14_Fu_90]: Harrison and Saeed, 'Let's Make a Deal: An Analysis of
+    Revelations and Stipulations in Lonely Hearts Advertisements'.
 
-[^14_Fu_91]: Kay Deaux and Randel Hanna, ‘Courtship in the Persona Column: The
-    Influence of Gender and Sexual Orientation’, Sex Roles, 11. 5/6
+[^14_Fu_91]: Kay Deaux and Randel Hanna, 'Courtship in the Persona Column: The
+    Influence of Gender and Sexual Orientation', *Sex Roles* 11. 5/6
     (1984): 363-375.
 
-[^14_Fu_92]: Richard Koestner and Ladd Wheeler, ‘Self-Presentation in Personal
+[^14_Fu_92]: Richard Koestner and Ladd Wheeler, 'Self-Presentation in Personal
     Advertisements: The Influence of Implicit Notions of Attraction and
-    Role Expectations’, Journal of Social and Personal Relationships 5
+    Role Expectations', *Journal of Social and Personal Relationships* 5
     (1988): 149-160.
 
-[^14_Fu_93]: Gonzales and Meyers, ‘"Your Mother Would Like Me":
+[^14_Fu_93]: Gonzales and Meyers, '"Your Mother Would Like Me":
     Self-Presentation in the Personals Ads of Heterosexual and
-    Homosexual Men and Women’.
+    Homosexual Men and Women'.
 
 [^14_Fu_94]: Kimberly A. Neuendorf, The Content Analysis Guidebook, Thousand
     Oaks, CA: Sage, 2002, p. 145.
 
-[^14_Fu_95]: About 5’4’’.
+[^14_Fu_95]: About 5'4''.
 
-[^14_Fu_96]: About 5’.
+[^14_Fu_96]: About 5'.
 
-[^14_Fu_97]: About 5’10’’.
+[^14_Fu_97]: About 5'10''.
 
 [^14_Fu_98]: Based on the then exchange rate of US\$1 ≈RMB￥ 6.25.
 
 [^14_Fu_99]: Disposable income means real income minus income tax, social
     insurance, and housing fund.
 
-[^14_Fu_100]: Xu Lin, ‘Top 10 Provinces with the Highest Quality in 2013’, 13
-    March 2014,
-    http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm
+[^14_Fu_100]: Xu Lin, 'Top 10 Provinces with the Highest Quality in 2013', 13
+    March 2014, <http://www.china.org.cn/top10/2014-03/13/content\_31769827\_10.htm>.
 
 [^14_Fu_101]: This tag does not seem to apply to personality. But it was one
     of the options offered by Jiayuan.com.
 
-[^14_Fu_102]: 172.4 cm ≈ 5’7”
+[^14_Fu_102]: 172.4 cm ≈ 5'7"
 
-[^14_Fu_103]: 186.5 cm ≈ 6’11”
+[^14_Fu_103]: 186.5 cm ≈ 6'11"
 
-[^14_Fu_104]: Meng Li, ‘Estrangement: A Possible Lens through Which to
+[^14_Fu_104]: Meng Li, 'Estrangement: A Possible Lens through Which to
     Understand the Femininity of Contemporary Chinese Intellectual
-    Women’, Front. Lit. Stud. China 7.1 (2013): 87-116.
+    Women', *Front. Lit. Stud. China* 7.1 (2013): 87-116.
 
-[^14_Fu_105]: Xin Wang, ‘Desperately Seeking Status: Political, Social and
-    Cultural Attributes of China’s Rising Middle Class’, Modern China
-    Studies 20.1 (2013): 1-44.
+[^14_Fu_105]: Xin Wang, 'Desperately Seeking Status: Political, Social and
+    Cultural Attributes of China's Rising Middle Class', *Modern China
+    Studies* 20.1 (2013): 1-44.
 
 [^14_Fu_106]: A province borders Shanghai to the north.
 
-[^14_Fu_107]: James Farrer, ‘Good Stories: Chinese Women’s International Love
-    Stories as Cosmopolitan Sexual Politics’, Sexualities 16.1/2 (2012):
+[^14_Fu_107]: James Farrer, 'Good Stories: Chinese Women's International Love
+    Stories as Cosmopolitan Sexual Politics', *Sexualities* 16.1/2 (2012):
     12-29.
 
 [^14_Fu_108]: About 3,200 U.S. dollars.
 
-[^14_Fu_109]: Jiayuan.com, ‘*Zhongguo Nannv Hunlianguan Xilie Diaocha:
-    2012nian Diyi Jidu Zhi Shengnv De Zibaishu* (Chinese Men and Women’s
+[^14_Fu_109]: Jiayuan.com, *Zhongguo Nannv Hunlianguan Xilie Diaocha:
+    2012nian Diyi Jidu Zhi Shengnv De Zibaishu* (Chinese Men and Women's
     Attitude toward Marriage and Love Serial Investigation: Q1 2012 The
-    Confession of *Shengnv*)’, 8 March 2012,
-    http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf
+    Confession of *Shengnv*), 8 March 2012,
+    <http://dl.jiayuan.com/doc/marriage\_views/2012Q13SConfession.pdf>.
 
-[^14_Fu_110]: *Ibid*.
+[^14_Fu_110]: Jiayuan.com, *Zhongguo Nannv Hunlianguan Xilie Diaocha:
+    2012nian Diyi Jidu Zhi Shengnv De Zibaishu*.
 
 [^14_Fu_111]: A Chinese term for love and marriage 姻缘, rhyming with Jiayuan
     佳缘, the name of the dating website.
@@ -11731,11 +11697,11 @@ Modern Sociology* 37.2 (2011): 265-287.
     young man or as a way to address an elder male lover with endearment
     by young women in online discourse.
 
-[^14_Fu_113]: Xinwen Chenbao. ‘*Beishangguangshen De Hunlian Gushi: Waidiren
+[^14_Fu_113]: Xinwen Chenbao. '*Beishangguangshen De Hunlian Gushi: Waidiren
     Renwei Lianai Jiu Wei Jiehun* (Marriage and Love Stories in Beijing,
     Shanghai, Canton and Shenzhen: Immigrants Believe Dating is just for
-    Marriage)’, 23 January 2013,
-    http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm.
+    Marriage)', 23 January 2013,
+    <http://news.xinhuanet.com/fortune/2013-01/23/c\_124269355.htm>.
 
 # Keeping it Unreal - Online Dating with Chinese Characteristics
 
@@ -15900,7 +15866,7 @@ Oncevatan. <http://www.oncevatan.com.tr/>.
 [^18_TVshows-ozustun-Final_8]: Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. 'Uses and
     gratifications research.' Public opinion quarterly (1973): 509-523.
 
-[^18_TVshows-ozustun-Final_9]: Oncevatan. <http://www.oncevatan.com.tr/>.
+[^18_TVshows-ozustun-Final_9]: Oncevatan, <http://www.oncevatan.com.tr/>.
 
 [^18_TVshows-ozustun-Final_10]: Alemdar, Korkmaz-Erdoğan, İrfan, 'Popüler Kültür ve İletişim',
     Ankara, Ümit Yayıncılık, 1994, p. 263
