@@ -161,12 +161,6 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" KeyboardShortcut="0 0" Name="Bold" FontStyle="Bold">
-			<Properties>
-				<BasedOn type="object">CharacterStyle/Default</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" Name="$ID/[No character style]" />
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
@@ -283,18 +277,6 @@
 				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign" Name="TablePar &gt; TableHeader &gt; LeftAlign" Imported="false" NextStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign" KeyboardShortcut="0 0" FontStyle="Bold">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/TablePar &gt; LeftAlign" Name="TablePar &gt; LeftAlign" Imported="false" NextStyle="ParagraphStyle/TablePar &gt; LeftAlign" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Reference-paragraph" Name="Reference-paragraph" Imported="false" NextStyle="ParagraphStyle/Reference-paragraph" KeyboardShortcut="0 0" PointSize="8" SpaceBefore="5.669291338582678" SpaceAfter="0" GridAlignment="None">
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
@@ -409,7 +391,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> century in the specific case of Israeli users and addresses questions of virtual place: can the cyberspace be seen as a single space? Are there any cultural and local features to the practice of using the Internet to meet new people?</Content>
 				<Br />
-				<Content>To address these questions, this work employs the terms of place, symbol and culture, in order to describe the unique local nature of “e-dating” as experienced by Israeli on-line daters. Unlike cyberpsychology literature, which focuses on the individual user, often viewing the whole Internet as a “signifier of unified and universalizing ‘virtual realm’,</Content>
+				<Content>To address these questions, this work employs the terms of place, symbol and culture, in order to describe the unique local nature of &apos;e-dating&apos; as experienced by Israeli on-line daters. Unlike cyberpsychology literature, which focuses on the individual user, often viewing the whole Internet as a &apos;signifier of unified and universalizing ‘virtual realm’,</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -430,15 +412,15 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> the theoretical starting point of this work is a sociological and cultural one. It helps to (1) conceptualize “places” and digital “places” that constitute meeting grounds as distinct from one another and (2) understand the ideological structure of the Israeli-Jewish society, which has the practice of meeting a romantic partner as an integral part thereof.</Content>
+				<Content> the theoretical starting point of this work is a sociological and cultural one. It helps to (1) conceptualize &apos;places&apos; and digital &apos;places&apos; that constitute meeting grounds as distinct from one another and (2) understand the ideological structure of the Israeli-Jewish society, which has the practice of meeting a romantic partner as an integral part thereof.</Content>
 				<Br />
-				<Content>The analysis was performed using the tools of Dell Hymes’ model (SPEAKING), which enable to distinguish between different speech events and by implication, between “places”, refers to a corpus of some 1,500 posts published by users in an Internet forum cluster, falling under the category of “love and romance” and hosted by a popular Israeli portal of &quot;</Content>
+				<Content>The analysis was performed using the tools of Dell Hymes’ model (SPEAKING), which enable to distinguish between different speech events and by implication, between &apos;places&apos;, refers to a corpus of some 1,500 posts published by users in an Internet forum cluster, falling under the category of &apos;love and romance&apos; and hosted by a popular Israeli portal of </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Tapuz</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>&quot;.</Content>
+				<Content>.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -458,13 +440,13 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Analysis shows a distinction made by users between “dating websites”, “forums” and “</Content>
+				<Content> Analysis shows a distinction made by users between &apos;dating websites&apos;, &apos;forums&apos; and </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Facebook</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>”. This distinction, elucidated by three symbols emerging from their statements; i.e. “supermarket/workplace”, “orchard” and “picture album”, creates a mental-distance from dating websites for some users (although some of them use them), who view </Content>
+				<Content>. This distinction, elucidated by three symbols emerging from their statements; i.e. &apos;supermarket/workplace&apos;, &apos;orchard&apos; and &apos;picture album&apos;, creates a mental-distance from dating websites for some users (although some of them use them), who view </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Facebook</Content>
@@ -503,7 +485,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> (see. The earliest of them addressed “secondary” relationships, confined to the Internet and serving as compensation or complement for the offline reality. In recent years, there have also been sociologic and ethnographic studies</Content>
+				<Content> (see. The earliest of them addressed &apos;secondary&apos; relationships, confined to the Internet and serving as compensation or complement for the offline reality. In recent years, there have also been sociologic and ethnographic studies</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -532,7 +514,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Physical and symbolic places are mutually-distinct entities (like “home” as opposed to the “town square”) within a given “space” – the possible range of operation between the place inhabited by one at present and a potential place where one can picture oneself.</Content>
+				<Content>Physical and symbolic places are mutually-distinct entities (like ‘home’ as opposed to the ‘town square’) within a given ‘space’ – the possible range of operation between the place inhabited by one at present and a potential place where one can picture oneself.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -547,7 +529,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Internet researchers seem to be divided into those who view the web as a uniform, heterogeneous virtual place-essentially different from non-virtual “places”,</Content>
+				<Content> Internet researchers seem to be divided into those who view the web as a uniform, heterogeneous virtual place-essentially different from non-virtual &apos;places&apos;,</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -609,7 +591,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> It emerged from her study that “virtual communities” (or forums) and “dating websites” were perceived by their users as mutually distinct. One of Baker’s arguments was that people who met each other in virtual community websites lived relatively further away from each other, met offline later on and their relationships enjoyed greater stability in the long run, thus shifting the focus to the places formed around the virtual social network.</Content>
+				<Content> It emerged from her study that &apos;virtual communities&apos; (or forums) and &apos;dating websites&apos; were perceived by their users as mutually distinct. One of Baker’s arguments was that people who met each other in virtual community websites lived relatively further away from each other, met offline later on and their relationships enjoyed greater stability in the long run, thus shifting the focus to the places formed around the virtual social network.</Content>
 				<Br />
 				<Content>It is my intention to pursue Baker’s line of thought; add the </Content>
 			</CharacterStyleRange>
@@ -623,7 +605,7 @@
 				<Content>SPEAKING</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, pertaining to “speech events”, and Ray Oldenburg’s “Third Place or Great Good Place”. Speech events constitute “activities or aspects thereof that are directly governed by rules or norms for the use of speech”</Content>
+				<Content>, pertaining to &apos;speech events&apos;, and Ray Oldenburg’s &apos;Third Place or Great Good Place&apos;. Speech events constitute &apos;activities or aspects thereof that are directly governed by rules or norms for the use of speech&apos;</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -703,7 +685,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> - i.e., the genre that the event is categorized by; encompassing all features of the event with a generalizing definition that attributes the event to a given category.</Content>
 				<Br />
-				<Content>Studies into e-dating referred to this model. It usually refers to this concept as a &quot;purposeful form of meeting new people through specifically designed Internet sites&quot;.</Content>
+				<Content>Studies into e-dating referred to this model. It usually refers to this concept as a &apos;purposeful form of meeting new people through specifically designed Internet sites&apos;.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -771,7 +753,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Andrea Baker addressed the features of “setting and scene”, “ends” and “act sequence”. Other works analyzed the norms of dating websites - such as the full details disclosure stipulation.</Content>
+				<Content> Andrea Baker addressed the features of &apos;setting and scene&apos;, &apos;ends&apos; and &apos;act sequence&apos;. Other works analyzed the norms of dating websites - such as the full details disclosure stipulation.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -786,9 +768,9 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Heino et al. in their work-based on a series of interviews with male and female members of a big dating website-learned from their subjects about the “marketplace metaphor” (or in their terms, the “marketplace shopping”), which they use in these &quot;places&quot;. Heino et al argues that these individuals consciously view such websites as places “where people go to ‘shop’ for potential romantic partners or ‘sell’ themselves.” This metaphor affects the conduct around these websites - which sometimes confirmed the metaphor, while at other times served to subvert it.</Content>
+				<Content> Heino et al. in their work-based on a series of interviews with male and female members of a big dating website-learned from their subjects about the &apos;marketplace metaphor&apos; (or in their terms, the &apos;marketplace shopping&apos;), which they use in these &apos;places&apos;. Heino et al argues that these individuals consciously view such websites as places &apos;where people go to ‘shop’ for potential romantic partners or ‘sell’ themselves.&apos; This metaphor affects the conduct around these websites - which sometimes confirmed the metaphor, while at other times served to subvert it.</Content>
 				<Br />
-				<Content>In order to distinguish, metaphorically, between places, one can also use Ray Oldenburg’s work, revolving around the concept of the “third place&quot; or &quot;great good place”- utopian places where social encounters take place in a loosened, leveled atmosphere. The conversations developing in places such as the American town’s café and barbershop answer the human need for intimacy and affiliation.</Content>
+				<Content>In order to distinguish, metaphorically, between places, one can also use Ray Oldenburg’s work, revolving around the concept of the &apos;third place&apos; or &apos;great good place&apos;- utopian places where social encounters take place in a loosened, leveled atmosphere. The conversations developing in places such as the American town’s café and barbershop answer the human need for intimacy and affiliation.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -820,7 +802,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> further elucidated the uniqueness of &quot;the third place&quot; by pitching it against the home – a place to rest in, retire from the public within the safety of one’s family and the workplace, which is built on structured, objective-oriented activity, with constant competition; a setting that doesn’t encourage interaction.</Content>
+				<Content> further elucidated the uniqueness of &apos;the third place&apos; by pitching it against the home – a place to rest in, retire from the public within the safety of one’s family and the workplace, which is built on structured, objective-oriented activity, with constant competition; a setting that doesn’t encourage interaction.</Content>
 				<Br />
 				<Content>It is my intention to address these three sources as symbols; viewing them as a hypothetic tool, which along with Hymes’ model, allows me to distinguish between different digital places designed for e-dating.</Content>
 				<Br />
@@ -851,7 +833,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In the 150 years passed since its inception, the Jewish Israeli society has undergone two major cultural upheavals, pertinent to the following discussions. The first of which occurred with the sharp breaking away from “diasporic” life-which is how Jewish Israelis refer to the period where most of the nation lived away from the land of Israel; the second one took place roughly forty years ago, with the onset of the massive penetration of American culture to the State of Israel.</Content>
+				<Content>In the 150 years passed since its inception, the Jewish Israeli society has undergone two major cultural upheavals, pertinent to the following discussions. The first of which occurred with the sharp breaking away from &apos;diasporic&apos; life-which is how Jewish Israelis refer to the period where most of the nation lived away from the land of Israel; the second one took place roughly forty years ago, with the onset of the massive penetration of American culture to the State of Israel.</Content>
 				<Br />
 				<Content>In its early days, the Zionist Movement – upholding Jewish settlement in Israel, addressed younger people who resided in conservative, traditional Jewish communities in Eastern Europe, suggesting they realize, body and spirit, ideas of independence: breaking away from their parents and culture and creating instead a new society where they would live with a secular, solidary and supportive peer group – working in agriculture and industries and meeting all their physical and mental needs. This society, so they hoped, would spell the end of their parents’ culture.</Content>
 				<Br />
@@ -871,7 +853,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>One feature of the diasporic life was the “ familial- community matchmaker”: an unsightly, cunning man, trading in “luftgesheft, Yiddish for “business of air”; a man who makes incompatible matches, regardless of the subjects’ romantic sentiments, with his guiding principles being greed on the one hand and inter-generational continuity on the other.</Content>
+				<Content>One feature of the diasporic life was the &apos;familial- community matchmaker&apos;: an unsightly, cunning man, trading in &apos;luftgesheft, Yiddish for &apos;business of air&apos;; a man who makes incompatible matches, regardless of the subjects’ romantic sentiments, with his guiding principles being greed on the one hand and inter-generational continuity on the other.</Content>
 				<Br />
 				<Content>Most Jewish people living in Israel nowadays have never met this character, yet his mythological implication have naturally infiltrated the collective consciousness through canonical texts, such as the works of Israeli author and Noble laureate, Shmuel Yosef Agnon, or the popular Israeli film, </Content>
 			</CharacterStyleRange>
@@ -891,11 +873,11 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> In this film, a crook matchmaker tries to pair the rich master’s daughter with a stammering, lame Yeshiva student, but eventually yields to the intense romantic feelings of the girl and her “true” sweetheart.</Content>
+				<Content> In this film, a crook matchmaker tries to pair the rich master’s daughter with a stammering, lame Yeshiva student, but eventually yields to the intense romantic feelings of the girl and her &apos;true&apos; sweetheart.</Content>
 				<Br />
 				<Content>In the new Jewish society created in Israel, the concept of the familial- community matchmaker was converted to unmediated meetings among people in the collective agricultural groups, formed in Israel or otherwise through the introduction by friends. The few familial-community matchmakers left catered for populations who struggled to embrace the Zionist world order: Orthodox Jews or new immigrants arriving at the state as it was founded – Holocaust survivors or immigrants from Arab countries.</Content>
 				<Br />
-				<Content>Starting from the 1970’s, Israel has seen major demographic changes that led to a significant rise in the average marriage age among the secular society. Statistics show that 64% of Jewish men and 46% of Jewish women in Israel aged 25-29 are single (as of 2011), as compared to 54% of Jewish men and 38% of Jewish women back in the beginning of the former decade (2000&apos;s). This compromised the option of meeting romantic partners within one’s peer group-that is, in high school, during the military service or through higher education. One element introduced into the Israeli society was the professional &quot;marriage market intermediaries (MMI)’.</Content>
+				<Content>Starting from the 1970’s, Israel has seen major demographic changes that led to a significant rise in the average marriage age among the secular society. Statistics show that 64% of Jewish men and 46% of Jewish women in Israel aged 25-29 are single (as of 2011), as compared to 54% of Jewish men and 38% of Jewish women back in the beginning of the former decade (2000&apos;s). This compromised the option of meeting romantic partners within one’s peer group-that is, in high school, during the military service or through higher education. One element introduced into the Israeli society was the professional &apos;marriage market intermediaries (MMI)’.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -910,11 +892,11 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Forty years after their emergence in the USA, dating offices sprouted around Israel, with the predominant one being Helena Amram’s, who branded herself as “international”, by speaking English and espousing the American culture. In addition, Israel witnessed the penetration of a foreign family of words, i.e. Date (dating, dater, date), which stands for casual romantic relationships, devoid of emotional attachment.</Content>
+				<Content> Forty years after their emergence in the USA, dating offices sprouted around Israel, with the predominant one being Helena Amram’s, who branded herself as &apos;international&apos;, by speaking English and espousing the American culture. In addition, Israel witnessed the penetration of a foreign family of words, i.e. Date (dating, dater, date), which stands for casual romantic relationships, devoid of emotional attachment.</Content>
 				<Br />
 				<Content>Dating websites emerged about twenty years ago. The first of which was a chapter of the international JDate website, followed by a series of similar sites, with some of the key ones adopting American names and appearance: Alpha, Cupid and Loveme. It is interesting to note that some very big dating-based websites, such as eHarmony, who employ scientific tools, never made it to Israel and have failed to generate local imitations. Speed-dating too remains a marginal phenomenon.</Content>
 				<Br />
-				<Content>One could argue that this duality, i.e. the of legitimacy granted to “America-like” sites on the one hand and the exclusion of such sites from Hebrew on the other, attests to the general ambivalence of Jews in Israel in their attitudes towards “America”.</Content>
+				<Content>One could argue that this duality, i.e. the of legitimacy granted to &apos;America-like&apos; sites on the one hand and the exclusion of such sites from Hebrew on the other, attests to the general ambivalence of Jews in Israel in their attitudes towards &apos;America&apos;.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -923,7 +905,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Azaryahu Maoz, ‘The Golden Arches of McDonald&apos;s: On the&quot; Americanization&quot; of Israel.’ Israel Studies</Content>
+							<Content>	Azaryahu Maoz, ‘The Golden Arches of McDonald&apos;s: On the &quot;Americanization&quot; of Israel.’ Israel Studies</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>,</Content>
@@ -935,7 +917,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Jewish Israelis are in awe of the American technological superiority (the American term Hi-Tech garners a lot of prestige in Israel), but on the other hand, America, especially amongst the middle class and intellectual elite of Israel, is perceived as an over-mechanical kind of culture, intellectually superficial and estranged to any ideal of social relations. Jewish Israelis may refer to a perfect state-of-affairs in terms of “ it&apos;s just like in America”, followed by “lest we become America”. The reality of life under security threats and the Jewish tradition, versus the individualism and alienation that have come to signify “America” for Israelis, still instate a “collectivism” of sorts, coupled by a sense of “togetherness”. These do not chime well with a world where everyone, supposedly, is to his own.</Content>
+				<Content> Jewish Israelis are in awe of the American technological superiority (the American term Hi-Tech garners a lot of prestige in Israel), but on the other hand, America, especially amongst the middle class and intellectual elite of Israel, is perceived as an over-mechanical kind of culture, intellectually superficial and estranged to any ideal of social relations. Jewish Israelis may refer to a perfect state-of-affairs in terms of &apos;it&apos;s just like in America&apos;, followed by &apos;lest we become America&apos;. The reality of life under security threats and the Jewish tradition, versus the individualism and alienation that have come to signify &apos;America&apos; for Israelis, still instate a &apos;collectivism&apos; of sorts, coupled by a sense of &apos;togetherness&apos;. These do not chime well with a world where everyone, supposedly, is to his own.</Content>
 				<Br />
 				<Content>Alongside dating websites, Israel shows an avid interest in online forums, open to the public and serving also as places where strangers can meet. These forums are affiliated to online news sites, such as Ynet or Walla, or managed by user-communication designated websites, such as Tapuz (orange fruit), where the data for this work were collected; a site that attracted, according to its own statistics, around 1.5 million users in 2013.</Content>
 				<Br />
@@ -971,11 +953,11 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The present study is based on the collection and analysis of posts in several Internet forums activated by the Israeli portal of &quot;Tapuz&quot; under the “love and romance&quot; category, which encompasses forums named Him and Her, 30+ Dating and Blind Date, to cite but few.</Content>
+				<Content>The present study is based on the collection and analysis of posts in several Internet forums activated by the Israeli portal of &apos;Tapuz&apos; under the &apos;love and romance&apos; category, which encompasses forums named Him and Her, 30+ Dating and Blind Date, to cite but few.</Content>
 				<Br />
 				<Content>The corpus was amassed in several steps. First I used the portal’s search engine to trace relevant keywords, such as ‘Internet’, ‘dating website’, ‘forum’, ‘‘social network’ and Facebook. I focused on the years 2011-2014.</Content>
 				<Br />
-				<Content>The search yielded 1,185 posted messages associated with dating websites. Most users employed this term in its general sense. Only few referred to specific websites (JDate, for example, was cited 82 times). Facebook was cited in 113 posts (with no mention of any other social network). While few posts featured the word “forum”, I traced many instances where the forum groups browsed by subjects were referred to as (citrus) “orchard” (154 times). The significance of preferring the “local” term to the application’s universal name shall be discussed later. Once the corpus’ limits were defined, posts that pertained to one or more parameter suggested by Hymes were identified: definitions of places, participants’ identity and the abiding norms in each place, for example. Much to my surprise and despite my expectations, based on the key role of Facebook in the everyday Israeli reality, I found, during the process, Facebook to be perceived not as a “place” for dating, but rather as a possible stage.</Content>
+				<Content>The search yielded 1,185 posted messages associated with dating websites. Most users employed this term in its general sense. Only few referred to specific websites (JDate, for example, was cited 82 times). Facebook was cited in 113 posts (with no mention of any other social network). While few posts featured the word &apos;forum&apos;, I traced many instances where the forum groups browsed by subjects were referred to as (citrus) &apos;orchard&apos; (154 times). The significance of preferring the &apos;local&apos; term to the application’s universal name shall be discussed later. Once the corpus’ limits were defined, posts that pertained to one or more parameter suggested by Hymes were identified: definitions of places, participants’ identity and the abiding norms in each place, for example. Much to my surprise and despite my expectations, based on the key role of Facebook in the everyday Israeli reality, I found, during the process, Facebook to be perceived not as a &apos;place&apos; for dating, but rather as a possible stage.</Content>
 				<Br />
 				<Content>Observations were conducted in an unobtrusive mode, never interfering with discussions or contacting subjects for their comments and clarifications. Having adopted the premise that when people wrote in open forums-public contexts where entry was not protected by codes, passwords or other access barriers-they were aware their messages could be read and used by anyone, I assumed that forum users had made a rational decision as to which information they wanted to reveal and how to protect their privacy. Nevertheless, I did consider several ethical issues concerning online privacy and possible offence to people’s feelings.</Content>
 			</CharacterStyleRange>
@@ -1035,7 +1017,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Users, who referred to the “place” component when alluding to the Cyberspace as a place where new relationships were formed, almost sweepingly did so while distinguishing between three mutually distinct-territorially and symbolically-virtual places of the imagined space: dating websites, rooted in a mythological “America”, the forums they logged on to – associated with Israel’s nostalgic past, and the social network of Facebook, as a picture album close to the self of each and every one of them.</Content>
+				<Content>Users, who referred to the &apos;place&apos; component when alluding to the Cyberspace as a place where new relationships were formed, almost sweepingly did so while distinguishing between three mutually distinct-territorially and symbolically-virtual places of the imagined space: dating websites, rooted in a mythological &apos;America&apos;, the forums they logged on to – associated with Israel’s nostalgic past, and the social network of Facebook, as a picture album close to the self of each and every one of them.</Content>
 				<Br />
 				<Content>Dating websites proved to be places of strangeness and alienation. The latter stemmed from the perception of their activity as instrumental by nature, and they were depicted using expressions and symbols laden with cultural significance:</Content>
 				<Br />
@@ -1043,7 +1025,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“Dating websites are just another online shop. The supply on offer is huge and for many people, hanging around in these sites is just part of the shopping culture. When the profile reduces people to mere products with specifications, there are always going to be more attractive products with a more “updated” specification, and the endless browsing of profiles and picture has become for some people the key experience.” </Content>
+				<Content>Dating websites are just another online shop. The supply on offer is huge and for many people, hanging around in these sites is just part of the shopping culture. When the profile reduces people to mere products with specifications, there are always going to be more attractive products with a more “updated” specification, and the endless browsing of profiles and picture has become for some people the key experience. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Male, 43.</Content>
@@ -1052,13 +1034,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This sarcastic portrayal of the dating website as a “place” where mechanic-like activity takes place makes ample use of foreign words, such as </Content>
+				<Content>This sarcastic portrayal of the dating website as a &apos;place&apos; where mechanic-like activity takes place makes ample use of foreign words, such as </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>shopping</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, alongside “online shop” and “virtual shelf&quot;; words whose function here is twofold – at once dwarfing and distancing. The Hebrew language differentiates between “kniyot”, Hebrew for buying, denoting the purchase of a product to be used, from the English “shopping”, which signals the joy derived from the very act of shopping, regardless of the product or its designated use. In other words, the shopping experience or more broadly, the window shopping, refers to the joy from both the very contact with the object, its smell or taste, and to the very visit in the shopping center or hanging put with friends and relative.</Content>
+				<Content>, alongside &apos;online shop&apos; and &apos;virtual shelf&apos;; words whose function here is twofold – at once dwarfing and distancing. The Hebrew language differentiates between &apos;kniyot&apos;, Hebrew for buying, denoting the purchase of a product to be used, from the English &apos;shopping&apos;, which signals the joy derived from the very act of shopping, regardless of the product or its designated use. In other words, the shopping experience or more broadly, the window shopping, refers to the joy from both the very contact with the object, its smell or taste, and to the very visit in the shopping center or hanging put with friends and relative.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1080,7 +1062,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>To cite the Israeli slang dictionary, “nothing can beat a shopping spree in drowning your sorrow, the joy of new items”.</Content>
+				<Content>To cite the Israeli slang dictionary, &apos;nothing can beat a shopping spree in drowning your sorrow, the joy of new items&apos;.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1097,15 +1079,15 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Nevertheless, when such activity is attributed to dating websites, the joy element described in its definition is very much diminished, devoid of its joy/company-associated significances, leaving the mere narrow, meager aspect of an action with no definite aim, performed at the expense of a human “object”.</Content>
+				<Content> Nevertheless, when such activity is attributed to dating websites, the joy element described in its definition is very much diminished, devoid of its joy/company-associated significances, leaving the mere narrow, meager aspect of an action with no definite aim, performed at the expense of a human &apos;object&apos;.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The resemblance between the shallow, superficial image of the act, and one image of the country where the language employed here is spoken, leads one to assume that this kind of shopping is marked by the not-so-flattering image of America, compounded, in this case, by the English-derived terms &quot;Online&quot; and &quot;Virtual&quot;.</Content>
+				<Content>The resemblance between the shallow, superficial image of the act, and one image of the country where the language employed here is spoken, leads one to assume that this kind of shopping is marked by the not-so-flattering image of America, compounded, in this case, by the English-derived terms &apos;Online&apos; and &apos;Virtual&apos;.</Content>
 				<Br />
-				<Content>This image is further stressed, with the word “supermarket&quot;, employed by many users when referring to dating websites.</Content>
+				<Content>This image is further stressed, with the word &apos;supermarket&apos;, employed by many users when referring to dating websites.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1120,15 +1102,15 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>In the late 1950’s, year 1958, the emergence of the first supermarket was one of the phenomena that marked the change occurring in the Israeli culture, and in fact the downfall of the solidary agricultural society, as the supermarket was designed to replace the neighborhood grocery shops, which served for meetings and interactions. Originally located at the heart of cities, supermarkets eventually became giant institutes situated just outside them, standing for a galore of products as well as for alienation. It is no wonder then that the word “supermarket”, born as it was in a society fighting for its identity – retained its foreign form and was employed in this context to describe an alienated, “not from here” kind of place.</Content>
+				<Content>In the late 1950’s, year 1958, the emergence of the first supermarket was one of the phenomena that marked the change occurring in the Israeli culture, and in fact the downfall of the solidary agricultural society, as the supermarket was designed to replace the neighborhood grocery shops, which served for meetings and interactions. Originally located at the heart of cities, supermarkets eventually became giant institutes situated just outside them, standing for a galore of products as well as for alienation. It is no wonder then that the word &apos;supermarket&apos;, born as it was in a society fighting for its identity – retained its foreign form and was employed in this context to describe an alienated, &apos;not from here&apos; kind of place.</Content>
 				<Br />
-				<Content>In this sense, the forum used by the subjects for sharing their experiences is unlike “dating websites”. It was referred to at times as a “community”:</Content>
+				<Content>In this sense, the forum used by the subjects for sharing their experiences is unlike &apos;dating websites&apos;. It was referred to at times as a &apos;community&apos;:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“It’s a kind of home, a community, something genuine. Warmer, more accepting, more empathic.” </Content>
+				<Content>It’s a kind of home, a community, something genuine. Warmer, more accepting, more empathic. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 42.</Content>
@@ -1143,7 +1125,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“I’ve been a member of this orchard since 2003… there were forums and communes where I spent years and years… I keep in touch with some of the people there on Facebook as well… This site has been a kind of home for me, ever since I can remember myself online, the orchard is here on the browser every now and then while online.” </Content>
+				<Content>I’ve been a member of this orchard since 2003… there were forums and communes where I spent years and years… I keep in touch with some of the people there on Facebook as well… This site has been a kind of home for me, ever since I can remember myself online, the orchard is here on the browser every now and then while online. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 29</Content>
@@ -1155,9 +1137,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Albeit conduct in this forum, as described here, can be defined as “devoid of any cultural scent”, another instance of Oldenburg’s “great good place”, it still showed some traces of the local meaning, in the form of the term “orchard”, frequently employed by users. In the Israeli reality, “citrus orchard” has come to represent the agricultural period that marked the early Jewish settlement in the Land of Israel, when planting consisted mostly of citrus orchards. Similarly to grocery shops, these too represented interaction and solidarity. Over the last forty years, and coinciding with the emergence of supermarkets that replaced grocery shops, Israelis have witnessed the uprooting of many orchards to make room for urban neighborhoods. These sometimes comprise residential towers, with their typically alienated life style. And thus, this step, by implication, marked the uprooting of the social spirit typical of life at the time.</Content>
+				<Content>Albeit conduct in this forum, as described here, can be defined as &apos;devoid of any cultural scent&apos;, another instance of Oldenburg’s &apos;great good place&apos;, it still showed some traces of the local meaning, in the form of the term &apos;orchard&apos;, frequently employed by users. In the Israeli reality, &apos;citrus orchard&apos; has come to represent the agricultural period that marked the early Jewish settlement in the Land of Israel, when planting consisted mostly of citrus orchards. Similarly to grocery shops, these too represented interaction and solidarity. Over the last forty years, and coinciding with the emergence of supermarkets that replaced grocery shops, Israelis have witnessed the uprooting of many orchards to make room for urban neighborhoods. These sometimes comprise residential towers, with their typically alienated life style. And thus, this step, by implication, marked the uprooting of the social spirit typical of life at the time.</Content>
 				<Br />
-				<Content>While dating websites belonged to another place and the forum to another time, the Facebook social network was the here and now “place”, or as one user put it, “the least virtual within the virtual world.” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>While dating websites belonged to another place and the forum to another time, the Facebook social network was the here and now &apos;place&apos;, or as one user put it, &apos;the least virtual within the virtual world.&apos; </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 29</Content>
@@ -1165,7 +1151,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
-				<Content>The limits of this world, built on friendship confirmations of users, were extensive as far as time and place – they encompassed individuals from the past and present and sometimes included links to former overseas experiences. Yet above all, Facebook constituted a place where users were only meeting people who had already featured in one station or another of their lives; a &quot;personal picture album&quot; of sorts, a life summary for the time and place they inhabited at present, and as such, for most part – there was no room for strangers there.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>The limits of this world, built on friendship confirmations of users, were extensive as far as time and place – they encompassed individuals from the past and present and sometimes included links to former overseas experiences. Yet above all, Facebook constituted a place where users were only meeting people who had already featured in one station or another of their lives; a &apos;personal picture album&apos; of sorts, a life summary for the time and place they inhabited at present, and as such, for most part – there was no room for strangers there.</Content>
 				<Br />
 				<Content>The similarity between the three places was sealed by the image of their </Content>
 			</CharacterStyleRange>
@@ -1175,47 +1165,75 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>. When reading their statements, two parameters can be identified: how much human wholeness they possessed and how compatible with reality they proved to be. These bred a tri-prototyped hierarchy of participants that fitted the three places: complete strangers, faceless and nameless friends and everyday acquaintances.</Content>
 				<Br />
-				<Content>Dating websites users inhabited the bottom of the list. Even after some correspondence, a phone call or even a meeting, they were still perceived as complete strangers and in some cases were seen to have failed both tests. There were also those users who had had some unpleasant experiences and described other users in those sites as “human trash” or “mentally-wounded individuals.” Some likened them, figuratively, to robots, in order to describe the personality perversion forced on those partaking in activities on dating websites:</Content>
+				<Content>Dating websites users inhabited the bottom of the list. Even after some correspondence, a phone call or even a meeting, they were still perceived as complete strangers and in some cases were seen to have failed both tests. There were also those users who had had some unpleasant experiences and described other users in those sites as &apos;human trash&apos; or &apos;mentally-wounded individuals.&apos; Some likened them, figuratively, to robots, in order to describe the personality perversion forced on those partaking in activities on dating websites:</Content>
 				<Br />
-				<Content>“People should meet each other spontaneously, not mechanically, like the ISCAR factory (Israeli tool-making company).” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>People should meet each other spontaneously, not mechanically, like the ISCAR factory (Israeli tool-making company). </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Male, 34.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Or:</Content>
 				<Br />
-				<Content>“You log on to this site or another… the faces are always the same, so are the pick-up lines-and the incredible thing is how they forget they have already written to you and write the same stuff again.” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>You log on to this site or another… the faces are always the same, so are the pick-up lines-and the incredible thing is how they forget they have already written to you and write the same stuff again. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 39.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Some “real” robot descriptions were also found – a mechanism activated by the administrators of some websites, dispatching mechanic, fictitious messages from potential candidates. These were designed to deceive users, making them pay subscriptions fees.</Content>
+				<Content>Some &apos;real&apos; robot descriptions were also found – a mechanism activated by the administrators of some websites, dispatching mechanic, fictitious messages from potential candidates. These were designed to deceive users, making them pay subscriptions fees.</Content>
 				<Br />
-				<Content>“I’ve come across quite a few sites that boasted of their huge number of users, when in actual fact they numbered significantly less. Think of it in simple terms: the site sends you fictitious messages, you mistake them for real ones and pay up, and they carry on, until at some point you’re up to their trick or just fed up.” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>I’ve come across quite a few sites that boasted of their huge number of users, when in actual fact they numbered significantly less. Think of it in simple terms: the site sends you fictitious messages, you mistake them for real ones and pay up, and they carry on, until at some point you’re up to their trick or just fed up. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Male, 29.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>As aforesaid, the robot image, incorporating the lack of tangibility and representation, was often ascribed to individuals as well. It is no wonder then that any interaction with anyone using the dating websites was marred by suspicions.</Content>
 				<Br />
 				<Content>Forum-using member ranked higher as far as their human wholeness, if not as far as reality was concerned, as presence in said forums was often shrouded in secrets, with users recounting how their families were not aware of their presence there. Nevertheless, users branded their peers as people they could talk to and get helpful advices from, or in some cases even befriend offline, nay, fall in love with and marry.</Content>
 				<Br />
-				<Content>“Tapuz is a home, it really is, I’m a veteran of forum Blindate and those people there were my rock in many moments, with a lot of consulting, some useless while others more helpful… My first serious boyfriend was from the forum… I started off in the orchard… at 17, and so ten years just went by!!! Wow.” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Tapuz is a home, it really is, I’m a veteran of forum Blindate and those people there were my rock in many moments, with a lot of consulting, some useless while others more helpful… My first serious boyfriend was from the forum… I started off in the orchard… at 17, and so ten years just went by!!! Wow. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 28.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In contrast with these two contexts, where it is doubtful whether the actual individual and his/her online image have much in common, it was obvious that users viewed Facebook friends as all-round individuals, both in their online representation and their epistemic meaning.</Content>
 				<Br />
-				<Content>“Facebook for me is another nice virtual site to see, keep updated and update family and friends… snoop to see what the children are up to, who they are in touch with… to be reminded of friends and family’s birthdays, which I would’ve never remembered otherwise.” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Facebook for me is another nice virtual site to see, keep updated and update family and friends… snoop to see what the children are up to, who they are in touch with… to be reminded of friends and family’s birthdays, which I would’ve never remembered otherwise. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 42.</Content>
@@ -1230,7 +1248,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“In Facebook there is stuff that’s nobody’s business, certainly not someone that you don’t know at the end of the day.” </Content>
+				<Content>In Facebook there is stuff that’s nobody’s business, certainly not someone that you don’t know at the end of the day. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 39.</Content>
@@ -1239,7 +1257,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The three “places” are therefore mutually-distinct, not just in the structural sense, but also through metaphors and metonyms laden with cultural significances. In the symbols broader sense, they constitute a collective imagination map of the world out there. This world holds a place for a set collective nostalgic past, a past not necessarily fulfilled offline (the orchard), as well as for a cruel urban world that is not from here, that is, the “supermarket”, and the personal picture album-where new people are hard to introduce. The users’ image completed the general appearance of these places. The dark side of the global cosmos was inhabited by almost non-human residents, while its bright side veered towards the “us” or “I”, in their various senses.</Content>
+				<Content>The three &apos;places&apos; are therefore mutually-distinct, not just in the structural sense, but also through metaphors and metonyms laden with cultural significances. In the symbols broader sense, they constitute a collective imagination map of the world out there. This world holds a place for a set collective nostalgic past, a past not necessarily fulfilled offline (the orchard), as well as for a cruel urban world that is not from here, that is, the &apos;supermarket&apos;, and the personal picture album-where new people are hard to introduce. The users’ image completed the general appearance of these places. The dark side of the global cosmos was inhabited by almost non-human residents, while its bright side veered towards the &apos;us&apos; or &apos;I&apos;, in their various senses.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1267,12 +1285,18 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> required to achieve this end. Some acts were pre-set, practically dictated by the website’s structure: defining parameters for search engines, reading the profile text, viewing or requests to view pictures and contacting users. Some had the option of personal decision-the nature of profile texts, timing of correspondence and its nature, opting for a more information-rich channel of communication (chats, telephone, Facebook), the nature of shifting thereto and the logging-off timing.</Content>
 				<Br />
-				<Content>Does anything actually come out of dating websites? The answer is definitely yes. It’s a matter of how you handle yourself in and off the site. Dating websites are like ‘human supermarkets’, if you market yourself with attractive pictures, to-the-point, witty and intriguing texts, then you can get to the stage of corresponding with potential dates. From here on you take it offline, with phone calls, dates and mutual interest generated-it’s no longer to do with the site, but rather with what you are in real life.” </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Does anything actually come out of dating websites? The answer is definitely yes. It’s a matter of how you handle yourself in and off the site. Dating websites are like ‘human supermarkets’, if you market yourself with attractive pictures, to-the-point, witty and intriguing texts, then you can get to the stage of corresponding with potential dates. From here on you take it offline, with phone calls, dates and mutual interest generated-it’s no longer to do with the site, but rather with what you are in real life. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Male, 34.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The freedom, though limited, allowed the act to assume a personal key; in choosing a channel for further interaction (some users offered to skip the picture exchange and strive straight for the date) and more often, in the </Content>
 			</CharacterStyleRange>
@@ -1280,13 +1304,13 @@
 				<Content>normative level.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> I have found that users of dating websites opted to introduce themselves as “hard-working”. It is a normative stance adopted with the purpose of overcoming objectification by other people, an objectification implied by the nature of the dating website as a supermarket where you go “shopping”. Their statements lent new meanings to this notion of “hard work”: going through the necessary steps without looking for shortcuts, giving the text a serious reading, investing in tailoring a unique reply for anyone who contacts you and answering them politely. Some stressed directness and purposeful approach as a moral kind of act, for one’s “self” as well as for others.</Content>
+				<Content> I have found that users of dating websites opted to introduce themselves as &apos;hard-working&apos;. It is a normative stance adopted with the purpose of overcoming objectification by other people, an objectification implied by the nature of the dating website as a supermarket where you go &apos;shopping&apos;. Their statements lent new meanings to this notion of &apos;hard work&apos;: going through the necessary steps without looking for shortcuts, giving the text a serious reading, investing in tailoring a unique reply for anyone who contacts you and answering them politely. Some stressed directness and purposeful approach as a moral kind of act, for one’s &apos;self&apos; as well as for others.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“I was registered in a dating website for a relatively short time… First, after a month on the website that led to no more than a single date, I started a year-long relationship. I was very picky along the way. It just saved all of us time and unnecessary dates. I knew exactly what I was looking for and rejected people just like that.” </Content>
+				<Content>I was registered in a dating website for a relatively short time… First, after a month on the website that led to no more than a single date, I started a year-long relationship. I was very picky along the way. It just saved all of us time and unnecessary dates. I knew exactly what I was looking for and rejected people just like that. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 25.</Content>
@@ -1295,13 +1319,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“Shallow, rude consumers” served to contrast the “hard-workers” employed by users to introduce themselves in a “positive” light; those who indeed were neither interested in having a relationship nor ready for the “hard work”, preferring rather the consumerist shopping. They have no aspirations to excel or even succeed-they do not read deep into the profile. They contact people mechanically and never bother replying; they let connections melt away for no reason and fail to give them a proper closure.</Content>
+				<Content>‘Shallow, rude consumers’ served to contrast the &apos;hard-workers&apos; employed by users to introduce themselves in a &apos;positive&apos; light; those who indeed were neither interested in having a relationship nor ready for the &apos;hard work&apos;, preferring rather the consumerist shopping. They have no aspirations to excel or even succeed-they do not read deep into the profile. They contact people mechanically and never bother replying; they let connections melt away for no reason and fail to give them a proper closure.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“Yes, I had ten-twenty people a day writing to me, but most of them wouldn’t have written to me if they only bothered reading my profile, because then they would’ve realised there and then it wasn’t what I was looking for.” </Content>
+				<Content>Yes, I had ten-twenty people a day writing to me, but most of them wouldn’t have written to me if they only bothered reading my profile, because then they would’ve realised there and then it wasn’t what I was looking for. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 30.</Content>
@@ -1310,15 +1334,15 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The same people absorbed in the “shopping” experience view others as products. Users recounted how in some cases, following a successful date, they witnessed their companions logging back on to browse the site. Female users complained about users blatantly addressing them, with swearwords hurled in cases of refusal and rejection (one female user explained that this being the case, it was better to ignore inappropriate messages and refrain from replying). One such user recounted in shock how a guy she did not know and had a pleasant online conversation with on a dating website suddenly suggested they carried it in on to bed.</Content>
+				<Content>The same people absorbed in the &apos;shopping&apos; experience view others as products. Users recounted how in some cases, following a successful date, they witnessed their companions logging back on to browse the site. Female users complained about users blatantly addressing them, with swearwords hurled in cases of refusal and rejection (one female user explained that this being the case, it was better to ignore inappropriate messages and refrain from replying). One such user recounted in shock how a guy she did not know and had a pleasant online conversation with on a dating website suddenly suggested they carried it in on to bed.</Content>
 				<Br />
-				<Content>In this vein of “workers” as opposed to “consumers”, several discussions were held around the legitimacy of the demand to be confirmed as a Facebook friend right at the onset of a relationship:</Content>
+				<Content>In this vein of &apos;workers&apos; as opposed to &apos;consumers&apos;, several discussions were held around the legitimacy of the demand to be confirmed as a Facebook friend right at the onset of a relationship:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“(She)… replied: alright, let’s confirm friendship on Facebook and take it from there…</Content>
+				<Content>(She)… replied: alright, let’s confirm friendship on Facebook and take it from there…</Content>
 				<Br />
 				<Content>I wrote back: listen, let’s talk a bit, or even take it to the phone, and then I can approve you. I’m a bit protective of my privacy…</Content>
 				<Br />
@@ -1326,8 +1350,7 @@
 				<Br />
 				<Content>I said: I’m protective of my privacy; if you want to take it further I can send you pictures, no problem, but no friendships.</Content>
 				<Br />
-				<Content>Over. She never got back to me. I have no picture of myself.”</Content>
-				<Br />
+				<Content>Over. She never got back to me. I have no picture of myself. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Male, no age mentioned.</Content>
@@ -1336,13 +1359,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This request had little to do with “confirming friendship” even in its trifle Facebook sense, and was rather an attempt to obtain a further channel of information, independent of the controlled one offered on the dating website. Nevertheless, it was found to be justified by users who perceived themselves to be the “hard-working” type, abiding by the dating site norms:</Content>
+				<Content>This request had little to do with &apos;confirming friendship&apos; even in its trifle Facebook sense, and was rather an attempt to obtain a further channel of information, independent of the controlled one offered on the dating website. Nevertheless, it was found to be justified by users who perceived themselves to be the &apos;hard-working&apos; type, abiding by the dating site norms:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“Have a much fuller, more accurate picture of the man… see his friends… the picture.” </Content>
+				<Content>Have a much fuller, more accurate picture of the man… see his friends… the picture. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 27.</Content>
@@ -1351,13 +1374,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>On the other hand, there were those who objected this act, citing the very notions of “efficient work”; they argued that the digital worlds did not afford purposefulness and that this request was no more than a consumerist act, complete with the joy of purchasing the product, for no particular purpose:</Content>
+				<Content>On the other hand, there were those who objected this act, citing the very notions of &apos;efficient work&apos;; they argued that the digital worlds did not afford purposefulness and that this request was no more than a consumerist act, complete with the joy of purchasing the product, for no particular purpose:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“When it gets to the ‘add me as Face-Friend’, I can tell she’s not serious. When it came to girls who asked for that, even when I added them, I moved on, although they looked and sounded high-end. I’m not interested in joining anyone’s friends’ collection or friends base unless we meet and get to know each other first.” </Content>
+				<Content>When it gets to the ‘add me as Face-Friend’, I can tell she’s not serious. When it came to girls who asked for that, even when I added them, I moved on, although they looked and sounded high-end. I’m not interested in joining anyone’s friends’ collection or friends base unless we meet and get to know each other first. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Male, 37.</Content>
@@ -1368,7 +1391,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Others even perceived the request, aimed at obtaining information behind their backs, as blatant, attesting to a fundamental misreading of the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>ends</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1378,7 +1401,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>“Sincerity!!! Honesty!!! Reliability!!! These are the key words; these are the cornerstones of romantic partnerships!!! If there’s something you want to know about the girl, just ask her!!! Why “spying” on Facebook… Don’t ruin something that’s just begun, go it?!” </Content>
+				<Content>Sincerity!!! Honesty!!! Reliability!!! These are the key words; these are the cornerstones of romantic partnerships!!! If there’s something you want to know about the girl, just ask her!!! Why &apos;spying&apos; on Facebook… Don’t ruin something that’s just begun, go it?! </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 37.</Content>
@@ -1387,22 +1410,28 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The contrasting structural nature of the dating websites on the one hand and the forums on the other was further elucidated in discussions into interactions in these two places. Some users embraced the “hard work” notion even in regards to forums they surfed, viewing it as potential source of information about the writing subjects, interests or the style, collected vicariously about potential candidates over time. But it wasn’t a manifest end and moreover, excessive purposefulness was not well received.</Content>
+				<Content>The contrasting structural nature of the dating websites on the one hand and the forums on the other was further elucidated in discussions into interactions in these two places. Some users embraced the &apos;hard work&apos; notion even in regards to forums they surfed, viewing it as potential source of information about the writing subjects, interests or the style, collected vicariously about potential candidates over time. But it wasn’t a manifest end and moreover, excessive purposefulness was not well received.</Content>
 				<Br />
 				<Content>Most users claimed forum discussions were an end in itself, a chance to chat and get to know people; a non-phased act with no definite end, unlike the offline life, described as rife with stages and obstacles.</Content>
 				<Br />
 				<Content>I witnessed one case when a new member stirred hostility among users, by blatantly declaring he was interested in finding a female or male partner among their ranks. This user was asked to move on to the dating website or follow discussions for several days/weeks, to get a hang on the atmosphere.</Content>
 				<Br />
-				<Content>“Because I was really late going online, only after the army. I arrived at Tapuz, because everyone was chatting here and it looked interesting. It also suddenly occurs to me that I started writing here following a bad date, went on to have a relationship, then a painful break-up, them on to a long period as a single, followed by a good relationship, and now I’m about to get married. What a piece of life. </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Because I was really late going online, only after the army. I arrived at Tapuz, because everyone was chatting here and it looked interesting. It also suddenly occurs to me that I started writing here following a bad date, went on to have a relationship, then a painful break-up, them on to a long period as a single, followed by a good relationship, and now I’m about to get married. What a piece of life. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Female, 30.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>And thus, the forums, albeit dedicated to dating among singles, could also feature non-singles. The norms entailed anonymity and the use of regular nicknames (with those unwilling to do so posting in their full name); every participant had his/her home zone as well, where they could submit details about themselves. Most provided no details other than age and sex and it was decreed that nobody urged them to. Again, forums also featured married users and a discussion was held on the matter, concluding with the statements that they should not have to expose their identity or be isolated within defined conversation zones, lest the forum became “just another dating website” and end-oriented.</Content>
+				<Content>And thus, the forums, albeit dedicated to dating among singles, could also feature non-singles. The norms entailed anonymity and the use of regular nicknames (with those unwilling to do so posting in their full name); every participant had his/her home zone as well, where they could submit details about themselves. Most provided no details other than age and sex and it was decreed that nobody urged them to. Again, forums also featured married users and a discussion was held on the matter, concluding with the statements that they should not have to expose their identity or be isolated within defined conversation zones, lest the forum became ‘just another dating website&apos; and end-oriented.</Content>
 				<Br />
-				<Content>Studying the “interactionist” aspects in the two places described here (no such interactions were described on the Facebook social network) reveals clear differences as well. Here too, these differences can be ascribed to the universal dichotomy of “workplace” versus “the third place and yet, they may also be viewed in their Jewish-Israeli cultural context. In its Israeli context, the “hard working” image, designed to compensate for the “shopping” and “supermarket” elements, has its two feet firmly set on ideological ground. It tows the protestant ethos and American Capitalism line. Contemporary Israeliness has embraced the American notion of hard work that comes with proper reward, while the media offers a galore of success stories, where senior executives, having worked hard as youngsters, earned their fortune and went on to volunteer, giving back to society. Similarly, the Zionist ideology glorified the modernist idea of hard, productive work; the “religion of labour” was a key concept in the early decades of the Jewish settlement in the Land of Israel, compounding the negation of the diasporic Jew, who was portrayed as an idler, dealing, as mentioned before, in luftgesheft, “business of air”. Users who preached &quot;Dugri Talking&quot;- matter-of-factness were suggestive of the no-beating-around-the-bush language. This kind of language is known and appreciated in the Zionist ethos as a manifestation of the proper degree of sincerity and honesty in interactions with others, for the benefit of all parties.</Content>
+				<Content>Studying the &apos;interactionist&apos; aspects in the two places described here (no such interactions were described on the Facebook social network) reveals clear differences as well. Here too, these differences can be ascribed to the universal dichotomy of &apos;workplace&apos; versus &apos;the third place and yet, they may also be viewed in their Jewish-Israeli cultural context. In its Israeli context, the &apos;hard working&apos; image, designed to compensate for the &apos;shopping&apos; and &apos;supermarket&apos; elements, has its two feet firmly set on ideological ground. It tows the protestant ethos and American Capitalism line. Contemporary Israeliness has embraced the American notion of hard work that comes with proper reward, while the media offers a galore of success stories, where senior executives, having worked hard as youngsters, earned their fortune and went on to volunteer, giving back to society. Similarly, the Zionist ideology glorified the modernist idea of hard, productive work; the &apos;religion of labour&apos; was a key concept in the early decades of the Jewish settlement in the Land of Israel, compounding the negation of the diasporic Jew, who was portrayed as an idler, dealing, as mentioned before, in luftgesheft, &apos;business of air&apos;. Users who preached &apos;Dugri Talking&apos;- matter-of-factness were suggestive of the no-beating-around-the-bush language. This kind of language is known and appreciated in the Zionist ethos as a manifestation of the proper degree of sincerity and honesty in interactions with others, for the benefit of all parties.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1448,7 +1477,7 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> hanging around the forum for veteran users was, as I have demonstrated, a way of life. In this sense forums can be seen as a manifestation of the “heart to heart talks”, which is not a mere outcome of Americanization, but rather a steady feature of Jewish people in Israel from as early as the inception of Zionism. It started with the Jewish settlers’ custom of holding late night discussions at the end of their work days, talks where they shared all the mental distresses entailed by their breaking away from their parents for a life in the new society. These conversations were marked by sentiment, openness and dialogue.</Content>
+				<Content> hanging around the forum for veteran users was, as I have demonstrated, a way of life. In this sense forums can be seen as a manifestation of the &apos;heart to heart talks&apos;, which is not a mere outcome of Americanization, but rather a steady feature of Jewish people in Israel from as early as the inception of Zionism. It started with the Jewish settlers’ custom of holding late night discussions at the end of their work days, talks where they shared all the mental distresses entailed by their breaking away from their parents for a life in the new society. These conversations were marked by sentiment, openness and dialogue.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1475,25 +1504,25 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>This study’s data decide unequivocally in favor of those who believe Cyberspace to be more than just a “single place”. The analysis, based on statements of users who were sorted according to Hymes’ SPEAKING model parameters, offers a number of differences summarized in the following table:</Content>
+				<Content>This study’s data decide unequivocally in favor of those who believe Cyberspace to be more than just a &apos;single place&apos;. The analysis, based on statements of users who were sorted according to Hymes’ SPEAKING model parameters, offers a number of differences summarized in the following table:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Table Self="u473i1013" HeaderRowCount="1" FooterRowCount="0" BodyRowCount="7" ColumnCount="4" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
-					<Row Self="u473i1013Row0" Name="0" SingleRowHeight="52.003937007874015" />
-					<Row Self="u473i1013Row1" Name="1" SingleRowHeight="36.79996667095995" />
-					<Row Self="u473i1013Row2" Name="2" SingleRowHeight="69.19996667095994" />
-					<Row Self="u473i1013Row3" Name="3" SingleRowHeight="101.59996667095993" />
-					<Row Self="u473i1013Row4" Name="4" SingleRowHeight="133.9999666709599" />
-					<Row Self="u473i1013Row5" Name="5" SingleRowHeight="133.9999666709599" />
-					<Row Self="u473i1013Row6" Name="6" SingleRowHeight="58.39996667095994" />
-					<Row Self="u473i1013Row7" Name="7" SingleRowHeight="79.99996667095994" />
-					<Column Self="u473i1013Column0" Name="0" SingleColumnWidth="40" />
-					<Column Self="u473i1013Column1" Name="1" SingleColumnWidth="40" />
-					<Column Self="u473i1013Column2" Name="2" SingleColumnWidth="40" />
-					<Column Self="u473i1013Column3" Name="3" SingleColumnWidth="40" />
+					<Row Self="u473i1013Row0" Name="0" SingleRowHeight="28.00393700787402" />
+					<Row Self="u473i1013Row1" Name="1" SingleRowHeight="25.999966670959953" />
+					<Row Self="u473i1013Row2" Name="2" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1013Row3" Name="3" SingleRowHeight="47.599966670959944" />
+					<Row Self="u473i1013Row4" Name="4" SingleRowHeight="47.599966670959944" />
+					<Row Self="u473i1013Row5" Name="5" SingleRowHeight="58.39996667095994" />
+					<Row Self="u473i1013Row6" Name="6" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1013Row7" Name="7" SingleRowHeight="47.599966670959944" />
+					<Column Self="u473i1013Column0" Name="0" SingleColumnWidth="98.26771653543307" />
+					<Column Self="u473i1013Column1" Name="1" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u473i1013Column2" Name="2" SingleColumnWidth="93.2125984251968" />
+					<Column Self="u473i1013Column3" Name="3" SingleColumnWidth="66.14173228346459" />
 					<Cell Self="u473i1013i1c" Name="0:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1623,7 +1652,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>A stage in the process of getting to know one another</Content>
-								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1631,7 +1659,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No clear stage system</Content>
-								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1639,7 +1666,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Several stages, some dictated by the website, while others by personal choice</Content>
-								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1647,7 +1673,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Act sequence</Content>
-								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1751,27 +1776,27 @@
 				<Content></Content>
 				<Br />
 				<Table Self="u473i1020" HeaderRowCount="1" FooterRowCount="0" BodyRowCount="9" ColumnCount="4" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
-					<Row Self="u473i1020Row0" Name="0" SingleRowHeight="31.627813960999017" />
-					<Row Self="u473i1020Row1" Name="1" SingleRowHeight="31.627813960999017" />
-					<Row Self="u473i1020Row2" Name="2" SingleRowHeight="60.42781396099902" />
-					<Row Self="u473i1020Row3" Name="3" SingleRowHeight="60.42781396099902" />
-					<Row Self="u473i1020Row4" Name="4" SingleRowHeight="60.42781396099902" />
-					<Row Self="u473i1020Row5" Name="5" SingleRowHeight="60.42781396099902" />
-					<Row Self="u473i1020Row6" Name="6" SingleRowHeight="60.42781396099902" />
-					<Row Self="u473i1020Row7" Name="7" SingleRowHeight="46.02781396099901" />
-					<Row Self="u473i1020Row8" Name="8" SingleRowHeight="47.599966670959944" />
-					<Row Self="u473i1020Row9" Name="9" SingleRowHeight="31.627813960999017" />
-					<Column Self="u473i1020Column0" Name="0" SingleColumnWidth="74.6606334841629" />
-					<Column Self="u473i1020Column1" Name="1" SingleColumnWidth="180.99547511312215" />
-					<Column Self="u473i1020Column2" Name="2" SingleColumnWidth="65.6108597285068" />
-					<Column Self="u473i1020Column3" Name="3" SingleColumnWidth="174.20814479638008" />
+					<Row Self="u473i1020Row0" Name="0" SingleRowHeight="28.00393700787402" />
+					<Row Self="u473i1020Row1" Name="1" SingleRowHeight="25.99996667095995" />
+					<Row Self="u473i1020Row2" Name="2" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1020Row3" Name="3" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1020Row4" Name="4" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1020Row5" Name="5" SingleRowHeight="69.19996667095994" />
+					<Row Self="u473i1020Row6" Name="6" SingleRowHeight="58.39996667095994" />
+					<Row Self="u473i1020Row7" Name="7" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1020Row8" Name="8" SingleRowHeight="36.79996667095995" />
+					<Row Self="u473i1020Row9" Name="9" SingleRowHeight="25.999966670959953" MinimumHeight="25.999966670959953" />
+					<Column Self="u473i1020Column0" Name="0" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u473i1020Column1" Name="1" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u473i1020Column2" Name="2" SingleColumnWidth="85.67716535433073" />
+					<Column Self="u473i1020Column3" Name="3" SingleColumnWidth="85.67716535433073" />
 					<Cell Self="u473i1020i24" Name="0:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Light" PointSize="9" Ligatures="false" />
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" />
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i25" Name="1:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Dating Websites</Content>
 								<Br />
@@ -1779,7 +1804,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i26" Name="2:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="4" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Forum</Content>
 								<Br />
@@ -1787,7 +1812,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i27" Name="3:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="4" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="4">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Facebook</Content>
 								<Br />
@@ -1803,7 +1828,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i1" Name="1:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="7" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="10">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>“America”</Content>
 								<Br />
@@ -1811,7 +1836,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i2" Name="2:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="11">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>“Old Israel</Content>
 								<Br />
@@ -1819,7 +1844,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i3" Name="3:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="8" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="12">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>“I”</Content>
 								<Br />
@@ -1835,7 +1860,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i5" Name="1:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="11" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="14">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Unfriendly strangers</Content>
 								<Br />
@@ -1843,7 +1868,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i6" Name="2:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="15">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Faceless, nameless friends</Content>
 								<Br />
@@ -1851,7 +1876,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i7" Name="3:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="12" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="16">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Friends and acquaintances</Content>
 								<Br />
@@ -1867,7 +1892,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i9" Name="1:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="18">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Meeting potential partners</Content>
 								<Br />
@@ -1875,7 +1900,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020ia" Name="2:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="16" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="19">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Talks and Discussions -</Content>
 								<Br />
@@ -1883,7 +1908,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020ib" Name="3:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="16" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="20">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Searching and confirming information</Content>
 								<Br />
@@ -1901,7 +1926,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020ie" Name="2:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="23">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>option for a relationship</Content>
 								<Br />
@@ -1922,7 +1947,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i11" Name="1:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="26">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Several stages, some dictated by the website, while others by personal choice</Content>
 								<Br />
@@ -1930,7 +1955,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i12" Name="2:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="27">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>No clear stage system</Content>
 								<Br />
@@ -1938,7 +1963,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i13" Name="3:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="24" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="28">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>A stage in the process of getting to know one another</Content>
 								<Br />
@@ -1954,7 +1979,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i15" Name="1:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="30">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>“Hard work”</Content>
 								<Br />
@@ -1962,7 +1987,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i16" Name="2:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="28" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="31">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Anonymity, feelings</Content>
 								<Br />
@@ -1970,7 +1995,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i17" Name="3:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="28" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="32">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>A component of the “hard work” of investigating about the potential partner</Content>
 								<Br />
@@ -1986,7 +2011,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i19" Name="1:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="31" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="34">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Purposeful, blatant</Content>
 								<Br />
@@ -1994,7 +2019,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i1a" Name="2:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="35">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Warm, accepting</Content>
 								<Br />
@@ -2002,7 +2027,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i1b" Name="3:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="32" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="36">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Everyday</Content>
 								<Br />
@@ -2018,7 +2043,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i1d" Name="1:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="38">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Workplace,</Content>
 								<Br />
@@ -2026,7 +2051,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i1e" Name="2:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="36" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="39">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>The great good place</Content>
 								<Br />
@@ -2034,7 +2059,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i1f" Name="3:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="36" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="40">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Home,</Content>
 								<Br />
@@ -2047,7 +2072,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i21" Name="1:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="38">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Supermarket</Content>
 								<Br />
@@ -2055,7 +2080,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i22" Name="2:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="40" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="39">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>“Orchard”</Content>
 								<Br />
@@ -2063,7 +2088,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u473i1020i23" Name="3:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="40" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="40">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>picture album</Content>
 								<Br />
@@ -2071,7 +2096,6 @@
 						</ParagraphStyleRange>
 					</Cell>
 				</Table>
-				<Content></Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2080,11 +2104,11 @@
 				<Content>Studying these insights reveals two symbolic systems accompanying and cementing the distinct nature of the places in the eyes of users.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>The first one:</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> Has to do with the structural features of the different “places” and as such, it is cross-cultural. Here I found an analogy between how Israeli online users defined dating websites and forums, and the division offered by Oldenburg, between the “workplace” and the “great good place”. The “market metaphor”</Content>
+				<Content> Has to do with the structural features of the different &apos;places&apos; and as such, it is cross-cultural. Here I found an analogy between how Israeli online users defined dating websites and forums, and the division offered by Oldenburg, between the &apos;workplace&apos; and the &apos;great good place&apos;. The &apos;market metaphor&apos;</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -2099,18 +2123,18 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> proved appropriate for the end definition and worldview of dating websites users as well. The “efficient” and superficial nature of dating websites, as opposed to forums, can also be found in Andrea Baker’s works.</Content>
+				<Content> proved appropriate for the end definition and worldview of dating websites users as well. The &apos;efficient&apos; and superficial nature of dating websites, as opposed to forums, can also be found in Andrea Baker’s works.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>The second one:</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Bears a cultural nature, elucidating, cementing and compounding the first symbolic system, while the places are also ascribed metaphors and metonyms that are local by nature. Thus, the image of the dating website comprises both work values in their (positive) Israeli and American sense and (negative) cultural associations of consumption (supermarket, shopping).</Content>
 				<Br />
-				<Content>Despite the fact that America evokes non-positive associations as well, adhering to its partly-positive image allows Jewish Israelis to shake off the horror of the “Jewish matchmaker”, an infamous symbol of an infamous world, and view dating websites as a place where one can “work hard” and successfully find a suitable partner. The urge expressed by users who opted for this path of “making it on their own” can serve to explain how scientific dating websites (such as the American eHarmony), where professional experts pair subscribers with compatible partners without their active involvement, fail to make it in Israel. Again, atmosphere in forums corresponds well with Oldenburg’s great good place notion, but also with the Israeli citrus orchard, a term laden with significances in the local mythology.</Content>
+				<Content>Despite the fact that America evokes non-positive associations as well, adhering to its partly-positive image allows Jewish Israelis to shake off the horror of the “Jewish matchmaker”, an infamous symbol of an infamous world, and view dating websites as a place where one can &apos;work hard&apos; and successfully find a suitable partner. The urge expressed by users who opted for this path of &apos;making it on their own&apos; can serve to explain how scientific dating websites (such as the American eHarmony), where professional experts pair subscribers with compatible partners without their active involvement, fail to make it in Israel. Again, atmosphere in forums corresponds well with Oldenburg’s great good place notion, but also with the Israeli citrus orchard, a term laden with significances in the local mythology.</Content>
 				<Br />
-				<Content>Even though the social network (Facebook) proves to be a leisure website, in high demand among many Israeli users, they find it hard, as I have demonstrated, to view it as a site to find a new romantic partner. This can be explained by the emergence of individualistic ideas, which have been surging through Israel over the last forty years, as well as by the nature of the global branding of Facebook, urging as it does to use it in order to “keep in touch with the important people in your life”, not necessarily with strangers.</Content>
+				<Content>Even though the social network (Facebook) proves to be a leisure website, in high demand among many Israeli users, they find it hard, as I have demonstrated, to view it as a site to find a new romantic partner. This can be explained by the emergence of individualistic ideas, which have been surging through Israel over the last forty years, as well as by the nature of the global branding of Facebook, urging as it does to use it in order to &apos;keep in touch with the important people in your life&apos;, not necessarily with strangers.</Content>
 				<Br />
 				<Content>This could explain Israel’s interest in meeting joints whose features generate intermediate models, particularly the designated Facebook dating groups. These are end-oriented, end-organized groups of people who share an offline relationship fabric, hinted at by titles such as Hot Guys for your Girlfriends, which numbers roughly 15,000 users, or Meet my Friend (male and female) and others. These groups try to enjoy the best of all worlds; the (relatively) end-guided purposefulness of dating websites combined with Facebook’s visible faces and the loose nature of the forum, unconstrained by time. It is an emerging phenomenon that received hardly any mention in the forums I reviewed; yet its relative success can attest, among other things, to how uniquely the digital dating issue is received and deciphered in the Israeli context.</Content>
 				<Br />
@@ -2129,9 +2153,9 @@
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> discussed the metaphoric link between the conquest of the west and the conquest of the night. In both cases, it meant a slow penetration to territories that had existed for many years alongside cultural civilization and gradually came to resemble it, following this penetration: the prairie and the night have become a multitude of “places”. In the meantime, the cyberspace also changes from a “single place” – a separate territory, set apart from anything that is offline-to mutually distinct places, reflecting ideals of people and cultures outside the net.</Content>
+				<Content> discussed the metaphoric link between the conquest of the west and the conquest of the night. In both cases, it meant a slow penetration to territories that had existed for many years alongside cultural civilization and gradually came to resemble it, following this penetration: the prairie and the night have become a multitude of &apos;places&apos;. In the meantime, the cyberspace also changes from a &apos;single place&apos; – a separate territory, set apart from anything that is offline-to mutually distinct places, reflecting ideals of people and cultures outside the net.</Content>
 				<Br />
-				<Content>Thus, while during the Internet’s early days it was appropriate to engage mainly with the psychological view of the “universal individual” who looked for romantic partners online, with the internet viewed as a “place”, nowadays a more local socio-cultural view is required. The present work demonstrated this up-to-date trend of thought.</Content>
+				<Content>Thus, while during the Internet’s early days it was appropriate to engage mainly with the psychological view of the &apos;universal individual&apos; who looked for romantic partners online, with the internet viewed as a &apos;place&apos;, nowadays a more local socio-cultural view is required. The present work demonstrated this up-to-date trend of thought.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

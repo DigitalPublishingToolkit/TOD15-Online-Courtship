@@ -55,18 +55,6 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
@@ -832,7 +820,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Online partner searchers on matrimonial sites are of six types: married, divorced, single, widowed, awaiting divorce, and annulled.</Content>
 				<Br />
-				<Rectangle Self="u1285" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u1385" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -860,7 +848,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u1325" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="397 397" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.37795275590551186 0 0 0.37795275590551186 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u138b" Space="$ID/#Links_RGB" ActualPpi="150 150" EffectivePpi="397 397" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.37795275590551186 0 0 0.37795275590551186 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/Use Document Default</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
@@ -2270,7 +2258,7 @@ vde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//2Q==]]></GraphicProxy>
 <?xpacket end="r"?>]]></Contents>
 							</Properties>
 						</MetadataPacketPreference>
-						<Link Self="u1289" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD16-Online-Courtship/md/imgs/Dwivedi-marriagetypes-01.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130767810130000000 138858" LinkImportModificationTime="2015-05-22T17:10:13" LinkImportTime="2015-07-08T12:02:26" LinkResourceSize="0~21e6a" />
+						<Link Self="u1388" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD16-Online-Courtship/md/imgs/Dwivedi-marriagetypes-01.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130767810130000000 138858" LinkImportModificationTime="2015-05-22T17:10:13" LinkImportTime="2015-07-08T14:13:44" LinkResourceSize="0~21e6a" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
@@ -2589,7 +2577,7 @@ vde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//2Q==]]></GraphicProxy>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> initiated in September 2004, to serve northern and western Indian communities. Jeevansathi.com provides up to one-year paid packages services starting from US$50 to US$500. The company, along with regular registered account, also advertizes the profiles of HIV positives, Thalassemia Major, physically handicapped, and cancer survivors, for whom searching a life partner is a challenge. This indicates how deeply technology penetrates in the complex social structures.</Content>
 				<Br />
-				<Rectangle Self="u129f" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u13a7" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
@@ -2610,14 +2598,14 @@ vde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691//2Q==]]></GraphicProxy>
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="2.842170943040401e-14" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="1.4210854715202004e-14" TopCrop="0" RightCrop="5.684341886080802e-14" BottomCrop="2.842170943040401e-14" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<Image Self="u132f" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="113 113" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.8493320357427232 0 0 0.8493320357427232 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
+					<Image Self="u13af" Space="$ID/#Links_RGB" ActualPpi="96 96" EffectivePpi="113 113" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/JPEG" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="0.8493320357427232 0 0 0.8493320357427232 -75 -50" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" Visible="true" Name="$ID/">
 						<Properties>
 							<Profile type="string">$ID/Use Document Default</Profile>
 							<GraphicProxy><![CDATA[/9j/4AAQSkZJRgABAgEAYABgAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAAYAAAAAEA
@@ -3217,12 +3205,13 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u12a5" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD16-Online-Courtship/md/imgs/Dwivedi-matrimonysite-table-02.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130771169890000000 33552" LinkImportModificationTime="2015-05-26T14:29:49" LinkImportTime="2015-07-08T12:04:24" LinkResourceSize="0~8310" />
+						<Link Self="u13aa" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:/Users/Jessvanzyl/Documents/TOD16-Online-Courtship/md/imgs/Dwivedi-matrimonysite-table-02.jpg" LinkResourceFormat="$ID/JPEG" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="false" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkImportStamp="file 130771169890000000 33552" LinkImportModificationTime="2015-05-26T14:29:49" LinkImportTime="2015-07-08T14:13:44" LinkResourceSize="0~8310" />
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
 						<ImageIOPreference ApplyPhotoshopClippingPath="true" AllowAutoEmbedding="true" AlphaChannelName="$ID/" />
 					</Image>
 				</Rectangle>
 				<Content> </Content>
+				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" PointSize="8.5">
 				<Content>Table 1</Content>
@@ -3580,28 +3569,28 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 					<Leading type="unit">12</Leading>
 				</Properties>
 				<Br />
-				<Table Self="uf15i12b7" HeaderRowCount="1" FooterRowCount="0" BodyRowCount="16" ColumnCount="3" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
-					<Row Self="uf15i12b7Row0" Name="0" SingleRowHeight="28.00393700787402" />
-					<Row Self="uf15i12b7Row1" Name="1" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Row2" Name="2" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Row3" Name="3" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Row4" Name="4" SingleRowHeight="36.79996667095995" />
-					<Row Self="uf15i12b7Row5" Name="5" SingleRowHeight="36.79996667095995" />
-					<Row Self="uf15i12b7Row6" Name="6" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Row7" Name="7" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Row8" Name="8" SingleRowHeight="36.79996667095995" MinimumHeight="36.79996667095995" />
-					<Row Self="uf15i12b7Row9" Name="9" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Rowa" Name="10" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Rowb" Name="11" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Rowc" Name="12" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Rowd" Name="13" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Rowe" Name="14" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Rowf" Name="15" SingleRowHeight="25.999966670959953" />
-					<Row Self="uf15i12b7Row10" Name="16" SingleRowHeight="25.999966670959953" />
-					<Column Self="uf15i12b7Column0" Name="0" SingleColumnWidth="114.23622047244096" />
-					<Column Self="uf15i12b7Column1" Name="1" SingleColumnWidth="114.23622047244096" />
-					<Column Self="uf15i12b7Column2" Name="2" SingleColumnWidth="114.23622047244096" />
-					<Cell Self="uf15i12b7i30" Name="0:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
+				<Table Self="uf15i13c4" HeaderRowCount="1" FooterRowCount="0" BodyRowCount="16" ColumnCount="3" AppliedTableStyle="TableStyle/Table" TableDirection="LeftToRightDirection">
+					<Row Self="uf15i13c4Row0" Name="0" SingleRowHeight="28.00393700787402" />
+					<Row Self="uf15i13c4Row1" Name="1" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Row2" Name="2" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Row3" Name="3" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Row4" Name="4" SingleRowHeight="36.79996667095995" />
+					<Row Self="uf15i13c4Row5" Name="5" SingleRowHeight="36.79996667095995" />
+					<Row Self="uf15i13c4Row6" Name="6" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Row7" Name="7" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Row8" Name="8" SingleRowHeight="36.79996667095995" MinimumHeight="36.79996667095995" />
+					<Row Self="uf15i13c4Row9" Name="9" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Rowa" Name="10" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Rowb" Name="11" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Rowc" Name="12" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Rowd" Name="13" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Rowe" Name="14" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Rowf" Name="15" SingleRowHeight="25.999966670959953" />
+					<Row Self="uf15i13c4Row10" Name="16" SingleRowHeight="25.999966670959953" />
+					<Column Self="uf15i13c4Column0" Name="0" SingleColumnWidth="114.23622047244096" />
+					<Column Self="uf15i13c4Column1" Name="1" SingleColumnWidth="114.23622047244096" />
+					<Column Self="uf15i13c4Column2" Name="2" SingleColumnWidth="114.23622047244096" />
+					<Cell Self="uf15i13c4i30" Name="0:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="2" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="1">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Characteristics</Content>
@@ -3609,7 +3598,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i31" Name="1:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
+					<Cell Self="uf15i13c4i31" Name="1:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="2" RightEdgeStrokePriority="3" TopEdgeStrokePriority="2" BottomEdgeStrokePriority="2">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Offline Generation</Content>
@@ -3617,7 +3606,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i32" Name="2:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="3" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
+					<Cell Self="uf15i13c4i32" Name="2:0" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="3" RightEdgeStrokePriority="3" TopEdgeStrokePriority="3" BottomEdgeStrokePriority="3">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Online Generation</Content>
@@ -3625,28 +3614,28 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i0" Name="0:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="5" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="7">
+					<Cell Self="uf15i13c4i0" Name="0:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="4" RightEdgeStrokePriority="5" TopEdgeStrokePriority="4" BottomEdgeStrokePriority="7">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Perception of marriage</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1" Name="1:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="6" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="8">
+					<Cell Self="uf15i13c4i1" Name="1:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="5" RightEdgeStrokePriority="6" TopEdgeStrokePriority="5" BottomEdgeStrokePriority="8">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Made in heaven</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2" Name="2:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="9">
+					<Cell Self="uf15i13c4i2" Name="2:1" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="6" RightEdgeStrokePriority="6" TopEdgeStrokePriority="6" BottomEdgeStrokePriority="9">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Arranged online/solemnized on earth</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i3" Name="0:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="10">
+					<Cell Self="uf15i13c4i3" Name="0:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="7" RightEdgeStrokePriority="8" TopEdgeStrokePriority="7" BottomEdgeStrokePriority="10">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Orientation/Beliefs</Content>
@@ -3654,7 +3643,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i4" Name="1:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="9" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="11">
+					<Cell Self="uf15i13c4i4" Name="1:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="8" RightEdgeStrokePriority="9" TopEdgeStrokePriority="8" BottomEdgeStrokePriority="11">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Love follows marriage</Content>
@@ -3662,7 +3651,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i5" Name="2:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="9" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="12">
+					<Cell Self="uf15i13c4i5" Name="2:2" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="9" RightEdgeStrokePriority="9" TopEdgeStrokePriority="9" BottomEdgeStrokePriority="12">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Marriage follows love</Content>
@@ -3670,7 +3659,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i6" Name="0:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="11" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="13">
+					<Cell Self="uf15i13c4i6" Name="0:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="10" RightEdgeStrokePriority="11" TopEdgeStrokePriority="10" BottomEdgeStrokePriority="13">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Major initiators</Content>
@@ -3678,7 +3667,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i7" Name="1:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="14">
+					<Cell Self="uf15i13c4i7" Name="1:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="11" RightEdgeStrokePriority="12" TopEdgeStrokePriority="11" BottomEdgeStrokePriority="14">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Parents and relatives</Content>
@@ -3686,7 +3675,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i8" Name="2:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="12" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="15">
+					<Cell Self="uf15i13c4i8" Name="2:3" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="12" RightEdgeStrokePriority="12" TopEdgeStrokePriority="12" BottomEdgeStrokePriority="15">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Self</Content>
@@ -3694,7 +3683,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i9" Name="0:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="16">
+					<Cell Self="uf15i13c4i9" Name="0:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="13" RightEdgeStrokePriority="14" TopEdgeStrokePriority="13" BottomEdgeStrokePriority="16">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Objective of marriage for man</Content>
@@ -3702,7 +3691,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7ia" Name="1:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="17">
+					<Cell Self="uf15i13c4ia" Name="1:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="14" RightEdgeStrokePriority="15" TopEdgeStrokePriority="14" BottomEdgeStrokePriority="17">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>To find a house-wife</Content>
@@ -3710,7 +3699,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7ib" Name="2:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="15" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="18">
+					<Cell Self="uf15i13c4ib" Name="2:4" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="15" RightEdgeStrokePriority="15" TopEdgeStrokePriority="15" BottomEdgeStrokePriority="18">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>A loveable partner</Content>
@@ -3718,7 +3707,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7ic" Name="0:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="17" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="19">
+					<Cell Self="uf15i13c4ic" Name="0:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="16" RightEdgeStrokePriority="17" TopEdgeStrokePriority="16" BottomEdgeStrokePriority="19">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Objective of marriage for woman</Content>
@@ -3726,7 +3715,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7id" Name="1:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="17" RightEdgeStrokePriority="18" TopEdgeStrokePriority="17" BottomEdgeStrokePriority="20">
+					<Cell Self="uf15i13c4id" Name="1:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="17" RightEdgeStrokePriority="18" TopEdgeStrokePriority="17" BottomEdgeStrokePriority="20">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>To gain economic stability</Content>
@@ -3734,7 +3723,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7ie" Name="2:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="18" RightEdgeStrokePriority="18" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="21">
+					<Cell Self="uf15i13c4ie" Name="2:5" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="18" RightEdgeStrokePriority="18" TopEdgeStrokePriority="18" BottomEdgeStrokePriority="21">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>To gain equality</Content>
@@ -3742,14 +3731,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7if" Name="0:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="22">
+					<Cell Self="uf15i13c4if" Name="0:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="19" RightEdgeStrokePriority="20" TopEdgeStrokePriority="19" BottomEdgeStrokePriority="22">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Process of searching</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i10" Name="1:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="21" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="23">
+					<Cell Self="uf15i13c4i10" Name="1:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="20" RightEdgeStrokePriority="21" TopEdgeStrokePriority="20" BottomEdgeStrokePriority="23">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Slow</Content>
@@ -3757,7 +3746,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i11" Name="2:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="21" RightEdgeStrokePriority="21" TopEdgeStrokePriority="21" BottomEdgeStrokePriority="24">
+					<Cell Self="uf15i13c4i11" Name="2:6" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="21" RightEdgeStrokePriority="21" TopEdgeStrokePriority="21" BottomEdgeStrokePriority="24">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Fast</Content>
@@ -3765,14 +3754,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i12" Name="0:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="25">
+					<Cell Self="uf15i13c4i12" Name="0:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="22" RightEdgeStrokePriority="23" TopEdgeStrokePriority="22" BottomEdgeStrokePriority="25">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Direction</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i13" Name="1:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="26">
+					<Cell Self="uf15i13c4i13" Name="1:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="23" RightEdgeStrokePriority="24" TopEdgeStrokePriority="23" BottomEdgeStrokePriority="26">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Linear</Content>
@@ -3780,7 +3769,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i14" Name="2:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="24" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="27">
+					<Cell Self="uf15i13c4i14" Name="2:7" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="24" RightEdgeStrokePriority="24" TopEdgeStrokePriority="24" BottomEdgeStrokePriority="27">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Multi-directional</Content>
@@ -3788,14 +3777,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i15" Name="0:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="25" RightEdgeStrokePriority="26" TopEdgeStrokePriority="25" BottomEdgeStrokePriority="28">
+					<Cell Self="uf15i13c4i15" Name="0:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="25" RightEdgeStrokePriority="26" TopEdgeStrokePriority="25" BottomEdgeStrokePriority="28">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Process control (in terms of progress in relationship)</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i16" Name="1:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="29">
+					<Cell Self="uf15i13c4i16" Name="1:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="26" RightEdgeStrokePriority="27" TopEdgeStrokePriority="26" BottomEdgeStrokePriority="29">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>On man’s side</Content>
@@ -3803,7 +3792,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i17" Name="2:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="27" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="30">
+					<Cell Self="uf15i13c4i17" Name="2:8" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="27" RightEdgeStrokePriority="27" TopEdgeStrokePriority="27" BottomEdgeStrokePriority="30">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Both can control</Content>
@@ -3811,14 +3800,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i18" Name="0:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="29" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="31">
+					<Cell Self="uf15i13c4i18" Name="0:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="28" RightEdgeStrokePriority="29" TopEdgeStrokePriority="28" BottomEdgeStrokePriority="31">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Options available</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i19" Name="1:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="29" RightEdgeStrokePriority="30" TopEdgeStrokePriority="29" BottomEdgeStrokePriority="32">
+					<Cell Self="uf15i13c4i19" Name="1:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="29" RightEdgeStrokePriority="30" TopEdgeStrokePriority="29" BottomEdgeStrokePriority="32">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Few</Content>
@@ -3826,7 +3815,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1a" Name="2:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="33">
+					<Cell Self="uf15i13c4i1a" Name="2:9" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="33">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Many</Content>
@@ -3834,14 +3823,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1b" Name="0:10" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="34">
+					<Cell Self="uf15i13c4i1b" Name="0:10" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="31" RightEdgeStrokePriority="32" TopEdgeStrokePriority="31" BottomEdgeStrokePriority="34">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Expenditure on searching</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1c" Name="1:10" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="33" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="35">
+					<Cell Self="uf15i13c4i1c" Name="1:10" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="33" TopEdgeStrokePriority="32" BottomEdgeStrokePriority="35">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>More</Content>
@@ -3849,7 +3838,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1d" Name="2:10" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="33" RightEdgeStrokePriority="33" TopEdgeStrokePriority="33" BottomEdgeStrokePriority="36">
+					<Cell Self="uf15i13c4i1d" Name="2:10" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="33" RightEdgeStrokePriority="33" TopEdgeStrokePriority="33" BottomEdgeStrokePriority="36">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Less</Content>
@@ -3857,7 +3846,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1e" Name="0:11" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="37">
+					<Cell Self="uf15i13c4i1e" Name="0:11" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="34" RightEdgeStrokePriority="35" TopEdgeStrokePriority="34" BottomEdgeStrokePriority="37">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Decision-making</Content>
@@ -3865,7 +3854,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i1f" Name="1:11" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="36" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="38">
+					<Cell Self="uf15i13c4i1f" Name="1:11" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="35" RightEdgeStrokePriority="36" TopEdgeStrokePriority="35" BottomEdgeStrokePriority="38">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Parents or elders</Content>
@@ -3873,7 +3862,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i20" Name="2:11" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="36" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="39">
+					<Cell Self="uf15i13c4i20" Name="2:11" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="36" RightEdgeStrokePriority="36" TopEdgeStrokePriority="36" BottomEdgeStrokePriority="39">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Self</Content>
@@ -3881,7 +3870,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i21" Name="0:12" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="37" RightEdgeStrokePriority="38" TopEdgeStrokePriority="37" BottomEdgeStrokePriority="40">
+					<Cell Self="uf15i13c4i21" Name="0:12" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="37" RightEdgeStrokePriority="38" TopEdgeStrokePriority="37" BottomEdgeStrokePriority="40">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Method</Content>
@@ -3889,7 +3878,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i22" Name="1:12" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="41">
+					<Cell Self="uf15i13c4i22" Name="1:12" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="38" RightEdgeStrokePriority="39" TopEdgeStrokePriority="38" BottomEdgeStrokePriority="41">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Face-to-face</Content>
@@ -3897,7 +3886,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i23" Name="2:12" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="39" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="42">
+					<Cell Self="uf15i13c4i23" Name="2:12" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="39" TopEdgeStrokePriority="39" BottomEdgeStrokePriority="42">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Online</Content>
@@ -3905,14 +3894,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i24" Name="0:13" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="41" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="43">
+					<Cell Self="uf15i13c4i24" Name="0:13" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="40" RightEdgeStrokePriority="41" TopEdgeStrokePriority="40" BottomEdgeStrokePriority="43">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Role of outside consultant</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i25" Name="1:13" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="42" TopEdgeStrokePriority="41" BottomEdgeStrokePriority="44">
+					<Cell Self="uf15i13c4i25" Name="1:13" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="42" TopEdgeStrokePriority="41" BottomEdgeStrokePriority="44">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Major</Content>
@@ -3920,7 +3909,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i26" Name="2:13" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="42" RightEdgeStrokePriority="42" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="45">
+					<Cell Self="uf15i13c4i26" Name="2:13" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="42" RightEdgeStrokePriority="42" TopEdgeStrokePriority="42" BottomEdgeStrokePriority="45">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Minor</Content>
@@ -3928,14 +3917,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i27" Name="0:14" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="46">
+					<Cell Self="uf15i13c4i27" Name="0:14" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="43" RightEdgeStrokePriority="44" TopEdgeStrokePriority="43" BottomEdgeStrokePriority="46">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Ties (Caste and Religion)</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i28" Name="1:14" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="45" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="47">
+					<Cell Self="uf15i13c4i28" Name="1:14" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="44" RightEdgeStrokePriority="45" TopEdgeStrokePriority="44" BottomEdgeStrokePriority="47">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Rigid</Content>
@@ -3943,7 +3932,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i29" Name="2:14" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="45" RightEdgeStrokePriority="45" TopEdgeStrokePriority="45" BottomEdgeStrokePriority="48">
+					<Cell Self="uf15i13c4i29" Name="2:14" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="45" RightEdgeStrokePriority="45" TopEdgeStrokePriority="45" BottomEdgeStrokePriority="48">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Flexible</Content>
@@ -3951,14 +3940,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2a" Name="0:15" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="46" RightEdgeStrokePriority="47" TopEdgeStrokePriority="46" BottomEdgeStrokePriority="49">
+					<Cell Self="uf15i13c4i2a" Name="0:15" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="46" RightEdgeStrokePriority="47" TopEdgeStrokePriority="46" BottomEdgeStrokePriority="49">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Chances of understanding each other before marriage</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2b" Name="1:15" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="47" RightEdgeStrokePriority="48" TopEdgeStrokePriority="47" BottomEdgeStrokePriority="50">
+					<Cell Self="uf15i13c4i2b" Name="1:15" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="47" RightEdgeStrokePriority="48" TopEdgeStrokePriority="47" BottomEdgeStrokePriority="50">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Less</Content>
@@ -3966,7 +3955,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2c" Name="2:15" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="48" RightEdgeStrokePriority="48" TopEdgeStrokePriority="48" BottomEdgeStrokePriority="51">
+					<Cell Self="uf15i13c4i2c" Name="2:15" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="48" RightEdgeStrokePriority="48" TopEdgeStrokePriority="48" BottomEdgeStrokePriority="51">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>More</Content>
@@ -3974,7 +3963,7 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2d" Name="0:16" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="49" RightEdgeStrokePriority="50" TopEdgeStrokePriority="49" BottomEdgeStrokePriority="49">
+					<Cell Self="uf15i13c4i2d" Name="0:16" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="49" RightEdgeStrokePriority="50" TopEdgeStrokePriority="49" BottomEdgeStrokePriority="49">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Participation</Content>
@@ -3982,14 +3971,14 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2e" Name="1:16" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="50" RightEdgeStrokePriority="51" TopEdgeStrokePriority="50" BottomEdgeStrokePriority="50">
+					<Cell Self="uf15i13c4i2e" Name="1:16" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="50" RightEdgeStrokePriority="51" TopEdgeStrokePriority="50" BottomEdgeStrokePriority="50">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>Less</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="uf15i12b7i2f" Name="2:16" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="51" RightEdgeStrokePriority="51" TopEdgeStrokePriority="51" BottomEdgeStrokePriority="51">
+					<Cell Self="uf15i13c4i2f" Name="2:16" RowSpan="1" ColumnSpan="1" AppliedCellStyle="CellStyle/Cell" AppliedCellStylePriority="0" LeftEdgeStrokePriority="51" RightEdgeStrokePriority="51" TopEdgeStrokePriority="51" BottomEdgeStrokePriority="51">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 								<Content>More</Content>
@@ -4011,6 +4000,8 @@ FUvuLjW21uxlksbeOeO3uhDB9aZvUDNbczz+q0XjT6a4q//Z]]></GraphicProxy>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+				<Br />
 				<Content>Limitations</Content>
 				<Br />
 			</CharacterStyleRange>
