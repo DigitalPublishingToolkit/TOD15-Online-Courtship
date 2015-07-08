@@ -86,7 +86,7 @@ million Americans visited online dating sites in 2003, generating \$214
 million in revenues, making online dating the most important
 subscription-based business on the Internet."[^01_intro_11]
 
-## Defining Online Courtship/Dating:
+## Defining Online Courtship/Dating
 
 *Courtship* typically refers to the stage where two people interact with
 one another in an effort to get to know each other romantically; this
