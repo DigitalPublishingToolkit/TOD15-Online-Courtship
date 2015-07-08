@@ -158,7 +158,7 @@
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
-		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -166,7 +166,7 @@
 				<AppliedFont type="string">Lato</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/R=147 G=44 B=101" PointSize="10" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/Header3" Name="Header3" Imported="false" NextStyle="ParagraphStyle/Header3" KeyboardShortcut="0 0" FillColor="Color/R=147 G=44 B=101" PointSize="10" Capitalization="AllCaps">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -313,9 +313,14 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3" SpaceBefore="8.503937007874017">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>I. Alev Degim and James Johnson</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -464,7 +469,7 @@
 							<Content>	Huffington Post, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u116c" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u121b" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -484,7 +489,7 @@
 							<Content>	The Gazette, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1170" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u121f" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -525,7 +530,7 @@
 							<Content>	The Independent, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1173" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1222" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -979,7 +984,7 @@
 							<Content>, 2014. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1191" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1240" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1191,7 +1196,7 @@
 				<Content>Huffington Post. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1195" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1244" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1201,7 +1206,7 @@
 				<Content>The Independent. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1197" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1246" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1211,7 +1216,7 @@
 				<Content>The Fiscal Times. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1198" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1247" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1221,7 +1226,7 @@
 				<Content>The Gazette. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1199" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1248" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1255,49 +1260,49 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 22" DestinationUniqueKey="22" Name="URL 22" DestinationURL="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 23" DestinationUniqueKey="23" Name="URL 23" DestinationURL="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 24" DestinationUniqueKey="24" Name="URL 24" DestinationURL="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" Hidden="false" />
-	<Hyperlink Self="u11a0" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Source="u1195" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="20">
+	<Hyperlink Self="u1249" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating_b_2561380.html" Source="u1244" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="20">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 20</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u119e" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Source="u1197" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="19">
+	<Hyperlink Self="u124a" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html" Source="u1246" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="19">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 19</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u119c" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Source="u1198" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18">
+	<Hyperlink Self="u124b" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry" Source="u1247" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 18</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u119a" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Source="u1199" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u124c" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/" Source="u1248" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11a8" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" Source="u116c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="24">
+	<Hyperlink Self="u124d" Name="http://www.huffingtonpost.com/damona-hoffman/mary-kay-beckman-online-dating\\\_b\\\_2561380.html" Source="u121b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="24">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 24</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11a6" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/ 7" Source="u1170" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="23">
+	<Hyperlink Self="u124e" Name="http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/ 7" Source="u121f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="23">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 23</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11a4" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html 6" Source="u1173" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="22">
+	<Hyperlink Self="u124f" Name="http://www.independent.co.uk/life-style/gadgets-and-tech/news/daily-internet-use-has-more-than-doubled-in-past-seven-years-8752987.html 6" Source="u1222" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="22">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 22</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u11a2" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry 5" Source="u1191" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21">
+	<Hyperlink Self="u1250" Name="http://www.thefiscaltimes.com/Articles/2014/02/14/Valentines-Day-2014-How-Online-Dating-Became-2-Billion-Industry 5" Source="u1240" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 21</Destination>

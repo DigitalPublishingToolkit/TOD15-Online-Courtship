@@ -54,42 +54,6 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
-		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
@@ -101,6 +65,30 @@
 		<Font Self="dic28FontnStandard-Grotesk BSK Bold Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Bold Italic" PostScriptName="StandardGroteskBSK-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Bold Italic" FullNameNative="Standard-Grotesk Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Extra Bold" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Extra Bold" PostScriptName="StandardGroteskBSK-ExtraBold" Status="Installed" FontStyleName="Extra Bold" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Extra Bold" FullNameNative="Standard-Grotesk Extra Bold" FontStyleNameNative="Extra Bold" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Super" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Super" PostScriptName="StandardGroteskBSK-Super" Status="Installed" FontStyleName="Super" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Super" FullNameNative="Standard-Grotesk Super" FontStyleNameNative="Super" PlatformName="$ID/" Version="001.001" />
+	</FontFamily>
+	<FontFamily Self="di11ee" Name="Helvetica Neue (T1)">
+		<Font Self="di11eeFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
+		<Font Self="di11eeFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -329,7 +317,7 @@
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Advertising and Profit Model of  Leading Dating Sites in China:  A Comparison of Jianyuan, Baihe  and Zhenai’s Targeting and Advertising</Content>
+				<Content>The Advertising and Profit Model  of Leading Dating Sites in China:  A Comparison of Jianyuan, Baihe  and Zhenai’s Targeting and Advertising</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -475,7 +463,7 @@
 							<Content>	iResearch, ‘129 Million Active Users Monthly: How to Estimate the Value of Sina Weibo’, 15 March 2014, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1112" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u11f7" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://web2.iresearch.cn/weibo/20140315/228594.shtml</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -718,10 +706,6 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Hot topics are of human interest. If these hot topics are capitalized on in marketing, a very good marketing effect will be achieved.</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In 2009, a TV drama </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -772,7 +756,7 @@
 							<Content>	Valerie M. Hudson and Andrea M. Den Boer, ‘“Bare Branches” and Danger in Asia’, The Washington Post, 4 July, 2004, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1122" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1207" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -792,7 +776,7 @@
 							<Content>	National Bureau of Statistics of the People’s Republic of China, ‘Hubei Population Development Characteristics and Future Prospects in the 10th Five-Year Plan’, 24 May 2006, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1125" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1209" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -850,7 +834,7 @@
 							<Content>	iResearch, ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28 February 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u112b" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1210" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -889,7 +873,7 @@
 							<Content> 9 April 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u112d" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1212" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -985,7 +969,7 @@
 							<Content>	Donews, ‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage in Love and Marriage’, 24 October 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1132" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1217" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.donews.com/net/201210/1683363.shtm</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1277,7 +1261,7 @@
 				<Content>Donews. ‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage in Love and Marriage’, 24 October 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1143" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1228" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.donews.com/net/201210/1683363.shtm</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1286,7 +1270,7 @@
 				<Content>Golden Mouse. ‘Jiayuan.com Implanted “Romance in Car”’, 9 April 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1144" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1229" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1295,7 +1279,7 @@
 				<Content>Hudson, Valerie M. and Boer, Andrea M. Den. ‘“Bare Branches” and Danger in Asia’, 4 July 4 2004, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1145" Name="Hyperlink 9" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u122a" Name="Hyperlink 9" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1304,7 +1288,7 @@
 				<Content>iResearch. ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28 February 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1146" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u122b" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1323,7 +1307,7 @@
 				<Content>National Bureau of Statistics of the People’s Republic of China, ‘Hubei Population Development Characteristics and Future Prospects in the 10th Five-Year Plan’, 24 May 2006, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1148" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u122c" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1332,7 +1316,7 @@
 				<Content>Rofel, Lisa. Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1149" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u122e" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
 					<Content>https://www.dukeupress.edu/Desiring-China</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1343,15 +1327,15 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<Content>Fanyi Baidu. </Content>
-				<HyperlinkTextSource Self="u114a" Name="Hyperlink 13" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u122f" Name="Hyperlink 13" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://fanyi.baidu.com/translate######</Content>
 				</HyperlinkTextSource>
 				<Br />
 				<Content>Fanyi Baidu. </Content>
-				<HyperlinkTextSource Self="u114b" Name="Hyperlink 14" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1230" Name="Hyperlink 14" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://fanyi.baidu.com/translate######</Content>
 				</HyperlinkTextSource>
-				<HyperlinkTextSource Self="u114c" Name="Hyperlink 15" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1231" Name="Hyperlink 15" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://fanyi.baidu.com/translate######</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -1403,91 +1387,91 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 43" DestinationUniqueKey="43" Name="URL 43" DestinationURL="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 44" DestinationUniqueKey="44" Name="URL 44" DestinationURL="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 45" DestinationUniqueKey="45" Name="URL 45" DestinationURL="http://web2.iresearch.cn/weibo/20140315/228594.shtml" Hidden="false" />
-	<Hyperlink Self="u115d" Name="http://www.donews.com/net/201210/1683363.shtm" Source="u1143" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="39">
+	<Hyperlink Self="u1232" Name="http://www.donews.com/net/201210/1683363.shtm" Source="u1228" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="39">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 39</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u115b" Name="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" Source="u1144" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="38">
+	<Hyperlink Self="u1233" Name="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092" Source="u1229" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="38">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 38</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1159" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Source="u1145" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="37">
+	<Hyperlink Self="u1234" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html" Source="u122a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="37">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 37</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1157" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Source="u1146" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="36">
+	<Hyperlink Self="u1235" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm" Source="u122b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="36">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 36</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1155" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html" Source="u1148" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="35">
+	<Hyperlink Self="u1236" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html" Source="u122c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="35">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 35</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1153" Name="https://www.dukeupress.edu/Desiring-China" Source="u1149" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="34">
+	<Hyperlink Self="u1237" Name="https://www.dukeupress.edu/Desiring-China" Source="u122e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="34">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 34</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1151" Name="http://fanyi.baidu.com/translate###### 3" Source="u114a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="33">
+	<Hyperlink Self="u1238" Name="http://fanyi.baidu.com/translate###### 3" Source="u122f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="33">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 33</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u114f" Name="http://fanyi.baidu.com/translate###### 2" Source="u114b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="32">
+	<Hyperlink Self="u1239" Name="http://fanyi.baidu.com/translate###### 2" Source="u1230" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="32">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 32</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u114d" Name="http://fanyi.baidu.com/translate######" Source="u114c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u123a" Name="http://fanyi.baidu.com/translate######" Source="u1231" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1169" Name="http://web2.iresearch.cn/weibo/20140315/228594.shtml" Source="u1112" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="45">
+	<Hyperlink Self="u123b" Name="http://web2.iresearch.cn/weibo/20140315/228594.shtml" Source="u11f7" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="45">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 45</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1167" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html 14" Source="u1122" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="44">
+	<Hyperlink Self="u123c" Name="http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html 14" Source="u1207" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="44">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 44</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1165" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html" Source="u1125" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="43">
+	<Hyperlink Self="u123d" Name="http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522\_32504.html" Source="u1209" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="43">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 43</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1163" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm 12" Source="u112b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="42">
+	<Hyperlink Self="u123e" Name="http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm 12" Source="u1210" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="42">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 42</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1161" Name="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092 11" Source="u112d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="41">
+	<Hyperlink Self="u123f" Name="http://huaban.com/pins/57147465/\#zoom/?&amp;\_suid=14099977042960615623123715092 11" Source="u1212" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="41">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 41</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u115f" Name="http://www.donews.com/net/201210/1683363.shtm 10" Source="u1132" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="40">
+	<Hyperlink Self="u1240" Name="http://www.donews.com/net/201210/1683363.shtm 10" Source="u1217" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="40">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 40</Destination>

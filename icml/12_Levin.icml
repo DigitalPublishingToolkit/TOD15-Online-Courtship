@@ -55,42 +55,6 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
-		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
@@ -365,7 +329,7 @@
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</Content>
+				<Content>The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2173,7 +2137,7 @@
 				<Content>Journal of Marriage and the Family</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>  54. 2 (1992): 452-463.‏</Content>
+				<Content>  54. 2 (1992): 452-463.</Content>
 				<Br />
 				<Content>Almog, Oz. </Content>
 			</CharacterStyleRange>
@@ -2181,7 +2145,7 @@
 				<Content>‘Farewell to ‘Srulik’: Changing Values Among the Israeli Elite</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Haifa: Zmora-Modan, 2004.‏</Content>
+				<Content>, Haifa: Zmora-Modan, 2004.</Content>
 				<Br />
 				<Content>Arvidsson, Adam. ‘’Quality Singles’’: Internet Dating and the Work of Fantasy’, </Content>
 			</CharacterStyleRange>
@@ -2189,7 +2153,7 @@
 				<Content>New Media &amp; Society</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 8.4 (2006): 671-690.‏</Content>
+				<Content> 8.4 (2006): 671-690.</Content>
 				<Br />
 				<Content>Azaryahu, Maoz. ‘The Golden Arches of McDonald&apos;s: On the Americanization of Israel’, </Content>
 			</CharacterStyleRange>
@@ -2197,7 +2161,7 @@
 				<Content>Israel Studies</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 5.1 (2000): 41-64.‏</Content>
+				<Content> 5.1 (2000): 41-64.</Content>
 				<Br />
 				<Content>Baker, Andrea. ‘Two by Two in Cyberspace: Getting Together and Connecting Online’, </Content>
 			</CharacterStyleRange>
@@ -2205,7 +2169,7 @@
 				<Content>CyberPsychology and Behaviour</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 3.2. (2000): 237-242.‏</Content>
+				<Content> 3.2. (2000): 237-242.</Content>
 				<Br />
 				<Content>Baker, Andrea J. </Content>
 			</CharacterStyleRange>
@@ -2221,7 +2185,7 @@
 				<Content>Journal of Sociology</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 44.2 (2008): 149-165.‏</Content>
+				<Content> 44.2 (2008): 149-165.</Content>
 				<Br />
 				<Content>Bassett, Elizabeth H., and O&apos;Riordan, Kate. ‘Ethics of Internet Research: Contesting the Human Subjects Research Model’, </Content>
 			</CharacterStyleRange>
@@ -2229,7 +2193,7 @@
 				<Content>Ethics and Information Technology</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 4.3. (2002): 233-247.‏</Content>
+				<Content> 4.3. (2002): 233-247.</Content>
 				<Br />
 				<Content>Ben-Ze&apos;ev, Aaron. </Content>
 			</CharacterStyleRange>
@@ -2237,7 +2201,7 @@
 				<Content>Love Online: Emotions on the Internet</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Cambridge University Press, 2004.‏</Content>
+				<Content>, Cambridge University Press, 2004.</Content>
 				<Br />
 				<Content>Burgin, Victor. </Content>
 			</CharacterStyleRange>
@@ -2245,7 +2209,7 @@
 				<Content>In/different Spaces: Place and Memory in Visual Culture</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, CA: University of California Press, 1996.‏</Content>
+				<Content>, CA: University of California Press, 1996.</Content>
 				<Br />
 				<Content>Dreyfus, Hubert L. </Content>
 			</CharacterStyleRange>
@@ -2253,7 +2217,7 @@
 				<Content>On the Internet</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, New York: Routledge, 2008.‏</Content>
+				<Content>, New York: Routledge, 2008.</Content>
 				<Br />
 				<Content>Eysenbach, Gunther, and Till, James E. ‘Ethical Issues in Qualitative Research on Internet Communities.’ </Content>
 			</CharacterStyleRange>
@@ -2261,7 +2225,7 @@
 				<Content>Bmj</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 323.7321 (2001): 1103-1105.‏</Content>
+				<Content> 323.7321 (2001): 1103-1105.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2273,7 +2237,7 @@
 				<Content>America in Jerusalem: Globalization, National Identity, and Israeli Advertising</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, Maryland: Lexington Books, 2009.‏</Content>
+				<Content>, Maryland: Lexington Books, 2009.</Content>
 				<Br />
 				<Content>Heino, Rebecca D., Nicole B. Ellison, and Jennifer L. Gibbs. ‘Relationshopping: Investigating the market metaphor in online dating’, </Content>
 			</CharacterStyleRange>
@@ -2281,7 +2245,7 @@
 				<Content>Journal of Social and Personal Relationships</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 27.4 (2010): 427-447.‏</Content>
+				<Content> 27.4 (2010): 427-447.</Content>
 				<Br />
 				<Content>Hymes, Dell. </Content>
 			</CharacterStyleRange>
@@ -2289,7 +2253,7 @@
 				<Content>Foundations in Sociolinguistics: An Ethnographic Approach</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, London: Routledge, 2013.‏</Content>
+				<Content>, London: Routledge, 2013.</Content>
 				<Br />
 				<Content>Illouz, Eva, and Finkelman, Shoshannah. ‘An Odd and Inseparable Couple: Emotion and Rationality in Partner Selection’, </Content>
 			</CharacterStyleRange>
@@ -2297,7 +2261,7 @@
 				<Content>Theory and Society</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 38.4 (2009): 401-422.‏</Content>
+				<Content> 38.4 (2009): 401-422.</Content>
 				<Br />
 				<Content>Iwabuchi, Koichi. </Content>
 			</CharacterStyleRange>
@@ -2305,7 +2269,7 @@
 				<Content>Recentering Globalization: Popular Culture and Japanese Transnationalism</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, North Carolina: Duke University Press, 2002.‏</Content>
+				<Content>, North Carolina: Duke University Press, 2002.</Content>
 				<Br />
 				<Content>Katriel, Tamar. </Content>
 			</CharacterStyleRange>
@@ -2321,7 +2285,7 @@
 				<Content>Night as Frontier: Colonizing the World After Dark</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, New York: Free Press, 1987.‏</Content>
+				<Content>, New York: Free Press, 1987.</Content>
 				<Br />
 				<Content>Merkle, Erich R., and Richardson, Rhonda A. ‘Digital Dating and Virtual Relating: Conceptualizing Computer Mediated Romantic Relationships’, </Content>
 			</CharacterStyleRange>
@@ -2329,7 +2293,7 @@
 				<Content>Family Relations</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 49.2 (2000): 187-192.‏</Content>
+				<Content> 49.2 (2000): 187-192.</Content>
 				<Br />
 				<Content>Parks, Malcolm R., and Kory Floyd. ‘Making Friends in Cyberspace’, </Content>
 			</CharacterStyleRange>
@@ -2345,7 +2309,7 @@
 				<Content>Journal of Democracy</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 6.1 (1995): 65-78.‏</Content>
+				<Content> 6.1 (1995): 65-78.</Content>
 				<Br />
 				<Content>Reinecke Leonard and Trepte, Sabine. &apos;Authenticity and Well-being on Social Network Sites: A Two-wave Longitudinal Study on the Effects of Online Authenticity and the Positivity Bias in SNS Communication&apos;, </Content>
 			</CharacterStyleRange>
@@ -2389,7 +2353,7 @@
 				<Content>The Great Good Place: Cafés, Coffee Shops, Community Centers, Beauty Parlors, General Stores, Bars, Hangouts, and How They Get You through the Day</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, New York: Paragon House, 1989.‏</Content>
+				<Content>, New York: Paragon House, 1989.</Content>
 				<Br />
 				<Content>Seale, Clive, et al. ‘Interviews and Internet Forums: A Comparison of Two Sources of Qualitative Data’,  </Content>
 			</CharacterStyleRange>
@@ -2397,7 +2361,7 @@
 				<Content>Qualitative Health Research</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> 20.5. (2010): 595-606.‏</Content>
+				<Content> 20.5. (2010): 595-606.</Content>
 				<Br />
 				<Content>Walther, Josef B. &apos;Interpersonal Effects in Computer-mediated Interaction: A Relational Perspective&apos;, </Content>
 			</CharacterStyleRange>
