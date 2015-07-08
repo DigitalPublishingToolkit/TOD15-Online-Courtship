@@ -3,10 +3,13 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="8.0" Self="d">
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" />
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
 	<FontFamily Self="di3e" Name="Minion Pro">
 		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Installed" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
 		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Installed" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" />
@@ -50,18 +53,6 @@
 		<Font Self="di86fFontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 	</FontFamily>
 	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
 		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
@@ -157,7 +148,9 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" Name="$ID/[No character style]" />
 	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
 	<RootParagraphStyleGroup Self="u76">
 		<ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" Imported="false" NextStyle="ParagraphStyle/Header1" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="14" Capitalization="AllCaps" GridAlignFirstLineOnly="true" GridAlignment="AlignBaseline">
 			<Properties>
@@ -182,22 +175,27 @@
 				<AppliedFont type="string">Lato</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/Paragraph" Name="Paragraph" Imported="false" NextStyle="ParagraphStyle/Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="9" Ligatures="false" SpaceAfter="5.669291338582678" Justification="LeftJustified" GridAlignment="AlignBaseline">
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Footnote &gt; Paragraph" KeyboardShortcut="0 0" FontStyle="Light" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
+		<ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" KeyboardShortcut="0 0" PointSize="7.5" LeftIndent="17.007874015748033" FirstLineIndent="-17.007874015748033">
 			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 				<Leading type="unit">10</Leading>
-				<AppliedFont type="string">Standard-Grotesk BSK</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/Blockquote &gt; Paragraph" KeyboardShortcut="0 0" LeftIndent="11.338582677165356">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Reference-paragraph" Name="Reference-paragraph" Imported="false" NextStyle="ParagraphStyle/Reference-paragraph" KeyboardShortcut="0 0" PointSize="8" SpaceBefore="5.669291338582678" SpaceAfter="0" GridAlignment="None">
 			<Properties>
 				<BasedOn type="object">ParagraphStyle/Paragraph</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -207,6 +205,46 @@
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226" />
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -265,7 +303,7 @@
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>&apos;Dating&apos; or &apos;Escaping&apos;? Cuban Profiles in Dating Websites</Content>
+				<Content>&apos;Dating&apos; or &apos;Escaping&apos;? Cuban Profiles  in Dating Websites</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -301,7 +339,7 @@
 							<Content> 81 (December 2013, January 2013),</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1288" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u140c" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -317,7 +355,7 @@
 				<Content>For instance, according to the </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u128b" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u140f" Name="Hyperlink 2" Hidden="false" AppliedCharacterStyle="n">
 					<Content>World Bank</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -334,7 +372,7 @@
 							<Content>	The World Bank, Internet users (per 100 people), </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u128d" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1411" Name="Hyperlink 3" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://data.worldbank.org/indicator/IT.NET.USER.P2.</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -348,7 +386,7 @@
 				<Content> The </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u128e" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1412" Name="Hyperlink 4" Hidden="false" AppliedCharacterStyle="n">
 					<Content>International Telecommunication Union</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -365,7 +403,7 @@
 							<Content>	International Telecommunication Union, ‘Fixed Internet subscriptions’, Geneva 2011, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1290" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1414" Name="Hyperlink 5" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -379,7 +417,7 @@
 				<Content> Meanwhile, according </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1291" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1415" Name="Hyperlink 6" Hidden="false" AppliedCharacterStyle="n">
 					<Content>United Nations</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -396,7 +434,7 @@
 							<Content>	United Nations, Indicators of the Millennium Development Goals, 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1293" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1417" Name="Hyperlink 7" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://unstats.un.org/unsd/mdg/Data.aspx</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -425,7 +463,7 @@
 							<Content>, Geneva, January 23-24, 2012, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1295" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1419" Name="Hyperlink 8" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -440,7 +478,7 @@
 				<Content>Besides this, the prices of Internet access are extraordinarily high. For example, in June 2013, the government opened 118 public centers for Internet access that offers three kind of services at three different prices: 4.50 USD per hour of full Internet access; 1.50 USD per hour of access to the national intranet network, plus international email access; and 0.60 USD per hour of access to the national intranet network. As a Cuban blogger explained to the Spanish newspaper </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1297" Name="Hyperlink 9" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u141b" Name="Hyperlink 9" Hidden="false" AppliedCharacterStyle="n">
 					<Content>El País</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -463,7 +501,7 @@
 							<Content>, June 5, 2013, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1299" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u141d" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -593,7 +631,7 @@
 				<Content>Since there are no specifically Cuban websites for online dating, we will analyze Cuban profiles at two international dating websites: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12a0" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1424" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Connectingsingles.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -601,7 +639,7 @@
 				<Content> and </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12a1" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1425" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Datehookup.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -609,7 +647,7 @@
 				<Content>. We will also include the only Cuban classified ads site, called </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12a3" Name="Hyperlink 13" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1426" Name="Hyperlink 13" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Revolico.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -788,7 +826,7 @@
 							<Content>	Raúl Castro Ruz, &apos;Speech at the Sixth Ordinary Session of the Seventh Legislature of the National Assembly of People&apos;s Power&apos;, 18 December 2010, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12ae" Name="Hyperlink 14" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1432" Name="Hyperlink 14" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -851,7 +889,7 @@
 							<Content> </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12b4" Name="Hyperlink 15" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1438" Name="Hyperlink 15" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -864,6 +902,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Aware of the necessity of that continuity, Cuban users with profiles in online dating sites include in some cases other contact information –such as email addresses or even telephone numbers-, maybe foreseeing the possibility of losing temporarily -or even permanently- their Internet access.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Privacy has been one of the most important concerns of Internet users from the first moments of the World Wide Web to current social networks.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -897,7 +939,7 @@
 							<Content>	Interview by email with Cuban woman with a profile in </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12b8" Name="Hyperlink 16" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u143c" Name="Hyperlink 16" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -909,7 +951,7 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Cuban condition - mainly its technological dimension and the difficult Internet access- becomes this way a source of safety, at least in the opinion of the subjects. But, while some individuals make public their private data, other ones even prefer not to publish his/her pictures. Among woman, 21.82% of them does not include a picture on their profiles, while 23.75% of men&apos;s profiles does not have photos. None of the users without picture answered the question about why they not include it in their profiles, however, it could be deduced that this decision is related to the preservation of privacy and personal identity.</Content>
+				<Content>The Cuban condition – mainly its technological dimension and the difficult Internet access- becomes this way a source of safety, at least in the opinion of the subjects. But, while some individuals make public their private data, other ones even prefer not to publish his/her pictures. Among woman, 21.82% of them does not include a picture on their profiles, while 23.75% of men&apos;s profiles does not have photos. None of the users without picture answered the question about why they not include it in their profiles, however, it could be deduced that this decision is related to the preservation of privacy and personal identity.</Content>
 				<Br />
 				<Content>Profiles photographs are “a central component of online self-presentation, and one that is critical for relational success”.</Content>
 			</CharacterStyleRange>
@@ -950,7 +992,7 @@
 				<Content> Cubans profiles in the analysed dating websites confirm this importance, since none of the profiles without photos have friends and either comments, that are possible only if associated to pictures in the case of </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12bb" Name="Hyperlink 17" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u143f" Name="Hyperlink 17" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Connectingsingles.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -969,7 +1011,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12be" Name="Hyperlink 18" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1442" Name="Hyperlink 18" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -992,7 +1034,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12c0" Name="Hyperlink 19" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1444" Name="Hyperlink 19" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1076,7 +1118,7 @@
 							<Content>	Interview by email with Cuban woman with a profile in </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12c9" Name="Hyperlink 20" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u144d" Name="Hyperlink 20" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1169,9 +1211,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In fact, as the study conducted by those authors points out, deception is a frequent trend in users of dating websites, since about 81% of them lied on at least one of the assessed variables (height, weight and age). However, with few exceptions, most of the subjects altered the information in a very slight way, as if it were acceptable to do so only to a certain point.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>Certainly, the aforementioned characteristics of the CMC facilitate, to some point, the deception, since individuals are aware of it and, at the same time, they want to create attractive self-presentations since they are trying to manage the impressions they create in the other users through the profiles they construct.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1183,10 +1227,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> But, in reality, certain level of deception crosses all social interactions, as a practice of package and edition of the self in order to favourably impress the others.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1204,8 +1248,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> It becomes, this way, an everyday praxis and, therefore, the other individuals are prevented about it (since, probably, they follow the same scheme of quotidian action).</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Given that general (theoretical) scenario, it is relevant to examine the narratives mobilized by -and the specificities of- Cuban profiles in dating websites: descriptions presented, topics underlined, values declared, dimensions highlighted, or issues not revealed. The foreigners-oriented nature of the Cuban profiles in dating websites would become a core mediation in the narratives used for the construction of profiles and, consequently, in the self-presentation they do.</Content>
 				<Br />
@@ -1214,7 +1260,7 @@
 				<Content>While this is the tendency in sites such as </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12d1" Name="Hyperlink 21" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1455" Name="Hyperlink 21" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Connectingsingles.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1222,7 +1268,7 @@
 				<Content>, in the case of the announcements of contacts published in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12d2" Name="Hyperlink 22" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1456" Name="Hyperlink 22" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Revolico.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1251,7 +1297,7 @@
 				<Content> at </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12d6" Name="Hyperlink 23" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u145a" Name="Hyperlink 23" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Revolico.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1263,7 +1309,7 @@
 				<Content>Contrary to this explicit statement of economic interest present in announcements published at </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12d8" Name="Hyperlink 24" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u145c" Name="Hyperlink 24" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Revolico.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1271,7 +1317,7 @@
 				<Content>, in the case of profiles on dating websites such as </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u12d9" Name="Hyperlink 25" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u145d" Name="Hyperlink 25" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Connectingsingles.com</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1290,7 +1336,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12db" Name="Hyperlink 26" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u145f" Name="Hyperlink 26" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1313,7 +1359,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12de" Name="Hyperlink 27" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1462" Name="Hyperlink 27" Hidden="false" AppliedCharacterStyle="n">
 								<Content>http://www.connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1337,7 +1383,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12e1" Name="Hyperlink 28" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1465" Name="Hyperlink 28" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1360,7 +1406,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12e3" Name="Hyperlink 29" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1467" Name="Hyperlink 29" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1385,7 +1431,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12e5" Name="Hyperlink 30" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1469" Name="Hyperlink 30" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1408,7 +1454,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12e8" Name="Hyperlink 31" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u146c" Name="Hyperlink 31" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1431,7 +1477,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12eb" Name="Hyperlink 32" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u146f" Name="Hyperlink 32" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1455,7 +1501,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12ee" Name="Hyperlink 33" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1472" Name="Hyperlink 33" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1478,7 +1524,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12f0" Name="Hyperlink 34" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1474" Name="Hyperlink 34" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1501,7 +1547,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12f2" Name="Hyperlink 35" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1476" Name="Hyperlink 35" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1524,7 +1570,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12f5" Name="Hyperlink 36" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1479" Name="Hyperlink 36" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1535,6 +1581,8 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Another frequent issue included in self-presentations is the incorporation of elements for making the profiles more “human”. This way, some profiles include personal details such as the sons and daughters the person has, or mention that his/her parents have passed away and s/he is “alone in my country”.</Content>
 			</CharacterStyleRange>
@@ -1548,7 +1596,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12f8" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u147c" Name="Hyperlink 37" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1571,7 +1619,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12fc" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1480" Name="Hyperlink 38" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1594,7 +1642,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u12fe" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1482" Name="Hyperlink 39" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1619,7 +1667,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1300" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1484" Name="Hyperlink 40" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1642,7 +1690,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1303" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1487" Name="Hyperlink 41" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1665,7 +1713,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1305" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1489" Name="Hyperlink 42" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1688,7 +1736,7 @@
 							<Content>	Cuban man profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1308" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u148c" Name="Hyperlink 43" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1713,7 +1761,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u130a" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u148e" Name="Hyperlink 44" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1736,7 +1784,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u130c" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1490" Name="Hyperlink 45" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Datehookup.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1785,7 +1833,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u130f" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1493" Name="Hyperlink 46" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1808,7 +1856,7 @@
 							<Content>	Cuban woman profile from </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-							<HyperlinkTextSource Self="u1312" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
+							<HyperlinkTextSource Self="u1496" Name="Hyperlink 47" Hidden="false" AppliedCharacterStyle="n">
 								<Content>Connectingsingles.com</Content>
 							</HyperlinkTextSource>
 						</CharacterStyleRange>
@@ -1849,7 +1897,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference-paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Aguirre, Benigno E. &apos;Social Control in Cuba&apos;, </Content>
 			</CharacterStyleRange>
@@ -1878,7 +1926,7 @@
 				<Content>Castro Ruz, Raúl. &apos;Speech at the Sixth Ordinary Session of the Seventh Legislature of the National Assembly of People&apos;s Power&apos;, December 18, 2010, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1315" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u1499" Name="Hyperlink 48" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1954,7 +2002,7 @@
 				<Content>International Telecommunication Union, ‘Fixed Internet subscriptions’, Geneva 2011, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1318" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u149c" Name="Hyperlink 49" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -1988,7 +2036,7 @@
 				<Content>Oliva, Pedro. ‘International Internet Connectivity (IIC) - Individual Country and Organization Experiences’, Geneva, January 23-24, 2012, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u1319" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u149d" Name="Hyperlink 50" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -2011,7 +2059,7 @@
 				<Content> June 5, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u131a" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u149e" Name="Hyperlink 51" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -2026,7 +2074,7 @@
 				<Content> 81 (December 2013, January 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u131c" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u14a0" Name="Hyperlink 52" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf.</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -2035,7 +2083,7 @@
 				<Content>The World Bank, Internet users (per 100 people), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u131d" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u14a1" Name="Hyperlink 53" Hidden="false" AppliedCharacterStyle="n">
 					<Content>data.worldbank.org</Content>
 				</HyperlinkTextSource>
 				<Br />
@@ -2044,7 +2092,7 @@
 				<Content>United Nations, Indicators of the Millennium Development Goals, 2013, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-				<HyperlinkTextSource Self="u131e" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
+				<HyperlinkTextSource Self="u14a2" Name="Hyperlink 54" Hidden="false" AppliedCharacterStyle="n">
 					<Content>http://unstats.un.org/unsd/mdg/Data.aspx</Content>
 				</HyperlinkTextSource>
 			</CharacterStyleRange>
@@ -2232,325 +2280,325 @@
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 160" DestinationUniqueKey="160" Name="URL 160" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2." Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 161" DestinationUniqueKey="161" Name="URL 161" DestinationURL="http://www.worldbank.org/" Hidden="false" />
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 162" DestinationUniqueKey="162" Name="URL 162" DestinationURL="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Hidden="false" />
-	<Hyperlink Self="u1387" Name="http://www.worldbank.org/" Source="u128b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="161">
+	<Hyperlink Self="u14a3" Name="http://www.worldbank.org/" Source="u140f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="161">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 161</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1383" Name="http://www.itu.int/es/Pages/default.aspx" Source="u128e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="159">
+	<Hyperlink Self="u14a4" Name="http://www.itu.int/es/Pages/default.aspx" Source="u1412" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="159">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 159</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u137f" Name="http://www.un.org/en/" Source="u1291" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="157">
+	<Hyperlink Self="u14a5" Name="http://www.un.org/en/" Source="u1415" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="157">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 157</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1379" Name="http://www.elpais.com/" Source="u1297" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="154">
+	<Hyperlink Self="u14a6" Name="http://www.elpais.com/" Source="u141b" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="154">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 154</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1375" Name="http://www.connectingsingles.com/ 44" Source="u12a0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="152">
+	<Hyperlink Self="u14a7" Name="http://www.connectingsingles.com/ 44" Source="u1424" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="152">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 152</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1373" Name="http://www.datehookup.com/ 43" Source="u12a1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="151">
+	<Hyperlink Self="u14a8" Name="http://www.datehookup.com/ 43" Source="u1425" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="151">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 151</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1371" Name="http://www.revolico.com/ 42" Source="u12a3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="150">
+	<Hyperlink Self="u14a9" Name="http://www.revolico.com/ 42" Source="u1426" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="150">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 150</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1369" Name="http://www.connectingsingles.com/ 38" Source="u12bb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="146">
+	<Hyperlink Self="u14aa" Name="http://www.connectingsingles.com/ 38" Source="u143f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="146">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 146</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1361" Name="http://www.connectingsingles.com/ 34" Source="u12d1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="142">
+	<Hyperlink Self="u14ab" Name="http://www.connectingsingles.com/ 34" Source="u1455" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="142">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 142</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u135f" Name="http://www.revolico.com/ 33" Source="u12d2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="141">
+	<Hyperlink Self="u14ac" Name="http://www.revolico.com/ 33" Source="u1456" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="141">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 141</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u135d" Name="http://www.revolico.com/ 32" Source="u12d6" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="140">
+	<Hyperlink Self="u14ad" Name="http://www.revolico.com/ 32" Source="u145a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="140">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 140</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u135b" Name="http://www.revolico.com/" Source="u12d8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="139">
+	<Hyperlink Self="u14ae" Name="http://www.revolico.com/" Source="u145c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="139">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 139</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1359" Name="http://www.connectingsingles.com/ 30" Source="u12d9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="138">
+	<Hyperlink Self="u14af" Name="http://www.connectingsingles.com/ 30" Source="u145d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="138">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 138</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u132b" Name="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Source="u1315" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="115">
+	<Hyperlink Self="u14b0" Name="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm" Source="u1499" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="115">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 115</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1329" Name="http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" Source="u1318" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="114">
+	<Hyperlink Self="u14b1" Name="http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/FixedInternetSubscriptions_00-10.xls" Source="u149c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="114">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 114</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1327" Name="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Source="u1319" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="113">
+	<Hyperlink Self="u14b2" Name="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf" Source="u149d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="113">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 113</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1325" Name="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Source="u131a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="112">
+	<Hyperlink Self="u14b3" Name="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html" Source="u149e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="112">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 112</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1323" Name="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Source="u131c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="111">
+	<Hyperlink Self="u14b4" Name="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf" Source="u14a0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="111">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 111</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1321" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="u131d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="110">
+	<Hyperlink Self="u14b5" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2" Source="u14a1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="110">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 110</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u131f" Name="http://unstats.un.org/unsd/mdg/Data.aspx" Source="u131e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
+	<Hyperlink Self="u14b6" Name="http://unstats.un.org/unsd/mdg/Data.aspx" Source="u14a2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="1">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/link</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1389" Name="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf 54" Source="u1288" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="162">
+	<Hyperlink Self="u14b7" Name="http://www.razonypalabra.org.mx/N/N81/M81/07_Suarez_M81.pdf 54" Source="u140c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="162">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 162</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1385" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2." Source="u128d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="160">
+	<Hyperlink Self="u14b8" Name="http://data.worldbank.org/indicator/IT.NET.USER.P2." Source="u1411" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="160">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 160</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1381" Name="http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" Source="u1290" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="158">
+	<Hyperlink Self="u14b9" Name="http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2014/Fixed_broadband_2000-2013.xls" Source="u1414" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="158">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 158</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u137d" Name="http://unstats.un.org/unsd/mdg/Data.aspx 48" Source="u1293" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="156">
+	<Hyperlink Self="u14ba" Name="http://unstats.un.org/unsd/mdg/Data.aspx 48" Source="u1417" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="156">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 156</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u137b" Name="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf 47" Source="u1295" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="155">
+	<Hyperlink Self="u14bb" Name="http://www.itu.int/ITU-D/finance/work-cost-tariffs/events/tariff-seminars/Geneva-IIC/pdf/Session4_P3_Oliva-sp.pdf 47" Source="u1419" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="155">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 155</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1377" Name="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html 45" Source="u1299" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="153">
+	<Hyperlink Self="u14bc" Name="http://internacional.elpais.com/internacional/2013/06/05/actualidad/1370398720_289648.html 45" Source="u141d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="153">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 153</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u136f" Name="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm 41" Source="u12ae" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="149">
+	<Hyperlink Self="u14bd" Name="http://bvs.sld.cu/revistas/infd/n1311/infd1213.htm 41" Source="u1432" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="149">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 149</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u136d" Name="http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" Source="u12b4" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="148">
+	<Hyperlink Self="u14be" Name="http://economia.elpais.com/economia/2014/03/08/agencias/1394298476_945195.html" Source="u1438" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="148">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 148</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u136b" Name="http://www.connectingsingles.com 39" Source="u12b8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="147">
+	<Hyperlink Self="u14bf" Name="http://www.connectingsingles.com 39" Source="u143c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="147">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 147</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1367" Name="http://www.connectingsingles.com 37" Source="u12be" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="145">
+	<Hyperlink Self="u14c0" Name="http://www.connectingsingles.com 37" Source="u1442" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="145">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 145</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1365" Name="http://www.connectingsingles.com 36" Source="u12c0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="144">
+	<Hyperlink Self="u14c1" Name="http://www.connectingsingles.com 36" Source="u1444" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="144">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 144</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1363" Name="http://www.connectingsingles.com 35" Source="u12c9" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="143">
+	<Hyperlink Self="u14c2" Name="http://www.connectingsingles.com 35" Source="u144d" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="143">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 143</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1357" Name="http://www.connectingsingles.com 29" Source="u12db" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="137">
+	<Hyperlink Self="u14c3" Name="http://www.connectingsingles.com 29" Source="u145f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="137">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 137</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1355" Name="http://www.connectingsingles.com" Source="u12de" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="136">
+	<Hyperlink Self="u14c4" Name="http://www.connectingsingles.com" Source="u1462" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="136">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 136</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1353" Name="http://www.connectingsingles.com/ 27" Source="u12e1" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="135">
+	<Hyperlink Self="u14c5" Name="http://www.connectingsingles.com/ 27" Source="u1465" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="135">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 135</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1351" Name="http://www.connectingsingles.com/ 26" Source="u12e3" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="134">
+	<Hyperlink Self="u14c6" Name="http://www.connectingsingles.com/ 26" Source="u1467" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="134">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 134</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u134f" Name="http://www.connectingsingles.com/ 25" Source="u12e5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="133">
+	<Hyperlink Self="u14c7" Name="http://www.connectingsingles.com/ 25" Source="u1469" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="133">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 133</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u134d" Name="http://www.connectingsingles.com/ 24" Source="u12e8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="132">
+	<Hyperlink Self="u14c8" Name="http://www.connectingsingles.com/ 24" Source="u146c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="132">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 132</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u134b" Name="http://www.connectingsingles.com/ 23" Source="u12eb" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="131">
+	<Hyperlink Self="u14c9" Name="http://www.connectingsingles.com/ 23" Source="u146f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="131">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 131</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1349" Name="http://www.connectingsingles.com/ 22" Source="u12ee" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="130">
+	<Hyperlink Self="u14ca" Name="http://www.connectingsingles.com/ 22" Source="u1472" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="130">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 130</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1347" Name="http://www.connectingsingles.com/ 21" Source="u12f0" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="129">
+	<Hyperlink Self="u14cb" Name="http://www.connectingsingles.com/ 21" Source="u1474" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="129">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 129</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1345" Name="http://www.connectingsingles.com/ 20" Source="u12f2" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="128">
+	<Hyperlink Self="u14cc" Name="http://www.connectingsingles.com/ 20" Source="u1476" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="128">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 128</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1343" Name="http://www.connectingsingles.com/ 19" Source="u12f5" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="127">
+	<Hyperlink Self="u14cd" Name="http://www.connectingsingles.com/ 19" Source="u1479" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="127">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 127</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1341" Name="http://www.connectingsingles.com/ 18" Source="u12f8" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="126">
+	<Hyperlink Self="u14ce" Name="http://www.connectingsingles.com/ 18" Source="u147c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="126">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 126</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u133f" Name="http://www.connectingsingles.com/ 17" Source="u12fc" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="125">
+	<Hyperlink Self="u14cf" Name="http://www.connectingsingles.com/ 17" Source="u1480" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="125">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 125</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u133d" Name="http://www.connectingsingles.com/ 16" Source="u12fe" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="124">
+	<Hyperlink Self="u14d0" Name="http://www.connectingsingles.com/ 16" Source="u1482" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="124">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 124</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u133b" Name="http://www.connectingsingles.com/ 15" Source="u1300" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="123">
+	<Hyperlink Self="u14d1" Name="http://www.connectingsingles.com/ 15" Source="u1484" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="123">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 123</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1339" Name="http://www.connectingsingles.com/ 14" Source="u1303" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="122">
+	<Hyperlink Self="u14d2" Name="http://www.connectingsingles.com/ 14" Source="u1487" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="122">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 122</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1337" Name="http://www.connectingsingles.com/ 13" Source="u1305" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="121">
+	<Hyperlink Self="u14d3" Name="http://www.connectingsingles.com/ 13" Source="u1489" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="121">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 121</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1335" Name="http://www.connectingsingles.com/ 12" Source="u1308" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="120">
+	<Hyperlink Self="u14d4" Name="http://www.connectingsingles.com/ 12" Source="u148c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="120">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 120</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1333" Name="http://www.connectingsingles.com/ 11" Source="u130a" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="119">
+	<Hyperlink Self="u14d5" Name="http://www.connectingsingles.com/ 11" Source="u148e" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="119">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 119</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u1331" Name="http://www.datehookup.com/" Source="u130c" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="118">
+	<Hyperlink Self="u14d6" Name="http://www.datehookup.com/" Source="u1490" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="118">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 118</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u132f" Name="http://www.connectingsingles.com/ 9" Source="u130f" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="117">
+	<Hyperlink Self="u14d7" Name="http://www.connectingsingles.com/ 9" Source="u1493" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="117">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 117</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="u132d" Name="http://www.connectingsingles.com/" Source="u1312" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="116">
+	<Hyperlink Self="u14d8" Name="http://www.connectingsingles.com/" Source="u1496" Visible="true" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="116">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">HyperlinkURLDestination/URL 116</Destination>
