@@ -2282,10 +2282,6 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>REFERENCES</Content>
 				<Br />
 			</CharacterStyleRange>
