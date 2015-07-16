@@ -54,42 +54,6 @@
 		<Font Self="di86fFontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 		<Font Self="di86fFontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
 	</FontFamily>
-	<FontFamily Self="diac5" Name="Lato">
-		<Font Self="diac5FontnLato Hairline" FontFamily="Lato" Name="Lato Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Hairline Italic" FontFamily="Lato" Name="Lato Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light" FontFamily="Lato" Name="Lato Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Light Italic" FontFamily="Lato" Name="Lato Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Regular" FontFamily="Lato" Name="Lato Regular" PostScriptName="Lato-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Italic" FontFamily="Lato" Name="Lato Italic" PostScriptName="Lato-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold" FontFamily="Lato" Name="Lato Bold" PostScriptName="Lato-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Bold Italic" FontFamily="Lato" Name="Lato Bold Italic" PostScriptName="Lato-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black" FontFamily="Lato" Name="Lato Black" PostScriptName="Lato-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-		<Font Self="diac5FontnLato Black Italic" FontFamily="Lato" Name="Lato Black Italic" PostScriptName="Lato-BlackItalic" Status="Installed" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" />
-	</FontFamily>
-	<FontFamily Self="dib4e" Name="Helvetica Neue (T1)">
-		<Font Self="dib4eFontnHelvetica Neue (T1) 25 Ultra Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 25 Ultra Light" PostScriptName="HelveticaNeue-UltraLight" Status="Installed" FontStyleName="25 Ultra Light" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 25 Ultra Light  79472" FullNameNative="18 pt. Helvetica* 25 Ultra Light  79472" FontStyleNameNative="25 Ultra Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 26 Ultra Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 26 Ultra Light Italic" PostScriptName="HelveticaNeue-UltraLightItal" Status="Installed" FontStyleName="26 Ultra Light Italic" FontType="Type1" WritingScript="0" FullName="18 pt Helvetica* 26 Ultra Light Italic  99472" FullNameNative="18 pt Helvetica* 26 Ultra Light Italic  99472" FontStyleNameNative="26 Ultra Light Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 35 Thin" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 35 Thin" PostScriptName="HelveticaNeue-Thin" Status="Installed" FontStyleName="35 Thin" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 35 Thin  55472" FullNameNative="18 pt. Helvetica* 35 Thin  55472" FontStyleNameNative="35 Thin" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 36 Thin Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 36 Thin Italic" PostScriptName="HelveticaNeue-ThinItalic" Status="Installed" FontStyleName="36 Thin Italic" FontType="Type1" WritingScript="0" FullName="18 pt. Helvetica* 36 Thin Italic  56472" FullNameNative="18 pt. Helvetica* 36 Thin Italic  56472" FontStyleNameNative="36 Thin Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 45 Light" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 45 Light" PostScriptName="HelveticaNeue-Light" Status="Installed" FontStyleName="45 Light" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 45 Light   02472" FullNameNative="12 pt. Helvetica* 45 Light   02472" FontStyleNameNative="45 Light" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 46 Light Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 46 Light Italic" PostScriptName="HelveticaNeue-LightItalic" Status="Installed" FontStyleName="46 Light Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 46 Light Italic   11472" FullNameNative="12 pt. Helvetica* 46 Light Italic   11472" FontStyleNameNative="46 Light Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 55 Roman" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 55 Roman" PostScriptName="HelveticaNeue-Roman" Status="Installed" FontStyleName="55 Roman" FontType="Type1" WritingScript="0" FullName="12 pt Helvetica* 55 Roman   05472" FullNameNative="12 pt Helvetica* 55 Roman   05472" FontStyleNameNative="55 Roman" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 56 Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 56 Italic" PostScriptName="HelveticaNeue-Italic" Status="Installed" FontStyleName="56 Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 56 Italic   13472" FullNameNative="12 pt. Helvetica* 56 Italic   13472" FontStyleNameNative="56 Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 65 Medium" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 65 Medium" PostScriptName="HelveticaNeue-Medium" Status="Installed" FontStyleName="65 Medium" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 65 Medium   06472" FullNameNative="12 pt. Helvetica* 65 Medium   06472" FontStyleNameNative="65 Medium" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 66 Medium Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 66 Medium Italic" PostScriptName="HelveticaNeue-MediumItalic" Status="Installed" FontStyleName="66 Medium Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 66 Medium Italic   33472" FullNameNative="12 pt. Helvetica* 66 Medium Italic   33472" FontStyleNameNative="66 Medium Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 75 Bold" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 75 Bold" PostScriptName="HelveticaNeue-Bold" Status="Installed" FontStyleName="75 Bold" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 75 Bold   07472" FullNameNative="12 pt. Helvetica* 75 Bold   07472" FontStyleNameNative="75 Bold" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 76 Bold Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 76 Bold Italic" PostScriptName="HelveticaNeue-BoldItalic" Status="Installed" FontStyleName="76 Bold Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 76 Bold Italic   14472" FullNameNative="12 pt. Helvetica* 76 Bold Italic   14472" FontStyleNameNative="76 Bold Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 85 Heavy" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 85 Heavy" PostScriptName="HelveticaNeue-Heavy" Status="Installed" FontStyleName="85 Heavy" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 85 Heavy   08472" FullNameNative="12 pt. Helvetica* 85 Heavy   08472" FontStyleNameNative="85 Heavy" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 86 Heavy Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 86 Heavy Italic" PostScriptName="HelveticaNeue-HeavyItalic" Status="Installed" FontStyleName="86 Heavy Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 86 Heavy Italic   15472" FullNameNative="12 pt. Helvetica* 86 Heavy Italic   15472" FontStyleNameNative="86 Heavy Italic" PlatformName="$ID/" Version="001.100" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 95 Black" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 95 Black" PostScriptName="HelveticaNeue-Black" Status="Installed" FontStyleName="95 Black" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 95 Black   09472" FullNameNative="12 pt. Helvetica* 95 Black   09472" FontStyleNameNative="95 Black" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 96 Black Italic" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 96 Black Italic" PostScriptName="HelveticaNeue-BlackItalic" Status="Installed" FontStyleName="96 Black Italic" FontType="Type1" WritingScript="0" FullName="12 pt. Helvetica* 96 Black Italic   16472" FullNameNative="12 pt. Helvetica* 96 Black Italic   16472" FontStyleNameNative="96 Black Italic" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended" PostScriptName="HelveticaNeue-LightExt" Status="Installed" FontStyleName="43 Light Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended" FullNameNative="Helvetica 43 Light Extended" FontStyleNameNative="43 Light Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 43 Light Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 43 Light Extended Oblique" PostScriptName="HelveticaNeue-LightExtObl" Status="Installed" FontStyleName="43 Light Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 43 Light Extended Oblique" FullNameNative="Helvetica 43 Light Extended Oblique" FontStyleNameNative="43 Light Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended" PostScriptName="HelveticaNeue-MediumExt" Status="Installed" FontStyleName="63 Medium Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended" FullNameNative="Helvetica 63 Medium Extended" FontStyleNameNative="63 Medium Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 63 Medium Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 63 Medium Extended Oblique" PostScriptName="HelveticaNeue-MediumExtObl" Status="Installed" FontStyleName="63 Medium Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 63 Medium Extended Oblique" FullNameNative="Helvetica 63 Medium Extended Oblique" FontStyleNameNative="63 Medium Extended Oblique" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended" PostScriptName="HelveticaNeue-HeavyExt" Status="Installed" FontStyleName="83 Heavy Extended" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended" FullNameNative="Helvetica 83 Heavy Extended" FontStyleNameNative="83 Heavy Extended" PlatformName="$ID/" Version="001.000" />
-		<Font Self="dib4eFontnHelvetica Neue (T1) 83 Heavy Extended Oblique" FontFamily="Helvetica Neue (T1)" Name="Helvetica Neue (T1) 83 Heavy Extended Oblique" PostScriptName="HelveticaNeue-HeavyExtObl" Status="Installed" FontStyleName="83 Heavy Extended Oblique" FontType="Type1" WritingScript="0" FullName="Helvetica 83 Heavy Extended Oblique" FullNameNative="Helvetica 83 Heavy Extended Oblique" FontStyleNameNative="83 Heavy Extended Oblique" PlatformName="$ID/" Version="001.000" />
-	</FontFamily>
 	<FontFamily Self="dic28" Name="Standard-Grotesk BSK">
 		<Font Self="dic28FontnStandard-Grotesk BSK Light" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light" PostScriptName="StandardGroteskBSK-Light" Status="Installed" FontStyleName="Light" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light" FullNameNative="Standard-Grotesk Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="001.001" />
 		<Font Self="dic28FontnStandard-Grotesk BSK Light Italic" FontFamily="Standard-Grotesk BSK" Name="Standard-Grotesk BSK Light Italic" PostScriptName="StandardGroteskBSK-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="Type1" WritingScript="0" FullName="Standard-Grotesk Light Italic" FullNameNative="Standard-Grotesk Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="001.001" />
@@ -483,7 +447,13 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Joe, ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’, ChinaSmack, </Content>
+							<Content>	Joe, ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>ChinaSmack</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 							<HyperlinkTextSource Self="u13f6" Name="Hyperlink 1" Hidden="false" AppliedCharacterStyle="n">
@@ -498,15 +468,15 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u13f9" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -50">
+				<Rectangle Self="u13f9" ContentType="GraphicType" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 75 -69.43307086614178">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
 									<PathPointType Anchor="-75 -50.00000000000001" LeftDirection="-75 -50.00000000000001" RightDirection="-75 -50.00000000000001" />
 									<PathPointType Anchor="-75 69.43307086614178" LeftDirection="-75 69.43307086614178" RightDirection="-75 69.43307086614178" />
-									<PathPointType Anchor="151.7716535433071 69.43307086614178" LeftDirection="151.7716535433071 69.43307086614178" RightDirection="151.7716535433071 69.43307086614178" />
-									<PathPointType Anchor="151.7716535433071 -50.00000000000001" LeftDirection="151.7716535433071 -50.00000000000001" RightDirection="151.7716535433071 -50.00000000000001" />
+									<PathPointType Anchor="267.70866141732296 69.43307086614178" LeftDirection="267.70866141732296 69.43307086614178" RightDirection="267.70866141732296 69.43307086614178" />
+									<PathPointType Anchor="267.70866141732296 -50.00000000000001" LeftDirection="267.70866141732296 -50.00000000000001" RightDirection="267.70866141732296 -50.00000000000001" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
@@ -519,7 +489,7 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="-5.684341886080802e-14" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="-230.06250000000023" BottomCrop="-5.684341886080802e-14" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" CustomImageConversion="false" ImageConversionType="JPEG" CustomImageSizeOption="SizeRelativeToPageWidth" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
@@ -1253,9 +1223,9 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 				</Footnote>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> it is also the case that the fuzzy concept of &quot;online dating&quot; has diversified into a whole spectrum of services and practices - from traditional matchmaking intermediaries gone online to the flourishing local ecology of social networking platforms, websites and mobile applications: through which Chinese digital media users negotiate their affective needs, desires and social pressures.</Content>
+				<Content> it is also the case that the fuzzy concept of &quot;online dating&quot; has diversified into a whole spectrum of services and practices - from traditional matchmaking intermediaries gone online to the flourishing local ecology of social networking platforms, websites and mobile applications, through which Chinese digital media users negotiate their affective needs, desires and social pressures.</Content>
 				<Br />
-				<Content>These developments often make the news as bits and pieces of &apos;the latest weird online phenomenon in China&apos;. We argue that there is a rift between the isolated cries of media panics, the claims regarding the revolutionary advent of new online platforms and the actual, everyday life activities of hundreds of millions of Chinese digital media users: who reinvent and deploy these arrangements of software and more or less mobile hardware into the contingencies of their daily existence, with little regard for, and often a cynical angle on, broad sociological interpretations and media crazes. This is especially true in the prurient discursive field of online dating, which often sees commentaries on technology and media practices paired with claims regarding sexual revolutions, degradation of morals or psychological well-being of society at large.</Content>
+				<Content>These developments often make the news as bits and pieces of &apos;the latest weird online phenomenon in China&apos;. We argue that there is a rift between the isolated cries of media panics, the claims regarding the revolutionary advent of new online platforms and the actual, everyday life activities of hundreds of millions of Chinese digital media users, who reinvent and deploy these arrangements of software and more or less mobile hardware into the contingencies of their daily existence, with little regard for, and often a cynical angle on, broad sociological interpretations and media crazes. This is especially true in the prurient discursive field of online dating, which often sees commentaries on technology and media practices paired with claims regarding sexual revolutions, degradation of morals or psychological well-being of society at large.</Content>
 				<Br />
 				<Content>Our intention is to provide a focused, in-depth snapshot of the social practices deployed through a Chinese mobile dating application, presented as embedded in the context of the users&apos; everyday life. This is a small-scale reply to certain grand sweeping statements portraying Asia as one of the main actors of a global communications revolution</Content>
 			</CharacterStyleRange>
@@ -1287,7 +1257,13 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, Bristol: Intellect, 2012, p. 183.</Content>
+							<Content>	Katrien Jacobs, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>People’s Pornography: Sex and Surveillance on the Chinese Internet</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Bristol: Intellect, 2012, p. 183.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1302,7 +1278,13 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Stephanie Hemelryk Donald, ‘Introduction: Why Mobility Matters: Young People and Media Competency in the Asia-Pacific’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), Youth, Society and Mobile Media in Asia, Abingdon: Routledge, 2010, p. 7.</Content>
+							<Content>	Stephanie Hemelryk Donald, ‘Introduction: Why Mobility Matters: Young People and Media Competency in the Asia-Pacific’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Youth, Society and Mobile Media in Asia</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Abingdon: Routledge, 2010, p. 7.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1385,7 +1367,13 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Mimi Sheller &amp; John Urry, ‘The New Mobilities Paradigm’, Environment and Planning A 38.2, 2006, p. 271.</Content>
+							<Content>	Mimi Sheller &amp; John Urry, ‘The New Mobilities Paradigm’, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Environment and Planning</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> A 38.2, 2006, p. 271.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1402,7 +1390,13 @@ gcXtueUu1EHkkEbIWGzThPswuh9yQSOd9+UPDAfckK6V1+VHZgxOchPGd7I7MA3YhmcO6TxRQnOQ
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, p. 131.</Content>
+							<Content>	Katrien Jacobs, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>People’s Pornography: Sex and Surveillance on the Chinese Internet</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 131.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -4932,7 +4926,13 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Jon Pirone, Don Mayo, and Kathy Berkemeyer, Internet in an Hour: Romance &amp; Relationships, New York: DDC Publishing, 1999.</Content>
+							<Content>	Jon Pirone, Don Mayo, and Kathy Berkemeyer, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Internet in an Hour: Romance &amp; Relationships</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, New York: DDC Publishing, 1999.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5306,7 +5306,13 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Andrea Orr. Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating, p. 100.</Content>
+							<Content>	Andrea Orr. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Meeting, Mating, and Cheating: Sex, Love, and the New World of Online Dating</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 100.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5323,7 +5329,13 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Monica Whitty &amp; Adrian Carr, Cyberspace Romance: The Psychology of Online Relationships, p. 30.</Content>
+							<Content>	Monica Whitty &amp; Adrian Carr, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Cyberspace Romance: The Psychology of Online Relationships</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 30.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5346,7 +5358,13 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Anthony Synnott, &quot;Truth and Goodness, Mirrors and Masks: A Sociology of Beauty and the Face&quot;, in Ray B. Browne &amp; Pat Browne (eds.), Digging into Popular Culture: Theories and Methodologies in Archeology, Anthropology, and Other Fields, Bowling Green: Popular Press, 1991, p. 119.</Content>
+							<Content>	Anthony Synnott, &quot;Truth and Goodness, Mirrors and Masks: A Sociology of Beauty and the Face&quot;, in Ray B. Browne &amp; Pat Browne (eds.), </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Digging into Popular Culture: Theories and Methodologies in Archeology, Anthropology, and Other Fields</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Bowling Green: Popular Press, 1991, p. 119.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -5410,7 +5428,13 @@ de697917r3v3Xuve/de697917r3v3Xuve/de697917r3v3Xuve/de6//2Q==]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Pierre Bourdieu, The Bachelor’s Ball, Cambridge: Polity Press, 2008, p. 86.</Content>
+							<Content>	Pierre Bourdieu, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Bachelor’s Ball</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Cambridge: Polity Press, 2008, p. 86.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -8753,7 +8777,13 @@ uvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvdf/9k=
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Pierre Bourdieu, The Bachelor’s Ball, p. 88.</Content>
+							<Content>	Pierre Bourdieu, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Bachelor’s Ball</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 88.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -12883,7 +12913,13 @@ tfqtz9fdPP8A2n+Tqnn/ALT/ACdf/9k=]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Aaron Ben-Ze&apos;ev, Love Online: Emotions on the Internet, pp. 150-151.</Content>
+							<Content>	Aaron Ben-Ze&apos;ev, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Love Online: Emotions on the Internet</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, pp. 150-151.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -12913,7 +12949,13 @@ tfqtz9fdPP8A2n+Tqnn/ALT/ACdf/9k=]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Aaron Ben-Ze&apos;ev, Love Online: Emotions on the Internet, p. 145.</Content>
+							<Content>	Aaron Ben-Ze&apos;ev, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Love Online: Emotions on the Internet</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 145.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -12942,7 +12984,13 @@ tfqtz9fdPP8A2n+Tqnn/ALT/ACdf/9k=]]></GraphicProxy>
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Robert L. Moore, ‘Love and Limerence with Chinese Characteristics: Student Romance in the PRC’, in Victor C. Munck (ed.), Romantic Love and Sexual Behavior: Perspectives from the Social Sciences, Westport: Praeger, 1998, p. 262.</Content>
+							<Content>	Robert L. Moore, ‘Love and Limerence with Chinese Characteristics: Student Romance in the PRC’, in Victor C. Munck (ed.),</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content> Romantic Love and Sexual Behavior: Perspectives from the Social Sciences</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Westport: Praeger, 1998, p. 262.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14250,7 +14298,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Erving Goffman, Relations in Public: Micro Studies of the Public Order, New York: Harper &amp; Row, 1972, p. 19.</Content>
+							<Content>	Erving Goffman, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Relations in Public: Micro Studies of the Public Order</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, New York: Harper &amp; Row, 1972, p. 19.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14294,7 +14348,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Erving Goffman, Relations in Public: Micro Studies of the Public Order, p. 19.</Content>
+							<Content>	Erving Goffman, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Relations in Public: Micro Studies of the Public Order</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 19.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14311,7 +14371,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Howard Rheingold, The Virtual Community: Homesteading on the Electronic Frontier, Cambridge: MIT Press, 2000.</Content>
+							<Content>	Howard Rheingold, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>The Virtual Community: Homesteading on the Electronic Frontier</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Cambridge: MIT Press, 2000.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14338,7 +14404,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Jon Pirone, Don Mayo, &amp; Kathy Berkemeyer, Internet in an Hour: Romance &amp; Relationships, p. ii.</Content>
+							<Content>	Jon Pirone, Don Mayo, &amp; Kathy Berkemeyer, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Internet in an Hour: Romance &amp; Relationships</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. ii.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14374,7 +14446,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Lisa Rofel, Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture, Durham: Duke University Press, 2007.</Content>
+							<Content>	Lisa Rofel, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, Durham: Duke University Press, 2007.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14410,7 +14488,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Katrien Jacobs, People’s Pornography: Sex and Surveillance on the Chinese Internet, p. 183.</Content>
+							<Content>	Katrien Jacobs, </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>People’s Pornography: Sex and Surveillance on the Chinese Internet</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p. 183.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14511,7 +14595,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Sherry Turkle. Alone Together, p.231.</Content>
+							<Content>	Sherry Turkle. </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+							<Content>Alone Together</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content>, p.231.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -14541,7 +14631,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Reference-paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>‘Baihewang guanggao: Yinwei ai bu dengdai’, Youku, </Content>
+				<Content>‘Baihewang guanggao: Yinwei ai bu dengdai’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Youku</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u1486" Name="Hyperlink 10" Hidden="false" AppliedCharacterStyle="n">
@@ -14583,7 +14679,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Abingdon: Routledge, 2010, p. 88-107.</Content>
 				<Br />
-				<Content>CNNIC. The 32nd Statistical Report on Internet Development in China, Beijing: China Internet Network Information Center, 2013.</Content>
+				<Content>CNNIC. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>The 32nd Statistical Report on Internet Development in China</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, Beijing: China Internet Network Information Center, 2013.</Content>
 				<Br />
 				<Content>Donald, Stephanie Hemelryk. ‘Introduction: Why Mobility Matters: Young People and Media Competency in the Asia-Pacific’, in Stephanie Hemelryk Donald, Theresa Dirndorfer Anderson and Damien Spry (eds.), </Content>
 			</CharacterStyleRange>
@@ -14645,7 +14747,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, New York, NY: Routledge, 2010, p.333-351.</Content>
 				<Br />
-				<Content>Joe. ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’, China Smack (9 February 2014), </Content>
+				<Content>Joe. ‘Chinese Dating Site TV Ad Promotes Being Forced into Marriage’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>China Smack </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>(9 February 2014), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u1488" Name="Hyperlink 11" Hidden="false" AppliedCharacterStyle="n">
@@ -14655,7 +14763,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
-				<Content>Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, Shanghaiist (14 November 2013), </Content>
+				<Content>Katie Nelson. ‘Momo App, the “Magical Tool to Get Laid”, Reaches 80m Users’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Shanghaiist</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (14 November 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u1489" Name="Hyperlink 12" Hidden="false" AppliedCharacterStyle="n">
@@ -14729,7 +14843,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Durham: Duke University Press, 2007.</Content>
 				<Br />
-				<Content>Rosenman, Olivia. ‘China&apos;s Sexual Revolution: “One-night Stand” app Momo Boasts 80 Million Users’, South China Morning Post (13 November 2013), </Content>
+				<Content>Rosenman, Olivia. ‘China&apos;s Sexual Revolution: “One-night Stand” app Momo Boasts 80 Million Users’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>South China Morning Post</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (13 November 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u148b" Name="Hyperlink 13" Hidden="false" AppliedCharacterStyle="n">
@@ -14755,7 +14875,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Bowling Green: Popular Press, 1991.</Content>
 				<Br />
-				<Content>Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai Mom zuo shenme?’, Zhihu, </Content>
+				<Content>Tang, Yan. ‘Momo yonghu guo yi ruhe pingjia? Zheme duo yonghu dou zai Mom zuo shenme?’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>Zhihu</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u148d" Name="Hyperlink 14" Hidden="false" AppliedCharacterStyle="n">
@@ -14765,7 +14891,13 @@ CL+9+Efn+zr3Wf8A2aivv/x5tF9f+dzUX+v+q+yvf/H37wxwzXq2s0p0U33fqvXvfuvde9+69173
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
-				<Content>Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, New York Times (24 July 2013), </Content>
+				<Content>Tatlow, Didi Kirsten. ‘Apps Offer Chinese a Path to the Forbidden’, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Content>New York Times</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> (24 July 2013), </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
 				<HyperlinkTextSource Self="u148e" Name="Hyperlink 15" Hidden="false" AppliedCharacterStyle="n">
