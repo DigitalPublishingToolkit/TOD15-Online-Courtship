@@ -71,9 +71,9 @@ religion. Now there is love, love-arranged, arranged-love, inter-caste,
 inter-religion, court-marriage and live-in relationship. Moreover, most
 of these marriages are arranged online.
 
-This chapter addressed the following research questions: 
-1. What is the
-magnitude of modern technology against the societal traditions in India?
+This chapter addressed the following research questions:
+
+1. What is the magnitude of modern technology against the societal traditions in India?
 Especially, on these three online matrimonial sites, how do they
 penetrate in the complex social practices confrontational or
 supplementary to old traditional searching practices?
@@ -250,7 +250,7 @@ explain how online users and searchers present themselves in the cyber
 space, on the contrary, it is rather important to find how cyber space
 is constructed.[^11_Dwivedi_22]
 
-## How Matrimonial Sites Work?
+## How Matrimonial Sites Work
 
 The online matrimonial sites generally work on the selective
 dissemination of the information (SDI). An individual becomes an
@@ -291,17 +291,17 @@ seven union territories in India. Pal provides the list of such
 twenty-two web sites and their global and Indian traffic ranks,
 sites-linking and when they were founded.[^11_Dwivedi_24] The popularity of the
 top-three matrimonial sites can be observed from the data on Alexa that
-Shaadi.com’s traffic rank is No. 52 and each user spends at least 4.5
+*Shaadi.com*’s traffic rank is No. 52 and each user spends at least 4.5
 minutes on this site. While the traffic rank of Jeevansathi.com is 3,552
 but each user spends more than 8 minutes per day. Table 1 indicates the
 popularity of matrimonial sites in India as a potential partner
 searcher.
 
-The Peoples Interactive (I) Private Limited Company pioneered Shaadi.com
+The Peoples Interactive (I) Private Limited Company pioneered *Shaadi.com*
 in 1996. This website develops its brand awareness by providing a
 YouTube link of Indian best- seller *Chetan Bhagat’s* Marriage Tips for
 Anupam Mittal, CEO of the company, and also trends videos showing a
-superior matchmaking experience on Shaadi.com. It has 1.4 million likes
+superior matchmaking experience on *Shaadi.com*. It has 1.4 million likes
 on Facebook and 42.2 thousand followers on Twitter in 2014/2013/1996? It
 caters the increasing demand for matches by introducing and
 supplementing Non-Residential Indians (NRI) matrimonial to the
@@ -624,7 +624,7 @@ experiences of the respondents who had got a partner offline.
 
 ## References
 
-Alexa.com. *Alexa.com.* 2014. [http://www.alexa.com](http://www.alexa.com).
+Alexa.com. [http://www.alexa.com](http://www.alexa.com).
 
 Becker, S. Gary. "A Theory of Marrage: Part I." *Journal of Political
 Economy 81*, 1973: 813-846.
@@ -648,7 +648,7 @@ of Management Journal*, 1993: 36(5): 921–950.
 
 Jeevansathi.com. 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
 
-Magalhães, Rodrigo. *Organizational Knoledge and Technology: An
+Magalhães, Rodrigo. *Organizational Knowledge and Technology: An
 Action-Oriented Perspective on Organization and Information Systems.*
 Cheltenham: Edward Elgar Publishing Limited, 2004.
 
