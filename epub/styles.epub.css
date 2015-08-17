@@ -14,7 +14,7 @@
 
 @font-face{
     font-family: 'OpenSans-Light';
-    font-weight: lighter;
+    font-weight: 300;
     font-style: normal;
     src:url('OpenSans-Light.otf')format("opentype");
 }
@@ -22,7 +22,7 @@
 
 @font-face{
     font-family: 'OpenSans-LightItalic';
-    font-weight: lighter;
+    font-weight: 300;
     font-style: italic;
     src:url('OpenSans-LightItalic.otf')format("opentype");
 }
