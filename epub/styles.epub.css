@@ -77,7 +77,13 @@ h1{
 h2{
     font-size: 1.2em;
     text-transform:capitalize;
-    margin-top: 2em;
+    margin-top: 1.2em;
+}
+
+h3{
+    font-size: 1.0em;
+    text-transform:capitalize;
+    margin-top: 1em;
 }
 
 
@@ -133,7 +139,7 @@ font-size: 0.5em;
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px grey solid;
+    border-left: 1px #932C65 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
@@ -237,11 +243,11 @@ section.footnotes li a {
 }
 
 table {
-    border: 1px ##932C65 solid;
+    border: 1px #932C65 solid;
     border-collapse: collapse;
     width:99%;
     vertical-align: top;
-    font-size: 0.5em;
+    font-size: 0.8em;
     page-break-inside: avoid;
 }
 
