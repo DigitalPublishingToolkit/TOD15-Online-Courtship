@@ -79,39 +79,39 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 # Contents
 
-Introduction<br/>
+<a href="ch004.xhtml">Introduction</a><br/>
 
-The Pre-History of Print and Online Dating, c. 1690-1990<br/>
+<a href="ch005.xhtml">The Pre-History of Print and Online Dating, c. 1690-1990</a><br/>
 
-Old and New Methods for Online Research: The Case of Online Dating<br/>
+<a href="ch006.xhtml">Old and New Methods for Online Research: The Case of Online Dating</a><br/>
 
-Dating Maps: Mapping Love in Online Dating Communities<br/>
+<a href="ch007.xhtml">Dating Maps: Mapping Love in Online Dating Communities</a><br/>
 
-The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook<br/>
+<a href="ch008.xhtml">The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook</a><br/>
 
-'Dating' or 'Escaping'? Cuban Profiles in Dating Websites<br/>
+<a href="ch009.xhtml">'Dating' or 'Escaping'? Cuban Profiles in Dating Websites</a><br/>
 
-Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?<br/>
+<a href="ch010.xhtml">Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?</a><br/>
 
-Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age<br/>
+<a href="ch011.xhtml">Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age</a><br/>
 
-The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai's Targeting and Advertising<br/>
+<a href="ch012.xhtml">The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai's Targeting and Advertising</a><br/>
 
-Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diasora in America<br/>
+<a href="ch013.xhtml">Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diasora in America</a><br/>
 
-From Arranged to Online: A Study of Courtship Culture in India<br/>
+<a href="ch014.xhtml">From Arranged to Online: A Study of Courtship Culture in India</a><br/>
 
-The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel<br/>
+<a href="ch015.xhtml">The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel</a><br/>
 
-Stranger Stranger or Lonley Lonely? Young Chinese and Dating Apps Between the Locational, the Mobile and the Social<br/>
+<a href="ch016.xhtml">Stranger Stranger or Lonley Lonely? Young Chinese and Dating Apps Between the Locational, the Mobile and the Social</a><br/>
 
-What are the *Shengv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women's Personal Profiles on Jiayuan.com<br/>
+<a href="ch017.xhtml">What are the *Shengv* Looking for in Online Heterosexual Dating and Courtship? A Content Analysis of Shanghainese Women's Personal Profiles on Jiayuan.com</a><br/>
 
-Keeping it Unreal - Online Dating with Chinese Characteristics<br/>
+<a href="ch018.xhtml">Keeping it Unreal - Online Dating with Chinese Characteristics</a><br/>
 
-Talking to Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels<br/>
+<a href="ch019.xhtml">Talking to Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels</a><br/>
 
-Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites<br/>
+<a href="ch020.xhtml">Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites</a><br/>
 
-Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium<br/>
+<a href="ch021.xhtml">Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium</a><br/>
 <br/>
