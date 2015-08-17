@@ -301,7 +301,7 @@ does not merely consist of passively responding to the demands of the
 audience to perform sexual acts, but largely, and more profoundly, and
 sometimes counterintuitively, sustained by talking with them, engaging
 with them communicatively. At various intensities, interaction ranges
-from passive communication (such as "hey joe, you are here again?") to
+from pathic communication (such as "hey joe, you are here again?") to
 in-depth, intimate personal conversations that do not necessarily
 revolve around sexual topics.
 

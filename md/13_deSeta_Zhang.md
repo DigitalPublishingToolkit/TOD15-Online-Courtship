@@ -94,14 +94,14 @@ is also the case that the fuzzy concept of "online dating" has
 diversified into a whole spectrum of services and practices - from
 traditional matchmaking intermediaries gone online to the flourishing
 local ecology of social networking platforms, websites and mobile
-applications: through which Chinese digital media users negotiate their
+applications, through which Chinese digital media users negotiate their
 affective needs, desires and social pressures.
 
 These developments often make the news as bits and pieces of 'the latest
 weird online phenomenon in China'. We argue that there is a rift between
 the isolated cries of media panics, the claims regarding the
 revolutionary advent of new online platforms and the actual, everyday
-life activities of hundreds of millions of Chinese digital media users:
+life activities of hundreds of millions of Chinese digital media users,
 who reinvent and deploy these arrangements of software and more or less
 mobile hardware into the contingencies of their daily existence, with
 little regard for, and often a cynical angle on, broad sociological
