@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # 'Dating' or 'Escaping'? Cuban Profiles in Dating Websites
 
-### Lázaro M. Bacallao Pino
+### LÁZARO M. BACALLAO PINO
 
 ## Introduction
 

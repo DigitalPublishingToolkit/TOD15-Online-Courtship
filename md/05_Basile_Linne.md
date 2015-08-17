@@ -19,9 +19,10 @@ Keywords: online dating, social media, Institute of Network Cultures, print on d
 Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 ...
 
-# The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their Couples through Facebook
+# The Virtual Nightclub: Adolescents from Low-Income Sectors Search for Their 
+Couples through Facebook
 
-### Diego Basile and Joaquín Linne
+### DIEGO BASILE AND JOAQUÍN LINNE
 
 ## Introduction
 

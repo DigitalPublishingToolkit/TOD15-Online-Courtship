@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Old and New Methods for Online Research: The Case of Online Dating
 
-### Murat Akser
+### MURAT AKSER
 
 The proverbial opening of the 2004 film *Closer* shows us a passionate
 online chat message exchange between two people. Believing to be

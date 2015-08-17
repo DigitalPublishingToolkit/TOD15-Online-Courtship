@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Talking To Strangers: Temporality, Identity and Politics in Live Webcam Sex Channels
 
-### Aras Ozgun
+### ARAS OZGUN
 
 Immediacy has been a constitutive characteristic of electronic and
 online communications from the very beginning. E-mail, instant
@@ -85,7 +85,7 @@ of such realness, in which feminine desire falls into confrontation with
 patriarchal moralism, which leads to a productive crisis that makes
 enjoyment impossible.
 
-## "I See, Therefore I Am": The Ontology of Televisuality
+## 'I See, Therefore I Am': The Ontology of Televisuality
 
 The ontology of the webcam is that of television on a minor scale; it
 possesses the same 'live-ness' and 'immediacy.' 'Live-ness' of the
@@ -467,7 +467,7 @@ the webcam is closely related with this two-fold transgression that
 stems from indiscernibility, which becomes the definitive characteristic
 of the webcam image.
 
-## Fear and Loathing on Live Webcam Sex: The "Turkish" Case
+## Fear and Loathing on Live Webcam Sex: The 'Turkish' Case
 
 The suspension of physical distances leads to a truly international
 audience in live webcam sex channels. Yet this international audience is
@@ -713,7 +713,7 @@ Robinson, Harper and Row Publishers, 1962.
 
 Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male, 47
 Percent American, And 13 Percent Perverts". TechCrunch,
-*http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/*
+[http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/](http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/)
 
 [^16_Ozgun-Talking_1]: RSS stands for 'Rich Site Summary', and refers to the automatic
     syndication of data between publishers, which also enables the users

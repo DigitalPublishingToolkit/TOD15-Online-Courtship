@@ -21,14 +21,14 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Self-presentation in the Portuguese Online Dating Scene: Does Gender Matter?
 
-### Cláudia Casimiro
+### CLÁUDIA CASIMIRO
 
->*Man is least himself when he talks in his own person.<br>
+>*Man is least himself when he talks in his own person.
 >Give him a mask, and he will tell you the truth.*
 
-Oscar Wilde
+>Oscar Wilde
 
-##Introduction
+## Introduction
 
 Two decades ago, *Time* magazine, in an issue entitled 'The strange new
 world of the Internet', pointed out why the Internet would never go
@@ -87,7 +87,7 @@ portraits and images uploaded reveal? The paper concludes with the idea
 of the persistence versus change of gender stereotypes and lastly
 presents considerations for a future research agenda.
 
-##Cupid Lurking Online
+## Cupid Lurking Online
 
 Millions of people across the globe know, by personal experience,
 something that the literature confirms: the Internet is a valid mean of
@@ -140,7 +140,7 @@ recent article from Forbes Magazine:
 > What they want is an easier and faster way to meet them IRL - in real
 > life. "The big thing now is offline"[^7_Casimiro_16]
 
-##Possible selves: managing online presentations
+## Possible Selves: Managing Online Presentations
 
 Over the years, personal presentations on the Internet have been
 changing significantly. In its early days, the Internet was seen as a
@@ -189,7 +189,7 @@ element of one's self-knowledge.
 > function well in the modern world, and as a corollary through online
 > spheres that cater for these narrative constructions of self.[^7_Casimiro_24]
 
-##Social Representations of Gender and Stereotypes
+## Social Representations of Gender and Stereotypes
 
 Social representations can be understood as a way of interpreting and
 thinking about everyday reality, a form of social knowledge that, in
@@ -299,7 +299,7 @@ Tradition and modernity coexist. To state it in a simplified way, in
 this matter of gender, change does not occur as it is expected, change,
 as Bourdieu explains, occurs in the permanence.
 
-##Gender Differences in Dating Advertisements
+## Gender Differences in Dating Advertisements
 
 Online or offline, it is important to remember that all subjects
 construct their identity and try to convey a certain image of
@@ -334,7 +334,7 @@ concerns with the theoretical interpretation of continuity and social
 and cultural change (innovation and tradition) in what gender roles are
 concerned in the Portuguese context.
 
-##Self-presentation on the Internet: the Portuguese Case
+## Self-Presentation on the Internet: the Portuguese Case
 
 In Portugal, printed dating ads have been studied, namely from a major
 daily Portuguese newspaper,[^7_Casimiro_38] but online dating is severely lacking
@@ -368,7 +368,7 @@ studies, the review of the literature reveals no research so far on the
 potential of the Internet, particularly of dating sites, to foster
 romantic relationships.
 
-##Falling in Line with Traditional Gender Representations?
+## Falling in Line with Traditional Gender Representations?
 
 Prior international studies have documented that dating sites are
 important venues to find romantic partners, and that female and male
@@ -469,7 +469,7 @@ formal wear, casual wear, etc.) were also taken into account. A close
 reading of the images, in-depth scrutiny and "treating the visual as
 problematic"[^7_Casimiro_55] was the next step.
 
-##Are Men from Mars and Women from Venus?
+## Are Men from Mars and Women from Venus?
 
 The idea that men and women belong to "distinct planets" and that the
 differences between them are a consequence of inner psychological
@@ -511,7 +511,7 @@ physical attributes; socioeconomic capital; life styles and preferred
 activities; psychological, relational and behavioral traits; and,
 finally, age preferences of the potencial partner.
 
-##Physical Attributes
+## Physical Attributes
 
 Comparing to men, women fill out more the physical traits of the
 closed-ended questionnaire that characterizes users. By physical traits,
@@ -539,7 +539,7 @@ bound the women's desires, but brought to the spotlight the female body
 in advertising and on the media in general"[^7_Casimiro_58], thus contributing for
 the reproduction of the female stereotype as a sex symbol.
 
-##Socioeconomic Capital
+## Socioeconomic Capital
 
 The most salient result that emerges when analyzing the data relating
 the socioeconomic capital of the individuals that compose the sample of
@@ -562,7 +562,7 @@ least, as an ideal model, particularly if we take into account that the
 distribution of male users that indicate this bit of information goes
 from men with 26 years old to men with 56 years old.
 
-##Life Styles and Preferred Activities
+## Life Styles and Preferred Activities
 
 This is perhaps the aspect, of all those who are referred by users, in
 which gender does not seem to influence the responses. It is relatively
@@ -578,7 +578,7 @@ they are part of the scenario of how male and female online daters
 present themselves to others on the context of finding romantic partners
 in the Internet. We shall see it in the next point to be discussed.
 
-##Psychological, Relational and Behavioral Traits
+## Psychological, Relational and Behavioral Traits
 
 The personality traits of male and female users, gathered from their
 written self-presentation messages and from the
@@ -589,7 +589,6 @@ demonstrate that women gender role stereotypes are the ones extensively
 more (re)produced by female online daters (see Figure 1.).
 
 ![Figure 1](imgs/c-casimiro-images/C_Casimiro_image1_Female_Stereotypes.tif)
-
 Figure 1. Female stereotypes
 
 As Figure 1 show, it is quite significant the number of women choosing
@@ -603,8 +602,7 @@ adventurous, active, hard-worker, independent, self-confident and, above
 all, courteous (see Figure 2).
 
 ![Figure 2](imgs/c-casimiro-images/C_Casimiro_image2_Male_Stereotypes.tif)
-
-**Figure 2. Male stereotypes**
+Figure 2. Male stereotypes
 
 > The traditional courtesies that have served to differentiate gentlemen
 > from ladies, such as men opening doors for women (…), may also serve
@@ -663,7 +661,7 @@ successful and ambitious. Curiously, these female online advertisements
 produce higher response rates comparing to those where women describe
 themselves as lovely, very attractive and slim.[^7_Casimiro_62]
 
-##Age Preferences of the Potential Partner
+## Age Preferences of the Potential Partner
 
 Love without social constraint is a myth. The Sociology of the family,
 have shown, for decades, that couples tend to be homogamous, "that is,
@@ -692,12 +690,10 @@ men and, in most cases, the man is two to five years older than the
 woman.[^7_Casimiro_65]
 
 ![Figure 3](imgs/c-casimiro-images/C_Casimiro_image3_Age_of_the_partner_MEN.tiff)
-
-**Figure 3. Distribution of the preferred age of the partner - Men**
+Figure 3. Distribution of the preferred age of the partner - Men
 
 ![Figure 4](imgs/c-casimiro-images/C_Casimiro_image4_Age_of_the_partner_WOMEN.tif)
-
-**Figure 4. Distribution of the preferred age of the partner - Women**
+Figure 4. Distribution of the preferred age of the partner - Women
 
 Over the decades, in Western countries, including Portugal, the age
 difference between marriage partners has been decreasing. Among older
@@ -716,7 +712,7 @@ preferences are not random: gender does in fact matter. As they age, men
 prefer younger women, whereas women's partners' preferred age becomes
 more diverse.
 
-##And What about the Portraits?
+## And What about the Portraits?
 
 The literature on online dating reveals that posting pictures increases
 several times more the chances of matching. Meetic.pt encourages users

@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # The Pre-History of Print and Online Dating, c. 1690-1990
 
-### H.G. Cocks
+### H.G. COCKS
 
 It is often argued that the rise of online dating reflects the
 increasing dominance of economic liberalism in western societies. This
@@ -575,29 +575,29 @@ emerged, one that has since come to dominate digital technologies.
 
 ‘Lonely Soldier Correspondence’, National Archives UK, Kew, HO 139/32.
 
-Berry, Helen. Gender, Society and Print Culture in Late-Stuart England:
-The World of the Athenian Mercury, Aldershot, Scholar Press, 2003.
+Berry, Helen. *Gender, Society and Print Culture in Late-Stuart England:
+The World of the Athenian Mercury*, Aldershot: Scholar Press, 2003.
 
 Booth, William, In Darkest England and the Way out, London, Salvation
 Army 1890.
 
-Curtis, J., An Authentic and Faithful History of the Mysterious Murder
-of Maria Marten, London, Thomas Kelly, 1828.
+Curtis, J., *An Authentic and Faithful History of the Mysterious Murder
+of Maria Marten*, London: Thomas Kelly, 1828.
 
 Fuhrer, Karl-Christian, “Contradicting Nazi Propaganda: Classified
 Advertisements as Documents of Jewish Life in Nazi Germany, 1933-1938”,
-Media History 18, 1 (February 2012): 65-76.
+*Media History* 18, 1 (February 2012): 65-76.
 
-Gillis, John, For Better, for Worse: British Marriages, 1600 to the
-Present, Oxford, Oxford University Press, 1985.
+Gillis, John, *For Better, for Worse: British Marriages, 1600 to the
+Present*, Oxford: Oxford University Press, 1985.
 
-Goody, Jack. The European Family: A Historico-Anthroplogical Essay,
-Oxford, Blackwell, 2000.
+Goody, Jack. *The European Family: A Historico-Anthroplogical Essay*,
+Oxford: Blackwell, 2000.
 
 *Jeffrey* no. 1 and no. 2 (1973), p. 22.
 
-Macfarlane, Alan. Marriage and Love in England, Modes of Reproduction
-1300-1840, Oxford, Blackwell, 1986.
+Macfarlane, Alan. *Marriage and Love in England, Modes of Reproduction
+1300-1840*, Oxford: Blackwell, 1986.
 
 (Matrimonial Adlets), *The Sun*, 31 July 1893, p. 4.
 
@@ -605,25 +605,24 @@ Matrimonial Advertisements, Private Collection, 1740-1859, British
 Library.
 
 McLaren, Angus. The *Trials of Masculinity: Policing Sexual Boundaries
-1870-1930*, Chicago, University of Chicago Press, 1997.
+1870-1930*, Chicago: University of Chicago Press, 1997.
 
-O’Hara, Diana, Courtship and Constraint: Rethinking the Making of
-Marriage in Tudor England, Manchester, Manchester University Press,
+O’Hara, Diana, *Courtship and Constraint: Rethinking the Making of
+Marriage in Tudor England*, Manchester: Manchester University Press,
 2000.
 
-Quilter, Harry. (ed.) Is Marriage a Failure?, London, Swan Sonnenschein,
-1888,
+Quilter, Harry (ed.) *Is Marriage a Failure?*, London: Swan Sonnenschein & Co.,
+1888.
 
-Stone, Lawrence. The Family, Sex and Marriage in England 1500-1800,
-London, 1977.
+Stone, Lawrence. *The Family, Sex and Marriage in England 1500-1800*, London: Weidenfeld & Nicolson, 1977.
 
 (The Alleged Matrimonial Frauds), *(London) Times*, 3 December 1895, p. 12; ‘Police’, Times, 1 January 1896, p. 14; Times,3, 18, 24 December 1895, 12; 8, 29, January; 29 February; 2 March 1896.
 
-(The Answer to the Marriage Muddle), Sunday Pictorial, 18 April 1948, p. 4.
+(The Answer to the Marriage Muddle), *Sunday Pictorial*, 18 April 1948, p. 4.
 
 (Who Will Marry Phyllis Monkman, A Chance for Single Men), *Pearson’s Weekly*, 8 July 1916, p. 67.
 
-Wrigley, E. A., and R. S. Schofield. The Population 1541-1871, London,
+Wrigley, E. A., and R. S. Schofield. *The Population* 1541-1871, London:
 Edward Arnold, 1981.
 
 
@@ -667,9 +666,9 @@ Edward Arnold, 1981.
 [^2_Cocks_Pre-History_11]: Curtis, *An Authentic and Faithful History of the Mysterious
     Murder of Maria Marten*, 400.
 
-[^2_Cocks_Pre-History_12]: On the German press see Karl-Christian Fuhrer, *Contradicting
+[^2_Cocks_Pre-History_12]: On the German press see Karl-Christian Fuhrer, Contradicting
     Nazi Propaganda: Classified Advertisements as Documents of Jewish
-    Life in Nazi Germany, 1933-1938*, Media History 18:1 (February
+    Life in Nazi Germany, 1933-1938, *Media History* 18:1 (February
     2012): 65-76.
 
 [^2_Cocks_Pre-History_13]: Twenty-two different papers are listed in the British Library

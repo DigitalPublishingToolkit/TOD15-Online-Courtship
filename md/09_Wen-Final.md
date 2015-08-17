@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # The Advertising and Profit Model of Leading Dating Sites in China: A Comparison of Jianyuan, Baihe and Zhenai’s Targeting and Advertising
 
-### Caiyun Wen
+### CAIYUN WEN
 
 ## The Prosperity and Bottlenecks of the Online Dating Market in China
 

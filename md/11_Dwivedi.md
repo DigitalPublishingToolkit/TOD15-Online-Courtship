@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # From Arranged to Online: A Study of Courtship Culture in India
 
-### Amitabh Vikram Dwivedi
+### AMITABH VIKRAM DWIVEDI
 
 ## Introduction
 
@@ -184,6 +184,7 @@ divorced, single, widowed, awaiting divorce, and annulled.
 
 
 ![Figure 1](imgs/Dwivedi-marriagetypes-01.jpg)
+
 Figure 1 Online partner searchers
 
 The online matrimonial sites work as a bridge in their search to place
@@ -220,12 +221,10 @@ supply (D & C) model and optimal sorting models make an analogy between
 marriages and firms. Since then D & C has been applied to the study of
 dating, extra-marital affairs, and marriages. Bellou compares “the
 market for romantic partners” with “the labor market”, and further
-claims that both functions in a similar way.[^11_Dwivedi_17] Her study shows that
-broadband diffusion has a measurable impact on the online search
+claims that both functions in a similar way.[^11_Dwivedi_17] Her study shows that broadband diffusion has a measurable impact on the online search
 process.
 
-Information Systems and Information Technology[^11_Dwivedi_18] (IS/IT) have been
-fused in our day- to-day life and the expectations, promises, myths and
+Information Systems and Information Technology[^11_Dwivedi_18]  (IS/IT) have been fused in our day- to-day life and the expectations, promises, myths and
 consequences birthed from this adopted wave have presented challenges to
 the people, society and organization.[^11_Dwivedi_19] What the professional
 matrimonial sites are doing today is a transformed version of match
@@ -344,6 +343,7 @@ penetrates in the complex social structures.
 
 
 ![Figure 2](imgs/Dwivedi-matrimonysite-table-02.jpg)
+
 Table 1 Popularity of Matrimonial Sites in India[^11_Dwivedi_28]
 
 ## Methodology
@@ -418,21 +418,24 @@ provide better conduits to the users for disseminating information. Its
 updating option never allows the information shared by the users to
 become obsolete. The searchers can get more detailed information about
 the prospective partner.
-
-*I got his request, saw the profile… Our families met and by the
+<blockquote>
+I got his request, saw the profile… Our families met and by the
 end of our third meeting we did *roka*[^11_Dwivedi_32]… on 27th feb 2014.
-Very happy to have found him.*
+Very happy to have found him.
+</blockquote>
 
 Another profile says:
-
-*… … … Then the *family interacted to each other* to materialize things
-and plan for the final day. In less than 2 months we got married.*
+<blockquote>
+… … … Then the family interacted to each other to materialize things
+and plan for the final day. In less than 2 months we got married.
+</blockquote>
 
 And the other says:
-
-*At the first meeting itself we knew there was no looking around anymore
+<blockquote>
+At the first meeting itself we knew there was no looking around anymore
 and decided to talk to our parents … … … even our *kundali's
-**(horoscope) *matched.*
+**(horoscope) matched.
+</blockquote>
 
 Even with the online technology the customs and traditions remain
 intact. Though the online matrimonial sites have transformed the
@@ -460,19 +463,20 @@ that I have opened an account for myself… … … men will consider me
 ‘Chaalu’ (indecent)”* - replied a woman respondent.
 
 A profile said:
-
-*I am searching a partner for *my friend* Shruti… … …she is charming and
-well-educated.*
-
+<blockquote>
+I am searching a partner for *my friend* Shruti… … …she is charming and
+well-educated.
+</blockquote>
 And:
+<blockquote>
+My daughter Rama is a software Engineer. She is 27, and she works for
+an MNC.</blockquote>
 
-**My daughter Rama is a software Engineer. She is 27, and she works for
-an MNC.**
-
-One woman stated in her desired partner profile: “*Govt Job IAS IES IFS
-IRS PCS ALL India”*[^11_Dwivedi_34] and another wanted “*preferably an NRI or from
+One woman stated in her desired partner profile: 
+<blockquote>“Govt Job IAS IES IFS
+IRS PCS ALL India”[^11_Dwivedi_34] and another wanted “preferably an NRI or from
 All India Services - IAS/ IPS / Indian Foreign Service. UP MP Rajasthan
-in India.”*
+in India.”</blockquote>
 
 Perceptions are changing in the Indian patriarchal society. Earlier
 annulled, divorced, awaiting divorce, widowed, and single middle-aged
@@ -598,7 +602,7 @@ Ties (Caste and Religion) | Rigid | Flexible
 Chances of understanding each other before marriage | Less | More
 Participation | Less | More
 
-**Table 2** Comparing offline generation to online generation in partner
+Table 2 Comparing offline generation to online generation in partner
 search
 
 ## Limitations
@@ -620,7 +624,7 @@ experiences of the respondents who had got a partner offline.
 
 ## References
 
-Alexa.com. *Alexa.com.* 2014. www.alexa.com.
+Alexa.com. *Alexa.com.* 2014. [http://www.alexa.com](http://www.alexa.com).
 
 Becker, S. Gary. "A Theory of Marrage: Part I." *Journal of Political
 Economy 81*, 1973: 813-846.
@@ -631,10 +635,10 @@ No. 7316).* Bonn: The Institute for the Study of Labor (IZA), March
 2013.
 
 Bharat Matrimony. *Bharat Matrimony.* 2014.
-http://www.bharatmatrimony.com/.
+[http://www.bharatmatrimony.com/](http://www.bharatmatrimony.com/).
 
 Economic and Political Weekly. "Search." Accessed February 25, 2014.
-http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation.
+[http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation](http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation).
 
 Fife, Wayne. *Doing Fieldwork: Ethnographic Methods forResearch in
 Developing Countries and Beyond.* New York: Palgrave Macmillan , 2005.
@@ -642,7 +646,7 @@ Developing Countries and Beyond.* New York: Palgrave Macmillan , 2005.
 Fulk, J. " Social construction of communication technology ." *Academy
 of Management Journal*, 1993: 36(5): 921–950.
 
-Jeevansathi.com. *Jeevansathi.com.* 2014. www.jeevansathi.com.
+Jeevansathi.com. 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
 
 Magalhães, Rodrigo. *Organizational Knoledge and Technology: An
 Action-Oriented Perspective on Organization and Information Systems.*
@@ -668,7 +672,7 @@ Rinehart, Robin. "Hearing and Remembering: Oral and Written Texts in
 Hinduism." In *Contemporary Hinduism: Ritual, Culture, and Practice*, by
 Robin Rinehart, 92. California: ABC-CLIO, Inc., 2004.
 
-Shaadi.com. 2014, www.shaddi.com.
+Shaadi.com. 2014, [www.shaddi.com](http://www.shaddi.com).
 
 Trust Advisory. 'All India Brand Trust Ranking. (Top 1200 Brands)'*,*
 2014, http://www.trustadvisory.info/allindia\_2014.html.
@@ -681,11 +685,11 @@ Whitty, Monica T. "Revealing the ‘Real’ Me, Searching for the ‘Actual’
 You: Presentations of Self on an Internet Dating Site", Computers in
 Human Behavior, 2007: 1-17.
 
-[^11_Dwivedi_1]: Shaadi.com, 2014, www.shaddi.com.
+[^11_Dwivedi_1]: Shaadi.com, 2014, [www.shaddi.com](http://www.shaddi.com).
 
-[^11_Dwivedi_2]: BharatMatrimony.com, 2014, www.bharatmatrimony.com.
+[^11_Dwivedi_2]: BharatMatrimony.com, 2014, [www.bharatmatrimony.com](http://www.bharatmatrimony.com).
 
-[^11_Dwivedi_3]: Jeevansathi.com, 2014, www.jeevansathi.com.
+[^11_Dwivedi_3]: Jeevansathi.com, 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
 
 [^11_Dwivedi_4]: Mary McGee, ‘Samskåra’, in Sushil Mittal and Gene Thursby (eds)
     The Hindu World, New York: Routledge, 2005, pp. 332-356.
@@ -706,11 +710,9 @@ Human Behavior, 2007: 1-17.
     Culture, and Practice, Which city, California: ABC-CLIO, Inc., 2004,
     p. 92.
 
-[^11_Dwivedi_9]: Economic and Political Weekly, ‘Search’, 2014,
-    http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation.
+[^11_Dwivedi_9]: Economic and Political Weekly, ‘Search’, 2014,[http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation](http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation).
 
-[^11_Dwivedi_10]: Translated by the author. Donating daughter, a ritual popular in
-    Hindu marriages.
+[^11_Dwivedi_10]: Translated by the author. Donating daughter, a ritual popular in Hindu marriages.
 
 [^11_Dwivedi_11]: While acquaintances and friendship between prospective partners
     develop after marriage, this generalization is based on the replies
@@ -722,17 +724,17 @@ Human Behavior, 2007: 1-17.
     Services in India’, International Journal of Library and Information
     Science May (2010): 55-64.
 
-[^11_Dwivedi_14]: Lyndsey Wagner, Disharmony and Matchless: Interpersonal Deception
-    Theory in Online Dating*.* MA Thesis, Lynchburg: School of
+[^11_Dwivedi_14]: Lyndsey Wagner, *Disharmony and Matchless: Interpersonal Deception
+    Theory in Online Dating*. MA Thesis, Lynchburg: School of
     Communication Studies, Liberty University, 2011.
 
 [^11_Dwivedi_15]: Andriana Bellou, ‘The Impact of Internet Diffusion on Marriage
-    Rates: Evidence from the Broadband Market’, in Discussion Paper
-    Series (IZA DP No. 7316)*,* Bonn: The Institute for the Study of
+    Rates: Evidence from the Broadband Market’, in *Discussion Paper
+    Series (IZA DP No. 7316)*, Bonn: The Institute for the Study of
     Labor (IZA), March 2013, pp. 1-6.
 
-[^11_Dwivedi_16]: S. Gary Becker, ‘A Theory of Marrage: Part I’, Journal of
-    Political Economy 81 (1973): 813-846.
+[^11_Dwivedi_16]: S. Gary Becker, ‘A Theory of Marrage: Part I’, *Journal of
+    Political Economy* 81 (1973): 813-846.
 
 [^11_Dwivedi_17]: Andriana Bellou, ‘The Impact of Internet Diffusion on Marriage
     Rates: Evidence from the Broadband Market’.
@@ -740,15 +742,13 @@ Human Behavior, 2007: 1-17.
 [^11_Dwivedi_18]: An information system is a social system which has embedded in it
     information technology (see Land, 1985: 215).
 
-[^11_Dwivedi_19]: Rodrigo Magalhães, Organizational Knoledge and Technology: An
-    Action-Oriented Perspective on Organization and Information Systems,
+[^11_Dwivedi_19]: Rodrigo Magalhães, *Organizational Knowledge and Technology: An Action-Oriented Perspective on Organization and Information Systems*,
     Cheltenham: Edward Elgar Publishing Limited, 2004.
 
 [^11_Dwivedi_20]: Janet Fulk, ‘Social Construction of Communication Technology’,
-    Academy of Management Journal 36.5 (1993): 921–950.
+    *Academy of Management Journal* 36.5 (1993): 921–950.
 
-[^11_Dwivedi_21]: Lyndsey Wagner, Disharmony and Matchless: Interpersonal Deception
-    Theory in Online Dating.
+[^11_Dwivedi_21]: Lyndsey Wagner, Disharmony and Matchless: Interpersonal Deception Theory in Online Dating.
 
 [^11_Dwivedi_22]: Monica T. Whitty, "Revealing the ‘Real’ Me, Searching for the
     ‘Actual’ You: Presentations of Self on an Internet Dating Site",
@@ -768,9 +768,9 @@ Human Behavior, 2007: 1-17.
 [^11_Dwivedi_26]: Bharat Matrimony, 2014.
 
 [^11_Dwivedi_27]: Trust Advisory, ‘All India Brand Trust Ranking (Top 1200
-    Brands)’, 2014, http://www.trustadvisory.info/allindia\_2014.html.
+    Brands)’, 2014, [http://www.trustadvisory.info/allindia\_2014.html](http://www.trustadvisory.info/allindia\_2014.html).
 
-[^11_Dwivedi_28]: Alexa.com, 3 June 2014, www.alexa.com.
+[^11_Dwivedi_28]: Alexa.com, 3 June 2014, [www.alexa.com](http://www.alexa.com).
 
 [^11_Dwivedi_29]: I would like to thank Gargi for telephonically contacted people
     for the data. My special thanks go to Mr. Ganga Swarup and Ms. Uma
@@ -798,8 +798,7 @@ Human Behavior, 2007: 1-17.
 [^11_Dwivedi_35]: The author categorizes the abusers based on the negative feedback
     provided by few respondents.
 
-[^11_Dwivedi_36]: Two respondents narrated interesting incidences with maniacs. In
-    the first case, the father of the prospective groom was chatting
+[^11_Dwivedi_36]: Two respondents narrated interesting incidences with maniacs. In the first case, the father of the prospective groom was chatting
     with the girl, only realized it might be … when she persisted in
     meeting face-to-face. In the second situation, a male acquaintance
     reported that the already married elder sister of the prospective

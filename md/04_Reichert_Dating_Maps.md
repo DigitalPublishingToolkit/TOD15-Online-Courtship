@@ -21,9 +21,9 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Dating Maps: Mapping Love in Online Dating Communities
 
-### Ramón Reichert
+###  RAMÓN REICHERT
 
-##Introduction
+## Introduction
 
 The development of the web into a living web, where a multitude of users
 create their own content, led to consumers becoming the producers. With
@@ -584,17 +584,17 @@ Foucault, Michel. *Dits et écrits IV*, Paris: Gallimard, 1994.
 Gartner, Georg. ‘Internet Cartography and Web Mapping’. *International
 Handbook Military Geography* 41.7 (2006): 416-432.
 
-Heer, Jeffrey and boyd, danah. ‘Vizster: Visualizing Online Social
-Networks’, IEEE Symposium on Information Visualization. Minneapolis,
+Heer, Jeffrey and boyd, danah. *‘Vizster: Visualizing Online Social
+Networks’*, IEEE Symposium on Information Visualization. Minneapolis,
 Minnesota, October 23-25, 2005.
 
 Henry, Nathalie and Fekete, Jean-Daniel. ‘Visualization and Computer
-Graphics’, IEEE Transactions 12.5 (2006): 677-684.
+Graphics’, *IEEE Transactions* 12.5 (2006): 677-684.
 
 Nomata, Yuya and Hoshino, Junichi. ‘Social Landscapes: Visual Interface
 to Improve Awareness in Human Relationships on Social Networking Sites’.
-ICEC, Volume 4161, Lecture Notes in Computer Science. Ed. Richard
-Harper, Matthias Rauterberg, Marco Combetto, New York, Springer, 2006.
+*ICEC*, Volume 4161, Lecture Notes in Computer Science. Ed. Richard
+Harper, Matthias Rauterberg, Marco Combetto, New York: Springer, 2006.
 
 Reichert, Ramón. *Amateure im Netz. Selbstmanagement und Wissenstechnik
 im Web 2.0*, Bielefeld: transcript, 2008.
@@ -619,8 +619,7 @@ Wolfgang, Ernst. Jenseits des Archivs: Bit Mapping. 2007. Web 15 April
     Accountability, Ethics and the Academy*, London: Routledge, 2000, p.
     15f.
 
-[^4_Reichert_Dating_Maps_4]: Martin Dodge and Rob Kitchin, *Mapping Cyberspace*, London:
-    Routledge, 2000, p. 22.
+[^4_Reichert_Dating_Maps_4]: Martin Dodge and Rob Kitchin, *Mapping Cyberspace*, London: Routledge, 2000, p. 22.
 
 [^4_Reichert_Dating_Maps_5]: Georg Gartner, ‘Internet Cartography and Web Mapping’,
     *International Handbook Military Geography* 41.7 (2006): 416-432.

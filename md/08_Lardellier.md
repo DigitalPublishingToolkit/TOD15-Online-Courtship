@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Liberalism Conquering Love: Reports and Reflections on Mass Romantic and Sexual Consumption in the Internet Age
 
-### Pascal Lardellier
+### PASCAL LARDELLIER
 
 ## Introduction
 

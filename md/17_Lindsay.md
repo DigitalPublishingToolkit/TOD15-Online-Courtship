@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Performative Acts of Gender in Online Dating: An Auto-ethnography Comparing Sites
 
-### Megan Lindsay
+### MEGAN LINDSAY
 
 ## Introduction
 
@@ -94,7 +94,7 @@ looking for a partner, emphasized romance and waiting for the right
 person to be physically intimate with.[^17_Lindsay_11] Several studies demonstrate
 that while individuals may show nuance, more often than not, familiar
 gender performances are used for constructing virtual selves.
-[^17_Lindsay_3],[^17_Lindsay_4],[^17_Lindsay_10],[^17_Lindsay_11]
+[^17_Lindsay_3] [^17_Lindsay_4] [^17_Lindsay_10] [^17_Lindsay_11]
 
 Contemporary dating relationships provide individuals' an opportunity to
 personally define relationship needs and seek partners according to

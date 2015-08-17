@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Introduction
 
-### I. Alev Degim and James Johnson
+### I.ALEV DEGIM AND JAMES JOHNSON
 
 
 >*'Matchmaking and introductory intermediaries, particularly for the

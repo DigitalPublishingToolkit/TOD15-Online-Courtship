@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Remediating the Matchmaker: Arranging Marriage Online in the South Asian Diaspora in America
 
-### Sheena Raja and Bryce J. Renninger
+### SHEENA RAJA AND BRYCE J. RENNINGER
 
 The topic of marriage is a major focus of conversations about the
 “modernization” of South Asian culture in the face of social processes

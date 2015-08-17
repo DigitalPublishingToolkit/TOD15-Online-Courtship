@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Stranger Stranger or Lonely Lonely? Young Chinese and Dating Apps between the Locational, the Mobile and the Social
 
-### Gabriele de Seta and Ge Zhang[^13_deSeta_Zhang_1]
+### GABRIELE DE SETA AND GE ZHANG[^13_deSeta_Zhang_1]
 
 ## Introduction: Did You Get Married?
 
@@ -41,6 +41,7 @@ viewed this practice as backwards.”[^13_deSeta_Zhang_2]
 
 
 ![*Figure 1*. “You got married, right?”, screenshot of a Baihe advertisement, 2014.](imgs/deseta-images/Figure-1.jpg)
+
 Figure 1 “You got married, right?”, screenshot of a Baihe advertisement, 2014.
 [^13_deSeta_Zhang_3]
 
@@ -218,7 +219,7 @@ describes the app as "a more open platform" for users who have
 ![*Figure 2*. "Momo at one hundred million users, thanks to you for being
 with us!", smartphone screenshot by the authors, 7 February 2014.](imgs/deseta-images/Figure-2.jpg)
 
-*Figure 2*. "Momo at one hundred million users, thanks to you for being
+Figure 2. "Momo at one hundred million users, thanks to you for being
 with us!", smartphone screenshot by the authors, 7 February 2014.
 
 ## Locating Mobile Sociality: Online Dating and the Chinese City

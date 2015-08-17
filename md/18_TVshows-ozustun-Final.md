@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # Media's Effect on Online Dating Practices: Turkish TV Marriage Programs and Online Dating as a Medium
 
-### Enver Ozustun
+### ENVER OZUSTUN
 
 ## Introduction
 
@@ -769,7 +769,7 @@ able to believe a frog can turn into a prince when it's kissed.
 
 But the story doesn't end here - it is just starting. How so?
 
-## CLAIMS
+## Claims
 
 Readings made about television ratings, shows that women programs are
 watched around 6% mark. Whereas it has very striking figures on
@@ -833,7 +833,7 @@ are not in line with their ratings and advertising revenues.
 
 ### Parallels Between the TV Show and Online Dating Sites in Turkey
 
-## CONCLUSION
+## Conclusion
 
 In the beginning of the article we proposed that it is difficult to
 understand the subject of marriage shows without examining the topics,
@@ -884,7 +884,7 @@ being claimed on television.
 Opinions About the Preservation of Cultural Values that Constitute the Mutual Identity of Turkish Society in Turkey (Which of the Two Options are Closer to Your Opinions Below?)
 Source : Seta, October 2011
 
-* While 91,3 percentage of the total subjects think cultural values that
+• While 91,3 percentage of the total subjects think cultural values that
 constitute the mutual identity of society in Turkey should be preserved,
 2,9 percentage think there is no need for it.
 
@@ -901,19 +901,19 @@ constitute the mutual identity of society in Turkey should be preserved,
 Opinions About the Preservation of Cultural Values that Constitute the Mutual Identity of Turkish Society in Turkey (Distribution by Level of Education)
 Source : Seta, October 2011
 
-* While 90,6% of the participants who have low level education, think
+• While 90,6% of the participants who have low level education, think
 that cultural values that constitute the mutual identity of society in
 Turkey should be preserved, 2,8% of them said there is no need for it.
 
-* While 92,3% of the participants who have medium level education, think
+• While 92,3% of the participants who have medium level education, think
 that cultural values that constitute the mutual identity of society in
 Turkey should be preserved, 3,4% of them said there is no need for it.
 
-* While 94,2% of the participants who have high level education, think
+• While 94,2% of the participants who have high level education, think
 that cultural values that constitute the mutual identity of society in
 Turkey should be preserved, 2,7% of them said there is no need for it.
 
-* A homogeneous spread is seen in all categories.
+• A homogeneous spread is seen in all categories.
 
 As we can understand from the survey, Turkish society defends their
 cultural values with an overwhelming majority, furthermore this opinion
@@ -1078,7 +1078,7 @@ These factors in the TV shows clearly have set the stage for online
 marriage and dating sites. The expectations of the users are categorized
 according to the standards set by the marriage TV shows.
 
-## REFERENCES
+## References
 
 Alemdar, Korkmaz-Erdoğan, İrfan, 'Popüler Kültür ve İletişim', Ankara,
 Ümit Yayıncılık, 1994.

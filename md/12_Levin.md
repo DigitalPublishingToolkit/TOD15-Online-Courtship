@@ -21,7 +21,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 # The Role of Places and Symbols: A Cultural Interpretation of the On-line Dating Experience in Israel
 
-### David Levin
+### DAVID LEVIN
 
 ## Introduction
 
@@ -352,7 +352,7 @@ Dating websites proved to be places of strangeness and alienation. The
 latter stemmed from the perception of their activity as instrumental by
 nature, and they were depicted using expressions and symbols laden with
 cultural significance:
-
+<blockquote>
 “Dating websites are just another online shop. The supply on offer is
 huge and for many people, hanging around in these sites is just part of
 the shopping culture. When the profile reduces people to mere products
@@ -360,7 +360,7 @@ with specifications, there are always going to be more attractive
 products with a more “updated” specification, and the endless browsing
 of profiles and picture has become for some people the key experience.”
 *Male, 43.*
-
+</blockquote>
 This sarcastic portrayal of the dating website as a “place” where
 mechanic-like activity takes place makes ample use of foreign words,
 such as *shopping*, alongside “online shop” and “virtual shelf"; words
@@ -390,11 +390,11 @@ English-derived terms "Online" and "Virtual".
 
 This image is further stressed, with the word “supermarket", employed by
 many users when referring to dating websites.
-
+<blockquote>
 Usually loitering around dating websites makes you feel as if you were
 in a human supermarket, bafflement at the ample choice and the view of
 people as objects with no feelings. *Female, 29.*
-
+</blockquote>
 In the late 1950’s, year 1958, the emergence of the first supermarket
 was one of the phenomena that marked the change occurring in the Israeli
 culture, and in fact the downfall of the solidary agricultural society,
@@ -410,17 +410,17 @@ from here” kind of place.
 In this sense, the forum used by the subjects for sharing their
 experiences is unlike “dating websites”. It was referred to at times as
 a “community”:
-
+<blockquote>
 “It’s a kind of home, a community, something genuine. Warmer, more
-accepting, more empathic.” *Female, 42.*
-
+accepting, more empathic.” *Female, 42*.
+</blockquote>
 Or:
-
+<blockquote>
 “I’ve been a member of this orchard since 2003… there were forums and
 communes where I spent years and years… I keep in touch with some of the
 people there on Facebook as well… This site has been a kind of home for
 me, ever since I can remember myself online, the orchard is here on the
-browser every now and then while online.” *Female, 29* .
+browser every now and then while online.” *Female, 29*.</blockquote>
 
 Albeit conduct in this forum, as described here, can be defined as
 “devoid of any cultural scent”, another instance of Oldenburg’s “great
@@ -436,11 +436,11 @@ orchards to make room for urban neighborhoods. These sometimes comprise
 residential towers, with their typically alienated life style. And thus,
 this step, by implication, marked the uprooting of the social spirit
 typical of life at the time.
-
+<blockquote>
 While dating websites belonged to another place and the forum to another
 time, the Facebook social network was the here and now “place”, or as
 one user put it, “the least virtual within the virtual world.” *Female,
-29*.
+29*.</blockquote>
 
 The limits of this world, built on friendship confirmations of users,
 were extensive as far as time and place – they encompassed individuals
@@ -466,27 +466,27 @@ unpleasant experiences and described other users in those sites as
 “human trash” or “mentally-wounded individuals.” Some likened them,
 figuratively, to robots, in order to describe the personality perversion
 forced on those partaking in activities on dating websites:
-
+<blockquote>
 “People should meet each other spontaneously, not mechanically, like the
-ISCAR factory (Israeli tool-making company).” *Male, 34.*
+ISCAR factory (Israeli tool-making company).” *Male, 34*.</blockquote>
 
 Or:
-
+<blockquote>
 “You log on to this site or another… the faces are always the same, so
 are the pick-up lines-and the incredible thing is how they forget they
 have already written to you and write the same stuff again.” *Female,
-39.*
+39*.</blockquote>
 
 Some “real” robot descriptions were also found – a mechanism activated
 by the administrators of some websites, dispatching mechanic, fictitious
 messages from potential candidates. These were designed to deceive
 users, making them pay subscriptions fees.
-
+<blockquote>
 “I’ve come across quite a few sites that boasted of their huge number of
 users, when in actual fact they numbered significantly less. Think of it
 in simple terms: the site sends you fictitious messages, you mistake
 them for real ones and pay up, and they carry on, until at some point
-you’re up to their trick or just fed up.” *Male, 29.*
+you’re up to their trick or just fed up.” *Male, 29*.</blockquote>
 
 As aforesaid, the robot image, incorporating the lack of tangibility and
 representation, was often ascribed to individuals as well. It is no
@@ -499,30 +499,30 @@ shrouded in secrets, with users recounting how their families were not
 aware of their presence there. Nevertheless, users branded their peers
 as people they could talk to and get helpful advices from, or in some
 cases even befriend offline, nay, fall in love with and marry.
-
-“Tapuz is a home, it really is, I’m a veteran of forum Blindate and
+<blockquote>
+Tapuz is a home, it really is, I’m a veteran of forum Blindate and
 those people there were my rock in many moments, with a lot of
 consulting, some useless while others more helpful… My first serious
 boyfriend was from the forum… I started off in the orchard… at 17, and
-so ten years just went by!!! Wow.” *Female, 28.*
+so ten years just went by!!! Wow. *Female, 28*.</blockquote>
 
 In contrast with these two contexts, where it is doubtful whether the
 actual individual and his/her online image have much in common, it was
 obvious that users viewed Facebook friends as all-round individuals,
 both in their online representation and their epistemic meaning.
-
-“Facebook for me is another nice virtual site to see, keep updated and
+<blockquote>
+Facebook for me is another nice virtual site to see, keep updated and
 update family and friends… snoop to see what the children are up to, who
 they are in touch with… to be reminded of friends and family’s
-birthdays, which I would’ve never remembered otherwise.” *Female, 42.*
+birthdays, which I would’ve never remembered otherwise. *Female, 42*.</blockquote>
 
 Facebook therefore ranks higher than the forum. And indeed, in one case,
 a user found it fit to note that ties with veteran forum members had
 been tightened by adding them to his Facebook list. Others refused to
 confirm as Facebook friends, people they had met on dating websites.
-
-“In Facebook there is stuff that’s nobody’s business, certainly not
-someone that you don’t know at the end of the day.” *Female, 39.*
+<blockquote>
+In Facebook there is stuff that’s nobody’s business, certainly not
+someone that you don’t know at the end of the day.” *Female, 39*.</blockquote>
 
 The three “places” are therefore mutually-distinct, not just in the
 structural sense, but also through metaphors and metonyms laden with
@@ -556,7 +556,7 @@ decision-the nature of profile texts, timing of correspondence and its
 nature, opting for a more information-rich channel of communication
 (chats, telephone, Facebook), the nature of shifting thereto and the
 logging-off timing.
-
+<blockquote>
 Does anything actually come out of dating websites? The answer is
 definitely yes. It’s a matter of how you handle yourself in and off the
 site. Dating websites are like ‘human supermarkets’, if you market
@@ -564,7 +564,7 @@ yourself with attractive pictures, to-the-point, witty and intriguing
 texts, then you can get to the stage of corresponding with potential
 dates. From here on you take it offline, with phone calls, dates and
 mutual interest generated-it’s no longer to do with the site, but rather
-with what you are in real life.” *Male, 34.*
+with what you are in real life. *Male, 34*.</blockquote>
 
 The freedom, though limited, allowed the act to assume a personal key;
 in choosing a channel for further interaction (some users offered to
@@ -579,13 +579,13 @@ steps without looking for shortcuts, giving the text a serious reading,
 investing in tailoring a unique reply for anyone who contacts you and
 answering them politely. Some stressed directness and purposeful
 approach as a moral kind of act, for one’s “self” as well as for others.
-
-“I was registered in a dating website for a relatively short time…
+<blockquote>
+I was registered in a dating website for a relatively short time…
 First, after a month on the website that led to no more than a single
 date, I started a year-long relationship. I was very picky along the
 way. It just saved all of us time and unnecessary dates. I knew exactly
-what I was looking for and rejected people just like that.” *Female,
-25.*
+what I was looking for and rejected people just like that. *Female,
+25*.</blockquote>
 
 “Shallow, rude consumers” served to contrast the “hard-workers” employed
 by users to introduce themselves in a “positive” light; those who indeed
@@ -595,11 +595,11 @@ aspirations to excel or even succeed-they do not read deep into the
 profile. They contact people mechanically and never bother replying;
 they let connections melt away for no reason and fail to give them a
 proper closure.
-
-“Yes, I had ten-twenty people a day writing to me, but most of them
+<blockquote>
+Yes, I had ten-twenty people a day writing to me, but most of them
 wouldn’t have written to me if they only bothered reading my profile,
 because then they would’ve realised there and then it wasn’t what I was
-looking for.” *Female, 30.*
+looking for. *Female, 30*.</blockquote>
 
 The same people absorbed in the “shopping” experience view others as
 products. Users recounted how in some cases, following a successful
@@ -615,8 +615,8 @@ in on to bed.
 In this vein of “workers” as opposed to “consumers”, several discussions
 were held around the legitimacy of the demand to be confirmed as a
 Facebook friend right at the onset of a relationship:
-
-“(She)… replied: alright, let’s confirm friendship on Facebook and take
+<blockquote>
+(She)… replied: alright, let’s confirm friendship on Facebook and take
 it from there…
 
 I wrote back: listen, let’s talk a bit, or even take it to the phone,
@@ -627,10 +627,10 @@ Her answer: no no no, I want to see you
 I said: I’m protective of my privacy; if you want to take it further I
 can send you pictures, no problem, but no friendships.
 
-Over. She never got back to me. I have no picture of myself.”
+Over. She never got back to me. I have no picture of myself.
 
 *Male, no age mentioned.*
-
+</blockquote>
 This request had little to do with “confirming friendship” even in its
 trifle Facebook sense, and was rather an attempt to obtain a further
 channel of information, independent of the controlled one offered on the
@@ -646,21 +646,21 @@ very notions of “efficient work”; they argued that the digital worlds
 did not afford purposefulness and that this request was no more than a
 consumerist act, complete with the joy of purchasing the product, for no
 particular purpose:
-
+<blockquote>
 “When it gets to the ‘add me as Face-Friend’, I can tell she’s not
 serious. When it came to girls who asked for that, even when I added
 them, I moved on, although they looked and sounded high-end. I’m not
 interested in joining anyone’s friends’ collection or friends base
-unless we meet and get to know each other first.” *Male, 37.*
+unless we meet and get to know each other first.” *Male, 37*.</blockquote>
 
 Others even perceived the request, aimed at obtaining information behind
 their backs, as blatant, attesting to a fundamental misreading of the
 **ends** behind the dating site interactions and the work they entailed:
-
-“Sincerity!!! Honesty!!! Reliability!!! These are the key words; these
+<blockquote>
+Sincerity!!! Honesty!!! Reliability!!! These are the key words; these
 are the cornerstones of romantic partnerships!!! If there’s something
-you want to know about the girl, just ask her!!! Why “spying” on
-Facebook… Don’t ruin something that’s just begun, go it?!” *Female, 37.*
+you want to know about the girl, just ask her!!! Why 'spying' on
+Facebook… Don’t ruin something that’s just begun, go it?! *Female, 37.*</blockquote>
 
 The contrasting structural nature of the dating websites on the one hand
 and the forums on the other was further elucidated in discussions into
@@ -680,14 +680,14 @@ blatantly declaring he was interested in finding a female or male
 partner among their ranks. This user was asked to move on to the dating
 website or follow discussions for several days/weeks, to get a hang on
 the atmosphere.
-
-“Because I was really late going online, only after the army. I arrived
+<blockquote>
+Because I was really late going online, only after the army. I arrived
 at Tapuz, because everyone was chatting here and it looked interesting.
 It also suddenly occurs to me that I started writing here following a
-bad date, went on to have a relationship, then a painful break-up, them
+bad date, went on to have a relationship, then a painful break-up, then
 on to a long period as a single, followed by a good relationship, and
-now I’m about to get married. What a piece of life. *Female, 30.*
-
+now I’m about to get married. What a piece of life. *Female, 30*.
+</blockquote>
 And thus, the forums, albeit dedicated to dating among singles, could
 also feature non-singles. The norms entailed anonymity and the use of
 regular nicknames (with those unwilling to do so posting in their full
@@ -758,7 +758,7 @@ Everyday | Warm, accepting | Purposeful, blatant | Key and instrumentalities
 Home, picture album | The great good place "Orchard" | Workplace, Supermarket | Genre (Metaphors and metonyms)
 
 
-
+<br></br>
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                    Dating Websites                                                                 Forum                        Facebook
   -------------------------------- ------------------------------------------------------------------------------- ---------------------------- -----------------------------------------------------------------------------
@@ -781,6 +781,7 @@ Home, picture album | The great good place "Orchard" | Workplace, Supermarket | 
                                    Supermarket                                                                     “Orchard”                    picture album
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+</br>
 Studying these insights reveals two symbolic systems accompanying and
 cementing the distinct nature of the places in the eyes of users.
 

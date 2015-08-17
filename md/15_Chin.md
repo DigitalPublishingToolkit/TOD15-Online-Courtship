@@ -22,7 +22,7 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 # Keeping it Unreal - Online Dating with Chinese Characteristics
 
 
-### Yann-Ling Chin
+### YANN-LING CHIN
 
 The success of *The First Intimate Contact*, a novel written by
 Taiwanese student Cai Zhiheng in 1998, created a frenzy about online
