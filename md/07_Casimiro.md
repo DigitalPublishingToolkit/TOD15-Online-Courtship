@@ -972,7 +972,7 @@ Academy of Sciences of the United States of America*, Published online before pr
 June 3 (2013),
 <http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf>.
 
-Cardoso, Gustavo. 'Contributos Para uma Sociologia do Ciberespaço'.
+Cardoso, Gustavo. *Contributos Para uma Sociologia do Ciberespaço*.
 Biblioteca on-line de Ciências da Comunicação (1998),
 <http://www.bocc.ubi.pt/pag/_texto.php?html2012=cardoso-gustavo-sociologia-ciberespaco.html>.
 
@@ -989,7 +989,7 @@ Cardoso, Gustavo et al. *World Wide Internet: Changing Societies,
 Economies and Cultures*, China: University of Macau, 2009.
 
 Cardoso, Gustavo et al. 'A Sociedade em Rede. A Internet em Portugal,
-2012', OberCom - Observatório da Comunicação (2012): 1-35,
+2012', *OberCom - Observatório da Comunicação* (2012): 1-35,
 <http://www.obercom.pt/client/?newsId=548&fileName=sociedadeRede2012.pdf>.
 
 Castells, Manuel. *The Network Society: A Cross-cultural Perspective*,
@@ -1028,8 +1028,7 @@ Goffman, Erving. *The Presentation of Self in Everyday Life*, New York:
 Anchor, 1959.
 
 Gunter, Barrie. "The Study of Online Relationships and Dating", in
-William H. Dutton (ed.) *The Oxford Handbook of Internet Studies*, Oxford: Oxford
-University Press, 2013, pp. 173-193.
+William H. Dutton (ed.) *The Oxford Handbook of Internet Studies*, Oxford: Oxford University Press, 2013, pp. 173-193.
 
 Hahn, Jennifer and Blass, Thomas. 'Dating Partner Preferences: A
 Function of Similarity of Love Styles', *Journal of Social Behavior &
