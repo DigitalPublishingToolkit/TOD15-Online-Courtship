@@ -25,7 +25,6 @@ Rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 
 >*Man is least himself when he talks in his own person.
 >Give him a mask, and he will tell you the truth.*
-
 >Oscar Wilde
 
 ## Introduction
@@ -589,6 +588,7 @@ demonstrate that women gender role stereotypes are the ones extensively
 more (re)produced by female online daters (see Figure 1.).
 
 ![Figure 1](imgs/c-casimiro-images/C_Casimiro_image1_Female_Stereotypes.tif)
+
 Figure 1. Female stereotypes
 
 As Figure 1 show, it is quite significant the number of women choosing
@@ -602,6 +602,7 @@ adventurous, active, hard-worker, independent, self-confident and, above
 all, courteous (see Figure 2).
 
 ![Figure 2](imgs/c-casimiro-images/C_Casimiro_image2_Male_Stereotypes.tif)
+
 Figure 2. Male stereotypes
 
 > The traditional courtesies that have served to differentiate gentlemen
@@ -690,9 +691,11 @@ men and, in most cases, the man is two to five years older than the
 woman.[^7_Casimiro_65]
 
 ![Figure 3](imgs/c-casimiro-images/C_Casimiro_image3_Age_of_the_partner_MEN.tiff)
+
 Figure 3. Distribution of the preferred age of the partner - Men
 
 ![Figure 4](imgs/c-casimiro-images/C_Casimiro_image4_Age_of_the_partner_WOMEN.tif)
+
 Figure 4. Distribution of the preferred age of the partner - Women
 
 Over the decades, in Western countries, including Portugal, the age
@@ -964,8 +967,8 @@ Bourdieu, Pierre. *La Domination Masculine*, Paris: Éditions du Seuil,
 1998.
 
 Cacioppo, John T. et al. 'Marital Satisfaction and Break-ups differ
-Across On-line and Off-line Meeting Venues', Proceedings of the National
-Academy of the United States of America, Published online before print,
+Across On-line and Off-line Meeting Venues', *Proceedings of the National
+Academy of Sciences of the United States of America*, Published online before print,
 June 3 (2013),
 <http://www.pnas.org/content/early/2013/05/31/1222447110.full.pdf>.
 
