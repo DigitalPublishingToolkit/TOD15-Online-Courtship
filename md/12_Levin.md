@@ -759,7 +759,6 @@ Home, picture album | The great good place "Orchard" | Workplace, Supermarket | 
   -----------------------------------------------------------------------------
   ----------------------------------------------------------------------------------------------------------------------------------------------
 
-	|Dating Websites | Forum | Facebook
                                    Dating Websites                                                                 Forum                        Facebook
   -------------------------------- ------------------------------------------------------------------------------- ---------------------------- -----------------------------------------------------------------------------
   Place                            “America”                                                                       “Old Israel                  “I”
@@ -781,7 +780,7 @@ Home, picture album | The great good place "Orchard" | Workplace, Supermarket | 
                                    Supermarket                                                                     “Orchard”                    picture album
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</br>
+<br/>
 Studying these insights reveals two symbolic systems accompanying and
 cementing the distinct nature of the places in the eyes of users.
 

@@ -139,7 +139,7 @@ headlines listed below.
 -Marriage in the Structure of Turkish Society
 -Mass Communication Devices, Media and Its Effects
 
-## ABOUT MICROSTRUCTURE/MACROSTRUCTURE 
+## About Microstructure/Macrostructure
 
 ### Neo-Liberal Order and Social Engineering
 
@@ -451,7 +451,7 @@ Based on the last sentence; let's look at how marriage shows manage to
 invade so much broadcast time and our agenda even though they don't have
 high ratings and an important presence in the advertisement revenues.
 
-## MARRIAGE SHOWS ON TURKISH TELEVISION
+## Marriage Shows on Turkish Television
 
 Instead of democratization of producing information and its spread, with
 the commercialization of media, we see that it has become easier to
