@@ -34,7 +34,7 @@ Email: info@networkcultures.org<br/>
 Web: <http://www.networkcultures.org><br/>
 
 This publication is available through various print on demand services.
-For more information, and a freely downloadable PDF:<br>
+For more information, and a freely downloadable PDF:
 <http://networkcultures.org/publications><br/>
 This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br><br/>
 ![](imgs/INC-logo.png)
@@ -9046,7 +9046,7 @@ statements of users who were sorted according to Hymes’ SPEAKING model
 parameters, offers a number of differences summarized in the following
 table:
 
-Facebook | Forum | Dating Websites |  
+Facebook | Forum | Dating Websites |  .
 --- | --- | --- | ---
 “I” | “Old Israel" | “America” | Place
 Friends and acquaintances | Faceless, nameless friends | Unfriendly strangers | Participants
@@ -9055,31 +9055,9 @@ A stage in the process of getting to know one another | No clear stage system | 
 A component of the “hard work” of investigating about the potential partner | Anonymity, feelings | “Hard work” | Norms
 Everyday | Warm, accepting | Purposeful, blatant | Key and instrumentalities
 Home, picture album | The great good place "Orchard" | Workplace, Supermarket | Genre (Metaphors and metonyms)
-  -----------------------------------------------------------------------------
-  ----------------------------------------------------------------------------------------------------------------------------------------------
 
-                                   Dating Websites                                                                 Forum                        Facebook
-  -------------------------------- ------------------------------------------------------------------------------- ---------------------------- -----------------------------------------------------------------------------
-  Place                            “America”                                                                       “Old Israel                  “I”
+Table of differences
 
-  Participants                     Unfriendly strangers                                                            Faceless, nameless friends   Friends and acquaintances
-
-  Ends                             Meeting potential partners                                                      Talks and Discussions -      Searching and confirming information
-                                                                                                                                                
-                                                                                                                   option for a relationship    
-
-  Act sequence                     Several stages, some dictated by the website, while others by personal choice   No clear stage system        A stage in the process of getting to know one another
-
-  Norms                            “Hard work”                                                                     Anonymity, feelings          A component of the “hard work” of investigating about the potential partner
-
-  Key and instrumentalities        Purposeful, blatant                                                             Warm, accepting              Everyday
-
-  Genre (Metaphors and metonyms)   Workplace,                                                                      The great good place         Home,
-                                                                                                                                                
-                                   Supermarket                                                                     “Orchard”                    picture album
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<br/>
 Studying these insights reveals two symbolic systems accompanying and
 cementing the distinct nature of the places in the eyes of users.
 

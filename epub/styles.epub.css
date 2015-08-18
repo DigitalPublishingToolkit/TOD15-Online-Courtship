@@ -276,7 +276,7 @@ table+p, figure+p {
 
 #colophon p:last-of-type {
     /* logos are last in the colophon, make them centered */
-    text-align: center;
+    text-align: left;
     margin-top: 2em;
 }
 
