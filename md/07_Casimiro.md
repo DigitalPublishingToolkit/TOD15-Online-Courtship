@@ -587,7 +587,7 @@ male and female stereotypes previously mentioned. The main results
 demonstrate that women gender role stereotypes are the ones extensively
 more (re)produced by female online daters (see Figure 1.).
 
-![Figure 1](imgs/c-casimiro-images/C_Casimiro_image1_Female_Stereotypes.tif)
+![Figure 1](imgs/c-casimiro-images/C_Casimiro_image1_Female_Stereotypes.png)
 
 Figure 1. Female stereotypes
 
@@ -601,7 +601,7 @@ contrast to women, there are more men emphasizing traits such as:
 adventurous, active, hard-worker, independent, self-confident and, above
 all, courteous (see Figure 2).
 
-![Figure 2](imgs/c-casimiro-images/C_Casimiro_image2_Male_Stereotypes.tif)
+![Figure 2](imgs/c-casimiro-images/C_Casimiro_image2_Male_Stereotypes.png)
 
 Figure 2. Male stereotypes
 
@@ -690,11 +690,11 @@ In Portugal, six in ten marital unions imply an age difference favoring
 men and, in most cases, the man is two to five years older than the
 woman.[^7_Casimiro_65]
 
-![Figure 3](imgs/c-casimiro-images/C_Casimiro_image3_Age_of_the_partner_MEN.tiff)
+![Figure 3](imgs/c-casimiro-images/C_Casimiro_image3_Age_of_the_partner_MEN.png)
 
 Figure 3. Distribution of the preferred age of the partner - Men
 
-![Figure 4](imgs/c-casimiro-images/C_Casimiro_image4_Age_of_the_partner_WOMEN.tif)
+![Figure 4](imgs/c-casimiro-images/C_Casimiro_image4_Age_of_the_partner_WOMEN.png)
 
 Figure 4. Distribution of the preferred age of the partner - Women
 

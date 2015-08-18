@@ -1025,7 +1025,7 @@ E-dating’, *Advances in Consumer Research* 31 (2004): 153-58.
     Eli Avraham. America in Jerusalem: Globalization, National Identity,
     and Israeli Advertising.
 
-[^12_Levin_24]: [http://www.mako.co.il/news-money/tech/Article-5570ef490c27031004.htm](numbering.xml)
+[^12_Levin_24]: Mako, <http://www.mako.co.il/news-money/tech/Article-5570ef490c27031004.htm>
 
 [^12_Levin_25]: Gunther Eysenbach and James E. Till. ‘Ethical issues in
     Qualitative Research on Internet Communities’,  
