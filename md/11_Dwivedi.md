@@ -634,10 +634,9 @@ Evidence from the Broadband Market." *Discussion Paper Series (IZA DP
 No. 7316).* Bonn: The Institute for the Study of Labor (IZA), March
 2013.
 
-Bharat Matrimony. *Bharat Matrimony.* 2014.
-[http://www.bharatmatrimony.com/](http://www.bharatmatrimony.com/).
+Bharat Matrimony. [http://www.bharatmatrimony.com/](http://www.bharatmatrimony.com/).
 
-Economic and Political Weekly. "Search." Accessed February 25, 2014.
+Economic and Political Weekly. 'Search'. Accessed February 25, 2014.
 [http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation](http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation).
 
 Fife, Wayne. *Doing Fieldwork: Ethnographic Methods forResearch in
@@ -646,7 +645,7 @@ Developing Countries and Beyond.* New York: Palgrave Macmillan , 2005.
 Fulk, J. " Social construction of communication technology ." *Academy
 of Management Journal*, 1993: 36(5): 921–950.
 
-Jeevansathi.com. 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
+Jeevansathi.com. [www.jeevansathi.com](http://www.jeevansathi.com).
 
 Magalhães, Rodrigo. *Organizational Knowledge and Technology: An
 Action-Oriented Perspective on Organization and Information Systems.*
@@ -655,7 +654,7 @@ Cheltenham: Edward Elgar Publishing Limited, 2004.
 McGee, Mary. "Samskåra." In *The Hindu World*, by Sushil Mittal and Gene
 Thursby, 332-356. New York: Routledge, 2005.
 
-Padfield, Rev. J. E. *The Hindu at Home.* delhi: B. R. Publishing
+Padfield, Rev. J. E. *The Hindu at Home*. Delhi: B. R. Publishing
 Company, ([1895] 2007).
 
 Pal, Jiban K. "Social networks enabling matrimonial information services
@@ -670,12 +669,12 @@ Science Reference, 2009.
 
 Rinehart, Robin. "Hearing and Remembering: Oral and Written Texts in
 Hinduism." In *Contemporary Hinduism: Ritual, Culture, and Practice*, by
-Robin Rinehart, 92. California: ABC-CLIO, Inc., 2004.
+Robin Rinehart, 92. California: ABC-CLIO Inc., 2004.
 
-Shaadi.com. 2014, [www.shaddi.com](http://www.shaddi.com).
+Shaadi.com. [www.shaddi.com](http://www.shaddi.com).
 
 Trust Advisory. 'All India Brand Trust Ranking. (Top 1200 Brands)'*,*
-2014, http://www.trustadvisory.info/allindia\_2014.html.
+2014, <http://www.trustadvisory.info/allindia_2014.html>.
 
 Wagner, Lyndsey. *Disharmony and Matchless:Interpersonal Deception
 Theory in Online Dating.* MA Thesis, Lynchburg: School of Communication
@@ -685,11 +684,11 @@ Whitty, Monica T. "Revealing the ‘Real’ Me, Searching for the ‘Actual’
 You: Presentations of Self on an Internet Dating Site", Computers in
 Human Behavior, 2007: 1-17.
 
-[^11_Dwivedi_1]: Shaadi.com, 2014, [www.shaddi.com](http://www.shaddi.com).
+[^11_Dwivedi_1]: Shaadi.com, [www.shaddi.com](http://www.shaddi.com).
 
-[^11_Dwivedi_2]: BharatMatrimony.com, 2014, [www.bharatmatrimony.com](http://www.bharatmatrimony.com).
+[^11_Dwivedi_2]: BharatMatrimony.com, [www.bharatmatrimony.com](http://www.bharatmatrimony.com).
 
-[^11_Dwivedi_3]: Jeevansathi.com, 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
+[^11_Dwivedi_3]: Jeevansathi.com, [www.jeevansathi.com](http://www.jeevansathi.com).
 
 [^11_Dwivedi_4]: Mary McGee, ‘Samskåra’, in Sushil Mittal and Gene Thursby (eds)
     The Hindu World, New York: Routledge, 2005, pp. 332-356.
@@ -706,8 +705,8 @@ Human Behavior, 2007: 1-17.
     written by Sanskrit poet Kalidas.
 
 [^11_Dwivedi_8]: Robin Rinehart, ‘Hearing and Remembering: Oral and Written Texts
-    in Hinduism’, in Robin Rinehart (ed) Contemporary Hinduism: Ritual,
-    Culture, and Practice, Which city, California: ABC-CLIO, Inc., 2004,
+    in Hinduism’, in Robin Rinehart (ed) *Contemporary Hinduism: Ritual,
+    Culture, and Practice*. California: ABC-CLIO Inc., 2004,
     p. 92.
 
 [^11_Dwivedi_9]: Economic and Political Weekly, ‘Search’, 2014,[http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation](http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation).
@@ -733,7 +732,7 @@ Human Behavior, 2007: 1-17.
     Series (IZA DP No. 7316)*, Bonn: The Institute for the Study of
     Labor (IZA), March 2013, pp. 1-6.
 
-[^11_Dwivedi_16]: S. Gary Becker, ‘A Theory of Marrage: Part I’, *Journal of
+[^11_Dwivedi_16]: S. Gary Becker, ‘A Theory of Marriage: Part I’, *Journal of
     Political Economy* 81 (1973): 813-846.
 
 [^11_Dwivedi_17]: Andriana Bellou, ‘The Impact of Internet Diffusion on Marriage

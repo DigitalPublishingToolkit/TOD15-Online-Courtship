@@ -33,10 +33,9 @@ Phone: +3120 5951865<br/>
 Email: info@networkcultures.org<br/>
 Web: <http://www.networkcultures.org><br/>
 
-This publication is available through various print on demand services.</br> 
-For more information, and a freely downloadable PDF:<br/> 
-<http://networkcultures.org/publications>
-
+This publication is available through various print on demand services.
+For more information, and a freely downloadable PDF:<br>
+<http://networkcultures.org/publications><br/>
 This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br><br/>
 ![](imgs/INC-logo.png)
 
@@ -5930,19 +5929,19 @@ Kessous, Emmanuel. ‘L’amour en Projet. Internet et les Conventions de la
 Rencontre Amoureuse’, *Réseaux* 166. (2011) : 191-223.
 
 Lardellier, Pascal. ‘De la Consommation Sentimentale et Sexuelle de Masse
-à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), @mours
-virtuelles. Conjugalité et Internet, Louvain-la-Neuve,
+à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), *@mours
+virtuelles; Conjugalité et Internet*, Louvain-la-Neuve:
 Academia-Bruylandt, (2009): 17-41.
 
-Lardellier, Pascal. Le coeur Net. Célibat et @mours sur le Web, Paris,
+Lardellier, Pascal. *Le coeur Net. Célibat et @mours sur le Web*, Paris:
 Belin, 2004.
 
-Lardellier, Pascal. Les Réseaux du Cœur. Sexe, Amour et Séduction sur
-Internet, Paris, François Bourin, 2012.
+Lardellier, Pascal. *Les Réseaux du Cœur. Sexe, Amour et Séduction sur
+Internet*, Paris: François Bourin, 2012.
 
 Luhmann, Niklas. *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
 
-Parmentier, Marc. ‘Philosophie des sites de rencontres’, Hermès.
+Parmentier, Marc. ‘Philosophie des sites de rencontres’, *Hermès*.
 59.(2011) : 173-178, 2011.
 
 King, Martin. *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
@@ -6472,35 +6471,35 @@ cycle.
 ## References
 
 Chen, Xiaobo. ‘The Micro Film: A Visual Culture Transmutation of Concept
-First’, Contemporary Cinema, 10(2013): p.199.
+First’, *Contemporary Cinema*, 10(2013): p.199.
 
-Donews. ‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage
-in Love and Marriage’, 24 October 2012,
+Donews. *‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage
+in Love and Marriage’*, 24 October 2012,
 <http://www.donews.com/net/201210/1683363.shtm>
 
-Golden Mouse. ‘Jiayuan.com Implanted “Romance in Car”’, 9 April 2013,
+Golden Mouse. *Jiayuan.com Implanted 'Romance in Car'*, 9 April 2013,
 <http://huaban.com/pins/57147465/\#zoom/?&\_suid=14099977042960615623123715092>
 
 Hudson, Valerie M. and Boer, Andrea M. Den. ‘“Bare Branches” and Danger
-in Asia’, 4 July 4 2004,
+in Asia’, *The Washington Post*, 4 July 4 2004,
 <http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html>
 
-iResearch. ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28
+iResearch. *‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’*, 28
 February 2012,
 <http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm>
 
 Li, Fengtao and Wang, Xujie. ‘The Traditional Mode Met Bottleneck, Three
-Dating Site Run into the Deep Era’, Chinese Economic Weekly Z1 (2013):
+Dating Site Run into the Deep Era’, *Chinese Economic Weekly* Z1 (2013):
 p. 76.
 
-Li, Lei. ‘Dating Sites Started the New User Battle’, China Business
-Journal, 12 March 2012: E02.
+Li, Lei. ‘Dating Sites Started the New User Battle’, *China Business
+Journal*, 12 March 2012: E02.
 
-Lin, Ruoxi. ‘The Dating Sites, Confused of the Fiancee’, China Internet
-Weekly, 5 April 2012.
+Lin, Ruoxi. ‘The Dating Sites, Confused of the Fiancee’, *China Internet
+Weekly*, 5 April 2012.
 
 Ma, Zexin. ‘Personal Image Construction and Communication Effect in
-Dating Sites’, News World, 9 (2012): p.124.
+Dating Sites’, *News World* 9 (2012): p.124.
 
 Mu, Yifan. ‘The Jiayuan Went to IPO Profit Model Was into a Bottleneck’,
 China Business News, 25 April 2011: B03.
@@ -6510,21 +6509,21 @@ Population Development Characteristics and Future Prospects in the 10th
 Five-Year Plan’, 24 May 2006,
 <http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html>
 
-Rofel, Lisa. Desiring China: Experiments in Neoliberalism, Sexuality,
-and Public Culture. <https://www.dukeupress.edu/Desiring-China>
+Rofel, Lisa. *Desiring China: Experiments in Neoliberalism, Sexuality,
+and Public Culture*. <https://www.dukeupress.edu/Desiring-China>
 
 Wu, Xiaoying. ‘The Dating Sites: "Sweet" Industrial Predicament and
-Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
+Outlet’, *Sichuan Provincial Academy of Social Sciences*, 2009: p. 38.
 
-<http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate######>
 
-<http://fanyi.baidu.com/translate######><http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate######>
 
 [^9_Wen-Final_1]: As cited in Zexin Ma. ‘Personal Image Construction and
-    Communication Effect in Dating Sites’, News World, 9 (2012): 124.
+    Communication Effect in Dating Sites’, *News World* 9 (2012): 124.
 
 [^9_Wen-Final_2]: As cited in Yifan Mu. ‘The Jiayuan Went to IPO Profit Model Was
-    into a Bottleneck’, China Business News, 25 April 2011: B03.
+    into a Bottleneck’, *China Business News*, 25 April 2011: B03.
 
 [^9_Wen-Final_3]: Sino Tech, ‘*Shiji Jiayuan Xuanbu Wangzhan Zhuce Yonghu Shuliang
     Chao 1 Yi* (Jiayuan.com Announces Registered User Accounts Surpass
@@ -6532,13 +6531,13 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
     http://tech.sina.com.cn/i/2014-01-14/19309096326.shtml
 
 [^9_Wen-Final_4]: Xiaoying Wu. ‘The Dating Sites: "Sweet" Industrial Predicament and
-    Outlet’, Sichuan Provincial Academy of Social Sciences, (2009) 38.
+    Outlet’, *Sichuan Provincial Academy of Social Sciences*, (2009) 38.
 
 [^9_Wen-Final_5]: The fee of 499 yuan is equivalent to the monthly food cost for one
     person living in a medium-sized city in China.
 
 [^9_Wen-Final_6]: Fengtao Li and Xujie Wang, ‘The Traditional Mode Met Bottleneck,
-    Three Dating Site Run into the Deep Era’, Chinese Economic Weekly Z1
+    Three Dating Site Run into the Deep Era’, *Chinese Economic Weekly* Z1
     (2013) 76.
 
 [^9_Wen-Final_7]: For example, the free dating platform of Renren, Sina Weibo and
@@ -6550,8 +6549,8 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
     Value of Sina Weibo’, 15 March 2014,
     <http://web2.iresearch.cn/weibo/20140315/228594.shtml>.
 
-[^9_Wen-Final_9]: Lei Li, ‘Dating Sites Started the New User Battle’, China Business
-    Journal, 12 March 2012: E02.
+[^9_Wen-Final_9]: Lei Li, ‘Dating Sites Started the New User Battle’, *China Business
+    Journal*, 12 March 2012: E02.
 
 [^9_Wen-Final_10]: Portal web refers to comprehensive Internet information resources
     and provides relevant information service of the application system.
@@ -6566,7 +6565,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 [^9_Wen-Final_13]: Lei Li, ‘Dating Sites Started the New User Battle’.
 
 [^9_Wen-Final_14]: Xiaobo Chen, ‘The Micro Film: A Visual Culture Transmutation of
-    Concept First’, Contemporary Cinema, 10(2013): 199.
+    Concept First’, *Contemporary Cinema*, 10(2013): 199.
 
 [^9_Wen-Final_15]: A line in the ad.
 
@@ -6574,7 +6573,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
     China.
 
 [^9_Wen-Final_17]: Valerie M. Hudson and Andrea M. Den Boer, ‘“Bare Branches” and
-    Danger in Asia’, The Washington Post, 4 July, 2004,
+    Danger in Asia’, *The Washington Post*, 4 July, 2004,
     <http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html>
 
 [^9_Wen-Final_18]: National Bureau of Statistics of the People’s Republic of China,
@@ -6616,10 +6615,10 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_30]: These three ad names are translated by the author.
 
-[^9_Wen-Final_31]: Lisa Rofel, *Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture*, Duke Univeristy Press, 2007.
+[^9_Wen-Final_31]: Lisa Rofel, *Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture*, Durham: Duke Univeristy Press, 2007.
 
-[^9_Wen-Final_32]: Ruoxi Lin, ‘The Dating Sites, Confused of the Fiancee’, China
-    Internet Weekly, 5 April 2012, 30.
+[^9_Wen-Final_32]: Ruoxi Lin, ‘The Dating Sites, Confused of the Fiancee’, *China
+    Internet Weekly*, 5 April 2012, 30.
 
 [^9_Wen-Final_33]:  Lin, ‘The Dating Sites, Confused of the Fiancee’.
 
@@ -7342,16 +7341,16 @@ coexisting and varied models for these modes of relating.
 
 ## Appendix
 
-Participant 1: Male/34/U.S.-born/Raised Hindu
-Participant 2: Male/35/Indian-born
-Participant 3: Female/35/Indian-born/Raised Hindu
-Participant 4: Female/29/U.S.-born/Raised Hindu
-Participant 5: Female/33/U.S.-born/Raised Buddhist
-Participant 6: Female/26/Indian-born
-Participant 7: Female/30/U.S.-born/Raised Hindu
-Participant 8: Female/32/U.S.-born/Raised Hindu
-Participant 9: Female/29/U.S.-born/Raised Jain
-Participant 10: Male/33/U.S.-born/Raised Hindu
+Participant 1: Male/34/U.S.-born/Raised Hindu<br>
+Participant 2: Male/35/Indian-born<br>
+Participant 3: Female/35/Indian-born/Raised Hindu<br>
+Participant 4: Female/29/U.S.-born/Raised Hindu<br>
+Participant 5: Female/33/U.S.-born/Raised Buddhist<br>
+Participant 6: Female/26/Indian-born<br>
+Participant 7: Female/30/U.S.-born/Raised Hindu<br>
+Participant 8: Female/32/U.S.-born/Raised Hindu<br>
+Participant 9: Female/29/U.S.-born/Raised Jain<br>
+Participant 10: Male/33/U.S.-born/Raised Hindu<br>
 
 ## References
 
@@ -7586,9 +7585,9 @@ religion. Now there is love, love-arranged, arranged-love, inter-caste,
 inter-religion, court-marriage and live-in relationship. Moreover, most
 of these marriages are arranged online.
 
-This chapter addressed the following research questions: 
-1. What is the
-magnitude of modern technology against the societal traditions in India?
+This chapter addressed the following research questions:
+
+1. What is the magnitude of modern technology against the societal traditions in India?
 Especially, on these three online matrimonial sites, how do they
 penetrate in the complex social practices confrontational or
 supplementary to old traditional searching practices?
@@ -7765,7 +7764,7 @@ explain how online users and searchers present themselves in the cyber
 space, on the contrary, it is rather important to find how cyber space
 is constructed.[^11_Dwivedi_22]
 
-## How Matrimonial Sites Work?
+## How Matrimonial Sites Work
 
 The online matrimonial sites generally work on the selective
 dissemination of the information (SDI). An individual becomes an
@@ -7806,17 +7805,17 @@ seven union territories in India. Pal provides the list of such
 twenty-two web sites and their global and Indian traffic ranks,
 sites-linking and when they were founded.[^11_Dwivedi_24] The popularity of the
 top-three matrimonial sites can be observed from the data on Alexa that
-Shaadi.com’s traffic rank is No. 52 and each user spends at least 4.5
+*Shaadi.com*’s traffic rank is No. 52 and each user spends at least 4.5
 minutes on this site. While the traffic rank of Jeevansathi.com is 3,552
 but each user spends more than 8 minutes per day. Table 1 indicates the
 popularity of matrimonial sites in India as a potential partner
 searcher.
 
-The Peoples Interactive (I) Private Limited Company pioneered Shaadi.com
+The Peoples Interactive (I) Private Limited Company pioneered *Shaadi.com*
 in 1996. This website develops its brand awareness by providing a
 YouTube link of Indian best- seller *Chetan Bhagat’s* Marriage Tips for
 Anupam Mittal, CEO of the company, and also trends videos showing a
-superior matchmaking experience on Shaadi.com. It has 1.4 million likes
+superior matchmaking experience on *Shaadi.com*. It has 1.4 million likes
 on Facebook and 42.2 thousand followers on Twitter in 2014/2013/1996? It
 caters the increasing demand for matches by introducing and
 supplementing Non-Residential Indians (NRI) matrimonial to the
@@ -8139,7 +8138,7 @@ experiences of the respondents who had got a partner offline.
 
 ## References
 
-Alexa.com. *Alexa.com.* 2014. [http://www.alexa.com](http://www.alexa.com).
+Alexa.com. [http://www.alexa.com](http://www.alexa.com).
 
 Becker, S. Gary. "A Theory of Marrage: Part I." *Journal of Political
 Economy 81*, 1973: 813-846.
@@ -8149,10 +8148,9 @@ Evidence from the Broadband Market." *Discussion Paper Series (IZA DP
 No. 7316).* Bonn: The Institute for the Study of Labor (IZA), March
 2013.
 
-Bharat Matrimony. *Bharat Matrimony.* 2014.
-[http://www.bharatmatrimony.com/](http://www.bharatmatrimony.com/).
+Bharat Matrimony. [http://www.bharatmatrimony.com/](http://www.bharatmatrimony.com/).
 
-Economic and Political Weekly. "Search." Accessed February 25, 2014.
+Economic and Political Weekly. 'Search'. Accessed February 25, 2014.
 [http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation](http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation).
 
 Fife, Wayne. *Doing Fieldwork: Ethnographic Methods forResearch in
@@ -8161,16 +8159,16 @@ Developing Countries and Beyond.* New York: Palgrave Macmillan , 2005.
 Fulk, J. " Social construction of communication technology ." *Academy
 of Management Journal*, 1993: 36(5): 921–950.
 
-Jeevansathi.com. 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
+Jeevansathi.com. [www.jeevansathi.com](http://www.jeevansathi.com).
 
-Magalhães, Rodrigo. *Organizational Knoledge and Technology: An
+Magalhães, Rodrigo. *Organizational Knowledge and Technology: An
 Action-Oriented Perspective on Organization and Information Systems.*
 Cheltenham: Edward Elgar Publishing Limited, 2004.
 
 McGee, Mary. "Samskåra." In *The Hindu World*, by Sushil Mittal and Gene
 Thursby, 332-356. New York: Routledge, 2005.
 
-Padfield, Rev. J. E. *The Hindu at Home.* delhi: B. R. Publishing
+Padfield, Rev. J. E. *The Hindu at Home*. Delhi: B. R. Publishing
 Company, ([1895] 2007).
 
 Pal, Jiban K. "Social networks enabling matrimonial information services
@@ -8185,12 +8183,12 @@ Science Reference, 2009.
 
 Rinehart, Robin. "Hearing and Remembering: Oral and Written Texts in
 Hinduism." In *Contemporary Hinduism: Ritual, Culture, and Practice*, by
-Robin Rinehart, 92. California: ABC-CLIO, Inc., 2004.
+Robin Rinehart, 92. California: ABC-CLIO Inc., 2004.
 
-Shaadi.com. 2014, [www.shaddi.com](http://www.shaddi.com).
+Shaadi.com. [www.shaddi.com](http://www.shaddi.com).
 
 Trust Advisory. 'All India Brand Trust Ranking. (Top 1200 Brands)'*,*
-2014, http://www.trustadvisory.info/allindia\_2014.html.
+2014, <http://www.trustadvisory.info/allindia_2014.html>.
 
 Wagner, Lyndsey. *Disharmony and Matchless:Interpersonal Deception
 Theory in Online Dating.* MA Thesis, Lynchburg: School of Communication
@@ -8200,11 +8198,11 @@ Whitty, Monica T. "Revealing the ‘Real’ Me, Searching for the ‘Actual’
 You: Presentations of Self on an Internet Dating Site", Computers in
 Human Behavior, 2007: 1-17.
 
-[^11_Dwivedi_1]: Shaadi.com, 2014, [www.shaddi.com](http://www.shaddi.com).
+[^11_Dwivedi_1]: Shaadi.com, [www.shaddi.com](http://www.shaddi.com).
 
-[^11_Dwivedi_2]: BharatMatrimony.com, 2014, [www.bharatmatrimony.com](http://www.bharatmatrimony.com).
+[^11_Dwivedi_2]: BharatMatrimony.com, [www.bharatmatrimony.com](http://www.bharatmatrimony.com).
 
-[^11_Dwivedi_3]: Jeevansathi.com, 2014, [www.jeevansathi.com](http://www.jeevansathi.com).
+[^11_Dwivedi_3]: Jeevansathi.com, [www.jeevansathi.com](http://www.jeevansathi.com).
 
 [^11_Dwivedi_4]: Mary McGee, ‘Samskåra’, in Sushil Mittal and Gene Thursby (eds)
     The Hindu World, New York: Routledge, 2005, pp. 332-356.
@@ -8221,8 +8219,8 @@ Human Behavior, 2007: 1-17.
     written by Sanskrit poet Kalidas.
 
 [^11_Dwivedi_8]: Robin Rinehart, ‘Hearing and Remembering: Oral and Written Texts
-    in Hinduism’, in Robin Rinehart (ed) Contemporary Hinduism: Ritual,
-    Culture, and Practice, Which city, California: ABC-CLIO, Inc., 2004,
+    in Hinduism’, in Robin Rinehart (ed) *Contemporary Hinduism: Ritual,
+    Culture, and Practice*. California: ABC-CLIO Inc., 2004,
     p. 92.
 
 [^11_Dwivedi_9]: Economic and Political Weekly, ‘Search’, 2014,[http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation](http://www.epw.in/search/apachesolr\_search/matchmakers%20and%20intermediation).
@@ -8248,7 +8246,7 @@ Human Behavior, 2007: 1-17.
     Series (IZA DP No. 7316)*, Bonn: The Institute for the Study of
     Labor (IZA), March 2013, pp. 1-6.
 
-[^11_Dwivedi_16]: S. Gary Becker, ‘A Theory of Marrage: Part I’, *Journal of
+[^11_Dwivedi_16]: S. Gary Becker, ‘A Theory of Marriage: Part I’, *Journal of
     Political Economy* 81 (1973): 813-846.
 
 [^11_Dwivedi_17]: Andriana Bellou, ‘The Impact of Internet Diffusion on Marriage
@@ -9057,10 +9055,10 @@ A stage in the process of getting to know one another | No clear stage system | 
 A component of the “hard work” of investigating about the potential partner | Anonymity, feelings | “Hard work” | Norms
 Everyday | Warm, accepting | Purposeful, blatant | Key and instrumentalities
 Home, picture album | The great good place "Orchard" | Workplace, Supermarket | Genre (Metaphors and metonyms)
+  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<br></br>
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|Dating Websites | Forum | Facebook
                                    Dating Websites                                                                 Forum                        Facebook
   -------------------------------- ------------------------------------------------------------------------------- ---------------------------- -----------------------------------------------------------------------------
   Place                            “America”                                                                       “Old Israel                  “I”
@@ -10858,7 +10856,7 @@ the 200 informants' response to this question was unknown.
   *shi ye nv*             a career-oriented woman                                           17       2.3
   *mei nv*                an attractive woman like a siren                                  12       1.6
   *ye man nv you*         a sassy girlfriend                                                3        0.4
-  *zi you zhi ye*[^14_Fu_101]         freelance girlfriend                                                1        0.1
+  *zi you zhi ye*[^14_Fu_101]         freelance                                                1        0.1
  
 Table 3 Self-tags Used by Jiayuan Users
 
@@ -13691,19 +13689,19 @@ culture, but further offering a fertile confrontation with it.
 
 ## References
 
-Bakhtin, Mikhail. Rabelais and His World, Bloomington, IN: Indiana
+Bakhtin, Mikhail. *Rabelais and His World*, Bloomington, IN: Indiana
 University Press, 1984.
 
-Deleuze, Gilles. Difference and Repetition, Columbia University Press,
+Deleuze, Gilles. *Difference and Repetition*, New York: Columbia University Press,
 1995.
 
-\_\_\_. Cinema 2: The Time-Image, University Of Minnesota Press, 1989.
+\_\_\_. *Cinema 2: The Time-Image*, Minneapolis: University Of Minnesota Press, 1989.
 
-Heidegger, Martin. Being and Time, trans. John Macquarrie and Edward
+Heidegger, Martin. *Being and Time*, trans. John Macquarrie and Edward
 Robinson, Harper and Row Publishers, 1962.
 
-Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male, 47
-Percent American, And 13 Percent Perverts". TechCrunch,
+Moore, Robert J. (2010-03-16). *"Chatroulette Is 89 Percent Male, 47
+Percent American, And 13 Percent Perverts"*. TechCrunch,
 [http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/](http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/)
 
 [^16_Ozgun-Talking_1]: RSS stands for 'Rich Site Summary', and refers to the automatic
@@ -13713,7 +13711,7 @@ Percent American, And 13 Percent Perverts". TechCrunch,
 [^16_Ozgun-Talking_2]: Martin Heidegger, Being and Time, trans. John Macquarrie and
     Edward Robinson, Harper and Row Publishers, 1962.
 
-[^16_Ozgun-Talking_3]: Robert J. Moore, (2010-03-16). "Chatroulette Is 89 Percent Male, 47 Percent American, And 13 Percent Perverts." TechCrunch. Retrieved <http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/>
+[^16_Ozgun-Talking_3]: Robert J. Moore, (2010-03-16). *"Chatroulette Is 89 Percent Male, 47 Percent American, And 13 Percent Perverts"*. TechCrunch. Retrieved <http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/>
     14-05-2010.
 
 [^16_Ozgun-Talking_4]: Robert J. Moore, (2010-03-16).
@@ -13733,8 +13731,8 @@ Percent American, And 13 Percent Perverts". TechCrunch,
 
 [^16_Ozgun-Talking_8]: See <http://chaturbate.com/vnmses/> (4.7.2012)
 
-[^16_Ozgun-Talking_9]: Gilles Deleuze, Difference and Repetition, Columbia University
-    Press, 1995. Gilles Deleuze, Cinema 2: The Time-Image, University Of Minnesota
+[^16_Ozgun-Talking_9]: Gilles Deleuze, *Difference and Repetition*, Columbia University
+    Press, 1995. Gilles Deleuze, *Cinema 2: The Time-Image*, University Of Minnesota
     Press, 1989.
 
 [^16_Ozgun-Talking_10]: Now, I will refer to this particular audience as the

@@ -756,10 +756,10 @@ A stage in the process of getting to know one another | No clear stage system | 
 A component of the “hard work” of investigating about the potential partner | Anonymity, feelings | “Hard work” | Norms
 Everyday | Warm, accepting | Purposeful, blatant | Key and instrumentalities
 Home, picture album | The great good place "Orchard" | Workplace, Supermarket | Genre (Metaphors and metonyms)
+  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<br></br>
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	|Dating Websites | Forum | Facebook
                                    Dating Websites                                                                 Forum                        Facebook
   -------------------------------- ------------------------------------------------------------------------------- ---------------------------- -----------------------------------------------------------------------------
   Place                            “America”                                                                       “Old Israel                  “I”

@@ -667,7 +667,7 @@ the age of hook-up culture I wonder if people don't see this endless
 pool of daters as a means of shuffling different partners in and out
 with efficiency. The second example I offer is a fabricated version of a
 very common text conversation I had with many daters.
-
+<blockquote>
 Suitor: "Hey, whats up?"
 
 Me: "Hi, not much, how are you? This is Mike, right?"
@@ -700,7 +700,7 @@ Me: "No, nothing personal."
 
 Suitor: "K. I'm not sure if I want to meet up then, unless you will send
 the picture."
-
+</blockquote>
 As previously discussed there is great emphasis on attractiveness. The
 more you are viewed, the better your chances, and the more gender
 conforming the profile, the more views you will attract.[^17_Lindsay_6] My private
@@ -730,7 +730,7 @@ into relationships. It is important to note, that in my experience men
 would often discuss quickly, even before actually meeting me, topics of
 sexuality and physical intimacy. Here is an example of a fabricated
 conversation with a man met online, but not in person.
-
+<blockquote>
 Suitor: "Hi there beautiful. How have you been?"
 
 Me: "Good, how are you doing?"
@@ -740,7 +740,7 @@ Suitor: "I'm great, just kinda lonely."
 Me: "Lol, oh yeah? You are lonely?"
 
 Suitor: "Ok, well I'm actually horny. Ha. Wanna hang out?"
-
+</blockquote>
 Research is still developing theories and hypotheses around intimacy the
 perceived meaning, influences, and changes brought on through new
 technologies.[^17_Lindsay_35] Walther believes that mediated spaces enhance the
@@ -784,7 +784,7 @@ effort to develop a personal relationship with a potential partner, and
 dating sites can only provide a forum; the real work is still up to the
 individual.
 
-Acknowledgments
+## Acknowledgments
 
 I would like to thank people who have spent time discussing, reading,
 and fleshing out major themes and ideas included in this paper: Charles
@@ -793,93 +793,92 @@ Judy Krysik.
 
 ## References
 
-Boellstorff, Tom, (ed.) Ethnography and Virtual worlds: A Handbook of
-Method, Princeton: Princeton University Press, 2012.
+Boellstorff, Tom, (ed.) *Ethnography and Virtual worlds: A Handbook of
+Method*, Princeton: Princeton University Press, 2012.
 
-Bordo, Susan. Unbearable Weight: Feminism, Western culture, and the
-Body, Berkley: University of California Press, 1993.
+Bordo, Susan. *Unbearable Weight: Feminism, Western culture, and the
+Body*, Berkley: University of California Press, 1993.
 
 Butler, Judith. 'Performative Acts and Gender Constitution: An Essay in
-Phenomenology and Feminist Theory', Theatre Journal, Washington, D.C.,
+Phenomenology and Feminist Theory', *Theatre Journal*, Washington, D.C.,
 40, (1988): 519-531.
 
-\_\_\_\_\_\_. Giving an Account of Oneself, Fordham University Press,
+\_\_\_\_\_\_. *Giving an Account of Oneself*, Fordham University Press,
 2005.
 
 Ellison, Nicole B., Jeffrey T. Hancock, and Catalina L. Toma. 'Profile
 as Promise: A Framework for Conceptualizing Veracity in Online Dating
-Self-Presentations', New Media & Society 14 (2012): 45-62.
+Self-Presentations', *New Media & Society* 14 (2012): 45-62.
 
 Ellison, Nicole, Rebecca Heino, and Jennifer Gibbs. 'Managing
 Impressions Online: Self- Presentation Processes in the Online Dating
-Environment', Journal of Computer Mediated Communication, 11 (2006):
+Environment', *Journal of Computer Mediated Communication* 11 (2006):
 415-441.
 
 Frohlick, Susan, and Paula Migliardi. 'Heterosexual Profiling: Online
 Dating and 'Becoming' Heterosexualities for Women Aged 30 and Older in
-the Digital Era', Australian Feminist Studies 26.67 (2010): 73-88.
+the Digital Era', *Australian Feminist Studies* 26.67 (2010): 73-88.
 
 Fuchs, Christian. 'The Internet as Self-organizing Socio-technological
-Systems', Cybernetics and Human Knowing 3 (2004): 57-88.
+Systems', *Cybernetics and Human Knowing* 3 (2004): 57-88.
 
 Fullick, Melonie. ' "Gendering" the Self in Online Dating Discourse',
-Canadian Journal of Communication 38.4 (2013): 545-562.
+*Canadian Journal of Communication* 38.4 (2013): 545-562.
 
-Hardey, Michael. 'Mediated Relationships', Information, Communication &
-Society, 7 (2004): 207-222.
+Hardey, Michael. 'Mediated Relationships', *Information, Communication &
+Society* 7 (2004): 207-222.
 
 Happen Magazine, <http://www.match.com/magazine/>.
 
 Hill, Sarah E., and Kristina M. Durante. 'Courtship, Competition, and
 the Pursuit of Attractiveness: Mating Goals Facilitate Health-related
-Risk Taking and Strategic Risk Suppression in Women', Personality and
-Social Psychology Bulletin 37.3 (2011): 383-394.
+Risk Taking and Strategic Risk Suppression in Women', *Personality and
+Social Psychology Bulletin* 37.3 (2011): 383-394.
 
 Jagger, Elizabeth. 'Marketing the Self, Buying an Other: Dating in a
-Post Modern, Consumer Society', Sociology 32.4 (1998): 795-814.
+Post Modern, Consumer Society', *Sociology* 32.4 (1998): 795-814.
 
 Kaplan, Chelsea.
 <http://www.match.com/magazine/article/13157/Womens-5-Biggest-Dating-Lies/>.
 
-Lanier, Jaron. You are not a Gadget: A Manifesto, Vintage Press, New
-York: 2010.
+Lanier, Jaron. *You are not a Gadget: A Manifesto*, New York: Vintage Press, 2010.
 
 Mahalik, James R., Elisabeth B. Morray, Aimée Coonerty-Femiano, Larry H.
 Ludlow, Suzanne M. Slattery, and Andrew Smiler. 'Development of the
-conformity to feminine norms inventory', Sex Roles 52 (2005): 417-435.
+conformity to feminine norms inventory', *Sex Roles* 52 (2005): 417-435.
 
 Manning, Wendy. D., Longmore, M. A., and Giordano, P. C. 'The Changing
 Institution of Marriage: Adolescents' Expectations to Cohabit and to
-Marry', Journal of Marriage and Family 69.3 (2007): 559-575.
+Marry', *Journal of Marriage and Family* 69.3 (2007): 559-575.
 
 Mario Tronti, ʻThe Strategy of Refusalʼ, trans. Red Notes, in Sylvère
-Lotringer and Christian Marazzi (eds) Italy: Autonomia, Post­Political
-Politics, New York: Semiotext(e), 1980, pp. 28­35.
+Lotringer and Christian Marazzi (eds) *Italy: Autonomia, Post­Political
+Politics*, New York: Semiotext(e), 1980, pp. 28­35.
 
 Markham, Annette. 'Ethic as Method, Method as Ethic: A Case for
-Reflexivity in Qualitative ICT Research', Journal of Information Ethics
+Reflexivity in Qualitative ICT Research', *Journal of Information Ethics*
 15 (2006): 37-54.
 
-\_\_\_\_\_\_. 'Fabrication as Ethical Practice', Information,
-Communication & Society 15 (2012): 334-353.
+\_\_\_\_\_\_. 'Fabrication as Ethical Practice', *Information,
+Communication & Society* 15 (2012): 334-353.
 
-McRobbie, Angela. 'Post-feminism and Popular Culture', Feminist Media
-Studies 4 (2004): 255-264.
+McRobbie, Angela. 'Post-feminism and Popular Culture', *Feminist Media
+Studies* 4 (2004): 255-264.
 
-Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet,
+Nakamura, Lisa. *Digitizing Race: Visual Cultures of the Internet*,
 Minneapolis: University of Minnesota Press, 2008.
 
 Okcupid,
 <http://blog.okcupid.com/index.php/your-looks-and-online-dating/>.
 
-Okcupid trends: <http://blog.okcupid.com/>.
+Okcupid trends, <http://blog.okcupid.com/>.
 
 Oktrends,
 <http://blog.okcupid.com/index.php/your-race-affects-whether-people-write-you-back/>.
 
 Pillow, Wanda. 'Confession, Catharsis, or Cure? Rethinking the Uses of
 Reflexivity as Methodological Power in Qualitative Research',
-International Journal of Qualitative Studies in Education 16.2 (2003):
+*International Journal of Qualitative Studies in Education* 16.2 (2003):
 175-196.
 
 Roper, Caitlin.
@@ -889,50 +888,49 @@ Roscoe, Philip, and Shiona Chillas. 'The State of Affairs: Critical
 Performativity and the Online Dating Industry,' Organization (2013):
 1-24. <http://org.sagepub.com/content/early/2013/05/01/1350508413485497>.
 
-Rose, Gillian. Visual Methodologies: An Introduction to Researching with
-Visual Materials, Sage Publications Limited, 2011.
+Rose, Gillian. *Visual Methodologies: An Introduction to Researching with
+Visual Materials*, California: Sage Publications Limited, 2011.
 
-Smith, Aaron, and Maeve Duggan. Online Dating & Relationships. Pew
-Internet & American Life Project. 21 October 2013,
+Smith, Aaron, and Maeve Duggan. Online Dating & Relationships. *Pew
+Internet & American Life Project*. 21 October 2013,
 <http://www.pewinternet.org/Reports/2013/Online-Dating.aspx>.
 
-Turkle, Sherry. Alone Together: Why We Expect More from Technology and
-Less from Each Other, Yew York: Basic Books, 2011.
+Turkle, Sherry. *Alone Together: Why We Expect More from Technology and
+Less from Each Other*, Yew York: Basic Books, 2011.
 
 Walther, Joseph. B. 'Computer-mediated Communication Impersonal,
-Interpersonal, and Hyperpersonal Interaction', Communication Research
+Interpersonal, and Hyperpersonal Interaction', *Communication Research*
 23.1 (1996): 3-43.
 
 Yang, Mu-Li, and Wen-Bin Chiou. 'Looking Online for the Best Romantic
 Partner Reduces Decision Quality: The Moderating Role of Choice-making
-Strategies', Cyberpsychology, Behavior, and Social Networking 3.2
+Strategies', *Cyberpsychology, Behavior, and Social Networking* 3.2
 (2010): 207-210.
 
-[^17_Lindsay_1]: Smith, Aaron, and Maeve Duggan.Online Dating & Relationships. Pew
-    Internet & American Life Project. 21 October 2013,
+[^17_Lindsay_1]: Smith, Aaron, and Maeve Duggan. Online Dating & Relationships. *Pew Internet & American Life Project*. 21 October 2013,
     <http://www.pewinternet.org/Reports/2013/Online-Dating.aspx>.
 
-[^17_Lindsay_2]: Michael Hardey, 'Mediated relationships', Information,
-    Communication & Society, 11, 2004.
+[^17_Lindsay_2]: Michael Hardey, 'Mediated relationships', *Information,
+    Communication & Society* 11, 2004.
 
 [^17_Lindsay_3]: Nicole B Ellison et al. 'Profile as Promise: A Framework for
-    Conceptualizing Veracity in Online Dating Self Presentations', New
-    Media & Society. 2012.
+    Conceptualizing Veracity in Online Dating Self Presentations', *New
+    Media & Society* 14 (2012): 45-62.
 
 [^17_Lindsay_4]: Nicole B Ellison et al. 'Managing impressions online:
     Self-presentation processes in the online dating environment',
-    Journal of Computer Mediated Communication, 2006.
+    *Journal of Computer Mediated Communication* 3 (2006).
 
-[^17_Lindsay_5]: Angela McRobbie 'Post‐feminism and popular culture.' Feminist
-    Media Studies, 2004.
+[^17_Lindsay_5]: Angela McRobbie 'Post‐feminism and popular culture.' *Feminist
+    Media Studies*, 2004.
 
 [^17_Lindsay_6]: Judith Butler, 'Performative Acts and Gender Constitution: An
-    Essay in Phenomenology and Feminist Theory', Theatre Journal (1988):
+    Essay in Phenomenology and Feminist Theory', *Theatre Journal* (1988):
     519-531.
 
 [^17_Lindsay_7]: Annette Markham, 'Ethic as Method, Method as Ethic: A Case for
-    Reflexivity in Qualitative ICT Research', Journal of
-    Information Ethics. 2006.
+    Reflexivity in Qualitative ICT Research', *Journal of
+    Information Ethics*. 2006.
 
 [^17_Lindsay_8]: Annette Markham. "Fabrication as ethical practice: Qualitative
     inquiry in ambiguous Internet contexts." *Information, Communication
@@ -943,15 +941,15 @@ Strategies', Cyberpsychology, Behavior, and Social Networking 3.2
     Princeton University Press.
 
 [^17_Lindsay_10]: Melonie Fullick, ''Gendering' the Self in Online Dating
-    Discourse,' Canadian Journal of Communication, 2013.
+    Discourse,' *Canadian Journal of Communication*, 2013.
 
 [^17_Lindsay_11]: Susan Frohlick, and Paula Migliardi 'Heterosexual Profiling:
     Online Dating and 'Becoming' Heterosexualities for Women Aged 30 and
-    Older in the Digital Era' Australian Feminist Studies, 2010.
+    Older in the Digital Era' *Australian Feminist Studies*, 2010.
 
 [^17_Lindsay_12]: Wendy Manning et al., 'The Changing Institution of Marriage:
-    Adolescents' Expectations to Cohabit and to Marry', Journal of
-    Marriage and Family, 2007.
+    Adolescents' Expectations to Cohabit and to Marry', *Journal of
+    Marriage and Family*, 2007.
 
 [^17_Lindsay_13]: Phillip Roscoe and Shiona Chillas, 'The State of Affairs:
     Critical Performativity and the Online Dating Industry',
@@ -959,39 +957,39 @@ Strategies', Cyberpsychology, Behavior, and Social Networking 3.2
     <http://org.sagepub.com/content/early/2013/05/01/1350508413485497>.
 
 [^17_Lindsay_14]: Elizabeth Jagger, 'Marketing the Self, Buying an Other: Dating in
-    a Post Modern, Consumer Society', Sociology, 1998.
+    a Post Modern, Consumer Society', *Sociology*, 1998.
 
 [^17_Lindsay_15]: Mu-Li Yang and When-Bin Chiou, 'Looking Online for the Best
     Romantic Partner Reduces Decision Quality: The Moderating Role of
-    Choice-making Strategies', Cyberpsychology, Behavior, and Social
-    Networking, 2010.
+    Choice-making Strategies', *Cyberpsychology, Behavior, and Social
+    Networking*, 2010.
 
-[^17_Lindsay_16]: For more on this theory, see Gillian Rose, Visual Methodologies:
-    An Introduction to Researching with Visual Materials, Sage
+[^17_Lindsay_16]: For more on this theory, see Gillian Rose, *Visual Methodologies:
+    An Introduction to Researching with Visual Materials*, Sage
     Publications Limited, 2011.
 
 [^17_Lindsay_17]: Scott Yates and David Hiles, 'Towards a "Critical Ontology of
     Ourselves"? Foucault, Subjectivity and Discourse Analysis', *Theory &
     Psychology*, 2010.
 
-[^17_Lindsay_18]: Lisa Nakumara, Digitizing Race: Visual Cultures of the Internet,
+[^17_Lindsay_18]: Lisa Nakumara, *Digitizing Race: Visual Cultures of the Internet*,
     Minneapolis: University of Minnesota Press, 2008.
 
 [^17_Lindsay_19]: Christian Fuchs, 'The Internet as Self-organizing
-    Aocio-technological Systems', Cybernetics and Human Knowing, 2004.
+    Aocio-technological Systems', *Cybernetics and Human Knowing*, 2004.
 
 [^17_Lindsay_20]: Wanada Pillow, 'Confession, Catharsis, or Cure? Rethinking the
     Uses of Reflexivity as Methodological Power in Qualitative
-    Research', International Journal of Qualitative Studies in
-    Education, 2003.
+    Research', *International Journal of Qualitative Studies in
+    Education*, 2003.
 
-[^17_Lindsay_21]: Judith Butler, Giving an Account of Oneself, Fordham University
+[^17_Lindsay_21]: Judith Butler, *Giving an Account of Oneself*, Fordham University
     Press, 2005. p. 22.
 
 [^17_Lindsay_22]: Okcupid, <http://blog.okcupid.com/index.php/your-looks-and-online-dating/>.
 
 [^17_Lindsay_23]: James Mahalik, et al. 'Development of the Conformity to Feminine
-    Norms Inventory', Sex Roles, 2005.
+    Norms Inventory', *Sex Roles*, 2005.
 
 [^17_Lindsay_24]: Happen Magazine,
     <http://www.match.com/magazine/>.
@@ -1001,12 +999,11 @@ Strategies', Cyberpsychology, Behavior, and Social Networking 3.2
 
 [^17_Lindsay_26]: Okcupid trends: <http://blog.okcupid.com/>.
 
-[^17_Lindsay_27]: Noretta Koertge, Critical Perspectives on Feminist Epistemology.
-    Handbook of Feminist Research: Theory and Practice, Thousand Oaks,
+[^17_Lindsay_27]: Noretta Koertge, *Critical Perspectives on Feminist Epistemology. Handbook of Feminist Research: Theory and Practice*, Thousand Oaks,
     CA. Sage Publications, 2006.
 
-[^17_Lindsay_28]: Susan Bordo, Unbearable Weight: Feminism, Western Culture, and
-    the Body, Berkley: University of California Press, 1993.
+[^17_Lindsay_28]: Susan Bordo, *Unbearable Weight: Feminism, Western Culture, and
+    the Body*, Berkley: University of California Press, 1993.
 
 [^17_Lindsay_29]: Caitlin Roper,
     <http://www.wired.com/design/2014/02/how-to-create-good-online-dating-profile/>.
@@ -1026,8 +1023,8 @@ Strategies', Cyberpsychology, Behavior, and Social Networking 3.2
     Vintage Press, New York: 2010.
 
 [^17_Lindsay_34]: Joseph Walther, 'Computer-mediated Communication Impersonal,
-    Interpersonal, and Hyperpersonal Interaction', Communication
-    Research 23.1 (1996): 3-43.
+    Interpersonal, and Hyperpersonal Interaction', *Communication
+    Research* 23.1 (1996): 3-43.
 
-[^17_Lindsay_35]: Sherry Turkle, Alone Together: Why We Expect More from Technology
-    and Less from Each Other, Yew York: Basic Books, 2011.
+[^17_Lindsay_35]: Sherry Turkle, *Alone Together: Why We Expect More from Technology
+    and Less from Each Other*, Yew York: Basic Books, 2011.

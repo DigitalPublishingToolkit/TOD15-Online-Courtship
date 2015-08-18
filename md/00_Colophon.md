@@ -69,10 +69,9 @@ Phone: +3120 5951865<br/>
 Email: info@networkcultures.org<br/>
 Web: <http://www.networkcultures.org><br/>
 
-This publication is available through various print on demand services.</br> 
-For more information, and a freely downloadable PDF:<br/> 
-<http://networkcultures.org/publications>
-
+This publication is available through various print on demand services.
+For more information, and a freely downloadable PDF:<br>
+<http://networkcultures.org/publications><br/>
 This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0).<br><br/>
 ![](imgs/INC-logo.png)
 

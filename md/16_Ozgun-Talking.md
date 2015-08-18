@@ -700,19 +700,19 @@ culture, but further offering a fertile confrontation with it.
 
 ## References
 
-Bakhtin, Mikhail. Rabelais and His World, Bloomington, IN: Indiana
+Bakhtin, Mikhail. *Rabelais and His World*, Bloomington, IN: Indiana
 University Press, 1984.
 
-Deleuze, Gilles. Difference and Repetition, Columbia University Press,
+Deleuze, Gilles. *Difference and Repetition*, New York: Columbia University Press,
 1995.
 
-\_\_\_. Cinema 2: The Time-Image, University Of Minnesota Press, 1989.
+\_\_\_. *Cinema 2: The Time-Image*, Minneapolis: University Of Minnesota Press, 1989.
 
-Heidegger, Martin. Being and Time, trans. John Macquarrie and Edward
+Heidegger, Martin. *Being and Time*, trans. John Macquarrie and Edward
 Robinson, Harper and Row Publishers, 1962.
 
-Moore, Robert J. (2010-03-16). "Chatroulette Is 89 Percent Male, 47
-Percent American, And 13 Percent Perverts". TechCrunch,
+Moore, Robert J. (2010-03-16). *"Chatroulette Is 89 Percent Male, 47
+Percent American, And 13 Percent Perverts"*. TechCrunch,
 [http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/](http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/)
 
 [^16_Ozgun-Talking_1]: RSS stands for 'Rich Site Summary', and refers to the automatic
@@ -722,7 +722,7 @@ Percent American, And 13 Percent Perverts". TechCrunch,
 [^16_Ozgun-Talking_2]: Martin Heidegger, Being and Time, trans. John Macquarrie and
     Edward Robinson, Harper and Row Publishers, 1962.
 
-[^16_Ozgun-Talking_3]: Robert J. Moore, (2010-03-16). "Chatroulette Is 89 Percent Male, 47 Percent American, And 13 Percent Perverts." TechCrunch. Retrieved <http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/>
+[^16_Ozgun-Talking_3]: Robert J. Moore, (2010-03-16). *"Chatroulette Is 89 Percent Male, 47 Percent American, And 13 Percent Perverts"*. TechCrunch. Retrieved <http://techcrunch.com/2010/03/16/chatroulette-stats-male-perverts/>
     14-05-2010.
 
 [^16_Ozgun-Talking_4]: Robert J. Moore, (2010-03-16).
@@ -742,8 +742,8 @@ Percent American, And 13 Percent Perverts". TechCrunch,
 
 [^16_Ozgun-Talking_8]: See <http://chaturbate.com/vnmses/> (4.7.2012)
 
-[^16_Ozgun-Talking_9]: Gilles Deleuze, Difference and Repetition, Columbia University
-    Press, 1995. Gilles Deleuze, Cinema 2: The Time-Image, University Of Minnesota
+[^16_Ozgun-Talking_9]: Gilles Deleuze, *Difference and Repetition*, Columbia University
+    Press, 1995. Gilles Deleuze, *Cinema 2: The Time-Image*, University Of Minnesota
     Press, 1989.
 
 [^16_Ozgun-Talking_10]: Now, I will refer to this particular audience as the

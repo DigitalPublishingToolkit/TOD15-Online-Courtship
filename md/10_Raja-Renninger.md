@@ -737,16 +737,16 @@ coexisting and varied models for these modes of relating.
 
 ## Appendix
 
-Participant 1: Male/34/U.S.-born/Raised Hindu
-Participant 2: Male/35/Indian-born
-Participant 3: Female/35/Indian-born/Raised Hindu
-Participant 4: Female/29/U.S.-born/Raised Hindu
-Participant 5: Female/33/U.S.-born/Raised Buddhist
-Participant 6: Female/26/Indian-born
-Participant 7: Female/30/U.S.-born/Raised Hindu
-Participant 8: Female/32/U.S.-born/Raised Hindu
-Participant 9: Female/29/U.S.-born/Raised Jain
-Participant 10: Male/33/U.S.-born/Raised Hindu
+Participant 1: Male/34/U.S.-born/Raised Hindu<br>
+Participant 2: Male/35/Indian-born<br>
+Participant 3: Female/35/Indian-born/Raised Hindu<br>
+Participant 4: Female/29/U.S.-born/Raised Hindu<br>
+Participant 5: Female/33/U.S.-born/Raised Buddhist<br>
+Participant 6: Female/26/Indian-born<br>
+Participant 7: Female/30/U.S.-born/Raised Hindu<br>
+Participant 8: Female/32/U.S.-born/Raised Hindu<br>
+Participant 9: Female/29/U.S.-born/Raised Jain<br>
+Participant 10: Male/33/U.S.-born/Raised Hindu<br>
 
 ## References
 

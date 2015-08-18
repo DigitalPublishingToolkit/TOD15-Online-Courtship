@@ -512,35 +512,35 @@ cycle.
 ## References
 
 Chen, Xiaobo. ‘The Micro Film: A Visual Culture Transmutation of Concept
-First’, Contemporary Cinema, 10(2013): p.199.
+First’, *Contemporary Cinema*, 10(2013): p.199.
 
-Donews. ‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage
-in Love and Marriage’, 24 October 2012,
+Donews. *‘Baihe’s Micro Film: IT Male Need the Counteroffensive Courage
+in Love and Marriage’*, 24 October 2012,
 <http://www.donews.com/net/201210/1683363.shtm>
 
-Golden Mouse. ‘Jiayuan.com Implanted “Romance in Car”’, 9 April 2013,
+Golden Mouse. *Jiayuan.com Implanted 'Romance in Car'*, 9 April 2013,
 <http://huaban.com/pins/57147465/\#zoom/?&\_suid=14099977042960615623123715092>
 
 Hudson, Valerie M. and Boer, Andrea M. Den. ‘“Bare Branches” and Danger
-in Asia’, 4 July 4 2004,
+in Asia’, *The Washington Post*, 4 July 4 2004,
 <http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html>
 
-iResearch. ‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’, 28
+iResearch. *‘Jiayuan.com: “Bare Branch Revolution” Viral Marketing’*, 28
 February 2012,
 <http://www.cnadtop.com/brand/superBrands/2012/2/28/ab6afb02-ef91-4c34-a17d-8bae677182c6.htm>
 
 Li, Fengtao and Wang, Xujie. ‘The Traditional Mode Met Bottleneck, Three
-Dating Site Run into the Deep Era’, Chinese Economic Weekly Z1 (2013):
+Dating Site Run into the Deep Era’, *Chinese Economic Weekly* Z1 (2013):
 p. 76.
 
-Li, Lei. ‘Dating Sites Started the New User Battle’, China Business
-Journal, 12 March 2012: E02.
+Li, Lei. ‘Dating Sites Started the New User Battle’, *China Business
+Journal*, 12 March 2012: E02.
 
-Lin, Ruoxi. ‘The Dating Sites, Confused of the Fiancee’, China Internet
-Weekly, 5 April 2012.
+Lin, Ruoxi. ‘The Dating Sites, Confused of the Fiancee’, *China Internet
+Weekly*, 5 April 2012.
 
 Ma, Zexin. ‘Personal Image Construction and Communication Effect in
-Dating Sites’, News World, 9 (2012): p.124.
+Dating Sites’, *News World* 9 (2012): p.124.
 
 Mu, Yifan. ‘The Jiayuan Went to IPO Profit Model Was into a Bottleneck’,
 China Business News, 25 April 2011: B03.
@@ -550,21 +550,21 @@ Population Development Characteristics and Future Prospects in the 10th
 Five-Year Plan’, 24 May 2006,
 <http://www.stats.gov.cn/ztjc/ztfx/dfxx/200605/t20060522_32504.html>
 
-Rofel, Lisa. Desiring China: Experiments in Neoliberalism, Sexuality,
-and Public Culture. <https://www.dukeupress.edu/Desiring-China>
+Rofel, Lisa. *Desiring China: Experiments in Neoliberalism, Sexuality,
+and Public Culture*. <https://www.dukeupress.edu/Desiring-China>
 
 Wu, Xiaoying. ‘The Dating Sites: "Sweet" Industrial Predicament and
-Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
+Outlet’, *Sichuan Provincial Academy of Social Sciences*, 2009: p. 38.
 
-<http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate######>
 
-<http://fanyi.baidu.com/translate######><http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate######>
 
 [^9_Wen-Final_1]: As cited in Zexin Ma. ‘Personal Image Construction and
-    Communication Effect in Dating Sites’, News World, 9 (2012): 124.
+    Communication Effect in Dating Sites’, *News World* 9 (2012): 124.
 
 [^9_Wen-Final_2]: As cited in Yifan Mu. ‘The Jiayuan Went to IPO Profit Model Was
-    into a Bottleneck’, China Business News, 25 April 2011: B03.
+    into a Bottleneck’, *China Business News*, 25 April 2011: B03.
 
 [^9_Wen-Final_3]: Sino Tech, ‘*Shiji Jiayuan Xuanbu Wangzhan Zhuce Yonghu Shuliang
     Chao 1 Yi* (Jiayuan.com Announces Registered User Accounts Surpass
@@ -572,13 +572,13 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
     http://tech.sina.com.cn/i/2014-01-14/19309096326.shtml
 
 [^9_Wen-Final_4]: Xiaoying Wu. ‘The Dating Sites: "Sweet" Industrial Predicament and
-    Outlet’, Sichuan Provincial Academy of Social Sciences, (2009) 38.
+    Outlet’, *Sichuan Provincial Academy of Social Sciences*, (2009) 38.
 
 [^9_Wen-Final_5]: The fee of 499 yuan is equivalent to the monthly food cost for one
     person living in a medium-sized city in China.
 
 [^9_Wen-Final_6]: Fengtao Li and Xujie Wang, ‘The Traditional Mode Met Bottleneck,
-    Three Dating Site Run into the Deep Era’, Chinese Economic Weekly Z1
+    Three Dating Site Run into the Deep Era’, *Chinese Economic Weekly* Z1
     (2013) 76.
 
 [^9_Wen-Final_7]: For example, the free dating platform of Renren, Sina Weibo and
@@ -590,8 +590,8 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
     Value of Sina Weibo’, 15 March 2014,
     <http://web2.iresearch.cn/weibo/20140315/228594.shtml>.
 
-[^9_Wen-Final_9]: Lei Li, ‘Dating Sites Started the New User Battle’, China Business
-    Journal, 12 March 2012: E02.
+[^9_Wen-Final_9]: Lei Li, ‘Dating Sites Started the New User Battle’, *China Business
+    Journal*, 12 March 2012: E02.
 
 [^9_Wen-Final_10]: Portal web refers to comprehensive Internet information resources
     and provides relevant information service of the application system.
@@ -606,7 +606,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 [^9_Wen-Final_13]: Lei Li, ‘Dating Sites Started the New User Battle’.
 
 [^9_Wen-Final_14]: Xiaobo Chen, ‘The Micro Film: A Visual Culture Transmutation of
-    Concept First’, Contemporary Cinema, 10(2013): 199.
+    Concept First’, *Contemporary Cinema*, 10(2013): 199.
 
 [^9_Wen-Final_15]: A line in the ad.
 
@@ -614,7 +614,7 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
     China.
 
 [^9_Wen-Final_17]: Valerie M. Hudson and Andrea M. Den Boer, ‘“Bare Branches” and
-    Danger in Asia’, The Washington Post, 4 July, 2004,
+    Danger in Asia’, *The Washington Post*, 4 July, 2004,
     <http://www.washingtonpost.com/wp-dyn/articles/A24761-2004Jul2.html>
 
 [^9_Wen-Final_18]: National Bureau of Statistics of the People’s Republic of China,
@@ -656,9 +656,9 @@ Outlet’, Sichuan Provincial Academy of Social Sciences, 2009: p. 38.
 
 [^9_Wen-Final_30]: These three ad names are translated by the author.
 
-[^9_Wen-Final_31]: Lisa Rofel, *Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture*, Duke Univeristy Press, 2007.
+[^9_Wen-Final_31]: Lisa Rofel, *Desiring China: Experiments in Neoliberalism, Sexuality, and Public Culture*, Durham: Duke Univeristy Press, 2007.
 
-[^9_Wen-Final_32]: Ruoxi Lin, ‘The Dating Sites, Confused of the Fiancee’, China
-    Internet Weekly, 5 April 2012, 30.
+[^9_Wen-Final_32]: Ruoxi Lin, ‘The Dating Sites, Confused of the Fiancee’, *China
+    Internet Weekly*, 5 April 2012, 30.
 
 [^9_Wen-Final_33]:  Lin, ‘The Dating Sites, Confused of the Fiancee’.

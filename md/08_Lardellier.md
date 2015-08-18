@@ -528,19 +528,19 @@ Kessous, Emmanuel. ‘L’amour en Projet. Internet et les Conventions de la
 Rencontre Amoureuse’, *Réseaux* 166. (2011) : 191-223.
 
 Lardellier, Pascal. ‘De la Consommation Sentimentale et Sexuelle de Masse
-à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), @mours
-virtuelles. Conjugalité et Internet, Louvain-la-Neuve,
+à l’ère d’Internet ‘, dans Marquet J., Janssen C (dir.), *@mours
+virtuelles; Conjugalité et Internet*, Louvain-la-Neuve:
 Academia-Bruylandt, (2009): 17-41.
 
-Lardellier, Pascal. Le coeur Net. Célibat et @mours sur le Web, Paris,
+Lardellier, Pascal. *Le coeur Net. Célibat et @mours sur le Web*, Paris:
 Belin, 2004.
 
-Lardellier, Pascal. Les Réseaux du Cœur. Sexe, Amour et Séduction sur
-Internet, Paris, François Bourin, 2012.
+Lardellier, Pascal. *Les Réseaux du Cœur. Sexe, Amour et Séduction sur
+Internet*, Paris: François Bourin, 2012.
 
 Luhmann, Niklas. *Love as Passion. The Codification of Intimacy*, Cambridge: Polity Press, 1986.
 
-Parmentier, Marc. ‘Philosophie des sites de rencontres’, Hermès.
+Parmentier, Marc. ‘Philosophie des sites de rencontres’, *Hermès*.
 59.(2011) : 173-178, 2011.
 
 King, Martin. *White, Dating, Mating, and Marriage*, New York: Aldine de Gruyter, 1990.
