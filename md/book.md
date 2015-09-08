@@ -6515,9 +6515,9 @@ and Public Culture*. <https://www.dukeupress.edu/Desiring-China>
 Wu, Xiaoying. ‘The Dating Sites: "Sweet" Industrial Predicament and
 Outlet’, *Sichuan Provincial Academy of Social Sciences*, 2009: p. 38.
 
-Fanyi. <http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate>
 
-Fanyi. <http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate>
 
 [^9_Wen-Final_1]: As cited in Zexin Ma. ‘Personal Image Construction and
     Communication Effect in Dating Sites’, *News World* 9 (2012): 124.
@@ -9775,7 +9775,7 @@ semiotic strategies, it is not surprising that, following Goffman's
 classic theatrical framework “facial expressions [...] are generally
 carefully monitored (and engineered) to preserve the desired mask”.[^13_deSeta_Zhang_46]
 
-![Figure 3](imgs/deseta-images/Figure-3.jpg)
+![Figure 3](imgs/deseta-images/Figure-3.png)
 
 Figure 3: Frowns, bare legs, branded drinks and fashion items linked to
 situated events. "Why it doesn't snow? Please snow... \*praying hands\*"
@@ -9824,7 +9824,7 @@ in this attention economy stimulates the users to exploit the very
 structure of the platform to prove their wit, creativity or familiarity
 with the app.
 
-![Figure 4](imgs/deseta-images/Figure-4.jpg)
+![Figure 4](imgs/deseta-images/Figure-4.png)
 
 Figure 4: Exploiting the platform. Mixed-media nicknames ('President Xi
 lead me' with Chinese flag and rocket), and multi-panel pictures split

@@ -556,9 +556,9 @@ and Public Culture*. <https://www.dukeupress.edu/Desiring-China>
 Wu, Xiaoying. ‘The Dating Sites: "Sweet" Industrial Predicament and
 Outlet’, *Sichuan Provincial Academy of Social Sciences*, 2009: p. 38.
 
-Fanyi. <http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate>
 
-Fanyi. <http://fanyi.baidu.com/translate######>
+Fanyi. <http://fanyi.baidu.com/translate>
 
 [^9_Wen-Final_1]: As cited in Zexin Ma. ‘Personal Image Construction and
     Communication Effect in Dating Sites’, *News World* 9 (2012): 124.
